@@ -1,4 +1,4 @@
- name: Weekly Patent Monitor                                                                                          
+name: Weekly Patent Monitor                                                                                          
                                                                                                                        
   on:                                                                                                                  
     schedule:                                                                                                          
@@ -21,7 +21,7 @@
       outputs:                                                                                                         
         count: ${{ steps.count.outputs.count }}                                                                        
                                                                                                                        
-      steps:
+      steps:                                                                                                           
         - name: Checkout
           uses: actions/checkout@v4
                                                                                                                        
@@ -30,33 +30,33 @@
           with:                                                                                                      
             python-version: '3.12'
             cache: pip
-
-        - name: Install dependencies                                                                                   
-          run: pip install -r requirements.txt
                                                                                                                        
-        - name: Fetch patents from all sources                                                                       
+        - name: Install dependencies
+          run: pip install -r requirements.txt                                                                         
+                                                                                                                     
+        - name: Fetch patents from all sources
           env:
             EPO_OPS_KEY:    ${{ secrets.EPO_OPS_KEY }}
-            EPO_OPS_SECRET: ${{ secrets.EPO_OPS_SECRET }}
+            EPO_OPS_SECRET: ${{ secrets.EPO_OPS_SECRET }}                                                              
           run: python scripts/fetch_patents.py                                                                         
-  
+                                                                                                                       
         - name: Count results                                                                                          
           id: count                                                                                                  
           run: |
-            echo "count=$(python -c "import json; d=json.load(open('patents.json')); print(len(d))")" \
+            echo "count=$(python -c "import json; d=json.load(open('patents.json')); print(len(d))")" \                
               >> "$GITHUB_OUTPUT"                                                                                      
-  
+                                                                                                                       
         - name: Commit updated data files                                                                              
           run: |                                                                                                     
-            git config user.name  "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"                                       
+            git config user.name  "github-actions[bot]"                                                                
+            git config user.email "github-actions[bot]@users.noreply.github.com"                                     
             git add patents.json patents.csv patents_readable.txt
             git diff --staged --quiet && echo "No changes." && exit 0                                                  
             git commit -m "chore: patents $(date -u +%Y-%m-%d) — ${{ steps.count.outputs.count }} patents"             
-            git pull --rebase origin main
+            git pull --rebase origin main                                                                              
             git push                                                                                                   
                                                                                                                        
-    newsletter:
+    newsletter:                                                                                                      
       name: Send newsletter                                                                                            
       needs: fetch                                                                                                   
       runs-on: ubuntu-latest
@@ -66,10 +66,10 @@
                                                                                                                        
       steps:
         - name: Checkout (with fresh patents.json)                                                                     
-          uses: actions/checkout@v4                                                                                  
+          uses: actions/checkout@v4                                                                                    
           with:
-            ref: main
-
+            ref: main                                                                                                  
+                                                                                                                     
         - name: Set up Python 3.12
           uses: actions/setup-python@v5
           with:                                                                                                        
@@ -84,5 +84,5 @@
             GMAIL_USER:         ${{ secrets.GMAIL_USER }}                                                              
             GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
             NEWSLETTER_TO:      ${{ secrets.NEWSLETTER_TO }}                                                           
-            PAGES_URL:          ${{ secrets.NETLIFY_URL }}                                                           
-          run: python scripts/send_newsletter.py                    
+            PAGES_URL:          ${{ secrets.NETLIFY_URL }}                                                             
+          run: python scripts/send_newsletter.py
