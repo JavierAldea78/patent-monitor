@@ -64,7 +64,7 @@ _epo_token_ts = 0.0
 
 
 def _refresh_epo_token() -> bool:
-    global _epo_token, _epo_token_ts
+    global _epo_token, _epo_token_ts, _epo_disabled
     try:
         r = requests.post(
             EPO_AUTH_URL,
@@ -73,7 +73,8 @@ def _refresh_epo_token() -> bool:
             timeout=20,
         )
         if r.status_code in (401, 403):
-            print("  [EPO] Invalid credentials — check EPO_OPS_KEY / EPO_OPS_SECRET")
+            print("  [EPO] Invalid credentials — disabling EPO for this run")
+            _epo_disabled = True
             return False
         r.raise_for_status()
         _epo_token    = r.json()["access_token"]
@@ -81,6 +82,7 @@ def _refresh_epo_token() -> bool:
         return True
     except Exception as e:
         print(f"  [EPO] Auth error: {e}")
+        _epo_disabled = True
         return False
 
 
@@ -117,7 +119,7 @@ def search_epo(query: str, days: int) -> list[dict]:
             EPO_SEARCH_URL, params={"q": cql},
             headers=_epo_headers(), timeout=30,
         )
-        if r.status_code == 401:
+        if r.status_code in (401, 403):
             if not _refresh_epo_token():
                 _epo_disabled = True
                 return []
@@ -598,6 +600,8 @@ def score_patent(patent: dict, n_tags: int) -> int:
 
 
 def normalize_scores(patents: list[dict]) -> None:
+    if not patents:
+        return
     raw     = [p.get("raw_score", 0) for p in patents]
     lo, hi  = min(raw), max(raw)
     span    = hi - lo
