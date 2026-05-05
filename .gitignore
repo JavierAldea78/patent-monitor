@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build/cache
+dist/
+build/
+coverage/
+.cache/
+.pytest_cache/
+
+# OS/editor
+.DS_Store
+.vscode/settings.json

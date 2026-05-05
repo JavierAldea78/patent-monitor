@@ -1,0 +1,44 @@
+name: Validate template
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate devcontainer JSON
+        run: python -m json.tool .devcontainer/devcontainer.json >/dev/null
+
+      - name: Validate post-create shell syntax
+        run: bash -n .devcontainer/post-create.sh
+
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f SECURITY.md
+          test -f .devcontainer/devcontainer.json
+          test -f .devcontainer/post-create.sh
+          test -f docs/devex-codespaces-claude.md
+          test -f docs/troubleshooting-claude-codespaces.md
+          test -f docs/creating-new-projects.md
+          test -f docs/prompts/new-project-with-claude.md
+          test -f hello.py
+
+      - name: Basic secret scan
+        run: |
+          if grep -rInE 'sk-ant-|sk-proj-|AKIA[0-9A-Z]{16}|ASIA[0-9A-Z]{16}|BEGIN .*PRIVATE KEY|ANTHROPIC_API_KEY=.*[A-Za-z0-9]|OPENAI_API_KEY=.*[A-Za-z0-9]' . \
+            --exclude-dir=.git \
+            --exclude-dir=.github \
+            --exclude='*.md'; then
+            echo "Possible secret detected"
+            exit 1
+          fi
