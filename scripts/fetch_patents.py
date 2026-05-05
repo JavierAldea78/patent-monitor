@@ -150,7 +150,15 @@ def search_epo(query: str, days: int) -> list[dict]:
             print(f"  [EPO] Server error {r.status_code}")
             return []
         r.raise_for_status()
-        return _parse_epo_json(r.json())
+        data = r.json()
+        results = _parse_epo_json(data)
+        if not results:
+            # Log raw response keys to help debug empty results
+            top_keys = list(data.keys()) if isinstance(data, dict) else type(data).__name__
+            total = data.get("ops:world-patent-data", {}).get("ops:biblio-search", {}).get("@total-result-count", "?")
+            if total != "0":
+                print(f"  [EPO] debug: total={total} keys={top_keys[:3]}")
+        return results
     except Exception as e:
         print(f"  [EPO] '{query}': {e}")
         return []
