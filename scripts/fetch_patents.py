@@ -31,7 +31,7 @@ EPO_OPS_KEY    = os.environ.get("EPO_OPS_KEY", "").strip()
 EPO_OPS_SECRET = os.environ.get("EPO_OPS_SECRET", "").strip()
 
 EPO_AUTH_URL   = "https://ops.epo.org/3.2/auth/accesstoken"
-EPO_SEARCH_URL = "https://ops.epo.org/3.2/rest-services/published-data/search/biblio"
+EPO_SEARCH_BASE = "https://ops.epo.org/3.2/rest-services/published-data/search"
 PATENTSVIEW    = "https://search.patentsview.org/api/v1/patent/"
 
 _GRANTED_RE = re.compile(r'^[BCEFGHIU]')   # kind codes for granted patents
@@ -93,7 +93,6 @@ def _epo_headers() -> dict:
     return {
         "Authorization": f"Bearer {_epo_token}",
         "Accept":        "application/json",
-        "Range":         "items=1-25",
     }
 
 
@@ -116,22 +115,24 @@ def search_epo(query: str, days: int) -> list[dict]:
         return []
     # EPO CQL: date ranges use "within" operator, not >= (which returns 400)
     cql = f'(ti any "{q_clean}" OR ab any "{q_clean}") AND pd within "{date_from},{date_to}"'
+    # Range goes in URL path — the Range header gives 400 on all EPO OPS endpoints
+    url = f"{EPO_SEARCH_BASE}/biblio/items=1-25"
     try:
         r = requests.get(
-            EPO_SEARCH_URL, params={"q": cql},
+            url, params={"q": cql},
             headers=_epo_headers(), timeout=30,
         )
         if r.status_code == 401:
             if not _refresh_epo_token():
                 _epo_disabled = True
                 return []
-            r = requests.get(EPO_SEARCH_URL, params={"q": cql},
+            r = requests.get(url, params={"q": cql},
                              headers=_epo_headers(), timeout=30)
         if r.status_code == 403:
             # EPO uses 403 for throttling (not 429); wait and retry once
             print("  [EPO] 403 throttle — waiting 60s")
             time.sleep(60)
-            r = requests.get(EPO_SEARCH_URL, params={"q": cql},
+            r = requests.get(url, params={"q": cql},
                              headers=_epo_headers(), timeout=30)
             if r.status_code == 403:
                 print("  [EPO] 403 persists — disabling EPO for this run")
@@ -145,21 +146,14 @@ def search_epo(query: str, days: int) -> list[dict]:
         if r.status_code == 429:
             print("  [EPO] 429 rate limited — waiting 30s")
             time.sleep(30)
-            r = requests.get(EPO_SEARCH_URL, params={"q": cql},
+            r = requests.get(url, params={"q": cql},
                              headers=_epo_headers(), timeout=30)
         if r.status_code in (500, 503):
             print(f"  [EPO] Server error {r.status_code}")
             return []
         r.raise_for_status()
         data = r.json()
-        results = _parse_epo_json(data)
-        if not results:
-            # Log raw response keys to help debug empty results
-            top_keys = list(data.keys()) if isinstance(data, dict) else type(data).__name__
-            total = data.get("ops:world-patent-data", {}).get("ops:biblio-search", {}).get("@total-result-count", "?")
-            if total != "0":
-                print(f"  [EPO] debug: total={total} keys={top_keys[:3]}")
-        return results
+        return _parse_epo_json(data)
     except Exception as e:
         print(f"  [EPO] '{query}': {e}")
         return []
