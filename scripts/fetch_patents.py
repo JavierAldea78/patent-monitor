@@ -25,7 +25,7 @@ OUTPUT_READABLE = REPO_ROOT / "patents_readable.txt"
 
 DAYS_BACK  = 730   # 2 years — patents publish slower than papers
 DELAY      = 0.5   # seconds between PatentsView calls
-DELAY_EPO  = 0.35  # ~3 req/sec — EPO OPS registered limit is 4/sec
+DELAY_EPO  = 1.5   # EPO OPS free tier: ~2500 req/hr = 1 per 1.44s; stay safe at 1.5s
 
 EPO_OPS_KEY    = os.environ.get("EPO_OPS_KEY", "").strip()
 EPO_OPS_SECRET = os.environ.get("EPO_OPS_SECRET", "").strip()
@@ -120,20 +120,30 @@ def search_epo(query: str, days: int) -> list[dict]:
             EPO_SEARCH_URL, params={"q": cql},
             headers=_epo_headers(), timeout=30,
         )
-        if r.status_code in (401, 403):
+        if r.status_code == 401:
             if not _refresh_epo_token():
                 _epo_disabled = True
                 return []
             r = requests.get(EPO_SEARCH_URL, params={"q": cql},
                              headers=_epo_headers(), timeout=30)
+        if r.status_code == 403:
+            # EPO uses 403 for throttling (not 429); wait and retry once
+            print("  [EPO] 403 throttle — waiting 60s")
+            time.sleep(60)
+            r = requests.get(EPO_SEARCH_URL, params={"q": cql},
+                             headers=_epo_headers(), timeout=30)
+            if r.status_code == 403:
+                print("  [EPO] 403 persists — disabling EPO for this run")
+                _epo_disabled = True
+                return []
         if r.status_code == 400:
             print(f"  [EPO] 400 Bad Request: {r.text[:300]}")
             return []
         if r.status_code == 404:
             return []  # no results
         if r.status_code == 429:
-            print("  [EPO] Rate limited — waiting 15s")
-            time.sleep(15)
+            print("  [EPO] 429 rate limited — waiting 30s")
+            time.sleep(30)
             r = requests.get(EPO_SEARCH_URL, params={"q": cql},
                              headers=_epo_headers(), timeout=30)
         if r.status_code in (500, 503):
