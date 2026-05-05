@@ -31,7 +31,7 @@ EPO_OPS_KEY    = os.environ.get("EPO_OPS_KEY", "").strip()
 EPO_OPS_SECRET = os.environ.get("EPO_OPS_SECRET", "").strip()
 
 EPO_AUTH_URL   = "https://ops.epo.org/3.2/auth/accesstoken"
-EPO_SEARCH_URL = "https://ops.epo.org/3.2/rest-services/published-data/search/biblio,abstract"
+EPO_SEARCH_URL = "https://ops.epo.org/3.2/rest-services/published-data/search/biblio"
 PATENTSVIEW    = "https://search.patentsview.org/api/v1/patent/"
 
 _GRANTED_RE = re.compile(r'^[BCEFGHIU]')   # kind codes for granted patents
