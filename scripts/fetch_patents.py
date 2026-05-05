@@ -93,6 +93,7 @@ def _epo_headers() -> dict:
     return {
         "Authorization": f"Bearer {_epo_token}",
         "Accept":        "application/json",
+        "Range":         "items=1-25",
     }
 
 
