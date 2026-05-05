@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Tech vigilance patent fetcher.
-Sources: EPO Open Patent Services (EP/WO/GB/FR/DE…), WIPO PATENTSCOPE (PCT/WO), USPTO PatentsView (US).
+Sources: EPO Open Patent Services (EP/WO/GB/FR/DE…), USPTO PatentsView (US).
 Reads watchtags.csv → writes patents.json + patents.csv + patents_readable.txt.
 """
 
@@ -24,7 +24,7 @@ OUTPUT_CSV      = REPO_ROOT / "patents.csv"
 OUTPUT_READABLE = REPO_ROOT / "patents_readable.txt"
 
 DAYS_BACK  = 730   # 2 years — patents publish slower than papers
-DELAY      = 0.5   # seconds between WIPO / PatentsView calls
+DELAY      = 0.5   # seconds between PatentsView calls
 DELAY_EPO  = 0.35  # ~3 req/sec — EPO OPS registered limit is 4/sec
 
 EPO_OPS_KEY    = os.environ.get("EPO_OPS_KEY", "").strip()
@@ -32,7 +32,6 @@ EPO_OPS_SECRET = os.environ.get("EPO_OPS_SECRET", "").strip()
 
 EPO_AUTH_URL   = "https://ops.epo.org/3.2/auth/accesstoken"
 EPO_SEARCH_URL = "https://ops.epo.org/3.2/rest-services/published-data/search/biblio,abstract"
-WIPO_RSS       = "https://patentscope.wipo.int/search/en/rss.jsf"
 PATENTSVIEW    = "https://search.patentsview.org/api/v1/patent/"
 
 _GRANTED_RE = re.compile(r'^[BCEFGHIU]')   # kind codes for granted patents
@@ -301,93 +300,6 @@ def _parse_epo_doc(doc: dict) -> dict | None:
         "source":        "EPO",
     }
 
-# ── WIPO PATENTSCOPE ───────────────────────────────────────────────────────────
-
-_wipo_disabled = False
-
-
-def search_wipo(query: str, days: int) -> list[dict]:
-    """Search WIPO PATENTSCOPE for PCT (WO) publications via RSS feed."""
-    global _wipo_disabled
-    if _wipo_disabled:
-        return []
-    date_from = (datetime.date.today() - datetime.timedelta(days=days)).strftime("%Y%m%d")
-    params = {
-        "query": f"EN_TITLEAB:({query}) AND PD:[{date_from} TO *]",
-        "office": "WO",
-        "rss":    "1",
-    }
-    try:
-        r = requests.get(
-            WIPO_RSS, params=params, timeout=20,
-            headers={"User-Agent": "patent-monitor/1.0 (non-commercial research)"},
-        )
-        if r.status_code in (403, 503):
-            print("[WIPO] endpoint unavailable — disabling WIPO for this run")
-            _wipo_disabled = True
-            return []
-        r.raise_for_status()
-        return _parse_wipo_rss(r.text)
-    except Exception as e:
-        print(f"  [WIPO] '{query}': {e}")
-        return []
-
-
-def _parse_wipo_rss(xml_text: str) -> list[dict]:
-    try:
-        root = ET.fromstring(xml_text)
-    except ET.ParseError:
-        return []
-
-    items = root.findall(".//item")
-    atom_ns = "{http://www.w3.org/2005/Atom}"
-    if not items:
-        items = root.findall(f".//{atom_ns}entry")
-
-    out = []
-    for item in items:
-        def _txt(tag: str, atom_tag: str = "") -> str:
-            el = item.find(tag) or (item.find(atom_tag) if atom_tag else None)
-            return (el.text or "").strip() if el is not None else ""
-
-        title  = _txt("title", f"{atom_ns}title")
-        link   = _txt("link", f"{atom_ns}id")
-        pubraw = _txt("pubDate", f"{atom_ns}published") or _txt("", f"{atom_ns}updated")
-        desc   = _txt("description", f"{atom_ns}summary")
-
-        if not title:
-            continue
-
-        pub_date = pubraw[:10] if pubraw and len(pubraw) >= 10 else ""
-        year     = pub_date[:4] if pub_date else ""
-
-        m = re.search(r'(WO\s*\d{4}[\s/]?\d+)', link + " " + title)
-        patent_number = re.sub(r'[\s/]', '', m.group(1)) if m else ""
-
-        abstract   = re.sub(r"<[^>]+>", "", desc).strip()
-        google_url = (f"https://patents.google.com/patent/{patent_number}/en"
-                      if patent_number else "")
-
-        out.append({
-            "patent_number": patent_number or f"WO-{title[:30]}",
-            "lens_id":       "",
-            "title":         title,
-            "abstract":      abstract,
-            "assignee":      "",
-            "inventors":     "",
-            "filing_date":   "",
-            "pub_date":      pub_date,
-            "year":          year,
-            "status":        "pending",
-            "jurisdiction":  "WO",
-            "ipc_codes":     [],
-            "patent_url":    link,
-            "google_url":    google_url,
-            "citations":     0,
-            "source":        "WIPO",
-        })
-    return out
-
 # ── USPTO PatentsView ──────────────────────────────────────────────────────────
 
 _pv_disabled = False
@@ -649,7 +561,7 @@ def write_readable_txt(patents: list[dict], path: Path) -> None:
 def main():
     today = datetime.date.today().isoformat()
     print(f"Patent fetcher — {today}  ({DAYS_BACK} days back)")
-    print(f"Sources: EPO OPS  |  WIPO PATENTSCOPE  |  USPTO PatentsView\n")
+    print(f"Sources: EPO OPS  |  USPTO PatentsView\n")
     if not (EPO_OPS_KEY and EPO_OPS_SECRET):
         print("[EPO] No EPO_OPS_KEY / EPO_OPS_SECRET set — EPO disabled.")
         print("      Register free at https://developers.epo.org\n")
@@ -680,16 +592,6 @@ def main():
                         seen_ids.add(nid)
                     batch.append(p)
             time.sleep(DELAY_EPO)
-
-            # WIPO PATENTSCOPE: PCT / WO publications (supplementary)
-            for p in search_wipo(query, DAYS_BACK):
-                nid = _norm_id(p.get("patent_number", ""))
-                synthetic = nid.startswith("WO-")
-                if synthetic or nid not in seen_ids:
-                    if nid and not synthetic:
-                        seen_ids.add(nid)
-                    batch.append(p)
-            time.sleep(DELAY)
 
             # USPTO PatentsView: US granted patents
             for p in search_patentsview(query, DAYS_BACK):
@@ -725,6 +627,15 @@ def main():
         print(f"   raw: {len(batch)}")
 
     print(f"\nTotal raw  : {len(all_raw)}")
+    if not all_raw:
+        existing_count = len(load_existing())
+        print(
+            f"[WARNING] All sources returned 0 patents.\n"
+            f"          Existing patents.json preserved ({existing_count} patents).\n"
+            f"          Check API credentials (EPO_OPS_KEY/EPO_OPS_SECRET) and source availability."
+        )
+        return
+
     merged = merge_patents(all_raw)
     print(f"After dedup: {len(merged)}")
     merged = [p for p in merged if (_patent_date(p) or datetime.date(2020, 1, 1)) >= CUTOFF_DATE]
