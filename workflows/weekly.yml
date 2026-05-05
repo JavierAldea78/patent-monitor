@@ -1,1 +1,92 @@
+name: Weekly Patent Monitor
 
+on:
+  schedule:
+    # 07:00 UTC = 08:00 CET / 09:00 CEST — Mondays
+    - cron: '0 7 * * 1'
+  workflow_dispatch:   # manual trigger from Actions tab
+
+permissions: {}
+
+concurrency:
+  group: patent-monitor-fetch
+  cancel-in-progress: false
+
+jobs:
+
+  # ───────────────────────────────────────────────────────────────────────────
+  fetch:
+    name: Fetch patents
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      count: ${{ steps.count.outputs.count }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch patents from all sources
+        env:
+          EPO_OPS_KEY:    ${{ secrets.EPO_OPS_KEY }}
+          EPO_OPS_SECRET: ${{ secrets.EPO_OPS_SECRET }}
+        run: python scripts/fetch_patents.py
+
+      - name: Count results
+        id: count
+        run: |
+          echo "count=$(python -c "import json; d=json.load(open('patents.json')); print(len(d))")" \
+            >> "$GITHUB_OUTPUT"
+
+      - name: Commit updated data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add patents.json patents.csv patents_readable.txt
+          git diff --staged --quiet && echo "No changes." && exit 0
+          git commit -m "chore: patents $(date -u +%Y-%m-%d) — ${{ steps.count.outputs.count }} patents"
+          git pull --rebase origin main
+          git push
+          # Netlify detects this push and auto-deploys the site
+
+  # ───────────────────────────────────────────────────────────────────────────
+  newsletter:
+    name: Send newsletter
+    needs: fetch
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    if: ${{ needs.fetch.outputs.count > 0 }}
+
+    steps:
+      - name: Checkout (with fresh patents.json)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send newsletter
+        env:
+          GMAIL_USER:         ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NEWSLETTER_TO:      ${{ secrets.NEWSLETTER_TO }}
+          PAGES_URL:          ${{ secrets.NETLIFY_URL }}
+        run: python scripts/send_newsletter.py
