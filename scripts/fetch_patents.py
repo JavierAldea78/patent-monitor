@@ -115,8 +115,7 @@ def search_epo(query: str, days: int) -> list[dict]:
         return []
     # EPO CQL: date ranges use "within" operator, not >= (which returns 400)
     cql = f'(ti any "{q_clean}" OR ab any "{q_clean}") AND pd within "{date_from},{date_to}"'
-    # Range goes in URL path — the Range header gives 400 on all EPO OPS endpoints
-    url = f"{EPO_SEARCH_BASE}/biblio/items=1-25"
+    url = f"{EPO_SEARCH_BASE}/biblio"
     try:
         r = requests.get(
             url, params={"q": cql},
@@ -153,7 +152,14 @@ def search_epo(query: str, days: int) -> list[dict]:
             return []
         r.raise_for_status()
         data = r.json()
-        return _parse_epo_json(data)
+        results = _parse_epo_json(data)
+        if not results:
+            biblio_search = data.get("ops:world-patent-data", {}).get("ops:biblio-search", {})
+            total = biblio_search.get("@total-result-count", "0")
+            if str(total) not in ("0", "?"):
+                sr = biblio_search.get("ops:search-result", {})
+                print(f"  [EPO] total={total} sr_keys={list(sr.keys()) if isinstance(sr, dict) else type(sr)} first500={str(data)[:500]}")
+        return results
     except Exception as e:
         print(f"  [EPO] '{query}': {e}")
         return []
