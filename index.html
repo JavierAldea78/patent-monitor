@@ -1,0 +1,1634 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Patent Monitor | Tech Vigilance</title>
+  <!-- Auth0 SPA SDK -->
+  <script src="https://cdn.auth0.com/js/auth0-spa-js/2.1/auth0-spa-js.production.js"></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+  <style>
+    /* ── Variables ─────────────────────────────────────────────────────────── */
+    :root {
+      --primary:       #4f46e5;
+      --primary-lt:    #818cf8;
+      --primary-dk:    #3730a3;
+      --primary-bg:    #eef2ff;
+
+      --granted:       #059669;
+      --granted-bg:    #d1fae5;
+      --pending:       #d97706;
+      --pending-bg:    #fef3c7;
+      --expired:       #64748b;
+      --expired-bg:    #f1f5f9;
+
+      --us:  #1d4ed8; --us-bg:  #dbeafe;
+      --ep:  #b45309; --ep-bg:  #fef3c7;
+      --wo:  #047857; --wo-bg:  #d1fae5;
+      --jp:  #b91c1c; --jp-bg:  #fee2e2;
+      --cn:  #c2410c; --cn-bg:  #ffedd5;
+      --kr:  #6d28d9; --kr-bg:  #ede9fe;
+      --other:#475569; --other-bg:#f1f5f9;
+
+      --bg:        #f8fafc;
+      --bg-card:   #ffffff;
+      --bg-input:  #f8fafc;
+      --bg-hover:  #f1f5f9;
+      --bg-table-head: #f8fafc;
+      --bg-row-alt:#f8fafc;
+
+      --text:      #1e293b;
+      --text-md:   #475569;
+      --text-sm:   #64748b;
+      --text-xs:   #94a3b8;
+
+      --border:    #e2e8f0;
+      --border-focus: #818cf8;
+
+      --shadow-xs: 0 1px 2px rgba(0,0,0,.06);
+      --shadow-sm: 0 1px 4px rgba(0,0,0,.08);
+      --shadow:    0 4px 16px rgba(0,0,0,.10);
+      --shadow-lg: 0 8px 32px rgba(0,0,0,.14);
+
+      --r:    10px;
+      --r-sm: 6px;
+      --r-lg: 16px;
+      --r-xl: 20px;
+
+      --hdr-h: 64px;
+      --nav-h: 52px;
+    }
+
+    [data-theme="dark"] {
+      --bg:        #0f172a;
+      --bg-card:   #1e293b;
+      --bg-input:  #0f172a;
+      --bg-hover:  #334155;
+      --bg-table-head: #1e293b;
+      --bg-row-alt:#1e293b;
+      --text:      #f1f5f9;
+      --text-md:   #cbd5e1;
+      --text-sm:   #94a3b8;
+      --text-xs:   #64748b;
+      --border:    #334155;
+      --primary-bg:#1e1b4b;
+    }
+
+    /* ── Reset & base ──────────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 14px; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.5;
+      transition: background .2s, color .2s;
+    }
+    a { color: var(--primary); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    button { cursor: pointer; border: none; background: none; font: inherit; }
+    input, select { font: inherit; }
+
+    /* ── Scrollbar ─────────────────────────────────────────────────────────── */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+
+    /* ── Layout ────────────────────────────────────────────────────────────── */
+    .app-header {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      height: var(--hdr-h);
+      background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4338ca 100%);
+      display: flex; align-items: center; padding: 0 20px; gap: 16px;
+      box-shadow: 0 2px 12px rgba(0,0,0,.25);
+    }
+    .hdr-logo {
+      display: flex; align-items: center; gap: 10px; text-decoration: none;
+    }
+    .hdr-icon {
+      width: 36px; height: 36px; background: rgba(255,255,255,.15);
+      border-radius: 9px; display: flex; align-items: center; justify-content: center;
+      font-size: 18px; flex-shrink: 0;
+    }
+    .hdr-title { color: #fff; font-size: 16px; font-weight: 700; letter-spacing: -.3px; }
+    .hdr-sub   { color: #a5b4fc; font-size: 11px; }
+    .hdr-spacer { flex: 1; }
+    .hdr-version { color: rgba(255,255,255,.4); font-size: 10px; font-family: monospace; }
+    .hdr-btn {
+      padding: 6px 14px; border-radius: var(--r-sm); font-size: 12px; font-weight: 600;
+      transition: all .15s;
+    }
+    .hdr-btn-login { background: rgba(255,255,255,.15); color: #fff; border: 1px solid rgba(255,255,255,.2); }
+    .hdr-btn-login:hover { background: rgba(255,255,255,.25); }
+    .hdr-btn-logout { background: rgba(255,255,255,.1); color: rgba(255,255,255,.7); font-size: 11px; }
+    .hdr-user { color: rgba(255,255,255,.7); font-size: 11px; }
+    .theme-btn {
+      width: 32px; height: 32px; border-radius: var(--r-sm);
+      background: rgba(255,255,255,.1); color: #fff; font-size: 15px;
+      display: flex; align-items: center; justify-content: center;
+      transition: background .15s;
+    }
+    .theme-btn:hover { background: rgba(255,255,255,.2); }
+
+    /* ── Navigation ────────────────────────────────────────────────────────── */
+    .app-nav {
+      position: fixed; top: var(--hdr-h); left: 0; right: 0; z-index: 90;
+      height: var(--nav-h);
+      background: var(--bg-card); border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; padding: 0 20px; gap: 4px;
+      box-shadow: var(--shadow-xs);
+    }
+    .nav-tab {
+      padding: 8px 16px; border-radius: var(--r-sm); font-size: 13px; font-weight: 500;
+      color: var(--text-sm); transition: all .15s;
+      display: flex; align-items: center; gap: 6px;
+    }
+    .nav-tab:hover { background: var(--bg-hover); color: var(--text); }
+    .nav-tab.active {
+      background: var(--primary-bg); color: var(--primary); font-weight: 600;
+    }
+    .nav-badge {
+      background: var(--primary); color: #fff;
+      font-size: 10px; padding: 1px 5px; border-radius: 99px; font-weight: 700;
+    }
+    .nav-spacer { flex: 1; }
+    .stat-chip {
+      padding: 4px 10px; border-radius: 99px; font-size: 11px; font-weight: 600;
+      border: 1px solid var(--border); color: var(--text-sm);
+      display: flex; align-items: center; gap: 4px;
+    }
+    .stat-dot { width: 6px; height: 6px; border-radius: 50%; }
+
+    /* ── Main content ──────────────────────────────────────────────────────── */
+    .app-main {
+      margin-top: calc(var(--hdr-h) + var(--nav-h));
+      padding: 20px;
+      min-height: calc(100vh - var(--hdr-h) - var(--nav-h));
+    }
+    .tab-pane { display: none; }
+    .tab-pane.active { display: block; }
+
+    /* ── Login gate ────────────────────────────────────────────────────────── */
+    #login-gate {
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      min-height: 60vh; gap: 24px; text-align: center;
+    }
+    .gate-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--r-xl); padding: 48px 40px; max-width: 420px;
+      box-shadow: var(--shadow-lg);
+    }
+    .gate-icon { font-size: 48px; margin-bottom: 16px; }
+    .gate-title { font-size: 22px; font-weight: 700; color: var(--text); }
+    .gate-sub { color: var(--text-sm); font-size: 14px; margin-top: 8px; }
+    .gate-btn {
+      margin-top: 24px; padding: 12px 32px; border-radius: var(--r);
+      background: var(--primary); color: #fff; font-size: 15px; font-weight: 600;
+      transition: background .15s; width: 100%;
+    }
+    .gate-btn:hover { background: var(--primary-dk); }
+
+    /* ── Filter bar ────────────────────────────────────────────────────────── */
+    .filter-bar {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--r); padding: 12px 16px;
+      display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+      margin-bottom: 16px; box-shadow: var(--shadow-xs);
+    }
+    .search-wrap {
+      position: relative; flex: 1; min-width: 200px;
+    }
+    .search-icon {
+      position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
+      color: var(--text-xs); font-size: 14px; pointer-events: none;
+    }
+    .filter-input {
+      width: 100%; padding: 7px 10px 7px 32px;
+      border: 1px solid var(--border); border-radius: var(--r-sm);
+      background: var(--bg-input); color: var(--text); font-size: 13px;
+      transition: border-color .15s;
+    }
+    .filter-input:focus { outline: none; border-color: var(--border-focus); }
+    .filter-select {
+      padding: 7px 28px 7px 10px; border: 1px solid var(--border);
+      border-radius: var(--r-sm); background: var(--bg-input); color: var(--text);
+      font-size: 13px; appearance: none; cursor: pointer;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+      background-repeat: no-repeat; background-position: right 8px center;
+    }
+    .filter-select:focus { outline: none; border-color: var(--border-focus); }
+    .filter-number {
+      padding: 7px 10px; border: 1px solid var(--border); border-radius: var(--r-sm);
+      background: var(--bg-input); color: var(--text); font-size: 13px; width: 80px;
+    }
+    .filter-number:focus { outline: none; border-color: var(--border-focus); }
+    .filter-divider {
+      width: 1px; height: 28px; background: var(--border); margin: 0 4px;
+    }
+    .filter-label { font-size: 12px; color: var(--text-sm); white-space: nowrap; }
+
+    /* ── Toolbar ───────────────────────────────────────────────────────────── */
+    .toolbar {
+      display: flex; align-items: center; gap: 8px; margin-bottom: 16px;
+    }
+    .result-count { font-size: 13px; color: var(--text-sm); flex: 1; }
+    .result-count strong { color: var(--text); }
+    .view-btn {
+      padding: 6px 12px; border-radius: var(--r-sm); font-size: 12px; font-weight: 500;
+      border: 1px solid var(--border); color: var(--text-sm);
+      transition: all .15s; display: flex; align-items: center; gap: 5px;
+    }
+    .view-btn.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+    .view-btn:hover:not(.active) { background: var(--bg-hover); }
+    .export-btn {
+      padding: 6px 14px; border-radius: var(--r-sm); font-size: 12px; font-weight: 600;
+      background: var(--bg-hover); border: 1px solid var(--border); color: var(--text-md);
+      display: flex; align-items: center; gap: 6px; transition: all .15s;
+    }
+    .export-btn:hover { background: var(--primary-bg); border-color: var(--primary-lt); color: var(--primary); }
+
+    /* ── Table ─────────────────────────────────────────────────────────────── */
+    .table-wrap {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--r); overflow: hidden; box-shadow: var(--shadow-xs);
+      overflow-x: auto;
+    }
+    table { width: 100%; border-collapse: collapse; min-width: 860px; }
+    thead th {
+      background: var(--bg-table-head); color: var(--text-sm); font-size: 11px;
+      font-weight: 600; text-transform: uppercase; letter-spacing: .5px;
+      padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border);
+      white-space: nowrap; user-select: none;
+    }
+    thead th.sortable { cursor: pointer; transition: color .15s; }
+    thead th.sortable:hover { color: var(--primary); }
+    thead th.sort-asc::after  { content: ' ↑'; color: var(--primary); }
+    thead th.sort-desc::after { content: ' ↓'; color: var(--primary); }
+    tbody tr {
+      border-bottom: 1px solid var(--border); transition: background .1s;
+    }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:nth-child(even) { background: var(--bg-row-alt); }
+    tbody tr:hover { background: var(--primary-bg); }
+    td {
+      padding: 10px 12px; font-size: 13px; color: var(--text); vertical-align: middle;
+    }
+    .td-title { max-width: 340px; }
+    .td-title a { color: var(--text); font-weight: 500; }
+    .td-title a:hover { color: var(--primary); text-decoration: none; }
+    .td-assignee { max-width: 200px; color: var(--text-md); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .td-date { white-space: nowrap; color: var(--text-sm); font-size: 12px; }
+
+    /* ── Badges ────────────────────────────────────────────────────────────── */
+    .badge {
+      display: inline-flex; align-items: center; gap: 3px;
+      padding: 2px 8px; border-radius: 99px; font-size: 11px; font-weight: 600;
+      white-space: nowrap;
+    }
+    .badge-granted { background: var(--granted-bg); color: var(--granted); }
+    .badge-pending { background: var(--pending-bg); color: var(--pending); }
+    .badge-expired { background: var(--expired-bg); color: var(--expired); }
+
+    .badge-us  { background: var(--us-bg);  color: var(--us);  }
+    .badge-ep  { background: var(--ep-bg);  color: var(--ep);  }
+    .badge-wo  { background: var(--wo-bg);  color: var(--wo);  }
+    .badge-jp  { background: var(--jp-bg);  color: var(--jp);  }
+    .badge-cn  { background: var(--cn-bg);  color: var(--cn);  }
+    .badge-kr  { background: var(--kr-bg);  color: var(--kr);  }
+    .badge-other { background: var(--other-bg); color: var(--other); }
+
+    .badge-domain {
+      background: var(--primary-bg); color: var(--primary);
+      font-size: 10px; padding: 2px 6px;
+    }
+    .ipc-chip {
+      display: inline-flex; align-items: center;
+      background: #ede9fe; color: #6d28d9;
+      border-radius: 4px; padding: 1px 5px; font-size: 10px;
+      font-family: monospace; font-weight: 600; cursor: pointer;
+      transition: background .1s;
+    }
+    .ipc-chip:hover { background: #ddd6fe; }
+
+    /* ── Score ring ────────────────────────────────────────────────────────── */
+    .score-ring {
+      width: 36px; height: 36px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 12px; font-weight: 700; flex-shrink: 0;
+    }
+    .score-hi  { background: #d1fae5; color: #059669; }
+    .score-mid { background: #fef3c7; color: #d97706; }
+    .score-lo  { background: #f1f5f9; color: #64748b; }
+    .score-cell { width: 54px; text-align: center; }
+
+    /* ── Cards ─────────────────────────────────────────────────────────────── */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 16px;
+    }
+    .patent-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--r); overflow: hidden; box-shadow: var(--shadow-sm);
+      transition: box-shadow .2s, transform .2s;
+      display: flex; flex-direction: column;
+    }
+    .patent-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+    .card-head {
+      padding: 14px 16px 10px; border-bottom: 1px solid var(--border);
+      display: flex; gap: 10px; align-items: flex-start;
+    }
+    .card-badges { display: flex; gap: 5px; flex-wrap: wrap; margin-bottom: 6px; }
+    .card-title {
+      font-size: 13px; font-weight: 600; color: var(--text);
+      cursor: pointer; line-height: 1.4; flex: 1;
+    }
+    .card-title:hover { color: var(--primary); }
+    .card-body { padding: 12px 16px; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+    .card-row { display: flex; gap: 8px; align-items: flex-start; font-size: 12px; }
+    .card-row-label {
+      color: var(--text-xs); font-size: 10px; text-transform: uppercase;
+      letter-spacing: .5px; width: 64px; flex-shrink: 0; padding-top: 1px;
+    }
+    .card-row-val { color: var(--text-md); flex: 1; }
+    .card-ipc { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 2px; }
+    .card-abstract {
+      font-size: 12px; color: var(--text-sm); line-height: 1.5;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+      overflow: hidden; cursor: pointer; transition: -webkit-line-clamp .2s;
+    }
+    .card-abstract.expanded { -webkit-line-clamp: unset; }
+    .card-foot {
+      padding: 10px 16px; border-top: 1px solid var(--border);
+      display: flex; gap: 6px; align-items: center;
+    }
+    .card-link-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      padding: 4px 10px; border-radius: var(--r-sm); font-size: 11px; font-weight: 600;
+      border: 1px solid var(--border); color: var(--text-md);
+      transition: all .15s;
+    }
+    .card-link-btn:hover { background: var(--bg-hover); text-decoration: none; }
+    .card-link-btn.lens { border-color: var(--primary-lt); color: var(--primary); }
+    .card-link-btn.google { border-color: #34a853; color: #34a853; }
+    .card-action-btn {
+      padding: 4px 10px; border-radius: var(--r-sm); font-size: 11px; font-weight: 600;
+      border: 1px solid var(--border); color: var(--text-md); transition: all .15s;
+    }
+    .card-action-btn:hover { background: var(--bg-hover); }
+    .card-action-btn.starred { border-color: #f59e0b; color: #f59e0b; background: #fef3c7; }
+    .card-spacer { flex: 1; }
+
+    /* ── Pagination ─────────────────────────────────────────────────────────── */
+    .pagination {
+      display: flex; align-items: center; justify-content: center;
+      gap: 4px; padding: 20px 0;
+    }
+    .page-btn {
+      min-width: 34px; height: 34px; border-radius: var(--r-sm);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 13px; border: 1px solid var(--border);
+      color: var(--text-md); transition: all .15s;
+    }
+    .page-btn:hover:not(:disabled) { background: var(--bg-hover); }
+    .page-btn.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+    .page-btn:disabled { opacity: .4; cursor: not-allowed; }
+    .page-ellipsis { color: var(--text-xs); padding: 0 4px; }
+
+    /* ── Analytics ─────────────────────────────────────────────────────────── */
+    .analytics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+      gap: 20px;
+    }
+    .chart-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--r); padding: 20px; box-shadow: var(--shadow-xs);
+    }
+    .chart-title {
+      font-size: 13px; font-weight: 700; color: var(--text);
+      margin-bottom: 4px;
+    }
+    .chart-sub {
+      font-size: 11px; color: var(--text-sm); margin-bottom: 16px;
+    }
+    .chart-wrap { position: relative; height: 260px; }
+    .chart-wrap-sm { position: relative; height: 220px; }
+
+    .emerging-list { display: flex; flex-direction: column; gap: 8px; }
+    .emerging-item {
+      padding: 10px 12px; border: 1px solid var(--border);
+      border-radius: var(--r-sm); background: var(--bg);
+      display: flex; gap: 10px; align-items: flex-start;
+    }
+    .emerging-score {
+      font-size: 15px; font-weight: 700; width: 32px; text-align: center; flex-shrink: 0;
+    }
+    .emerging-body { flex: 1; }
+    .emerging-title { font-size: 12px; font-weight: 600; color: var(--text); }
+    .emerging-meta  { font-size: 11px; color: var(--text-sm); margin-top: 2px; }
+
+    /* ── Canvas ────────────────────────────────────────────────────────────── */
+    .canvas-toolbar {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--r); padding: 10px 16px;
+      display: flex; align-items: center; gap: 8px; margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .canvas-tool-btn {
+      padding: 6px 12px; border-radius: var(--r-sm); font-size: 12px;
+      border: 1px solid var(--border); color: var(--text-md); transition: all .15s;
+      display: flex; align-items: center; gap: 5px;
+    }
+    .canvas-tool-btn:hover { background: var(--bg-hover); }
+    .canvas-tool-btn.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+    #main-canvas {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--r); cursor: crosshair; display: block;
+      box-shadow: var(--shadow-xs);
+    }
+
+    /* ── Modal ─────────────────────────────────────────────────────────────── */
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 200;
+      background: rgba(0,0,0,.5); backdrop-filter: blur(4px);
+      display: flex; align-items: center; justify-content: center;
+      padding: 20px; opacity: 0; pointer-events: none; transition: opacity .2s;
+    }
+    .modal-overlay.open { opacity: 1; pointer-events: all; }
+    .modal {
+      background: var(--bg-card); border-radius: var(--r-lg);
+      width: 100%; max-width: 720px; max-height: 90vh;
+      overflow-y: auto; box-shadow: var(--shadow-lg);
+      transform: scale(.96); transition: transform .2s;
+    }
+    .modal-overlay.open .modal { transform: scale(1); }
+    .modal-head {
+      padding: 20px 24px 16px; border-bottom: 1px solid var(--border);
+      display: flex; gap: 12px; align-items: flex-start; position: sticky; top: 0;
+      background: var(--bg-card); z-index: 1;
+    }
+    .modal-close {
+      width: 28px; height: 28px; border-radius: var(--r-sm); flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 16px; color: var(--text-sm); transition: background .15s;
+    }
+    .modal-close:hover { background: var(--bg-hover); }
+    .modal-title { font-size: 16px; font-weight: 700; line-height: 1.4; flex: 1; }
+    .modal-body { padding: 20px 24px; display: flex; flex-direction: column; gap: 16px; }
+    .modal-section-title {
+      font-size: 11px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: .6px; color: var(--text-xs); margin-bottom: 6px;
+    }
+    .modal-abstract {
+      font-size: 13px; line-height: 1.7; color: var(--text-md);
+      background: var(--bg); border-radius: var(--r-sm); padding: 12px;
+    }
+    .modal-meta-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+    }
+    .modal-meta-item { font-size: 12px; }
+    .modal-meta-key { color: var(--text-xs); margin-bottom: 2px; }
+    .modal-meta-val { color: var(--text-md); font-weight: 500; }
+    .modal-links { display: flex; gap: 10px; flex-wrap: wrap; }
+    .modal-link {
+      padding: 8px 18px; border-radius: var(--r-sm); font-size: 12px; font-weight: 600;
+      border: 1px solid var(--border); transition: all .15s;
+      display: inline-flex; align-items: center; gap: 6px;
+    }
+    .modal-link:hover { text-decoration: none; }
+    .modal-link.lens   { background: var(--primary); border-color: var(--primary); color: #fff; }
+    .modal-link.google { background: #fff; border-color: #dadce0; color: #3c4043; }
+    .modal-link.google:hover { background: #f8f9fa; }
+    .modal-link.uspto  { background: #1d3461; border-color: #1d3461; color: #fff; }
+
+    /* ── Loading / Empty ───────────────────────────────────────────────────── */
+    .loading-wrap {
+      display: flex; align-items: center; justify-content: center;
+      min-height: 300px; gap: 12px; color: var(--text-sm);
+    }
+    .spinner {
+      width: 28px; height: 28px; border-radius: 50%;
+      border: 3px solid var(--border); border-top-color: var(--primary);
+      animation: spin .8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .empty-state {
+      text-align: center; padding: 60px 20px; color: var(--text-sm);
+    }
+    .empty-icon { font-size: 40px; margin-bottom: 12px; }
+    .empty-title { font-size: 16px; font-weight: 600; color: var(--text); }
+    .empty-sub { font-size: 13px; margin-top: 6px; }
+
+    /* ── Responsive ────────────────────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      .app-header { padding: 0 12px; }
+      .hdr-sub, .hdr-version { display: none; }
+      .app-main { padding: 12px; }
+      .analytics-grid { grid-template-columns: 1fr; }
+      .modal-meta-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Auth0 Config ───────────────────────────────────────────────────────── -->
+<script>
+  // Configure Auth0: set your domain + client_id in the repo secrets or directly here.
+  // For public repos: create a .env or inject via build step.
+  const AUTH0_CONFIG = {
+    domain:       "dev-wbt5w3coodp48bti.eu.auth0.com",
+    clientId:     "LZCqb6OxTAun8kzRkv2DWoOGRqw65KTq",
+    authorizationParams: {
+      redirect_uri: window.location.origin,
+      prompt: "login",
+    },
+    cacheLocation: "localstorage",
+  };
+  // Set to true to bypass auth (local development without Auth0)
+  const AUTH_BYPASS = AUTH0_CONFIG.domain.startsWith("__");
+</script>
+
+<!-- ── Header ─────────────────────────────────────────────────────────────── -->
+<header class="app-header">
+  <a class="hdr-logo" href="#">
+    <div class="hdr-icon">⚡</div>
+    <div>
+      <div class="hdr-title">Patent Monitor</div>
+      <div class="hdr-sub">Tech Vigilance R&amp;D</div>
+    </div>
+  </a>
+  <div class="hdr-spacer"></div>
+  <span class="hdr-version">__BUILD_HASH__</span>
+  <button class="theme-btn" id="theme-btn" title="Toggle theme">🌙</button>
+  <span class="hdr-user" id="hdr-user"></span>
+  <button class="hdr-btn hdr-btn-login" id="auth-btn">Log in</button>
+</header>
+
+<!-- ── Nav ────────────────────────────────────────────────────────────────── -->
+<nav class="app-nav">
+  <button class="nav-tab active" data-tab="patents">
+    ⚡ Patents <span class="nav-badge" id="count-badge">–</span>
+  </button>
+  <button class="nav-tab" data-tab="analytics">📊 Analytics</button>
+  <button class="nav-tab" data-tab="canvas">🗺 Canvas</button>
+  <div class="nav-spacer"></div>
+  <div class="stat-chip" id="granted-chip">
+    <span class="stat-dot" style="background:var(--granted)"></span>
+    <span id="granted-count">–</span> granted
+  </div>
+  <div class="stat-chip" id="pending-chip">
+    <span class="stat-dot" style="background:var(--pending)"></span>
+    <span id="pending-count">–</span> pending
+  </div>
+</nav>
+
+<!-- ── Main ───────────────────────────────────────────────────────────────── -->
+<main class="app-main" id="app-main">
+
+  <!-- Login gate -->
+  <div id="login-gate" style="display:none">
+    <div class="gate-card">
+      <div class="gate-icon">⚡</div>
+      <div class="gate-title">Patent Monitor</div>
+      <div class="gate-sub">Sign in to access the patent intelligence dashboard.</div>
+      <button class="gate-btn" id="gate-login-btn">Sign in</button>
+    </div>
+  </div>
+
+  <!-- Loading -->
+  <div class="loading-wrap" id="app-loading">
+    <div class="spinner"></div> Loading patents…
+  </div>
+
+  <!-- ── Patents tab ───────────────────────────────────────────────────────── -->
+  <div class="tab-pane" id="tab-patents">
+
+    <!-- Filters -->
+    <div class="filter-bar">
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input class="filter-input" id="f-search" type="text" placeholder="Search title, assignee, inventor, IPC…" />
+      </div>
+      <select class="filter-select" id="f-domain">
+        <option value="">All domains</option>
+      </select>
+      <select class="filter-select" id="f-jurisdiction">
+        <option value="">All jurisdictions</option>
+        <option value="US">🇺🇸 US</option>
+        <option value="EP">🇪🇺 EP</option>
+        <option value="WO">🌐 WO</option>
+        <option value="JP">🇯🇵 JP</option>
+        <option value="CN">🇨🇳 CN</option>
+        <option value="KR">🇰🇷 KR</option>
+        <option value="DE">🇩🇪 DE</option>
+        <option value="GB">🇬🇧 GB</option>
+      </select>
+      <select class="filter-select" id="f-status">
+        <option value="">All statuses</option>
+        <option value="granted">✓ Granted</option>
+        <option value="pending">⏳ Pending</option>
+        <option value="expired">☁ Expired</option>
+      </select>
+      <span class="filter-label">Year ≥</span>
+      <input class="filter-number" id="f-year" type="number" placeholder="2022" min="2000" max="2030" />
+      <span class="filter-label">Score ≥</span>
+      <input class="filter-number" id="f-score" type="number" value="0" min="0" max="100" />
+    </div>
+
+    <!-- Toolbar -->
+    <div class="toolbar">
+      <div class="result-count" id="result-count"></div>
+      <button class="view-btn active" id="view-table" title="Table view">⊞ Table</button>
+      <button class="view-btn" id="view-cards" title="Card view">▦ Cards</button>
+      <div class="filter-divider"></div>
+      <button class="export-btn" id="export-btn">⬇ Export CSV</button>
+    </div>
+
+    <!-- Table view -->
+    <div id="view-table-wrap">
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th class="score-cell sortable" data-col="score">Score</th>
+              <th class="sortable" data-col="title">Title</th>
+              <th class="sortable" data-col="assignee">Assignee</th>
+              <th class="sortable" data-col="status">Status</th>
+              <th class="sortable" data-col="jurisdiction">Juris.</th>
+              <th class="sortable" data-col="filing_date">Filed</th>
+              <th>IPC</th>
+              <th class="sortable" data-col="domain">Domain</th>
+              <th>Links</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Card view -->
+    <div id="view-cards-wrap" style="display:none">
+      <div class="cards-grid" id="cards-grid"></div>
+    </div>
+
+    <!-- Empty state -->
+    <div class="empty-state" id="empty-state" style="display:none">
+      <div class="empty-icon">🔍</div>
+      <div class="empty-title">No patents match</div>
+      <div class="empty-sub">Try adjusting your filters.</div>
+    </div>
+
+    <!-- Pagination -->
+    <div class="pagination" id="pagination"></div>
+
+  </div><!-- /tab-patents -->
+
+  <!-- ── Analytics tab ────────────────────────────────────────────────────── -->
+  <div class="tab-pane" id="tab-analytics">
+    <div class="analytics-grid">
+
+      <div class="chart-card" style="grid-column: span 2;">
+        <div class="chart-title">Patents over time by domain</div>
+        <div class="chart-sub">Filing / publication trend — last 24 months</div>
+        <div class="chart-wrap"><canvas id="chart-trend"></canvas></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-title">Top assignees</div>
+        <div class="chart-sub">By patent count in current results</div>
+        <div class="chart-wrap"><canvas id="chart-assignees"></canvas></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-title">Jurisdiction breakdown</div>
+        <div class="chart-sub">By patent count</div>
+        <div class="chart-wrap-sm"><canvas id="chart-juris"></canvas></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-title">IPC class distribution</div>
+        <div class="chart-sub">Top 12 IPC sections</div>
+        <div class="chart-wrap"><canvas id="chart-ipc"></canvas></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-title">🔬 Emerging signals</div>
+        <div class="chart-sub">Score ≥ 65, filed in last 18 months</div>
+        <div id="emerging-list" class="emerging-list"></div>
+      </div>
+
+    </div>
+  </div><!-- /tab-analytics -->
+
+  <!-- ── Canvas tab ───────────────────────────────────────────────────────── -->
+  <div class="tab-pane" id="tab-canvas">
+    <div class="canvas-toolbar">
+      <strong style="font-size:12px;color:var(--text-sm);">Patent Landscape</strong>
+      <div class="filter-divider"></div>
+      <button class="canvas-tool-btn active" id="tool-select">↖ Select</button>
+      <button class="canvas-tool-btn" id="tool-connect">↗ Connect</button>
+      <button class="canvas-tool-btn" id="tool-note">✎ Note</button>
+      <button class="canvas-tool-btn" id="tool-group">⬚ Group</button>
+      <div class="filter-divider"></div>
+      <button class="canvas-tool-btn" id="canvas-clear" style="color:#dc2626">🗑 Clear</button>
+      <div style="flex:1"></div>
+      <span style="font-size:11px;color:var(--text-sm)">
+        Star patents in Cards view to add them here
+      </span>
+    </div>
+    <canvas id="main-canvas" width="1200" height="700"></canvas>
+  </div>
+
+</main><!-- /app-main -->
+
+<!-- ── Patent Detail Modal ─────────────────────────────────────────────────── -->
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal" id="modal">
+    <div class="modal-head">
+      <div>
+        <div style="display:flex;gap:6px;margin-bottom:8px;" id="modal-badges"></div>
+        <div class="modal-title" id="modal-title"></div>
+      </div>
+      <button class="modal-close" id="modal-close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div>
+        <div class="modal-section-title">Abstract</div>
+        <div class="modal-abstract" id="modal-abstract"></div>
+      </div>
+      <div>
+        <div class="modal-section-title">Details</div>
+        <div class="modal-meta-grid" id="modal-meta"></div>
+      </div>
+      <div id="modal-ipc-wrap">
+        <div class="modal-section-title">IPC Classification</div>
+        <div style="display:flex;gap:5px;flex-wrap:wrap;" id="modal-ipc"></div>
+      </div>
+      <div>
+        <div class="modal-section-title">Links</div>
+        <div class="modal-links" id="modal-links"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Scripts ─────────────────────────────────────────────────────────────── -->
+<script>
+"use strict";
+
+// ── State ──────────────────────────────────────────────────────────────────
+
+let allPatents     = [];
+let filtered       = [];
+let currentPage    = 1;
+const PAGE_SIZE    = 50;
+let sortCol        = "score";
+let sortDir        = "desc";
+let viewMode       = "table";
+let starredSet     = new Set(JSON.parse(localStorage.getItem("starred-patents") || "[]"));
+let canvasNodes    = JSON.parse(localStorage.getItem("canvas-nodes") || "[]");
+let canvasEdges    = JSON.parse(localStorage.getItem("canvas-edges") || "[]");
+let activeTool     = "select";
+let chartsBuilt    = false;
+let analyticsBuilt = false;
+let auth0Client    = null;
+
+const DOMAIN_COLORS = {
+  "Packaging & Smart Packaging":    "#d97706",
+  "Bebidas Funcionales":            "#4f46e5",
+  "Microencapsulación":             "#7c3aed",
+  "Materias Primas Alternativas":   "#059669",
+  "Procesos Avanzados Cervecería":  "#0284c7",
+  "Reciclado PET":                  "#dc2626",
+};
+const JURIS_FLAGS = {
+  US:"🇺🇸", EP:"🇪🇺", WO:"🌐", JP:"🇯🇵",
+  CN:"🇨🇳", DE:"🇩🇪", GB:"🇬🇧", FR:"🇫🇷",
+  KR:"🇰🇷", AU:"🇦🇺", CA:"🇨🇦",
+};
+
+// ── Helpers ────────────────────────────────────────────────────────────────
+
+function scoreClass(s) {
+  return s >= 65 ? "score-hi" : s >= 40 ? "score-mid" : "score-lo";
+}
+function scoreColor(s) {
+  return s >= 65 ? "#059669" : s >= 40 ? "#d97706" : "#64748b";
+}
+function statusBadge(st) {
+  const m = {granted:"granted",pending:"pending",expired:"expired"};
+  const t = {granted:"✓ Granted",pending:"⏳ Pending",expired:"☁ Expired"};
+  const c = m[st] || "expired";
+  return `<span class="badge badge-${c}">${t[st] || st}</span>`;
+}
+function jurisBadge(j) {
+  const cls = ["us","ep","wo","jp","cn","kr"].includes((j||"").toLowerCase())
+    ? j.toLowerCase() : "other";
+  const flag = JURIS_FLAGS[j] || "🌏";
+  return `<span class="badge badge-${cls}">${flag} ${j||"?"}</span>`;
+}
+function ipcChip(code) {
+  const enc = code.replace(/"/g,"&quot;");
+  return `<span class="ipc-chip" onclick="filterByIpc('${enc}')" title="${enc}">${code.split(" ")[0]}</span>`;
+}
+function esc(s) {
+  return String(s || "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+function shortDate(s) {
+  return s ? String(s).slice(0, 10) : "—";
+}
+
+// ── Auth ───────────────────────────────────────────────────────────────────
+
+async function initAuth() {
+  if (AUTH_BYPASS) {
+    showApp();
+    return;
+  }
+  try {
+    auth0Client = await auth0.createAuth0Client(AUTH0_CONFIG);
+    const params = new URLSearchParams(window.location.search);
+    if (params.has("code") && params.has("state")) {
+      await auth0Client.handleRedirectCallback();
+      window.history.replaceState({}, "", window.location.pathname);
+    }
+    const isAuthenticated = await auth0Client.isAuthenticated();
+    if (isAuthenticated) {
+      const user = await auth0Client.getUser();
+      document.getElementById("hdr-user").textContent = user.email || "";
+      document.getElementById("auth-btn").textContent = "Log out";
+      document.getElementById("auth-btn").onclick = () => auth0Client.logout({ logoutParams: { returnTo: window.location.origin } });
+      showApp();
+    } else {
+      showLoginGate();
+    }
+  } catch(e) {
+    console.warn("Auth0 init failed:", e);
+    showApp(); // fallback: open access
+  }
+}
+
+function showLoginGate() {
+  document.getElementById("app-loading").style.display = "none";
+  document.getElementById("login-gate").style.display = "flex";
+  const loginFn = () => auth0Client.loginWithRedirect();
+  document.getElementById("auth-btn").onclick = loginFn;
+  document.getElementById("gate-login-btn").onclick = loginFn;
+  document.getElementById("auth-btn").textContent = "Log in";
+}
+
+// ── Data loading ───────────────────────────────────────────────────────────
+
+async function showApp() {
+  document.getElementById("login-gate").style.display = "none";
+  try {
+    const r    = await fetch("patents.json");
+    allPatents = await r.json();
+    document.getElementById("app-loading").style.display = "none";
+    populateDomainFilter();
+    updateStats();
+    applyFilters();
+    document.getElementById("tab-patents").classList.add("active");
+  } catch(e) {
+    document.getElementById("app-loading").innerHTML =
+      `<div style="text-align:center;color:var(--text-sm)">
+         <div style="font-size:32px;margin-bottom:8px">⚠️</div>
+         <div>Could not load <code>patents.json</code></div>
+         <div style="font-size:12px;margin-top:4px">${e.message}</div>
+       </div>`;
+  }
+}
+
+function populateDomainFilter() {
+  const domains = [...new Set(allPatents.map(p => p.domain).filter(Boolean))].sort();
+  const sel = document.getElementById("f-domain");
+  domains.forEach(d => {
+    const opt = document.createElement("option");
+    opt.value = d; opt.textContent = d;
+    sel.appendChild(opt);
+  });
+}
+
+function updateStats() {
+  const granted = allPatents.filter(p => p.status === "granted").length;
+  const pending = allPatents.length - granted;
+  document.getElementById("count-badge").textContent  = allPatents.length;
+  document.getElementById("granted-count").textContent = granted;
+  document.getElementById("pending-count").textContent = pending;
+}
+
+// ── Filtering ──────────────────────────────────────────────────────────────
+
+function applyFilters() {
+  const q     = (document.getElementById("f-search").value || "").toLowerCase();
+  const dom   = document.getElementById("f-domain").value;
+  const juris = document.getElementById("f-jurisdiction").value;
+  const st    = document.getElementById("f-status").value;
+  const yr    = parseInt(document.getElementById("f-year").value) || 0;
+  const sc    = parseInt(document.getElementById("f-score").value) || 0;
+
+  filtered = allPatents.filter(p => {
+    if (dom   && p.domain       !== dom)                       return false;
+    if (juris && p.jurisdiction !== juris)                     return false;
+    if (st    && p.status       !== st)                        return false;
+    if (sc    && (p.score || 0) <  sc)                        return false;
+    if (yr) {
+      const py = parseInt((p.pub_date || p.filing_date || p.year || "0").slice(0,4));
+      if (!py || py < yr)                                      return false;
+    }
+    if (q) {
+      const hay = [p.title, p.assignee, p.inventors, p.patent_number,
+                   (p.ipc_codes||[]).join(" "), p.abstract]
+        .join(" ").toLowerCase();
+      if (!hay.includes(q))                                    return false;
+    }
+    return true;
+  });
+
+  sortFiltered();
+  currentPage = 1;
+  document.getElementById("result-count").innerHTML =
+    `<strong>${filtered.length}</strong> of ${allPatents.length} patents`;
+  render();
+}
+
+function filterByIpc(code) {
+  document.getElementById("f-search").value = code;
+  applyFilters();
+}
+
+function sortFiltered() {
+  filtered.sort((a, b) => {
+    let av = a[sortCol] ?? "", bv = b[sortCol] ?? "";
+    if (typeof av === "number" && typeof bv === "number") {
+      return sortDir === "asc" ? av - bv : bv - av;
+    }
+    av = String(av).toLowerCase(); bv = String(bv).toLowerCase();
+    return sortDir === "asc" ? av.localeCompare(bv) : bv.localeCompare(av);
+  });
+}
+
+// ── Rendering ──────────────────────────────────────────────────────────────
+
+function render() {
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page  = filtered.slice(start, start + PAGE_SIZE);
+
+  if (!filtered.length) {
+    document.getElementById("empty-state").style.display = "block";
+    document.getElementById("view-table-wrap").style.display = "none";
+    document.getElementById("view-cards-wrap").style.display = "none";
+    document.getElementById("pagination").innerHTML = "";
+    return;
+  }
+  document.getElementById("empty-state").style.display = "none";
+
+  if (viewMode === "table") {
+    document.getElementById("view-table-wrap").style.display = "block";
+    document.getElementById("view-cards-wrap").style.display = "none";
+    renderTable(page);
+  } else {
+    document.getElementById("view-table-wrap").style.display = "none";
+    document.getElementById("view-cards-wrap").style.display = "block";
+    renderCards(page);
+  }
+  renderPagination();
+}
+
+function renderTable(page) {
+  const tbody = document.getElementById("table-body");
+  tbody.innerHTML = page.map(p => {
+    const score = p.score || 0;
+    const ipcHtml = (p.ipc_codes || []).slice(0,2).map(ipcChip).join(" ");
+    const domColor = DOMAIN_COLORS[p.domain] || "#64748b";
+    const titleLink = `<a href="#" onclick="openModal(event,'${esc(p.patent_number||p.lens_id)}')">${esc((p.title||"").slice(0,80))}${(p.title||"").length>80?"…":""}</a>`;
+    return `<tr>
+      <td class="score-cell">
+        <div class="score-ring ${scoreClass(score)}">${score}</div>
+      </td>
+      <td class="td-title">${titleLink}</td>
+      <td class="td-assignee" title="${esc(p.assignee)}">${esc((p.assignee||"—").slice(0,40))}</td>
+      <td>${statusBadge(p.status)}</td>
+      <td>${jurisBadge(p.jurisdiction)}</td>
+      <td class="td-date">${shortDate(p.filing_date || p.pub_date)}</td>
+      <td>${ipcHtml}</td>
+      <td>
+        <span class="badge badge-domain" style="background:${domColor}20;color:${domColor}">
+          ${esc((p.domain||"").replace(/ & /g," &amp; "))}
+        </span>
+      </td>
+      <td>
+        ${p.patent_url ? `<a href="${esc(p.patent_url)}" target="_blank" class="card-link-btn lens" style="font-size:10px;padding:2px 7px;">Lens ↗</a> ` : ""}
+        ${p.google_url ? `<a href="${esc(p.google_url)}" target="_blank" class="card-link-btn google" style="font-size:10px;padding:2px 7px;">G ↗</a>` : ""}
+      </td>
+    </tr>`;
+  }).join("");
+}
+
+function renderCards(page) {
+  const grid = document.getElementById("cards-grid");
+  grid.innerHTML = page.map(p => {
+    const score     = p.score || 0;
+    const pid       = p.patent_number || p.lens_id || "";
+    const isStarred = starredSet.has(pid);
+    const ipcChips  = (p.ipc_codes || []).slice(0,5).map(ipcChip).join("");
+    const abstract  = (p.abstract || "").slice(0, 400);
+    const domColor  = DOMAIN_COLORS[p.domain] || "#64748b";
+
+    return `<div class="patent-card">
+      <div class="card-head">
+        <div class="score-ring ${scoreClass(score)}">${score}</div>
+        <div style="flex:1;min-width:0">
+          <div class="card-badges">
+            ${statusBadge(p.status)}
+            ${jurisBadge(p.jurisdiction)}
+          </div>
+          <div class="card-title" onclick="openModalByPid('${esc(pid)}')">${esc((p.title||"").slice(0,100))}${(p.title||"").length>100?"…":""}</div>
+        </div>
+      </div>
+      <div class="card-body">
+        ${p.assignee ? `<div class="card-row"><span class="card-row-label">Assignee</span><span class="card-row-val" style="font-weight:600">${esc(p.assignee.slice(0,60))}</span></div>` : ""}
+        ${p.inventors ? `<div class="card-row"><span class="card-row-label">Inventors</span><span class="card-row-val">${esc(p.inventors.slice(0,80))}</span></div>` : ""}
+        <div class="card-row">
+          <span class="card-row-label">Filed</span>
+          <span class="card-row-val">${shortDate(p.filing_date)} ${p.pub_date ? `&bull; Pub: ${shortDate(p.pub_date)}` : ""}</span>
+        </div>
+        ${p.patent_number ? `<div class="card-row"><span class="card-row-label">Patent</span><span class="card-row-val" style="font-family:monospace;font-size:11px">${esc(p.patent_number)}</span></div>` : ""}
+        ${ipcChips ? `<div class="card-ipc">${ipcChips}</div>` : ""}
+        ${p.domain ? `<div style="margin-top:2px"><span class="badge badge-domain" style="background:${domColor}20;color:${domColor};font-size:10px">${esc(p.domain)}</span></div>` : ""}
+        ${abstract ? `<div class="card-abstract" id="abs-${esc(pid)}" onclick="this.classList.toggle('expanded')" title="Click to expand">${esc(abstract)}${p.abstract&&p.abstract.length>400?"…":""}</div>` : ""}
+      </div>
+      <div class="card-foot">
+        ${p.patent_url ? `<a href="${esc(p.patent_url)}" target="_blank" class="card-link-btn lens">Lens ↗</a>` : ""}
+        ${p.google_url ? `<a href="${esc(p.google_url)}" target="_blank" class="card-link-btn google">Google Patents ↗</a>` : ""}
+        <div class="card-spacer"></div>
+        <button class="card-action-btn ${isStarred?"starred":""}" onclick="toggleStar('${esc(pid)}',this)" title="${isStarred?"Unstar":"Star & add to canvas"}">
+          ${isStarred?"★ Starred":"☆ Star"}
+        </button>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function renderPagination() {
+  const total = Math.ceil(filtered.length / PAGE_SIZE);
+  if (total <= 1) { document.getElementById("pagination").innerHTML = ""; return; }
+
+  let html = `<button class="page-btn" onclick="gotoPage(${currentPage-1})" ${currentPage===1?"disabled":""}>‹</button>`;
+  for (let i = 1; i <= total; i++) {
+    if (i === 1 || i === total || Math.abs(i - currentPage) <= 2) {
+      html += `<button class="page-btn ${i===currentPage?"active":""}" onclick="gotoPage(${i})">${i}</button>`;
+    } else if (Math.abs(i - currentPage) === 3) {
+      html += `<span class="page-ellipsis">…</span>`;
+    }
+  }
+  html += `<button class="page-btn" onclick="gotoPage(${currentPage+1})" ${currentPage===total?"disabled":""}>›</button>`;
+  document.getElementById("pagination").innerHTML = html;
+}
+
+function gotoPage(p) {
+  const total = Math.ceil(filtered.length / PAGE_SIZE);
+  if (p < 1 || p > total) return;
+  currentPage = p;
+  render();
+  window.scrollTo({ top: document.querySelector(".app-main").offsetTop - 120, behavior: "smooth" });
+}
+
+// ── Star / Canvas ──────────────────────────────────────────────────────────
+
+function toggleStar(pid, btn) {
+  const patent = allPatents.find(p => (p.patent_number||p.lens_id) === pid);
+  if (!patent) return;
+  if (starredSet.has(pid)) {
+    starredSet.delete(pid);
+    canvasNodes = canvasNodes.filter(n => n.id !== pid);
+    btn.textContent = "☆ Star";
+    btn.classList.remove("starred");
+  } else {
+    starredSet.add(pid);
+    btn.textContent = "★ Starred";
+    btn.classList.add("starred");
+    if (!canvasNodes.find(n => n.id === pid)) {
+      canvasNodes.push({
+        id: pid,
+        x:  80 + Math.random() * 800,
+        y:  80 + Math.random() * 500,
+        label: (patent.title||"").slice(0,40),
+        sub:   (patent.assignee||"").slice(0,30),
+        color: DOMAIN_COLORS[patent.domain] || "#4f46e5",
+        status: patent.status || "pending",
+      });
+      drawCanvas();
+    }
+  }
+  localStorage.setItem("starred-patents", JSON.stringify([...starredSet]));
+  localStorage.setItem("canvas-nodes", JSON.stringify(canvasNodes));
+}
+
+// ── Modal ──────────────────────────────────────────────────────────────────
+
+function openModal(e, pid) { e.preventDefault(); openModalByPid(pid); }
+function openModalByPid(pid) {
+  const p = allPatents.find(p => (p.patent_number||p.lens_id) === pid || p.patent_number === pid);
+  if (!p) return;
+
+  document.getElementById("modal-title").textContent = p.title || "—";
+  document.getElementById("modal-badges").innerHTML =
+    statusBadge(p.status) + " " + jurisBadge(p.jurisdiction);
+  document.getElementById("modal-abstract").textContent = p.abstract || "No abstract available.";
+
+  const metaItems = [
+    ["Patent number", p.patent_number || "—"],
+    ["Assignee",      p.assignee      || "—"],
+    ["Inventors",     p.inventors     || "—"],
+    ["Filing date",   shortDate(p.filing_date)],
+    ["Publication",   shortDate(p.pub_date)],
+    ["Score",         p.score || 0],
+    ["Citations",     p.citations || 0],
+    ["Domain",        p.domain || "—"],
+    ["Source",        p.source || "—"],
+    ["Fetch date",    p.fetch_date || "—"],
+  ];
+  document.getElementById("modal-meta").innerHTML = metaItems.map(([k,v]) =>
+    `<div class="modal-meta-item"><div class="modal-meta-key">${k}</div><div class="modal-meta-val">${esc(String(v))}</div></div>`
+  ).join("");
+
+  const ipcCodes = p.ipc_codes || [];
+  document.getElementById("modal-ipc-wrap").style.display = ipcCodes.length ? "block" : "none";
+  document.getElementById("modal-ipc").innerHTML = ipcCodes.map(ipcChip).join(" ");
+
+  const links = [];
+  if (p.patent_url)  links.push(`<a class="modal-link lens" href="${esc(p.patent_url)}" target="_blank">⚡ View on Lens ↗</a>`);
+  if (p.google_url)  links.push(`<a class="modal-link google" href="${esc(p.google_url)}" target="_blank"><img src="https://www.google.com/favicon.ico" width="14" height="14" alt=""> Google Patents ↗</a>`);
+  if (p.jurisdiction === "US" && p.patent_number) {
+    const num = p.patent_number.replace(/^US/, "").replace(/[A-Z]\d*$/, "");
+    if (num) links.push(`<a class="modal-link uspto" href="https://www.googleapis.com/patents/pdf/${esc(p.patent_number)}" target="_blank">USPTO ↗</a>`);
+  }
+  const gsq = encodeURIComponent(p.title || p.patent_number || "");
+  links.push(`<a class="modal-link" style="border-color:var(--border);color:var(--text-sm)" href="https://patents.google.com/?q=${gsq}" target="_blank">Google Patents Search ↗</a>`);
+  document.getElementById("modal-links").innerHTML = links.join("");
+
+  document.getElementById("modal-overlay").classList.add("open");
+}
+
+// ── Sort ───────────────────────────────────────────────────────────────────
+
+document.querySelectorAll("thead th.sortable").forEach(th => {
+  th.addEventListener("click", () => {
+    const col = th.dataset.col;
+    if (sortCol === col) sortDir = sortDir === "asc" ? "desc" : "asc";
+    else { sortCol = col; sortDir = col === "score" ? "desc" : "asc"; }
+    document.querySelectorAll("thead th").forEach(h => h.classList.remove("sort-asc","sort-desc"));
+    th.classList.add(sortDir === "asc" ? "sort-asc" : "sort-desc");
+    sortFiltered();
+    currentPage = 1;
+    render();
+  });
+});
+
+// ── Export CSV ─────────────────────────────────────────────────────────────
+
+function exportCSV() {
+  const fields = ["score","patent_number","title","assignee","inventors","filing_date",
+                  "pub_date","status","jurisdiction","ipc_codes","domain","citations",
+                  "source","patent_url","google_url","abstract"];
+  const rows = [fields.join(",")];
+  filtered.forEach(p => {
+    rows.push(fields.map(f => {
+      let v = f === "ipc_codes" ? (p[f]||[]).join(";") : (p[f]??"")+  "";
+      return '"' + v.replace(/"/g,'""') + '"';
+    }).join(","));
+  });
+  const blob = new Blob([rows.join("\n")], {type:"text/csv;charset=utf-8;"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `patents-${new Date().toISOString().slice(0,10)}.csv`;
+  a.click();
+}
+
+// ── Analytics ──────────────────────────────────────────────────────────────
+
+function buildAnalytics() {
+  if (analyticsBuilt) return;
+  analyticsBuilt = true;
+
+  const isDark = document.documentElement.dataset.theme === "dark";
+  const gridColor = isDark ? "rgba(255,255,255,.06)" : "rgba(0,0,0,.06)";
+  const textColor = isDark ? "#94a3b8" : "#64748b";
+
+  Chart.defaults.color      = textColor;
+  Chart.defaults.font.size  = 11;
+
+  buildTrendChart(gridColor, textColor);
+  buildAssigneesChart(gridColor, textColor);
+  buildJurisChart();
+  buildIpcChart(gridColor, textColor);
+  buildEmerging();
+}
+
+function monthsBack(n) {
+  const today = new Date();
+  const labels = [], keys = [];
+  for (let i = n - 1; i >= 0; i--) {
+    const d = new Date(today.getFullYear(), today.getMonth() - i, 1);
+    labels.push(d.toLocaleString("default",{month:"short",year:"2-digit"}));
+    keys.push(`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}`);
+  }
+  return { labels, keys };
+}
+
+function buildTrendChart(gridColor, textColor) {
+  const { labels, keys } = monthsBack(24);
+  const domains = [...new Set(allPatents.map(p=>p.domain).filter(Boolean))];
+  const datasets = domains.map(d => {
+    const color = DOMAIN_COLORS[d] || "#64748b";
+    const data = keys.map(k => allPatents.filter(p => {
+      const pd = (p.pub_date || p.filing_date || "").slice(0,7);
+      return p.domain === d && pd === k;
+    }).length);
+    return { label: d, data, borderColor: color, backgroundColor: color+"22",
+             tension:.4, fill:true, pointRadius:3, pointHoverRadius:5 };
+  });
+  new Chart(document.getElementById("chart-trend"), {
+    type: "line",
+    data: { labels, datasets },
+    options: {
+      responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{ position:"bottom", labels:{boxWidth:10,padding:12}}},
+      scales:{
+        x:{ grid:{color:gridColor}, ticks:{color:textColor,maxTicksLimit:12}},
+        y:{ grid:{color:gridColor}, ticks:{color:textColor}, beginAtZero:true},
+      },
+    },
+  });
+}
+
+function buildAssigneesChart(gridColor, textColor) {
+  const counts = {};
+  allPatents.forEach(p => {
+    const a = (p.assignee || "").split(";")[0].trim().slice(0, 40);
+    if (a && a !== "et al.") counts[a] = (counts[a]||0)+1;
+  });
+  const sorted = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  new Chart(document.getElementById("chart-assignees"), {
+    type: "bar",
+    data: {
+      labels: sorted.map(([k])=>k),
+      datasets:[{ data: sorted.map(([,v])=>v), backgroundColor:"#4f46e580",
+                  borderColor:"#4f46e5", borderWidth:1 }],
+    },
+    options:{
+      indexAxis:"y", responsive:true, maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{
+        x:{grid:{color:gridColor},ticks:{color:textColor}},
+        y:{grid:{display:false},ticks:{color:textColor,font:{size:10}}},
+      },
+    },
+  });
+}
+
+function buildJurisChart() {
+  const counts = {};
+  allPatents.forEach(p => { const j = p.jurisdiction||"Other"; counts[j]=(counts[j]||0)+1; });
+  const sorted = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,8);
+  const COLORS = ["#1d4ed8","#b45309","#047857","#b91c1c","#c2410c","#6d28d9","#0284c7","#64748b"];
+  new Chart(document.getElementById("chart-juris"), {
+    type: "doughnut",
+    data: {
+      labels: sorted.map(([k])=>k),
+      datasets:[{ data:sorted.map(([,v])=>v), backgroundColor:COLORS,
+                  borderWidth:2, borderColor:"var(--bg-card)" }],
+    },
+    options:{
+      responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{ position:"right", labels:{boxWidth:10,padding:8,font:{size:11}}}},
+    },
+  });
+}
+
+function buildIpcChart(gridColor, textColor) {
+  const counts = {};
+  allPatents.forEach(p => {
+    (p.ipc_codes||[]).forEach(code => {
+      const sec = code.slice(0,4);
+      if (sec) counts[sec]=(counts[sec]||0)+1;
+    });
+  });
+  const sorted = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,12);
+  new Chart(document.getElementById("chart-ipc"), {
+    type:"bar",
+    data:{
+      labels:sorted.map(([k])=>k),
+      datasets:[{data:sorted.map(([,v])=>v), backgroundColor:"#7c3aed80",
+                 borderColor:"#7c3aed", borderWidth:1}],
+    },
+    options:{
+      indexAxis:"y", responsive:true, maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{
+        x:{grid:{color:gridColor},ticks:{color:textColor}},
+        y:{grid:{display:false},ticks:{color:textColor,font:{size:10,family:"monospace"}}},
+      },
+    },
+  });
+}
+
+function buildEmerging() {
+  const cutoff = new Date();
+  cutoff.setMonth(cutoff.getMonth() - 18);
+  const emerging = allPatents
+    .filter(p => {
+      const d = new Date(p.filing_date || p.pub_date || "2000-01-01");
+      return p.score >= 65 && d >= cutoff;
+    })
+    .slice(0, 8);
+
+  const el = document.getElementById("emerging-list");
+  if (!emerging.length) { el.innerHTML = '<div style="color:var(--text-sm);font-size:12px">No emerging signals found.</div>'; return; }
+  el.innerHTML = emerging.map(p => {
+    const sc = p.score || 0;
+    return `<div class="emerging-item">
+      <div class="emerging-score" style="color:${scoreColor(sc)}">${sc}</div>
+      <div class="emerging-body">
+        <div class="emerging-title">${esc((p.title||"").slice(0,80))}…</div>
+        <div class="emerging-meta">
+          ${jurisBadge(p.jurisdiction)} &bull; ${statusBadge(p.status)} &bull;
+          ${esc((p.assignee||"—").slice(0,40))} &bull; ${shortDate(p.filing_date||p.pub_date)}
+        </div>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+// ── Canvas ─────────────────────────────────────────────────────────────────
+
+const canvas   = document.getElementById("main-canvas");
+const ctx      = canvas.getContext("2d");
+let dragging   = null, connecting = null;
+let offsetX    = 0, offsetY = 0;
+let panX       = 0, panY    = 0;
+let isPanning  = false, panStart = null;
+
+function resizeCanvas() {
+  const w = canvas.parentElement.clientWidth;
+  canvas.width  = Math.max(w, 800);
+  canvas.height = Math.max(window.innerHeight - 260, 500);
+  drawCanvas();
+}
+
+function drawCanvas() {
+  const w = canvas.width, h = canvas.height;
+  const isDark = document.documentElement.dataset.theme === "dark";
+  ctx.clearRect(0,0,w,h);
+  ctx.fillStyle = isDark ? "#1e293b" : "#f8fafc";
+  ctx.fillRect(0,0,w,h);
+
+  // Grid
+  ctx.strokeStyle = isDark ? "rgba(255,255,255,.04)" : "rgba(0,0,0,.04)";
+  ctx.lineWidth = 1;
+  for (let x = (panX % 40); x < w; x += 40) { ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,h); ctx.stroke(); }
+  for (let y = (panY % 40); y < h; y += 40) { ctx.beginPath(); ctx.moveTo(0,y); ctx.lineTo(w,y); ctx.stroke(); }
+
+  ctx.save();
+  ctx.translate(panX, panY);
+
+  // Edges
+  canvasEdges.forEach(e => {
+    const a = canvasNodes.find(n=>n.id===e.from);
+    const b = canvasNodes.find(n=>n.id===e.to);
+    if (!a||!b) return;
+    ctx.beginPath();
+    ctx.moveTo(a.x, a.y);
+    ctx.lineTo(b.x, b.y);
+    ctx.strokeStyle = isDark ? "rgba(255,255,255,.2)" : "rgba(0,0,0,.15)";
+    ctx.lineWidth = 2; ctx.stroke();
+  });
+
+  // Nodes
+  canvasNodes.forEach(n => {
+    const W=180, H=60, r=8;
+    const x = n.x - W/2, y = n.y - H/2;
+    // Shadow
+    ctx.shadowColor = "rgba(0,0,0,.15)"; ctx.shadowBlur = 12; ctx.shadowOffsetY = 4;
+    // Card
+    ctx.beginPath();
+    ctx.roundRect(x,y,W,H,r);
+    ctx.fillStyle = isDark ? "#1e293b" : "#fff";
+    ctx.fill();
+    ctx.shadowBlur = 0; ctx.shadowOffsetY = 0;
+    // Left accent
+    ctx.beginPath();
+    ctx.roundRect(x, y, 4, H, [r,0,0,r]);
+    ctx.fillStyle = n.color || "#4f46e5";
+    ctx.fill();
+    // Status dot
+    const stColor = n.status==="granted"?"#059669":n.status==="expired"?"#64748b":"#d97706";
+    ctx.beginPath(); ctx.arc(x+W-12, y+12, 4, 0, Math.PI*2);
+    ctx.fillStyle = stColor; ctx.fill();
+    // Title
+    ctx.fillStyle = isDark ? "#f1f5f9" : "#1e293b";
+    ctx.font = "600 11px -apple-system,BlinkMacSystemFont,sans-serif";
+    const words = (n.label||"").split(" ");
+    let line="", ly=y+20;
+    words.forEach(w => {
+      const test = line ? line+" "+w : w;
+      if (ctx.measureText(test).width > W-20) { ctx.fillText(line, x+12, ly); line=w; ly+=14; }
+      else line=test;
+    });
+    if (line) ctx.fillText(line, x+12, ly);
+    // Subtitle
+    if (n.sub) {
+      ctx.fillStyle = isDark ? "#64748b" : "#94a3b8";
+      ctx.font = "10px -apple-system,BlinkMacSystemFont,sans-serif";
+      ctx.fillText((n.sub||"").slice(0,26), x+12, y+H-10);
+    }
+    // Border
+    ctx.beginPath();
+    ctx.roundRect(x,y,W,H,r);
+    ctx.strokeStyle = isDark ? "rgba(255,255,255,.1)" : "rgba(0,0,0,.08)";
+    ctx.lineWidth = 1; ctx.stroke();
+  });
+
+  ctx.restore();
+}
+
+function nodeAt(mx, my) {
+  const W=180, H=60;
+  return canvasNodes.find(n =>
+    Math.abs(mx - panX - n.x) < W/2 && Math.abs(my - panY - n.y) < H/2
+  );
+}
+
+canvas.addEventListener("mousedown", e => {
+  const mx = e.offsetX, my = e.offsetY;
+  const node = nodeAt(mx, my);
+  if (activeTool === "select") {
+    if (node) { dragging = node; offsetX = mx - panX - node.x; offsetY = my - panY - node.y; }
+    else { isPanning = true; panStart = {x: mx - panX, y: my - panY}; }
+  }
+  if (activeTool === "connect") {
+    if (node) connecting = node;
+  }
+  if (activeTool === "note" && !node) {
+    const text = prompt("Note text:");
+    if (text) {
+      canvasNodes.push({ id: "note-"+Date.now(), x: mx-panX, y: my-panY,
+                         label: text, sub: "", color: "#64748b", status: "note" });
+      saveCanvas(); drawCanvas();
+    }
+  }
+});
+canvas.addEventListener("mousemove", e => {
+  const mx = e.offsetX, my = e.offsetY;
+  if (dragging) { dragging.x = mx - panX - offsetX; dragging.y = my - panY - offsetY; drawCanvas(); }
+  if (isPanning) { panX = mx - panStart.x; panY = my - panStart.y; drawCanvas(); }
+});
+canvas.addEventListener("mouseup", e => {
+  if (dragging) { saveCanvas(); dragging = null; }
+  if (isPanning) isPanning = false;
+  if (connecting) {
+    const node = nodeAt(e.offsetX, e.offsetY);
+    if (node && node.id !== connecting.id) {
+      const exists = canvasEdges.find(edge =>
+        (edge.from===connecting.id&&edge.to===node.id) ||
+        (edge.from===node.id&&edge.to===connecting.id)
+      );
+      if (!exists) { canvasEdges.push({from:connecting.id,to:node.id}); saveCanvas(); drawCanvas(); }
+    }
+    connecting = null;
+  }
+});
+canvas.addEventListener("contextmenu", e => {
+  e.preventDefault();
+  const node = nodeAt(e.offsetX, e.offsetY);
+  if (node && confirm(`Remove "${node.label}" from canvas?`)) {
+    canvasNodes = canvasNodes.filter(n=>n.id!==node.id);
+    canvasEdges = canvasEdges.filter(ed=>ed.from!==node.id&&ed.to!==node.id);
+    starredSet.delete(node.id);
+    localStorage.setItem("starred-patents", JSON.stringify([...starredSet]));
+    saveCanvas(); render(); drawCanvas();
+  }
+});
+canvas.addEventListener("dblclick", e => {
+  const node = nodeAt(e.offsetX, e.offsetY);
+  if (node) openModalByPid(node.id);
+});
+
+function saveCanvas() {
+  localStorage.setItem("canvas-nodes", JSON.stringify(canvasNodes));
+  localStorage.setItem("canvas-edges", JSON.stringify(canvasEdges));
+}
+
+document.getElementById("canvas-clear").addEventListener("click", () => {
+  if (!confirm("Clear the canvas? This will remove all nodes and connections.")) return;
+  canvasNodes = []; canvasEdges = []; starredSet = new Set();
+  localStorage.removeItem("canvas-nodes");
+  localStorage.removeItem("canvas-edges");
+  localStorage.setItem("starred-patents","[]");
+  render(); drawCanvas();
+});
+
+["select","connect","note"].forEach(t => {
+  document.getElementById(`tool-${t}`).addEventListener("click", () => {
+    activeTool = t;
+    document.querySelectorAll(".canvas-tool-btn").forEach(b => b.classList.remove("active"));
+    document.getElementById(`tool-${t}`).classList.add("active");
+    canvas.style.cursor = t === "connect" ? "crosshair" : "default";
+  });
+});
+
+// ── Theme ──────────────────────────────────────────────────────────────────
+
+function applyTheme(dark) {
+  document.documentElement.dataset.theme = dark ? "dark" : "light";
+  document.getElementById("theme-btn").textContent = dark ? "☀️" : "🌙";
+  localStorage.setItem("pm-theme", dark ? "dark" : "light");
+  if (analyticsBuilt) {
+    analyticsBuilt = false;
+    document.querySelectorAll("canvas[id^=chart]").forEach(c => {
+      const ch = Chart.getChart(c);
+      if (ch) ch.destroy();
+    });
+    buildAnalytics();
+  }
+  drawCanvas();
+}
+
+// ── Tab switching ──────────────────────────────────────────────────────────
+
+document.querySelectorAll(".nav-tab").forEach(tab => {
+  tab.addEventListener("click", () => {
+    document.querySelectorAll(".nav-tab").forEach(t => t.classList.remove("active"));
+    document.querySelectorAll(".tab-pane").forEach(p => p.classList.remove("active"));
+    tab.classList.add("active");
+    const pane = document.getElementById("tab-" + tab.dataset.tab);
+    if (pane) pane.classList.add("active");
+    if (tab.dataset.tab === "analytics") buildAnalytics();
+    if (tab.dataset.tab === "canvas")    { resizeCanvas(); }
+  });
+});
+
+// ── Modal events ───────────────────────────────────────────────────────────
+
+document.getElementById("modal-close").addEventListener("click", () =>
+  document.getElementById("modal-overlay").classList.remove("open")
+);
+document.getElementById("modal-overlay").addEventListener("click", e => {
+  if (e.target === document.getElementById("modal-overlay"))
+    document.getElementById("modal-overlay").classList.remove("open");
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") document.getElementById("modal-overlay").classList.remove("open");
+});
+
+// ── Filter events ──────────────────────────────────────────────────────────
+
+["f-search","f-domain","f-jurisdiction","f-status","f-year","f-score"].forEach(id => {
+  const el = document.getElementById(id);
+  el.addEventListener("input", applyFilters);
+  el.addEventListener("change", applyFilters);
+});
+
+// ── View toggle ────────────────────────────────────────────────────────────
+
+document.getElementById("view-table").addEventListener("click", () => {
+  viewMode = "table";
+  document.getElementById("view-table").classList.add("active");
+  document.getElementById("view-cards").classList.remove("active");
+  render();
+});
+document.getElementById("view-cards").addEventListener("click", () => {
+  viewMode = "cards";
+  document.getElementById("view-cards").classList.add("active");
+  document.getElementById("view-table").classList.remove("active");
+  render();
+});
+document.getElementById("export-btn").addEventListener("click", exportCSV);
+document.getElementById("theme-btn").addEventListener("click", () => {
+  applyTheme(document.documentElement.dataset.theme !== "dark");
+});
+document.getElementById("auth-btn").addEventListener("click", () => {
+  if (!auth0Client && !AUTH_BYPASS) return;
+  if (AUTH_BYPASS) return;
+});
+
+// ── Boot ───────────────────────────────────────────────────────────────────
+
+(async () => {
+  // Restore theme
+  const savedTheme = localStorage.getItem("pm-theme");
+  if (savedTheme === "dark") applyTheme(true);
+
+  // Sort header default
+  document.querySelector("th[data-col='score']").classList.add("sort-desc");
+
+  // Auth + data
+  await initAuth();
+})();
+</script>
+</body>
+</html>
