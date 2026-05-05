@@ -1,0 +1,8 @@
+[build]
+  command   = "mkdir -p _site && cp index.html patents.csv patents_readable.txt _headers _site/ && python3 -c \"import json; d=json.load(open('patents.json')); json.dump([p for p in d if (p.get('score') or 0)>=40], open('_site/patents.json','w'))\" && HASH=$(git rev-parse --short HEAD) && sed -i \"s/__BUILD_HASH__/${HASH}/g\" _site/index.html"
+  publish   = "_site"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "no-store"
