@@ -108,11 +108,14 @@ def search_epo(query: str, days: int) -> list[dict]:
     global _epo_disabled
     if _epo_disabled or not (EPO_OPS_KEY and EPO_OPS_SECRET):
         return []
-    date_from = (datetime.date.today() - datetime.timedelta(days=days)).strftime("%Y%m%d")
+    today     = datetime.date.today()
+    date_from = (today - datetime.timedelta(days=days)).strftime("%Y%m%d")
+    date_to   = today.strftime("%Y%m%d")
     q_clean   = _cql_escape(query)
     if not q_clean:
         return []
-    cql = f'(ti any "{q_clean}" OR ab any "{q_clean}") AND pd>={date_from}'
+    # EPO CQL: date ranges use "within" operator, not >= (which returns 400)
+    cql = f'(ti any "{q_clean}" OR ab any "{q_clean}") AND pd within "{date_from},{date_to}"'
     try:
         r = requests.get(
             EPO_SEARCH_URL, params={"q": cql},
@@ -124,6 +127,9 @@ def search_epo(query: str, days: int) -> list[dict]:
                 return []
             r = requests.get(EPO_SEARCH_URL, params={"q": cql},
                              headers=_epo_headers(), timeout=30)
+        if r.status_code == 400:
+            print(f"  [EPO] 400 Bad Request: {r.text[:300]}")
+            return []
         if r.status_code == 404:
             return []  # no results
         if r.status_code == 429:
@@ -389,7 +395,12 @@ def search_patentsview(query: str, days: int) -> list[dict]:
             })
         return out
     except Exception as e:
-        print(f"  [PatentsView] '{query}': {e}")
+        err = str(e)
+        if "NameResolutionError" in err or "ConnectionError" in type(e).__name__ or "Failed to resolve" in err:
+            print(f"[PatentsView] DNS/connection error — disabling for this run: {type(e).__name__}")
+            _pv_disabled = True
+        else:
+            print(f"  [PatentsView] '{query}': {e}")
         return []
 
 # ── Deduplication & merging ────────────────────────────────────────────────────
