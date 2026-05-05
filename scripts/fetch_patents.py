@@ -152,14 +152,7 @@ def search_epo(query: str, days: int) -> list[dict]:
             return []
         r.raise_for_status()
         data = r.json()
-        results = _parse_epo_json(data)
-        if not results:
-            biblio_search = data.get("ops:world-patent-data", {}).get("ops:biblio-search", {})
-            total = biblio_search.get("@total-result-count", "0")
-            if str(total) not in ("0", "?"):
-                sr = biblio_search.get("ops:search-result", {})
-                print(f"  [EPO] total={total} sr_keys={list(sr.keys()) if isinstance(sr, dict) else type(sr)} first500={str(data)[:500]}")
-        return results
+        return _parse_epo_json(data)
     except Exception as e:
         print(f"  [EPO] '{query}': {e}")
         return []
@@ -187,11 +180,15 @@ def _parse_epo_json(data: dict) -> list[dict]:
             .get("ops:biblio-search", {})
             .get("ops:search-result", {})
         )
-        docs = _as_list(
-            search_result
-            .get("exchange-documents", {})
-            .get("exchange-document")
-        )
+        exchange_documents = search_result.get("exchange-documents", {})
+        # exchange-documents is a list of {"exchange-document": ...} wrappers
+        # OR a single dict with an "exchange-document" key
+        if isinstance(exchange_documents, list):
+            docs = []
+            for wrapper in exchange_documents:
+                docs.extend(_as_list(wrapper.get("exchange-document")))
+        else:
+            docs = _as_list(exchange_documents.get("exchange-document"))
     except Exception:
         return []
 
