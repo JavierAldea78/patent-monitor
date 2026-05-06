@@ -1021,7 +1021,7 @@ function renderTable(page) {
         </span>
       </td>
       <td>
-        ${p.patent_url ? `<a href="${esc(p.patent_url)}" target="_blank" class="card-link-btn lens" style="font-size:10px;padding:2px 7px;">Lens ↗</a> ` : ""}
+        ${p.patent_url ? `<a href="${esc(p.patent_url)}" target="_blank" class="card-link-btn lens" style="font-size:10px;padding:2px 7px;">Espacenet ↗</a> ` : ""}
         ${p.google_url ? `<a href="${esc(p.google_url)}" target="_blank" class="card-link-btn google" style="font-size:10px;padding:2px 7px;">G ↗</a>` : ""}
       </td>
     </tr>`;
@@ -1062,7 +1062,7 @@ function renderCards(page) {
         ${abstract ? `<div class="card-abstract" id="abs-${esc(pid)}" onclick="this.classList.toggle('expanded')" title="Click to expand">${esc(abstract)}${p.abstract&&p.abstract.length>400?"…":""}</div>` : ""}
       </div>
       <div class="card-foot">
-        ${p.patent_url ? `<a href="${esc(p.patent_url)}" target="_blank" class="card-link-btn lens">Lens ↗</a>` : ""}
+        ${p.patent_url ? `<a href="${esc(p.patent_url)}" target="_blank" class="card-link-btn lens">Espacenet ↗</a>` : ""}
         ${p.google_url ? `<a href="${esc(p.google_url)}" target="_blank" class="card-link-btn google">Google Patents ↗</a>` : ""}
         <div class="card-spacer"></div>
         <button class="card-action-btn ${isStarred?"starred":""}" onclick="toggleStar('${esc(pid)}',this)" title="${isStarred?"Unstar":"Star & add to canvas"}">
@@ -1161,7 +1161,7 @@ function openModalByPid(pid) {
   document.getElementById("modal-ipc").innerHTML = ipcCodes.map(ipcChip).join(" ");
 
   const links = [];
-  if (p.patent_url)  links.push(`<a class="modal-link lens" href="${esc(p.patent_url)}" target="_blank">⚡ View on Lens ↗</a>`);
+  if (p.patent_url)  links.push(`<a class="modal-link lens" href="${esc(p.patent_url)}" target="_blank">⚡ View on Espacenet ↗</a>`);
   if (p.google_url)  links.push(`<a class="modal-link google" href="${esc(p.google_url)}" target="_blank"><img src="https://www.google.com/favicon.ico" width="14" height="14" alt=""> Google Patents ↗</a>`);
   if (p.jurisdiction === "US" && p.patent_number) {
     const num = p.patent_number.replace(/^US/, "").replace(/[A-Z]\d*$/, "");

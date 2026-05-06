@@ -203,6 +203,14 @@ def _parse_epo_json(data: dict) -> list[dict]:
     return out
 
 
+def _norm_date(d: str) -> str:
+    """Normalize EPO YYYYMMDD → YYYY-MM-DD; pass through anything else."""
+    d = (d or "").strip()[:10]
+    if len(d) == 8 and d.isdigit():
+        return f"{d[:4]}-{d[4:6]}-{d[6:]}"
+    return d
+
+
 def _parse_epo_doc(doc: dict) -> dict | None:
     country       = doc.get("@country", "")
     doc_number    = doc.get("@doc-number", "")
@@ -219,16 +227,16 @@ def _parse_epo_doc(doc: dict) -> dict | None:
     if not title:
         return None
 
-    # Publication date
+    # Publication date — EPO returns YYYYMMDD, normalize to YYYY-MM-DD
     pub_ids  = _as_list(_get(bib, "publication-reference", "document-id"))
     pub_date = ""
     for pid in pub_ids:
         if _get(pid, "@document-id-type") == "epodoc":
-            pub_date = _get(pid, "date", "$")[:10]
+            pub_date = _norm_date(_get(pid, "date", "$"))
             break
     if not pub_date:
         for pid in pub_ids:
-            pub_date = _get(pid, "date", "$")[:10]
+            pub_date = _norm_date(_get(pid, "date", "$"))
             if pub_date:
                 break
 
@@ -236,7 +244,7 @@ def _parse_epo_doc(doc: dict) -> dict | None:
     app_ids     = _as_list(_get(bib, "application-reference", "document-id"))
     filing_date = ""
     for aid in app_ids:
-        filing_date = _get(aid, "date", "$")[:10]
+        filing_date = _norm_date(_get(aid, "date", "$"))
         if filing_date:
             break
 
@@ -260,19 +268,30 @@ def _parse_epo_doc(doc: dict) -> dict | None:
     if len(inventors_raw) > 3:
         inventors += " et al."
 
-    # IPC codes
-    classifications = _as_list(_get(bib, "patent-classifications", "patent-classification"))
+    # IPC codes — EPO biblio uses classifications-ipcr; fall back to patent-classifications
+    raw_cls = (
+        _as_list(_get(bib, "classifications-ipcr", "classification-ipcr")) or
+        _as_list(_get(bib, "patent-classifications", "patent-classification"))
+    )
     ipc_codes = []
-    for cl in classifications[:8]:
+    for cl in raw_cls[:8]:
+        # IPCR format: single "$" text like "B65D 65/46 20060101 A I"
+        text = _get(cl, "$") or _get(cl, "text", "$")
+        if text:
+            code = text.strip().split()[0]  # take first token e.g. "B65D"
+            if code:
+                ipc_codes.append(code)
+            continue
+        # Structured format (patent-classification)
         scheme = _get(cl, "classification-scheme", "@scheme")
         if scheme not in ("IPC", "IPCR", ""):
             continue
         sec = _get(cl, "section", "$")
-        cls = _get(cl, "class", "$")
+        cls_c = _get(cl, "class", "$")
         sub = _get(cl, "subclass", "$")
         mg  = _get(cl, "main-group", "$")
         sg  = _get(cl, "subgroup", "$")
-        code = f"{sec}{cls}{sub}{mg}/{sg}".strip("/")
+        code = f"{sec}{cls_c}{sub}{mg}/{sg}".strip("/")
         if code:
             ipc_codes.append(code)
     ipc_codes = list(dict.fromkeys(ipc_codes))
