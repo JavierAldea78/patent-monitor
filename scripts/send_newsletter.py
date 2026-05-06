@@ -24,7 +24,7 @@ PAGES_URL          = os.environ.get("PAGES_URL") or "https://patent-monitor.netl
 
 DOMAIN_COLORS = {
     "Packaging & Smart Packaging":   "#d97706",
-    "Bebidas Funcionales":           "#4f46e5",
+    "Bebidas Funcionales":           "#b45309",
     "Microencapsulación":            "#7c3aed",
     "Materias Primas Alternativas":  "#059669",
     "Procesos Avanzados Cervecería": "#0284c7",
@@ -69,9 +69,9 @@ def patent_row(p: dict) -> str:
     g_link      = p.get("google_url") or ""
     ipc         = ", ".join((p.get("ipc_codes") or [])[:3])
 
-    link_html = (f'<a href="{link}" style="color:#4f46e5;font-size:10px;">{pat_num[:20]}</a>'
+    link_html = (f'<a href="{link}" style="color:#b45309;font-size:10px;">{pat_num[:20]}</a>'
                  if link else pat_num[:20])
-    g_link_html = (f' &bull; <a href="{g_link}" style="color:#4f46e5;font-size:10px;">Google ↗</a>'
+    g_link_html = (f' &bull; <a href="{g_link}" style="color:#b45309;font-size:10px;">Google ↗</a>'
                    if g_link else "")
 
     return f"""
@@ -135,7 +135,7 @@ def build_html(patents: list[dict], today: str) -> str:
   <div style="max-width:820px;margin:0 auto;padding:24px;background:#ffffff;color:#1e293b;">
 
     <!-- Header -->
-    <div style="background:linear-gradient(135deg,#312e81,#4338ca);
+    <div style="background:linear-gradient(135deg,#451a03,#b45309);
                 padding:32px;border-radius:14px;margin-bottom:32px;">
       <div style="display:flex;align-items:center;gap:16px;">
         <div style="width:48px;height:48px;background:rgba(255,255,255,.15);
@@ -143,7 +143,7 @@ def build_html(patents: list[dict], today: str) -> str:
                     justify-content:center;font-size:24px;">⚡</div>
         <div>
           <h1 style="color:#fff;margin:0;font-size:24px;font-weight:700;">Patent Monitor</h1>
-          <p style="color:#c7d2fe;margin:4px 0 0;font-size:13px;">
+          <p style="color:#fcd34d;margin:4px 0 0;font-size:13px;">
             Weekly digest &bull; {today} &bull;
             {len(patents)} patents &bull;
             ✓ {total_granted} granted &bull; ⏳ {total_pending} pending
@@ -157,7 +157,7 @@ def build_html(patents: list[dict], today: str) -> str:
     <!-- Footer -->
     <div style="margin-top:40px;padding:20px;border-top:1px solid #e2e8f0;text-align:center;">
       <a href="{PAGES_URL}"
-         style="display:inline-block;background:#4f46e5;color:#fff;
+         style="display:inline-block;background:#b45309;color:#fff;
                 padding:10px 28px;border-radius:8px;text-decoration:none;
                 font-weight:600;font-size:13px;">
         Open Patent Dashboard ↗

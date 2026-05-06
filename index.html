@@ -12,10 +12,10 @@
   <style>
     /* ── Variables ─────────────────────────────────────────────────────────── */
     :root {
-      --primary:       #4f46e5;
-      --primary-lt:    #818cf8;
-      --primary-dk:    #3730a3;
-      --primary-bg:    #eef2ff;
+      --primary:       #b45309;
+      --primary-lt:    #d97706;
+      --primary-dk:    #92400e;
+      --primary-bg:    #fffbeb;
 
       --granted:       #059669;
       --granted-bg:    #d1fae5;
@@ -45,7 +45,7 @@
       --text-xs:   #94a3b8;
 
       --border:    #e2e8f0;
-      --border-focus: #818cf8;
+      --border-focus: #d97706;
 
       --shadow-xs: 0 1px 2px rgba(0,0,0,.06);
       --shadow-sm: 0 1px 4px rgba(0,0,0,.08);
@@ -73,7 +73,7 @@
       --text-sm:   #94a3b8;
       --text-xs:   #64748b;
       --border:    #334155;
-      --primary-bg:#1e1b4b;
+      --primary-bg:#451a03;
     }
 
     /* ── Reset & base ──────────────────────────────────────────────────────── */
@@ -100,7 +100,7 @@
     .app-header {
       position: fixed; top: 0; left: 0; right: 0; z-index: 100;
       height: var(--hdr-h);
-      background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4338ca 100%);
+      background: linear-gradient(135deg, #451a03 0%, #78350f 50%, #b45309 100%);
       display: flex; align-items: center; padding: 0 20px; gap: 16px;
       box-shadow: 0 2px 12px rgba(0,0,0,.25);
     }
@@ -113,7 +113,7 @@
       font-size: 18px; flex-shrink: 0;
     }
     .hdr-title { color: #fff; font-size: 16px; font-weight: 700; letter-spacing: -.3px; }
-    .hdr-sub   { color: #a5b4fc; font-size: 11px; }
+    .hdr-sub   { color: #fcd34d; font-size: 11px; }
     .hdr-spacer { flex: 1; }
     .hdr-version { color: rgba(255,255,255,.4); font-size: 10px; font-family: monospace; }
     .hdr-btn {
@@ -561,7 +561,6 @@
     </div>
   </a>
   <div class="hdr-spacer"></div>
-  <span class="hdr-version">__BUILD_HASH__</span>
   <button class="theme-btn" id="theme-btn" title="Toggle theme">🌙</button>
   <span class="hdr-user" id="hdr-user"></span>
   <button class="hdr-btn hdr-btn-login" id="auth-btn">Log in</button>
@@ -798,7 +797,7 @@ let auth0Client    = null;
 
 const DOMAIN_COLORS = {
   "Packaging & Smart Packaging":    "#d97706",
-  "Bebidas Funcionales":            "#4f46e5",
+  "Bebidas Funcionales":            "#b45309",
   "Microencapsulación":             "#7c3aed",
   "Materias Primas Alternativas":   "#059669",
   "Procesos Avanzados Cervecería":  "#0284c7",
@@ -1010,14 +1009,14 @@ function renderTable(page) {
         <div class="score-ring ${scoreClass(score)}">${score}</div>
       </td>
       <td class="td-title">${titleLink}</td>
-      <td class="td-assignee" title="${esc(p.assignee)}">${esc((p.assignee||"—").slice(0,40))}</td>
+      <td class="td-assignee" title="${esc(p.assignee)}">${esc((p.assignee||"—").split(";")[0].replace(/\s*\[[^\]]+\]/g,"").trim().slice(0,40))}</td>
       <td>${statusBadge(p.status)}</td>
       <td>${jurisBadge(p.jurisdiction)}</td>
       <td class="td-date">${shortDate(p.filing_date || p.pub_date)}</td>
       <td>${ipcHtml}</td>
       <td>
         <span class="badge badge-domain" style="background:${domColor}20;color:${domColor}">
-          ${esc((p.domain||"").replace(/ & /g," &amp; "))}
+          ${esc(p.domain||"")}
         </span>
       </td>
       <td>
@@ -1050,7 +1049,7 @@ function renderCards(page) {
         </div>
       </div>
       <div class="card-body">
-        ${p.assignee ? `<div class="card-row"><span class="card-row-label">Assignee</span><span class="card-row-val" style="font-weight:600">${esc(p.assignee.slice(0,60))}</span></div>` : ""}
+        ${p.assignee ? `<div class="card-row"><span class="card-row-label">Assignee</span><span class="card-row-val" style="font-weight:600">${esc(p.assignee.split(";")[0].replace(/\s*\[[^\]]+\]/g,"").trim().slice(0,60))}</span></div>` : ""}
         ${p.inventors ? `<div class="card-row"><span class="card-row-label">Inventors</span><span class="card-row-val">${esc(p.inventors.slice(0,80))}</span></div>` : ""}
         <div class="card-row">
           <span class="card-row-label">Filed</span>
@@ -1117,8 +1116,8 @@ function toggleStar(pid, btn) {
         x:  80 + Math.random() * 800,
         y:  80 + Math.random() * 500,
         label: (patent.title||"").slice(0,40),
-        sub:   (patent.assignee||"").slice(0,30),
-        color: DOMAIN_COLORS[patent.domain] || "#4f46e5",
+        sub:   (patent.assignee||"").split(";")[0].replace(/\s*\[[^\]]+\]/g,"").trim().slice(0,30),
+        color: DOMAIN_COLORS[patent.domain] || "#b45309",
         status: patent.status || "pending",
       });
       drawCanvas();
@@ -1269,16 +1268,16 @@ function buildTrendChart(gridColor, textColor) {
 function buildAssigneesChart(gridColor, textColor) {
   const counts = {};
   allPatents.forEach(p => {
-    const a = (p.assignee || "").split(";")[0].trim().slice(0, 40);
-    if (a && a !== "et al.") counts[a] = (counts[a]||0)+1;
+    const a = (p.assignee || "").split(";")[0].replace(/\s*\[[^\]]+\]/g,"").trim().slice(0, 40);
+    if (a && a !== "et al." && a.length > 2) counts[a] = (counts[a]||0)+1;
   });
   const sorted = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,15);
   new Chart(document.getElementById("chart-assignees"), {
     type: "bar",
     data: {
       labels: sorted.map(([k])=>k),
-      datasets:[{ data: sorted.map(([,v])=>v), backgroundColor:"#4f46e580",
-                  borderColor:"#4f46e5", borderWidth:1 }],
+      datasets:[{ data: sorted.map(([,v])=>v), backgroundColor:"#b4530960",
+                  borderColor:"#b45309", borderWidth:1 }],
     },
     options:{
       indexAxis:"y", responsive:true, maintainAspectRatio:false,
@@ -1357,7 +1356,7 @@ function buildEmerging() {
         <div class="emerging-title">${esc((p.title||"").slice(0,80))}…</div>
         <div class="emerging-meta">
           ${jurisBadge(p.jurisdiction)} &bull; ${statusBadge(p.status)} &bull;
-          ${esc((p.assignee||"—").slice(0,40))} &bull; ${shortDate(p.filing_date||p.pub_date)}
+          ${esc((p.assignee||"—").split(";")[0].replace(/\s*\[[^\]]+\]/g,"").trim().slice(0,40))} &bull; ${shortDate(p.filing_date||p.pub_date)}
         </div>
       </div>
     </div>`;
@@ -1423,7 +1422,7 @@ function drawCanvas() {
     // Left accent
     ctx.beginPath();
     ctx.roundRect(x, y, 4, H, [r,0,0,r]);
-    ctx.fillStyle = n.color || "#4f46e5";
+    ctx.fillStyle = n.color || "#b45309";
     ctx.fill();
     // Status dot
     const stColor = n.status==="granted"?"#059669":n.status==="expired"?"#64748b":"#d97706";
