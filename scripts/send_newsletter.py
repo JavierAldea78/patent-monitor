@@ -163,7 +163,7 @@ def build_html(patents: list[dict], today: str) -> str:
         Open Patent Dashboard ↗
       </a>
       <p style="color:#64748b;font-size:11px;margin-top:16px;">
-        Sources: EPO OPS &bull; WIPO PATENTSCOPE &bull; USPTO PatentsView &bull; Last 2 years
+        Sources: EPO OPS &bull; USPTO PatentsView &bull; Last 2 years
       </p>
     </div>
 
