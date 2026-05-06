@@ -23,16 +23,22 @@ OUTPUT_JSON     = REPO_ROOT / "patents.json"
 OUTPUT_CSV      = REPO_ROOT / "patents.csv"
 OUTPUT_READABLE = REPO_ROOT / "patents_readable.txt"
 
-DAYS_BACK  = 730   # 2 years — patents publish slower than papers
-DELAY      = 0.5   # seconds between PatentsView calls
-DELAY_EPO  = 1.5   # EPO OPS free tier: ~2500 req/hr = 1 per 1.44s; stay safe at 1.5s
+DAYS_BACK       = 730   # 2 years — patents publish slower than papers
+DELAY           = 0.5   # seconds between PatentsView calls
+DELAY_EPO       = 1.5   # EPO OPS free tier: ~2500 req/hr = 1 per 1.44s; stay safe at 1.5s
+EPO_PAGE_SIZE   = 100   # results per EPO page (max 100 per request)
+EPO_MAX_RESULTS = 300   # max results to fetch per query (3 pages)
 
 EPO_OPS_KEY    = os.environ.get("EPO_OPS_KEY", "").strip()
 EPO_OPS_SECRET = os.environ.get("EPO_OPS_SECRET", "").strip()
 
-EPO_AUTH_URL   = "https://ops.epo.org/3.2/auth/accesstoken"
+EPO_AUTH_URL    = "https://ops.epo.org/3.2/auth/accesstoken"
 EPO_SEARCH_BASE = "https://ops.epo.org/3.2/rest-services/published-data/search"
-PATENTSVIEW    = "https://search.patentsview.org/api/v1/patent/"
+PATENTSVIEW_V1  = "https://api.patentsview.org/patents/query"   # v1 (fallback)
+PATENTSVIEW_V2  = "https://search.patentsview.org/api/v1/patent/"  # v2 (may fail DNS)
+
+# Google Patents indexes these jurisdictions reliably
+_GOOGLE_JURISDICTIONS = {"US","EP","WO","DE","GB","FR","JP","CN","KR","CA","AU","CH","NL","BE","SE","DK"}
 
 _GRANTED_RE = re.compile(r'^[BCEFGHIU]')   # kind codes for granted patents
 
@@ -102,8 +108,41 @@ def _cql_escape(text: str) -> str:
     return cleaned[:100]
 
 
+def _epo_fetch_page(url: str, cql: str, start: int) -> tuple[list[dict], int]:
+    """
+    Fetch one page of EPO OPS results.
+    Returns (patents, total_count). Returns (None, 0) on auth error to signal retry.
+    """
+    end     = start + EPO_PAGE_SIZE - 1
+    headers = {**_epo_headers(), "Range": f"items={start}-{end}"}
+    try:
+        r = requests.get(url, params={"q": cql}, headers=headers, timeout=30)
+        if r.status_code == 401:
+            return None, 0   # caller should refresh token and retry
+        if r.status_code == 403:
+            return "throttle", 0
+        if r.status_code == 400:
+            print(f"  [EPO] 400: {r.text[:200]}")
+            return [], 0
+        if r.status_code == 404:
+            return [], 0
+        if r.status_code in (500, 503):
+            print(f"  [EPO] {r.status_code}")
+            return [], 0
+        r.raise_for_status()
+        data       = r.json()
+        bs         = data.get("ops:world-patent-data", {}).get("ops:biblio-search", {})
+        total      = int(bs.get("@total-result-count", 0))
+        patents    = _parse_epo_json(data)
+        return patents, total
+    except Exception as e:
+        print(f"  [EPO page {start}] {e}")
+        return [], 0
+
+
 def search_epo(query: str, days: int) -> list[dict]:
-    """Search EPO OPS — covers EP, WO, GB, FR, DE and 50+ patent offices."""
+    """Search EPO OPS — covers EP, WO, GB, FR, DE and 50+ patent offices.
+    Paginates up to EPO_MAX_RESULTS per query to capture more results."""
     global _epo_disabled
     if _epo_disabled or not (EPO_OPS_KEY and EPO_OPS_SECRET):
         return []
@@ -113,49 +152,44 @@ def search_epo(query: str, days: int) -> list[dict]:
     q_clean   = _cql_escape(query)
     if not q_clean:
         return []
-    # EPO CQL: date ranges use "within" operator, not >= (which returns 400)
     cql = f'(ti any "{q_clean}" OR ab any "{q_clean}") AND pd within "{date_from},{date_to}"'
     url = f"{EPO_SEARCH_BASE}/biblio"
-    try:
-        r = requests.get(
-            url, params={"q": cql},
-            headers=_epo_headers(), timeout=30,
-        )
-        if r.status_code == 401:
+
+    all_patents: list[dict] = []
+    start = 1
+    while start <= EPO_MAX_RESULTS:
+        result, total = _epo_fetch_page(url, cql, start)
+
+        if result is None:   # 401 — refresh token once
             if not _refresh_epo_token():
                 _epo_disabled = True
-                return []
-            r = requests.get(url, params={"q": cql},
-                             headers=_epo_headers(), timeout=30)
-        if r.status_code == 403:
-            # EPO uses 403 for throttling (not 429); wait and retry once
+                return all_patents
+            result, total = _epo_fetch_page(url, cql, start)
+            if result is None:
+                _epo_disabled = True
+                return all_patents
+
+        if result == "throttle":   # 403 — wait and retry once
             print("  [EPO] 403 throttle — waiting 60s")
             time.sleep(60)
-            r = requests.get(url, params={"q": cql},
-                             headers=_epo_headers(), timeout=30)
-            if r.status_code == 403:
-                print("  [EPO] 403 persists — disabling EPO for this run")
+            result, total = _epo_fetch_page(url, cql, start)
+            if result == "throttle":
+                print("  [EPO] 403 persists — disabling EPO")
                 _epo_disabled = True
-                return []
-        if r.status_code == 400:
-            print(f"  [EPO] 400 Bad Request: {r.text[:300]}")
-            return []
-        if r.status_code == 404:
-            return []  # no results
-        if r.status_code == 429:
-            print("  [EPO] 429 rate limited — waiting 30s")
-            time.sleep(30)
-            r = requests.get(url, params={"q": cql},
-                             headers=_epo_headers(), timeout=30)
-        if r.status_code in (500, 503):
-            print(f"  [EPO] Server error {r.status_code}")
-            return []
-        r.raise_for_status()
-        data = r.json()
-        return _parse_epo_json(data)
-    except Exception as e:
-        print(f"  [EPO] '{query}': {e}")
-        return []
+                return all_patents
+
+        if not result:       # empty / error
+            break
+
+        all_patents.extend(result)
+
+        if total == 0 or len(result) < EPO_PAGE_SIZE or start + EPO_PAGE_SIZE - 1 >= min(total, EPO_MAX_RESULTS):
+            break
+
+        start += EPO_PAGE_SIZE
+        time.sleep(DELAY_EPO)   # respect rate limit between pages
+
+    return all_patents
 
 
 def _get(obj, *keys, default=""):
@@ -316,8 +350,9 @@ def _parse_epo_doc(doc: dict) -> dict | None:
     is_granted    = bool(_GRANTED_RE.match(kind)) if kind else False
     status        = "granted" if is_granted else "pending"
     year          = (pub_date or filing_date)[:4]
-    google_url    = (f"https://patents.google.com/patent/{patent_number}/en"
-                     if patent_number else "")
+    # Google Patents reliably indexes only major jurisdictions; others return error pages.
+    google_url    = (f"https://patents.google.com/patent/{patent_number}"
+                     if patent_number and country in _GOOGLE_JURISDICTIONS else "")
     espacenet_url = (f"https://worldwide.espacenet.com/patent/search?q={patent_number}"
                      if patent_number else "")
 
@@ -345,8 +380,58 @@ def _parse_epo_doc(doc: dict) -> dict | None:
 _pv_disabled = False
 
 
+def _patentsview_parse(patents_list: list) -> list[dict]:
+    out = []
+    for p in patents_list:
+        pat_id        = (p.get("patent_id") or p.get("patentId") or "").strip()
+        patent_number = f"US{pat_id}B2" if pat_id else ""
+
+        assignees = p.get("assignees") or []
+        asgn = "; ".join(
+            (a.get("assignee_organization") or a.get("organization") or "").strip()
+            for a in assignees[:3]
+            if (a.get("assignee_organization") or a.get("organization"))
+        )
+        if len(assignees) > 3:
+            asgn += " et al."
+
+        inventors_list = p.get("inventors") or []
+        inv_names = [
+            f"{i.get('inventor_last_name','')}, {i.get('inventor_first_name','')}".strip(", ")
+            for i in inventors_list[:3]
+        ]
+        inventors = "; ".join(filter(None, inv_names))
+        if len(inventors_list) > 3:
+            inventors += " et al."
+
+        pub_date   = (p.get("patent_date") or p.get("grantDate") or "")[:10]
+        year       = pub_date[:4] if pub_date else ""
+        google_url = f"https://patents.google.com/patent/{patent_number}" if patent_number else ""
+
+        out.append({
+            "patent_number": patent_number,
+            "lens_id":       "",
+            "title":         (p.get("patent_title") or p.get("title") or "").strip(),
+            "abstract":      (p.get("patent_abstract") or p.get("abstract") or "").strip(),
+            "assignee":      asgn,
+            "inventors":     inventors,
+            "filing_date":   "",
+            "pub_date":      pub_date,
+            "year":          year,
+            "status":        "granted",
+            "jurisdiction":  "US",
+            "ipc_codes":     [],
+            "patent_url":    f"https://patents.google.com/patent/{patent_number}",
+            "google_url":    google_url,
+            "citations":     0,
+            "source":        "PatentsView",
+        })
+    return out
+
+
 def search_patentsview(query: str, days: int) -> list[dict]:
-    """Search USPTO PatentsView for US granted patents (no API key required)."""
+    """Search USPTO PatentsView for US granted patents.
+    Tries v1 API (api.patentsview.org) first, falls back to v2."""
     global _pv_disabled
     if _pv_disabled:
         return []
@@ -361,81 +446,35 @@ def search_patentsview(query: str, days: int) -> list[dict]:
         ]
     }
     f = [
-        "patent_id", "patent_title", "patent_abstract", "patent_date", "patent_type",
+        "patent_id", "patent_title", "patent_abstract", "patent_date",
         "assignees.assignee_organization",
         "inventors.inventor_first_name", "inventors.inventor_last_name",
     ]
-    try:
-        r = requests.get(
-            PATENTSVIEW,
-            params={
-                "q": json.dumps(q),
-                "f": json.dumps(f),
-                "o": json.dumps({"per_page": 25}),
-            },
-            headers={"User-Agent": "patent-monitor/1.0"},
-            timeout=20,
-        )
-        if r.status_code == 429:
-            print("[PatentsView] rate limited — disabling for this run")
-            _pv_disabled = True
-            return []
-        r.raise_for_status()
+    params = {"q": json.dumps(q), "f": json.dumps(f), "o": json.dumps({"per_page": 50})}
+    headers = {"User-Agent": "patent-monitor/1.0"}
 
-        out = []
-        for p in (r.json().get("patents") or []):
-            pat_id        = (p.get("patent_id") or "").strip()
-            patent_number = f"US{pat_id}B2" if pat_id else ""
+    for endpoint in (PATENTSVIEW_V1, PATENTSVIEW_V2):
+        try:
+            r = requests.get(endpoint, params=params, headers=headers, timeout=20)
+            if r.status_code == 429:
+                print("[PatentsView] rate limited — disabling for this run")
+                _pv_disabled = True
+                return []
+            if r.status_code == 200:
+                patents = r.json().get("patents") or []
+                if isinstance(patents, list):
+                    return _patentsview_parse(patents)
+        except Exception as e:
+            err = str(e)
+            is_dns = ("NameResolutionError" in err or "Failed to resolve" in err
+                      or "ConnectionError" in type(e).__name__)
+            if not is_dns:
+                print(f"  [PatentsView] '{query}' ({endpoint}): {e}")
+            # try next endpoint
 
-            assignees = p.get("assignees") or []
-            asgn = "; ".join(
-                (a.get("assignee_organization") or "").strip()
-                for a in assignees[:3]
-                if a.get("assignee_organization")
-            )
-            if len(assignees) > 3:
-                asgn += " et al."
-
-            inventors_list = p.get("inventors") or []
-            inv_names = [
-                f"{i.get('inventor_last_name','')}, {i.get('inventor_first_name','')}".strip(", ")
-                for i in inventors_list[:3]
-            ]
-            inventors = "; ".join(filter(None, inv_names))
-            if len(inventors_list) > 3:
-                inventors += " et al."
-
-            pub_date   = (p.get("patent_date") or "")[:10]
-            year       = pub_date[:4] if pub_date else ""
-            google_url = f"https://patents.google.com/patent/{patent_number}/en" if patent_number else ""
-
-            out.append({
-                "patent_number": patent_number,
-                "lens_id":       "",
-                "title":         (p.get("patent_title") or "").strip(),
-                "abstract":      (p.get("patent_abstract") or "").strip(),
-                "assignee":      asgn,
-                "inventors":     inventors,
-                "filing_date":   "",
-                "pub_date":      pub_date,
-                "year":          year,
-                "status":        "granted",
-                "jurisdiction":  "US",
-                "ipc_codes":     [],
-                "patent_url":    f"https://patents.google.com/patent/{patent_number}",
-                "google_url":    google_url,
-                "citations":     0,
-                "source":        "PatentsView",
-            })
-        return out
-    except Exception as e:
-        err = str(e)
-        if "NameResolutionError" in err or "ConnectionError" in type(e).__name__ or "Failed to resolve" in err:
-            print(f"[PatentsView] DNS/connection error — disabling for this run: {type(e).__name__}")
-            _pv_disabled = True
-        else:
-            print(f"  [PatentsView] '{query}': {e}")
-        return []
+    print(f"[PatentsView] both endpoints failed — disabling")
+    _pv_disabled = True
+    return []
 
 # ── Deduplication & merging ────────────────────────────────────────────────────
 
@@ -606,7 +645,7 @@ def write_readable_txt(patents: list[dict], path: Path) -> None:
 def main():
     today = datetime.date.today().isoformat()
     print(f"Patent fetcher — {today}  ({DAYS_BACK} days back)")
-    print(f"Sources: EPO OPS  |  USPTO PatentsView\n")
+    print(f"Sources: EPO OPS (paginated, up to {EPO_MAX_RESULTS}/query)  |  USPTO PatentsView (v1+v2)\n")
     if not (EPO_OPS_KEY and EPO_OPS_SECRET):
         print("[EPO] No EPO_OPS_KEY / EPO_OPS_SECRET set — EPO disabled.")
         print("      Register free at https://developers.epo.org\n")
