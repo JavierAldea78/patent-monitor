@@ -155,8 +155,9 @@ def _epo_fetch_page(url: str, cql: str, start: int) -> tuple[list[dict], int]:
         return [], 0
 
 
-def search_epo(query: str, days: int) -> list[dict]:
+def search_epo(queries: list[str], days: int) -> list[dict]:
     """Search EPO OPS — covers EP, WO, GB, FR, DE and 50+ patent offices.
+    Accepts all synonyms in one batched CQL OR query to reduce API calls.
     Paginates up to EPO_MAX_RESULTS per query to capture more results."""
     global _epo_disabled
     if _epo_disabled or not (EPO_OPS_KEY and EPO_OPS_SECRET):
@@ -164,10 +165,13 @@ def search_epo(query: str, days: int) -> list[dict]:
     today     = datetime.date.today()
     date_from = (today - datetime.timedelta(days=days)).strftime("%Y%m%d")
     date_to   = today.strftime("%Y%m%d")
-    q_clean   = _cql_escape(query)
-    if not q_clean:
+    parts = [
+        f'(ti any "{_cql_escape(q)}" OR ab any "{_cql_escape(q)}")'
+        for q in queries if _cql_escape(q)
+    ]
+    if not parts:
         return []
-    cql = f'(ti any "{q_clean}" OR ab any "{q_clean}") AND pd within "{date_from},{date_to}"'
+    cql = f'({" OR ".join(parts)}) AND pd within "{date_from},{date_to}"'
     url = f"{EPO_SEARCH_BASE}/biblio"
 
     all_patents: list[dict] = []
@@ -453,20 +457,22 @@ def _patentsview_parse(patents_list: list) -> list[dict]:
     return out
 
 
-def search_patentsview(query: str, days: int) -> list[dict]:
+def search_patentsview(queries: list[str], days: int) -> list[dict]:
     """Search USPTO PatentsView v2 for US granted patents.
+    Accepts all synonyms in one batched OR request to reduce API calls.
     Requires PATENTSVIEW_KEY env var (free key at https://patentsview.org).
     v1 (api.patentsview.org) is defunct since May 2025."""
     global _pv_disabled
     if _pv_disabled or not PATENTSVIEW_KEY:
         return []
     date_from = (datetime.date.today() - datetime.timedelta(days=days)).strftime("%Y-%m-%d")
+    term_clauses = [c for query in queries for c in (
+        {"_text_any": {"patent_title":    query}},
+        {"_text_any": {"patent_abstract": query}},
+    )]
     q = {
         "_and": [
-            {"_or": [
-                {"_text_any": {"patent_title":    query}},
-                {"_text_any": {"patent_abstract": query}},
-            ]},
+            {"_or": term_clauses},
             {"_gte": {"patent_date": date_from}},
         ]
     }
@@ -603,16 +609,19 @@ def _parse_lens_hit(hit: dict) -> dict | None:
     }
 
 
-def search_lens(query: str, days: int) -> list[dict]:
+def search_lens(queries: list[str], days: int) -> list[dict]:
     """Search Lens.org patent database. Covers US, EP, WO, CN, JP, KR and more.
+    Accepts all synonyms in one batched OR request to reduce API calls.
     Requires LENS_TOKEN env var (free token at https://www.lens.org/lens/user/subscriptions)."""
     global _lens_disabled
     if _lens_disabled or not LENS_TOKEN:
         return []
 
     date_from    = (datetime.date.today() - datetime.timedelta(days=days)).strftime("%Y-%m-%d")
+    lens_query   = " OR ".join(f'"{q}"' for q in queries)
     all_patents: list[dict] = []
-    offset = 0
+    offset  = 0
+    retries = 0
 
     while offset < LENS_MAX_RESULTS:
         size = min(LENS_PAGE_SIZE, LENS_MAX_RESULTS - offset)
@@ -622,7 +631,7 @@ def search_lens(query: str, days: int) -> list[dict]:
                     "must": [
                         {
                             "query_string": {
-                                "query":            query,
+                                "query":            lens_query,
                                 "fields":           ["title", "abstract"],
                                 "default_operator": "OR",
                             }
@@ -655,7 +664,12 @@ def search_lens(query: str, days: int) -> list[dict]:
                 _lens_disabled = True
                 return all_patents
             if r.status_code == 429:
-                print("[Lens] Rate limited — waiting 60s")
+                retries += 1
+                if retries >= 3:
+                    print("[Lens] Rate limited 3× — disabling for this run")
+                    _lens_disabled = True
+                    return all_patents
+                print(f"[Lens] Rate limited — waiting 60s (retry {retries}/3)")
                 time.sleep(60)
                 continue
             if r.status_code != 200:
@@ -663,6 +677,7 @@ def search_lens(query: str, days: int) -> list[dict]:
                 _lens_disabled = True
                 return all_patents
 
+            retries = 0
             data  = r.json()
             hits  = data.get("data") or []
             total = data.get("total") or 0
@@ -684,7 +699,7 @@ def search_lens(query: str, days: int) -> list[dict]:
                 print("[Lens] DNS error — disabling")
                 _lens_disabled = True
             else:
-                print(f"  [Lens] '{query}': {e}")
+                print(f"  [Lens] {e}")
             return all_patents
 
     return all_patents
@@ -887,33 +902,32 @@ def main():
         batch: list[dict] = []
         seen_ids: set[str] = set()
 
-        for query in queries:
-            # EPO OPS: EP, WO, GB, FR, DE and 50+ patent offices
-            for p in search_epo(query, DAYS_BACK):
-                nid = _norm_id(p.get("patent_number", ""))
-                if not nid or nid not in seen_ids:
-                    if nid:
-                        seen_ids.add(nid)
-                    batch.append(p)
-            time.sleep(DELAY_EPO)
-
-            # USPTO PatentsView: US granted patents
-            for p in search_patentsview(query, DAYS_BACK):
-                nid = _norm_id(p.get("patent_number", ""))
-                if nid and nid not in seen_ids:
+        # EPO OPS: EP, WO, GB, FR, DE and 50+ patent offices (all synonyms in one query)
+        for p in search_epo(queries, DAYS_BACK):
+            nid = _norm_id(p.get("patent_number", ""))
+            if not nid or nid not in seen_ids:
+                if nid:
                     seen_ids.add(nid)
-                    batch.append(p)
-            time.sleep(DELAY)
+                batch.append(p)
+        time.sleep(DELAY_EPO)
 
-            # Lens.org: global coverage (US, EP, WO, CN, JP, KR, …)
-            for p in search_lens(query, DAYS_BACK):
-                nid = _norm_id(p.get("patent_number", ""))
-                if nid and nid not in seen_ids:
-                    seen_ids.add(nid)
-                    batch.append(p)
-                elif not nid:
-                    batch.append(p)
-            time.sleep(DELAY_LENS)
+        # USPTO PatentsView: US granted patents (all synonyms in one query)
+        for p in search_patentsview(queries, DAYS_BACK):
+            nid = _norm_id(p.get("patent_number", ""))
+            if nid and nid not in seen_ids:
+                seen_ids.add(nid)
+                batch.append(p)
+        time.sleep(DELAY)
+
+        # Lens.org: global coverage (US, EP, WO, CN, JP, KR, …) (all synonyms in one query)
+        for p in search_lens(queries, DAYS_BACK):
+            nid = _norm_id(p.get("patent_number", ""))
+            if nid and nid not in seen_ids:
+                seen_ids.add(nid)
+                batch.append(p)
+            elif not nid:
+                batch.append(p)
+        time.sleep(DELAY_LENS)
 
         # mustInclude soft bonus
         must = tag_info["mustInclude"]

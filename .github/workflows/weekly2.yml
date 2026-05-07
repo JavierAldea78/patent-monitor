@@ -18,6 +18,7 @@ jobs:
   fetch:
     name: Fetch patents
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     permissions:
       contents: write
     outputs:
