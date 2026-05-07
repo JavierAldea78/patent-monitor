@@ -374,6 +374,7 @@
     .card-link-btn:hover { background: var(--bg-hover); text-decoration: none; }
     .card-link-btn.lens { border-color: var(--primary-lt); color: var(--primary); }
     .card-link-btn.google { border-color: #34a853; color: #34a853; }
+    .card-link-btn.lens-org { border-color: #1b7c3e; color: #1b7c3e; }
     .card-action-btn {
       padding: 4px 10px; border-radius: var(--r-sm); font-size: 11px; font-weight: 600;
       border: 1px solid var(--border); color: var(--text-md); transition: all .15s;
@@ -500,10 +501,11 @@
       display: inline-flex; align-items: center; gap: 6px;
     }
     .modal-link:hover { text-decoration: none; }
-    .modal-link.lens   { background: var(--primary); border-color: var(--primary); color: #fff; }
-    .modal-link.google { background: #fff; border-color: #dadce0; color: #3c4043; }
+    .modal-link.lens     { background: var(--primary); border-color: var(--primary); color: #fff; }
+    .modal-link.google   { background: #fff; border-color: #dadce0; color: #3c4043; }
     .modal-link.google:hover { background: #f8f9fa; }
-    .modal-link.uspto  { background: #1d3461; border-color: #1d3461; color: #fff; }
+    .modal-link.uspto    { background: #1d3461; border-color: #1d3461; color: #fff; }
+    .modal-link.lens-org { background: #1b7c3e; border-color: #1b7c3e; color: #fff; }
 
     /* ── Loading / Empty ───────────────────────────────────────────────────── */
     .loading-wrap {
@@ -1022,7 +1024,8 @@ function renderTable(page) {
       </td>
       <td>
         ${p.patent_url ? `<a href="${esc(p.patent_url)}" target="_blank" class="card-link-btn lens" style="font-size:10px;padding:2px 7px;">Espacenet ↗</a> ` : ""}
-        ${p.google_url ? `<a href="${esc(p.google_url)}" target="_blank" class="card-link-btn google" style="font-size:10px;padding:2px 7px;">G ↗</a>` : ""}
+        ${p.google_url ? `<a href="${esc(p.google_url)}" target="_blank" class="card-link-btn google" style="font-size:10px;padding:2px 7px;">G ↗</a> ` : ""}
+        ${p.lens_id ? `<a href="https://lens.org/lens/patent/${esc(p.lens_id)}" target="_blank" class="card-link-btn lens-org" style="font-size:10px;padding:2px 7px;">Lens ↗</a>` : ""}
       </td>
     </tr>`;
   }).join("");
@@ -1064,6 +1067,7 @@ function renderCards(page) {
       <div class="card-foot">
         ${p.patent_url ? `<a href="${esc(p.patent_url)}" target="_blank" class="card-link-btn lens">Espacenet ↗</a>` : ""}
         ${p.google_url ? `<a href="${esc(p.google_url)}" target="_blank" class="card-link-btn google">Google Patents ↗</a>` : ""}
+        ${p.lens_id ? `<a href="https://lens.org/lens/patent/${esc(p.lens_id)}" target="_blank" class="card-link-btn lens-org">Lens ↗</a>` : ""}
         <div class="card-spacer"></div>
         <button class="card-action-btn ${isStarred?"starred":""}" onclick="toggleStar('${esc(pid)}',this)" title="${isStarred?"Unstar":"Star & add to canvas"}">
           ${isStarred?"★ Starred":"☆ Star"}
@@ -1163,6 +1167,7 @@ function openModalByPid(pid) {
   const links = [];
   if (p.patent_url)  links.push(`<a class="modal-link lens" href="${esc(p.patent_url)}" target="_blank">⚡ View on Espacenet ↗</a>`);
   if (p.google_url)  links.push(`<a class="modal-link google" href="${esc(p.google_url)}" target="_blank"><img src="https://www.google.com/favicon.ico" width="14" height="14" alt=""> Google Patents ↗</a>`);
+  if (p.lens_id)     links.push(`<a class="modal-link lens-org" href="https://lens.org/lens/patent/${esc(p.lens_id)}" target="_blank">Lens.org ↗</a>`);
   if (p.jurisdiction === "US" && p.patent_number) {
     const num = p.patent_number.replace(/^US/, "").replace(/[A-Z]\d*$/, "");
     if (num) links.push(`<a class="modal-link uspto" href="https://www.googleapis.com/patents/pdf/${esc(p.patent_number)}" target="_blank">USPTO ↗</a>`);

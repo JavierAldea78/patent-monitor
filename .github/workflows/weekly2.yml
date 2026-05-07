@@ -40,6 +40,8 @@ jobs:
         env:
           EPO_OPS_KEY:    ${{ secrets.EPO_OPS_KEY }}
           EPO_OPS_SECRET: ${{ secrets.EPO_OPS_SECRET }}
+          PATENTSVIEW_KEY: ${{ secrets.PATENTSVIEW_KEY }}
+          LENS_TOKEN:     ${{ secrets.LENS_TOKEN }}
         run: python scripts/fetch_patents.py
 
       - name: Count results

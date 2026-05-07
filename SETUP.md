@@ -181,6 +181,20 @@ Añade los siguientes (uno por uno):
 | `EPO_OPS_KEY` | El Consumer Key que copiaste del paso 4 |
 | `EPO_OPS_SECRET` | El Consumer Secret que copiaste del paso 4 |
 
+### Recomendado (cobertura global ampliada — Lens.org)
+
+| Name | Value |
+|------|-------|
+| `LENS_TOKEN` | Token de acceso a la API de Lens.org (ver nota abajo) |
+
+> **Cómo obtener LENS_TOKEN:**
+> 1. Regístrate gratis en [lens.org](https://www.lens.org)
+> 2. Ve a **Mi cuenta → Suscripciones** → sección **"Patent"**
+> 3. Solicita acceso a la API (aprobación automática en el plan gratuito)
+> 4. Copia el token de la pestaña **"API Access Token"**
+>
+> Lens.org amplía la cobertura con patentes US, EP, WO, CN, JP, KR y muchas más jurisdicciones, complementando a EPO y PatentsView.
+
 ### Opcionales (para newsletter de email)
 
 | Name | Value |
@@ -291,6 +305,11 @@ python scripts/send_newsletter.py
 
 ### ❌ "PatentsView: rate limited"
 - Normal si se lanza varias veces seguidas. El workflow lo gestiona automáticamente desactivando PatentsView para ese run y usando las otras fuentes.
+
+### ❌ "Lens: Invalid token"
+- Comprueba que el secret `LENS_TOKEN` está bien copiado (sin espacios)
+- Verifica en lens.org → Mi cuenta → Suscripciones que el acceso API sigue activo
+- El plan gratuito tiene cuota mensual; si se agota, Lens se desactiva para ese run y se usan las otras fuentes
 
 ---
 

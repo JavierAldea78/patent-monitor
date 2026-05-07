@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Tech vigilance patent fetcher.
-Sources: EPO Open Patent Services (EP/WO/GB/FR/DE…), USPTO PatentsView (US).
+Sources: EPO Open Patent Services (EP/WO/GB/FR/DE…), USPTO PatentsView (US),
+         Lens.org (global — US, EP, WO, CN, JP, KR and more).
 Reads watchtags.csv → writes patents.json + patents.csv + patents_readable.txt.
 """
 
@@ -39,6 +40,14 @@ EPO_SEARCH_BASE = "https://ops.epo.org/3.2/rest-services/published-data/search"
 # v1 (api.patentsview.org) is defunct as of May 2025 (returns 410 Gone).
 PATENTSVIEW_V2   = "https://search.patentsview.org/api/v1/patent/"
 PATENTSVIEW_KEY  = os.environ.get("PATENTSVIEW_KEY", "").strip()
+
+# Lens.org Patent API — free token at https://www.lens.org/lens/user/subscriptions
+# Set LENS_TOKEN in GitHub Secrets to enable global patent coverage.
+LENS_TOKEN       = os.environ.get("LENS_TOKEN", "").strip()
+LENS_SEARCH_URL  = "https://api.lens.org/patent/search"
+LENS_PAGE_SIZE   = 100   # max per request on free tier
+LENS_MAX_RESULTS = 500   # cap per query to balance coverage vs monthly quota
+DELAY_LENS       = 1.0   # seconds between paginated requests
 
 # Google Patents indexes these jurisdictions reliably
 _GOOGLE_JURISDICTIONS = {"US","EP","WO","DE","GB","FR","JP","CN","KR","CA","AU","CH","NL","BE","SE","DK"}
@@ -488,6 +497,190 @@ def search_patentsview(query: str, days: int) -> list[dict]:
             print(f"  [PatentsView] '{query}': {e}")
     return []
 
+# ── Lens.org Patent API ────────────────────────────────────────────────────────
+
+_lens_disabled = False
+
+
+def _parse_lens_hit(hit: dict) -> dict | None:
+    lens_id      = (hit.get("lens_id") or "").strip()
+    doc_number   = (hit.get("doc_number") or "").strip()
+    jurisdiction = (hit.get("jurisdiction") or "").strip().upper()
+    kind         = (hit.get("kind") or "").strip()
+    patent_number = f"{jurisdiction}{doc_number}{kind}" if doc_number else ""
+
+    biblio = hit.get("biblio") or {}
+
+    # Title — biblio.invention_title[{text, lang}], prefer English
+    titles = biblio.get("invention_title") or []
+    title  = next((t["text"] for t in titles if t.get("lang") == "en" and t.get("text")), "")
+    if not title and titles:
+        first = titles[0]
+        title = first.get("text", "") if isinstance(first, dict) else str(first)
+    if not title:
+        return None
+
+    # Abstract — top-level [{text, lang}], prefer English
+    abstracts = hit.get("abstract") or []
+    abs_text  = next((a["text"] for a in abstracts if a.get("lang") == "en" and a.get("text")), "")
+    if not abs_text and abstracts:
+        first = abstracts[0]
+        abs_text = first.get("text", "") if isinstance(first, dict) else str(first)
+
+    # Dates
+    pub_date    = (hit.get("date_published") or "")[:10]
+    filing_date = ((biblio.get("application_reference") or {}).get("date") or "")[:10]
+    year        = (pub_date or filing_date)[:4]
+
+    # Assignees — biblio.parties.applicants[].extracted_name.value
+    parties    = biblio.get("parties") or {}
+    applicants = parties.get("applicants") or []
+    asgn_names = [
+        (a.get("extracted_name", {}).get("value") or "").strip()
+        for a in applicants[:3]
+        if (a.get("extracted_name", {}).get("value") or "").strip()
+    ]
+    assignee = "; ".join(asgn_names)
+    if len(applicants) > 3:
+        assignee += " et al."
+
+    # Inventors — biblio.parties.inventors[].extracted_name.value
+    inventors_raw = parties.get("inventors") or []
+    inv_names = [
+        (i.get("extracted_name", {}).get("value") or "").strip()
+        for i in inventors_raw[:3]
+        if (i.get("extracted_name", {}).get("value") or "").strip()
+    ]
+    inventors = "; ".join(inv_names)
+    if len(inventors_raw) > 3:
+        inventors += " et al."
+
+    # IPC codes — biblio.classifications_ipcr.classifications[].symbol
+    ipcr_list = (biblio.get("classifications_ipcr") or {}).get("classifications") or []
+    ipc_codes = list(dict.fromkeys(
+        (cl.get("symbol") or "").strip()
+        for cl in ipcr_list[:8]
+        if (cl.get("symbol") or "").strip()
+    ))
+
+    # Status — publication_type field or kind code
+    pub_type   = (hit.get("publication_type") or "").upper()
+    is_granted = pub_type == "GRANTED_PATENT" or (bool(_GRANTED_RE.match(kind)) if kind else False)
+    status     = "granted" if is_granted else "pending"
+
+    # URLs
+    lens_url   = f"https://lens.org/lens/patent/{lens_id}" if lens_id else ""
+    google_url = (f"https://patents.google.com/patent/{patent_number}"
+                  if patent_number and jurisdiction in _GOOGLE_JURISDICTIONS else "")
+    patent_url = google_url or lens_url
+
+    return {
+        "patent_number": patent_number,
+        "lens_id":       lens_id,
+        "title":         title.strip(),
+        "abstract":      abs_text.strip(),
+        "assignee":      assignee,
+        "inventors":     inventors,
+        "filing_date":   filing_date,
+        "pub_date":      pub_date,
+        "year":          year,
+        "status":        status,
+        "jurisdiction":  jurisdiction or "WO",
+        "ipc_codes":     ipc_codes,
+        "patent_url":    patent_url,
+        "google_url":    google_url,
+        "citations":     0,
+        "source":        "Lens",
+    }
+
+
+def search_lens(query: str, days: int) -> list[dict]:
+    """Search Lens.org patent database. Covers US, EP, WO, CN, JP, KR and more.
+    Requires LENS_TOKEN env var (free token at https://www.lens.org/lens/user/subscriptions)."""
+    global _lens_disabled
+    if _lens_disabled or not LENS_TOKEN:
+        return []
+
+    date_from    = (datetime.date.today() - datetime.timedelta(days=days)).strftime("%Y-%m-%d")
+    all_patents: list[dict] = []
+    offset = 0
+
+    while offset < LENS_MAX_RESULTS:
+        size = min(LENS_PAGE_SIZE, LENS_MAX_RESULTS - offset)
+        body = {
+            "query": {
+                "bool": {
+                    "must": [
+                        {
+                            "query_string": {
+                                "query":            query,
+                                "fields":           ["title", "abstract"],
+                                "default_operator": "OR",
+                            }
+                        }
+                    ],
+                    "filter": [
+                        {"range": {"date_published": {"gte": date_from}}}
+                    ],
+                }
+            },
+            "size":    size,
+            "from":    offset,
+            "include": [
+                "lens_id", "doc_number", "jurisdiction", "kind",
+                "publication_type", "date_published", "abstract", "biblio",
+            ],
+        }
+        try:
+            r = requests.post(
+                LENS_SEARCH_URL,
+                json=body,
+                headers={
+                    "Authorization": f"Bearer {LENS_TOKEN}",
+                    "Content-Type":  "application/json",
+                },
+                timeout=30,
+            )
+            if r.status_code == 401:
+                print("[Lens] Invalid token — disabling")
+                _lens_disabled = True
+                return all_patents
+            if r.status_code == 429:
+                print("[Lens] Rate limited — waiting 60s")
+                time.sleep(60)
+                continue
+            if r.status_code != 200:
+                print(f"[Lens] HTTP {r.status_code} — disabling")
+                _lens_disabled = True
+                return all_patents
+
+            data  = r.json()
+            hits  = data.get("data") or []
+            total = data.get("total") or 0
+
+            for hit in hits:
+                p = _parse_lens_hit(hit)
+                if p:
+                    all_patents.append(p)
+
+            if not hits or (offset + len(hits)) >= min(total, LENS_MAX_RESULTS):
+                break
+
+            offset += len(hits)
+            time.sleep(DELAY_LENS)
+
+        except Exception as e:
+            err = str(e)
+            if "NameResolutionError" in err or "Failed to resolve" in err or "ConnectionError" in type(e).__name__:
+                print("[Lens] DNS error — disabling")
+                _lens_disabled = True
+            else:
+                print(f"  [Lens] '{query}': {e}")
+            return all_patents
+
+    return all_patents
+
+
 # ── Deduplication & merging ────────────────────────────────────────────────────
 
 def _norm_id(pid: str) -> str:
@@ -657,8 +850,13 @@ def write_readable_txt(patents: list[dict], path: Path) -> None:
 def main():
     today = datetime.date.today().isoformat()
     print(f"Patent fetcher — {today}  ({DAYS_BACK} days back)")
-    pv_status = f"key={'set' if PATENTSVIEW_KEY else 'MISSING — add PATENTSVIEW_KEY secret'}"
-    print(f"Sources: EPO OPS (paginated up to {EPO_MAX_RESULTS}/query)  |  PatentsView v2 ({pv_status})\n")
+    pv_status   = f"key={'set' if PATENTSVIEW_KEY else 'MISSING — add PATENTSVIEW_KEY secret'}"
+    lens_status = f"token={'set' if LENS_TOKEN else 'MISSING — add LENS_TOKEN secret'}"
+    print(
+        f"Sources: EPO OPS (paginated up to {EPO_MAX_RESULTS}/query)"
+        f"  |  PatentsView v2 ({pv_status})"
+        f"  |  Lens.org ({lens_status})\n"
+    )
     if not (EPO_OPS_KEY and EPO_OPS_SECRET):
         print("[EPO] No EPO_OPS_KEY / EPO_OPS_SECRET set — EPO disabled.")
         print("      Register free at https://developers.epo.org\n")
@@ -697,6 +895,16 @@ def main():
                     seen_ids.add(nid)
                     batch.append(p)
             time.sleep(DELAY)
+
+            # Lens.org: global coverage (US, EP, WO, CN, JP, KR, …)
+            for p in search_lens(query, DAYS_BACK):
+                nid = _norm_id(p.get("patent_number", ""))
+                if nid and nid not in seen_ids:
+                    seen_ids.add(nid)
+                    batch.append(p)
+                elif not nid:
+                    batch.append(p)
+            time.sleep(DELAY_LENS)
 
         # mustInclude soft bonus
         must = tag_info["mustInclude"]
