@@ -24,11 +24,11 @@ OUTPUT_JSON     = REPO_ROOT / "patents.json"
 OUTPUT_CSV      = REPO_ROOT / "patents.csv"
 OUTPUT_READABLE = REPO_ROOT / "patents_readable.txt"
 
-DAYS_BACK       = 730   # 2 years — patents publish slower than papers
+DAYS_BACK       = 10    # incremental — merge_with_existing preserves history
 DELAY           = 0.5   # seconds between PatentsView calls
 DELAY_EPO       = 1.5   # EPO OPS free tier: ~2500 req/hr = 1 per 1.44s; stay safe at 1.5s
 EPO_PAGE_SIZE   = 25    # free tier: max 25 per page (100 on premium); paginate to get more
-EPO_MAX_RESULTS = 200   # max results per query (8 pages × 25) — balance coverage vs speed
+EPO_MAX_RESULTS = 100   # max results per query (4 pages × 25) — reduce quota usage
 
 EPO_OPS_KEY    = os.environ.get("EPO_OPS_KEY", "").strip()
 EPO_OPS_SECRET = os.environ.get("EPO_OPS_SECRET", "").strip()
@@ -260,6 +260,15 @@ def _norm_date(d: str) -> str:
     return d
 
 
+def _epo_date(node: dict) -> str:
+    """Extract date from an EPO document-id node — handles both {"$": "YYYYMMDD"} and plain strings."""
+    if not isinstance(node, dict):
+        return ""
+    raw = node.get("date", "")
+    text = raw.get("$", "") if isinstance(raw, dict) else str(raw or "")
+    return _norm_date(text)
+
+
 def _parse_epo_doc(doc: dict) -> dict | None:
     country       = doc.get("@country", "")
     doc_number    = doc.get("@doc-number", "")
@@ -281,11 +290,11 @@ def _parse_epo_doc(doc: dict) -> dict | None:
     pub_date = ""
     for pid in pub_ids:
         if _get(pid, "@document-id-type") == "epodoc":
-            pub_date = _norm_date(_get(pid, "date", "$"))
+            pub_date = _epo_date(pid)
             break
     if not pub_date:
         for pid in pub_ids:
-            pub_date = _norm_date(_get(pid, "date", "$"))
+            pub_date = _epo_date(pid)
             if pub_date:
                 break
 
@@ -293,7 +302,7 @@ def _parse_epo_doc(doc: dict) -> dict | None:
     app_ids     = _as_list(_get(bib, "application-reference", "document-id"))
     filing_date = ""
     for aid in app_ids:
-        filing_date = _norm_date(_get(aid, "date", "$"))
+        filing_date = _epo_date(aid)
         if filing_date:
             break
 
