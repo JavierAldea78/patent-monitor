@@ -270,6 +270,18 @@ ABSTRACT   : This electronic device may include a display panel. The display pan
 
 ---
 
+TITLE      : SOFTWARE DEFINED VEHICLE WITH FUNCTIONALLY SAFE CONTROLLER AND METHOD OF PROVIDING FUNCTIONAL SAFETY THEREOF
+PATENT     : EP4742041A1  [EP]  PENDING
+ASSIGNEE   : WIPRO LTD [IN]; Wipro Limited
+INVENTORS  : SARKAR ARNIK [IN]; SAYANSHREE GHOSH [IN]; SARKAR, Arnik et al.
+FILED      : 2025-02-27   PUB: 2026-05-13
+IPC        : G06F
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742041A1
+ABSTRACT   : [0001]    A software defined vehicle (SDV) with functionally safe controller and method of providing functional safety is disclosed. The SDV includes a plurality of controllers. Each of the plurality of controllers includes a safety island configurable to perform a plurality of services corresponding to one or more automotive safety integrity levels (ASILs) from a plurality of ASILs. A performance island configurable to perform a plurality of micro-services corresponding to one or more remaining
+
+---
+
 TITLE      : PROCESS OF PREPARING A CONTAMINATED WATER SAMPLE AND SUBSEQUENT TREATMENT OF THIS CONTAMINATED WATER, AND USE OF A KIT
 PATENT     : EP4741352A1  [EP]  PENDING
 ASSIGNEE   : ARK IND LDA [PT]; Ark - Indústria, Lda
@@ -306,6 +318,18 @@ ABSTRACT   : [0001]    The invention relates to a hair care and/or scalp care co
 
 ---
 
+TITLE      : CHILD-RESISTANT CLOSURE, CARTON PACKAGE AND METHODS OF PRODUCING THE SAME
+PATENT     : EP4741307A1  [EP]  PENDING
+ASSIGNEE   : MODULPAC AB [SE]; Modulpac AB
+INVENTORS  : SVENSSON MICAEL [SE]; Svensson, Micael
+FILED      : 2025-11-06   PUB: 2026-05-13
+IPC        : B65D
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741307A1
+ABSTRACT   : [0001]    A child-resistant closure (18) configured to be attached to a carton package for a pourable household chemical comprises an attachment collar (20); a circular spout (22) extending along a spout axis (A); and a cap arrangement (24) comprising an attachment ring (28) and a reclosable flip cap (26) held to the attachment ring (28) by a hinge (30). The flip cap (26) comprises a cap mantle (36) having a locking hook (38) extending radially inwards towards the spout axis (A), and a radially 
+
+---
+
 TITLE      : A GAMING SYSTEM
 PATENT     : AU2026203183A1  [AU]  PENDING
 ASSIGNEE   : ARISTOCRAT TECH AUSTRALIA PTY LIMITED; Aristocrat Technologies Australia Pty Limited
@@ -339,6 +363,18 @@ IPC        : B02B
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741059A1
 ABSTRACT   : The present invention refers to a method for obtaining dehulled corn kernels comprising the steps of providing raw corn kernels, subjecting said kernels to an acid hydrolysis while heating, washing the hydrolyzed-pericarp corn kernels and optionally drying the dehulled corn kernels obtained to a final moisture adequate to safe storage and manufacture of the dehulled corn kernels.
+
+---
+
+TITLE      : A METHOD FOR COMPENSATING THE EFFECTS OF GAS CONTAMINATION FOR A VENOUS BLOOD SAMPLE
+PATENT     : EP4742253A1  [EP]  PENDING
+ASSIGNEE   : UNIV AALBORG [DK]; Aalborg Universitet
+INVENTORS  : REES STEPHEN EDWARD [DK]; THOMSEN LARS PILEGAARD [DK]; SHASTRI LISHA [DK] et al.
+FILED      : 2024-11-11   PUB: 2026-05-13
+IPC        : G01N, G16B, G16C
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742253A1
+ABSTRACT   : [0001]    The invention relates to a computer-implemented method for compensating the effects of gas contamination of acid-base, oxygenation and/or electrolyte status for a venous blood sample, or blood sampled elsewhere, taken in a vacuum tube from a subject, such as human patient. The vacuum tube has a volume of residual gas (V<g>) together with the blood. The method has a mathematical model with physiological sub-models simulating development in blood together with this residual gas, includin
 
 ---
 
@@ -860,15 +896,19 @@ ABSTRACT   : [0000]    A lid system for a beverage container is disclosed that i
 
 ---
 
-TITLE      : SOFTWARE DEFINED VEHICLE WITH FUNCTIONALLY SAFE CONTROLLER AND METHOD OF PROVIDING FUNCTIONAL SAFETY THEREOF
-PATENT     : EP4742041A1  [EP]  PENDING
-ASSIGNEE   : WIPRO LTD [IN]; Wipro Limited
-INVENTORS  : SARKAR ARNIK [IN]; SAYANSHREE GHOSH [IN]; SARKAR, Arnik et al.
-FILED      : 2025-02-27   PUB: 2026-05-13
-IPC        : G06F
+TITLE      : A MULTIPLE-COMPONENT POLYURETHANE COMPOSITION AND USE THEREOF
+PATENT     : EP4741431A1  [EP]  PENDING
+ASSIGNEE   : SIKA TECH AG [CH]; Sika Technology AG
+INVENTORS  : LIANG SHUYU [CH]; CHOFFAT FABIEN [CH]; LABOUREIX GABRIEL [CH] et al.
+FILED      : 2024-11-07   PUB: 2026-05-13
+IPC        : B33Y, C08G
 SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742041A1
-ABSTRACT   : [0001]    A software defined vehicle (SDV) with functionally safe controller and method of providing functional safety is disclosed. The SDV includes a plurality of controllers. Each of the plurality of controllers includes a safety island configurable to perform a plurality of services corresponding to one or more automotive safety integrity levels (ASILs) from a plurality of ASILs. A performance island configurable to perform a plurality of micro-services corresponding to one or more remaining
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741431A1
+ABSTRACT   : [0001]    1. A multiple-component polyurethane composition composed of a first component A and a second component B, wherein the first component A comprises:
+a) At least one polyol PO having an average hydroxyl number determined according to ISO 4629-2:2016 standard of 350 - 1500 mg KOH/g, preferably 450 - 1000 mg KOH/g and the second component B comprises:
+b) At least one aromatic polyisocyanate PI,
+
+and wherein the at least one polyol PO is a tetra- or higher functional polyol containing at le
 
 ---
 
@@ -881,18 +921,6 @@ IPC        : G01R
 SCORE      : 59
 LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741857A1
 ABSTRACT   : A method (200) of determining a functionality state of an electric power supply to one or more of a plurality of electric conductors (C1 - C6) in an electric circuitry (E) comprises receiving (205), by means of a control unit (110) of an electric monitoring system (100), at least one peripheral voltage signal from at least one peripheral voltage sensor (122-1 - 122-6), the at least one peripheral voltage signal indicative of a voltage in an electric conductor (C1 - C6) of a plurality of electric
-
----
-
-TITLE      : CHILD-RESISTANT CLOSURE, CARTON PACKAGE AND METHODS OF PRODUCING THE SAME
-PATENT     : EP4741307A1  [EP]  PENDING
-ASSIGNEE   : MODULPAC AB [SE]; Modulpac AB
-INVENTORS  : SVENSSON MICAEL [SE]; Svensson, Micael
-FILED      : 2025-11-06   PUB: 2026-05-13
-IPC        : B65D
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741307A1
-ABSTRACT   : [0001]    A child-resistant closure (18) configured to be attached to a carton package for a pourable household chemical comprises an attachment collar (20); a circular spout (22) extending along a spout axis (A); and a cap arrangement (24) comprising an attachment ring (28) and a reclosable flip cap (26) held to the attachment ring (28) by a hinge (30). The flip cap (26) comprises a cap mantle (36) having a locking hook (38) extending radially inwards towards the spout axis (A), and a radially 
 
 ---
 
@@ -920,15 +948,15 @@ ABSTRACT   : [0001]    A machine learning based (ML-based) computing method and 
 
 ---
 
-TITLE      : A METHOD FOR COMPENSATING THE EFFECTS OF GAS CONTAMINATION FOR A VENOUS BLOOD SAMPLE
-PATENT     : EP4742253A1  [EP]  PENDING
-ASSIGNEE   : UNIV AALBORG [DK]; Aalborg Universitet
-INVENTORS  : REES STEPHEN EDWARD [DK]; THOMSEN LARS PILEGAARD [DK]; SHASTRI LISHA [DK] et al.
+TITLE      : LUBRICANT COMPOSITION
+PATENT     : EP4741476A1  [EP]  PENDING
+ASSIGNEE   : SHELL INT RESEARCH [NL]; Shell Internationale Research Maatschappij B.V.
+INVENTORS  : UEDA MAO [JP]; UEDA, Mao
 FILED      : 2024-11-11   PUB: 2026-05-13
-IPC        : G01N, G16B, G16C
+IPC        : C10M
 SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742253A1
-ABSTRACT   : [0001]    The invention relates to a computer-implemented method for compensating the effects of gas contamination of acid-base, oxygenation and/or electrolyte status for a venous blood sample, or blood sampled elsewhere, taken in a vacuum tube from a subject, such as human patient. The vacuum tube has a volume of residual gas (V<g>) together with the blood. The method has a mathematical model with physiological sub-models simulating development in blood together with this residual gas, includin
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741476A1
+ABSTRACT   : LUBRICANT COMPOSITIONThis invention provides a lubricating oil composition suitable for use in an electric vehicle, comprising:a base oil comprising Fischer-Tropsch derived base oils,poly-α-olefin base oils or mixtures thereof; and in the range of from 0.5 to 12wt% of a friction modifier additive,wherein the friction modifier additive is a compound of formula (I)        R<sup>1</sup>[(AO)<sub>n</sub>-R<sup>2</sup>]<sub>m</sub>     (I)wherein:R<sup>1</sup> is the residue of a group having at leas
 
 ---
 
@@ -1484,42 +1512,6 @@ ABSTRACT   : Method relates to electrical engineering, specifically to conversio
 
 ---
 
-TITLE      : EQUIPMENT SERVICE, SALES, AND CONSUMER ANALYTICS PORTAL
-PATENT     : US20260127625A1  [US]  PENDING
-ASSIGNEE   : PEPSICO INC [US]; PepsiCo, Inc.
-INVENTORS  : LAU CHEUK CHI [US]; LI XUEJUN [US]; LIETZ JACOB [US] et al.
-FILED      : 2024-11-04   PUB: 2026-05-07
-IPC        : G06Q
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260127625A1
-ABSTRACT   : Disclosed herein are system, method, and computer program product embodiments for an equipment service, sales, and consumer analytics portal, comprising: receiving data via a network, where the data includes sensor data from a beverage system located at an edge of the network, consumable product data from the beverage system, inventory system data, and internet data; generating, by a machine learning model, a prediction using the received data including one of a repair or preventative maintenanc
-
----
-
-TITLE      : SLENDER SPOUT FOR A MULTIFUNCTION FLUID DISPENSER
-PATENT     : WO2026090652A1  [WO]  PENDING
-ASSIGNEE   : BILLI R&D PTY LTD [AU]; BILLI R&D PTY LTD
-INVENTORS  : CRAGGS DAVID [AU]; CRAGGS, David
-FILED      : 2025-10-03   PUB: 2026-05-07
-IPC        : B67D, E03C, F16L
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026090652A1
-ABSTRACT   : An apparatus for dispensing a water-based beverage. The apparatus has a number of pipes running within an elongate housing, each pipe having a cross-sectional area. An outlet portion is disposed at a terminus of the elongate housing to allow exit of beverage from each of the pipes. First and second pipes are merged to provide a merged flow path. The cross-sectional area of the merged flow path is less than the sum of the cross-sectional areas of the first and second pipes. The apparatus may also
-
----
-
-TITLE      : COMPOSITIONS AND METHODS FOR IMPROVING GUT AND SKIN BARRIER FUNCTION
-PATENT     : WO2026096412A1  [WO]  PENDING
-ASSIGNEE   : CODEX LABS CORP [US]; CODEX LABS CORPORATION
-INVENTORS  : SELKER MARK [US]; PALDUS BARBARA A [US]; SIMPSON-NILSEN PAULA [US] et al.
-FILED      : 2025-10-28   PUB: 2026-05-07
-IPC        : A23L, A61K
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026096412A1
-ABSTRACT   : The present invention is directed to a dietary supplement composition for enhancing gut barrier and skin health comprising a therapeutically effective amount of: (a) at least one polysaccharide chosen from a fructo-oligosaccharide, a galacto-oligosaccharide, a xylo-oligosaccharide, and mixtures thereof; (b) at least one polysaccharide mucilage having demulcent activity; (c) at least one source of insoluble dietary fiber having antioxidant activity; (d) at least one amino acid capable of supporti
-
----
-
 ============================================================
 DOMAIN: Ciencia de Materiales
 ============================================================
@@ -1605,18 +1597,6 @@ IPC        : G06T
 SCORE      : 59
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026090167A1
 ABSTRACT   : A machine learning model (e.g., a neural network or other suitable machine learning model) is trained and implemented for noise reduction in ultra-low-dose (ULD) computed tomography (CT). Training inputs include low-dose CT image data generated from thick-slice images and noise maps estimated from images having a thinner slice thickness than the thick-slice images. Training targets include routine-dose CT image data including images having the same slice thickness as the thick-slice images in th
-
----
-
-TITLE      : Verfahren zur Herstellung eines Spenderbehälters
-PATENT     : DE102025123002B3  [DE]  GRANTED
-ASSIGNEE   : INOTECH KUNSTSTOFFTECHNIK GMBH [DE]; INOTECH Kunststofftechnik GmbH
-INVENTORS  : GLEIXNER JOSEF [DE]; Gleixner, Josef
-FILED      : 2025-06-12   PUB: 2026-05-07
-IPC        : B29C, B65D
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=DE102025123002B3
-ABSTRACT   : Beschrieben wird ein Verfahren zur Herstellung eines Spenderbehälters 1 umfassend die Schrittea1) Bereitstellen eines aus einem formstabilen Material gebildeten Außenbehälters 2, wobei der Außenbehälter 2 einen Außenbehälterboden 4, einen Außenbehälterkörper 5 und einen eine Außenbehälteröffnung 12 aufweisenden Außenbehälterkopf 10 aufweist, wobei Außenbehälterboden 4, Außenbehälterkörper 5 und Außenbehälterkopf 10 einen Außenbehälterinnenraum AIR begrenzen, wobei der Außenbehälterboden 4 eine v
 
 ---
 
@@ -1760,6 +1740,42 @@ ABSTRACT   : [0000]    Existing Equal Cost Multi-path (ECMP) grouping strategies
 
 ---
 
+TITLE      : APPARATUS FOR ASPIRATING AND DISPENSING A LIQUID
+PATENT     : AU2025238126A1  [AU]  PENDING
+ASSIGNEE   : AIM LAB AUTOMATION TECH PTY LTD; Aim Lab Automation Technologies Pty Ltd
+INVENTORS  : BRAUN DAMIEN; BRAUN, Damien
+FILED      : 2025-09-29   PUB: 2026-05-14
+IPC        : B01L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025238126A1
+ABSTRACT   : The present disclosure relates to an apparatus for aspirating and dispensing a sample as used in manual and automated sample processing systems used in analytical laboratory settings. The disclosure is applicable at least to equipment of the type used in high throughput analytical laboratories, and also equipment used in small scale applications. Consumables for such apparatus are also contemplated. The present disclosure relates to an apparatus for aspirating and dispensing a sample as used in 
+
+---
+
+TITLE      : A camlock fitting to retain a pipe with a removable inner sleeve
+PATENT     : AU2024227600A1  [AU]  PENDING
+ASSIGNEE   : PHILMAC PTY LTD; Philmac Pty Ltd
+INVENTORS  : PRABHU RAGHUNATH; Prabhu, Raghunath
+FILED      : 2024-10-24   PUB: 2026-05-14
+IPC        : F16L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024227600A1
+ABSTRACT   : A camlock device that can retain a pipe with a biasing means, and has a removable inner sleeve. The material of the removable inner sleeve can be exchanged in accordance with the pipe material. The camlock device consists of two hooks that interlock and a biasing means in the form of a lever that locks the two hooks together and retains the pipes in the camlock device. A camlock device that can retain a pipe with a biasing means, and has a removable inner sleeve. The material of the removable in
+
+---
+
+TITLE      : Carbon Hydrogenation to Ethanol versatile unit (CHEVU)
+PATENT     : AU2024227673A1  [AU]  PENDING
+ASSIGNEE   : BURKE JOHN; burke, john
+INVENTORS  : BURKE JOHN; burke, john
+FILED      : 2024-10-28   PUB: 2026-05-14
+IPC        : B01J, C07C, C25B
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024227673A1
+ABSTRACT   : The invention is a Domestic low power Carbon Hydrogenation to Ethanol versatile unit (CHEVU) and Heterogeneous Catalyst Testing unit can be used in conjunction with a point-source co2 capture system The invention is a Domestic low power Carbon Hydrogenation to Ethanol versatile unit (CHEVU) and Heterogeneous Catalyst Testing unit can be used in conjunction with a point-source co2 capture system ct c t
+
+---
+
 TITLE      : Method for Finalising Concrete Production
 PATENT     : AU2025256284A1  [AU]  PENDING
 ASSIGNEE   : VYRODOV VICTOR; LATHAM STEVEN; Vyrodov, Victor et al.
@@ -1880,6 +1896,18 @@ ABSTRACT   : Disclosed in the present invention is a new organic chemical reacti
 
 ---
 
+TITLE      : METHOD FOR IMPROVING TOMATO QUALITY IN THE CONDITIONS OF THE SOUTHERN STEPPE OF UKRAINE
+PATENT     : UA163011U  [UA]  GRANTED
+ASSIGNEE   : MYKOLAIV NATIONAL AGRARIAN UNIV [UA]; МИКОЛАЇВСЬКИЙ НАЦІОНАЛЬНИЙ АГРАРНИЙ УНІВЕРСИТЕТ
+INVENTORS  : SHEBANIN VIACHESLAV SERHIIOVYCH [UA]; DROBITKO ANTONINA VIKTORIVNA [UA]; SMIRNOVA IRYNA VIKTORIVNA [UA] et al.
+FILED      : 2025-12-12   PUB: 2026-05-13
+IPC        : 
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=UA163011U
+ABSTRACT   : Method for improving tomato quality in the conditions of the Southern Steppe of Ukraine includes primary and secondary tillage, sowing, crop care and harvesting. Wherein, the tomato variety is sown with the application of mineral fertilizers at a rate of N160P80K80, irrigation is carried out with a pre-irrigation soil moisture of 70–75% of field capacity.
+
+---
+
 TITLE      : Hop Plant Named 'HBC 1325'
 PATENT     : US20260130304P1  [US]  PENDING
 ASSIGNEE   : HOP BREEDING CO L L C [US]; HOP BREEDING COMPANY,  L.L.C.
@@ -1889,30 +1917,6 @@ IPC        : A01H
 SCORE      : 71
 LINK       : https://worldwide.espacenet.com/patent/search?q=US20260130304P1
 ABSTRACT   : A new hop plant named ‘HBC 1325’ is disclosed. ‘HBC 1325’ is used for its exceptional and unique aromatic qualities, and is suitable for beer flavoring.
-
----
-
-TITLE      : A camlock fitting to retain a pipe with a removable inner sleeve
-PATENT     : AU2024227600A1  [AU]  PENDING
-ASSIGNEE   : PHILMAC PTY LTD; Philmac Pty Ltd
-INVENTORS  : PRABHU RAGHUNATH; Prabhu, Raghunath
-FILED      : 2024-10-24   PUB: 2026-05-14
-IPC        : F16L
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024227600A1
-ABSTRACT   : A camlock device that can retain a pipe with a biasing means, and has a removable inner sleeve. The material of the removable inner sleeve can be exchanged in accordance with the pipe material. The camlock device consists of two hooks that interlock and a biasing means in the form of a lever that locks the two hooks together and retains the pipes in the camlock device. A camlock device that can retain a pipe with a biasing means, and has a removable inner sleeve. The material of the removable in
-
----
-
-TITLE      : Carbon Hydrogenation to Ethanol versatile unit (CHEVU)
-PATENT     : AU2024227673A1  [AU]  PENDING
-ASSIGNEE   : BURKE JOHN; burke, john
-INVENTORS  : BURKE JOHN; burke, john
-FILED      : 2024-10-28   PUB: 2026-05-14
-IPC        : B01J, C07C, C25B
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024227673A1
-ABSTRACT   : The invention is a Domestic low power Carbon Hydrogenation to Ethanol versatile unit (CHEVU) and Heterogeneous Catalyst Testing unit can be used in conjunction with a point-source co2 capture system The invention is a Domestic low power Carbon Hydrogenation to Ethanol versatile unit (CHEVU) and Heterogeneous Catalyst Testing unit can be used in conjunction with a point-source co2 capture system ct c t
 
 ---
 
@@ -2324,57 +2328,21 @@ ABSTRACT   : Mini-plow includes a frame and a stand with a working body consisti
 
 ---
 
-TITLE      : Hop plant Named 'HBC 1324'
-PATENT     : US20260130305P1  [US]  PENDING
-ASSIGNEE   : HOP BREEDING CO L L C [US]; Hop Breeding Company, L.L.C.
-INVENTORS  : PROBASCO EUGENE G [US]; PERRAULT JASON [US]; VARNUM SCOTT [US] et al.
-FILED      : 2025-09-10   PUB: 2026-05-07
-IPC        : A01H
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260130305P1
-ABSTRACT   : [0000]    A new hop plant named ‘HBC 1324’ is disclosed. ‘HBC 1324’ is used for its exceptional and unique aromatic qualities, and is suitable for beer flavoring.
-
----
-
-TITLE      : PARTITIONED TRAINING VIA ONE-HOP HISTORICAL GRADIENTS
-PATENT     : US20260127409A1  [US]  PENDING
-ASSIGNEE   : INT BUSINESS MACHINES CORPORATION [US]; International Business Machines Corporation
-INVENTORS  : HOANG THANH LAM [IE]; MARTÍNEZ GALINDO MARCOS [IE]; SBODIO MARCO LUCA [IE] et al.
-FILED      : 2024-11-06   PUB: 2026-05-07
-IPC        : G06N
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260127409A1
-ABSTRACT   : Systems/techniques that facilitate partitioned training via one-hop historical gradients are provided. In various embodiments, a system can access a graph. In various aspects, the system can train a graph neural network on partitions of the graph, based on historical gradients of partition-wise training losses with respect to one-hop node embeddings.
-
----
-
-TITLE      : TECHNIQUES FOR MULTI-HOP SIDELINK RELAY CONFIGURATIONS
-PATENT     : WO2026090955A1  [WO]  PENDING
-ASSIGNEE   : QUALCOMM INCORPORATED [US]; LIU JIANHUA [CN]; CHENG HONG [US] et al.
-INVENTORS  : LIU JIANHUA [US]; CHENG HONG [US]; LIU, Jianhua et al.
-FILED      : 2024-10-31   PUB: 2026-05-07
-IPC        : H04W
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026090955A1
-ABSTRACT   : Methods, systems, and devices for wireless communications are described. The described techniques provide for one or more user equipments (UEs) included in a multi-hop sidelink relay to communicate signaling to determine whether to add a new intermediate relay UE to the multi-hop sidelink relay and to inform a network entity of the new intermediate relay UE. In a first example, a UE may report information associated with the new intermediate relay UE and a sidelink connection to the network enti
-
----
-
-TITLE      : INTERMEDIATE RELAY TERMINAL RELAY RESELECTION FOR MULTI-HOP RELAY COMMUNICATION LINKS
-PATENT     : WO2026096274A1  [WO]  PENDING
-ASSIGNEE   : KYOCERA CORP [JP]; KYOCERA CORPORATION
-INVENTORS  : FUJISHIRO MASATO [JP]; CHANG HENRY [US]; FUJISHIRO, Masato et al.
-FILED      : 2025-10-23   PUB: 2026-05-07
-IPC        : H04W
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026096274A1
-ABSTRACT   : While facilitating an initial multi-hop relay communication link between a child terminal and a network, an intermediate relay terminal determines that a failure has occurred on a network-end portion of the multi-hop relay communication link to the network. In response and transparently to the child terminal, the intermediate relay terminal performs a relay reselection process comprising identifying an alternate access node for facilitating an alternate communication link between the child termi
-
----
-
 ============================================================
 DOMAIN: Microencapsulación
 ============================================================
+
+TITLE      : Cargo shoring bar
+PATENT     : AU2024259787A1  [AU]  PENDING
+ASSIGNEE   : ANCRA AUSTRALIA PTY LTD; Ancra Australia Pty Ltd
+INVENTORS  : HOOPER DANIEL TROY; HOOPER, Daniel Troy
+FILED      : 2024-11-07   PUB: 2026-05-14
+IPC        : B60P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024259787A1
+ABSTRACT   : The present disclosure is related to a cargo shoring bar with an engagement mechanism to facilitate extending or shortening the length of the device. The cargo shoring bar may comprise a first elongated member and a second elongated member that can translate relative to each other, and a handle connected to one of the elongated members that can move between an unengaged and an engaged position. Moving the handle to the engaged position restricts the movement of the first elongated member and the
+
+---
 
 TITLE      : HIGH ZIRCONIA BRICK, AND PREPARATION PROCESS AND USE THEREOF
 PATENT     : EP4741364A1  [EP]  PENDING
@@ -2484,15 +2452,27 @@ ABSTRACT   : Disclosed herein is a process for preparing a plant-based food doug
 
 ---
 
-TITLE      : Cargo shoring bar
-PATENT     : AU2024259787A1  [AU]  PENDING
-ASSIGNEE   : ANCRA AUSTRALIA PTY LTD; Ancra Australia Pty Ltd
-INVENTORS  : HOOPER DANIEL TROY; HOOPER, Daniel Troy
-FILED      : 2024-11-07   PUB: 2026-05-14
-IPC        : B60P
+TITLE      : IMAGE FORMING METHOD
+PATENT     : EP4741938A1  [EP]  PENDING
+ASSIGNEE   : KONICA MINOLTA INC [JP]; Konica Minolta, Inc.
+INVENTORS  : ITO NATSUKI [JP]; ITO, Natsuki
+FILED      : 2025-11-10   PUB: 2026-05-13
+IPC        : G03G
 SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024259787A1
-ABSTRACT   : The present disclosure is related to a cargo shoring bar with an engagement mechanism to facilitate extending or shortening the length of the device. The cargo shoring bar may comprise a first elongated member and a second elongated member that can translate relative to each other, and a handle connected to one of the elongated members that can move between an unengaged and an engaged position. Moving the handle to the engaged position restricts the movement of the first elongated member and the
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741938A1
+ABSTRACT   : [0001]    An image forming method for forming a toner image on a continuous medium using a toner. An area ratio of an element derived from an inorganic fine particle to a total area of all elements measured by X-ray photoelectron spectroscopy (ESCA) of the toner image is within a range of 4 to 10%, the toner has a toner base particle, and the toner base particle contains a release agent and an amorphous polyester.
+
+---
+
+TITLE      : SYSTEM AND METHOD FOR PREVENTING RENEWABLE SOURCES POWER TRANSFER FAULTS IN A GRID-CONNECTED CONVERTER
+PATENT     : EP4742486A1  [EP]  PENDING
+ASSIGNEE   : CE T POWER LUXEMBOURG SA [LU]; CE+T Power Luxembourg SA
+INVENTORS  : MILSTEIN FRANÇOIS [BE]; JOANNES THIERRY [BE]; FUCITO AMORY [BE] et al.
+FILED      : 2024-11-08   PUB: 2026-05-13
+IPC        : H02J, H02M
+SCORE      : 59
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742486A1
+ABSTRACT   : The present invention is related to an electric power system for controlling and improving power availability to a load (5), said system comprising a renewable energy generating unit (1) for producing DC power, and connected to an external non-controlled inverter (2) ; an AC load (5) ; an electric energy storage unit (4) ; a converter (3) having a bidirectional output AC port (34), a DC port (33) and, optionally, an input AC port (32) that may be grid-interactive ; and optionally an AC grid (8) 
 
 ---
 
@@ -2618,6 +2598,18 @@ ABSTRACT   : System for automatic notification of the appearance of elevated and
 
 ---
 
+TITLE      : METHOD FOR PRODUCING A MEDICINE WITH HEPATOPROTECTIVE EFFECT BASED ON IONIZED CRANBERRY LEAF EXTRACT WITH L-ARGININE
+PATENT     : UA163006U  [UA]  GRANTED
+ASSIGNEE   : MASLOV OLEKSANDR YURIIOVYCH [UA]; Маслов Олександр Юрійович
+INVENTORS  : MASLOV OLEKSANDR YURIIOVYCH [UA]; PETROSHCHUK SOFIIA ROMANIVNA [UA]; KOMISARENKO MYKOLA ANDRIIOVYCH [UA] et al.
+FILED      : 2025-12-08   PUB: 2026-05-13
+IPC        : 
+SCORE      : 53
+LINK       : https://worldwide.espacenet.com/patent/search?q=UA163006U
+ABSTRACT   : Method for producing ionized cranberry leaf extract with L-arginine with antioxidant, anti-inflammatory and antimicrobial effects involves grinding the raw material. The plant raw material is extracted once with an aqueous solution of L-arginine with pH=12.5 in a 1:10 ratio for 30 minutes in a water bath at a temperature of 90°C, the resulting extract is filtered, then concentrated in a vacuum evaporator at a temperature of 50–60 °C to a ratio of the amount of extract to raw material of 1:1. 1
+
+---
+
 TITLE      : METHOD FOR DYNAMIC ROUTING OF GOODS DELIVERY UNDER CONDITIONS OF LIMITED TRAFFIC INFORMATION
 PATENT     : UA162999U  [UA]  GRANTED
 ASSIGNEE   : NATIONAL TRANSPORT UNIV [UA]; НАЦІОНАЛЬНИЙ ТРАНСПОРТНИЙ УНІВЕРСИТЕТ
@@ -2627,30 +2619,6 @@ IPC        :
 SCORE      : 53
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162999U
 ABSTRACT   : Method for dynamic routing of goods delivery under conditions of limited traffic information involves the use of traffic sensors along the areas of the street and road network (SRN). Dynamic routing is performed in real time under conditions of limited traffic information, based on current IoT data received by the road traffic sensors that are located along and measure the intensity of traffic flow in the relevant areas of the street and road network.
-
----
-
-TITLE      : ENCAPSULATION OF DIMER OR TANDEM-ENZYMES WITHIN CAPSID PROTEINS, IN PARTICULAR WITHIN ENGINEERED ENCAPSULINS
-PATENT     : WO2026092903A1  [WO]  PENDING
-ASSIGNEE   : ALBERT LUDWIGS UNIV FREIBURG KOERPERSCHAFT DES OEFFENTLICHEN RECHTS [DE]; ALBERT-LUDWIGS-UNIVERSITÄT FREIBURG KÖRPERSCHAFT DES ÖFFENTLICHEN RECHTS
-INVENTORS  : JESSEN-TREFZER CLAUDIA [DE]; ZMYSLIA MARIIA [DE]; JESSEN-TREFZER, Claudia et al.
-FILED      : 2025-09-09   PUB: 2026-05-07
-IPC        : C07K, C12N
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026092903A1
-ABSTRACT   : The present invention relates to a nanoparticle, comprising an assembly of bacterial encapsulin protein monomers, and a protein located inside the nanoparticle, wherein the protein is a dimer or tandem-enzyme wherein each enzyme of the dimer or tandem is fused to at least one terminal targeting peptide (TP). The invention further relates to nanoparticles comprising modified encapsulin proteins, and methods and uses of the nanoparticles in medicine, industry, cleaning and biotechnology.
-
----
-
-TITLE      : System zur Bereitstellung einer Betriebsflüssigkeit in einem Kraftfahrzeug
-PATENT     : DE102025102465B3  [DE]  GRANTED
-ASSIGNEE   : TESONA GMBH & CO KG [DE]; TESONA GmbH & Co. KG
-INVENTORS  : LANTZSCH HEIKO [DE]; REINISCH ALEXANDER [DE]; PIETSCHMANN KARSTEN [DE] et al.
-FILED      : 2025-01-23   PUB: 2026-05-07
-IPC        : F01N, F02M
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=DE102025102465B3
-ABSTRACT   : System (1) zur Bereitstellung einer Betriebsflüssigkeit in einem Kraftfahrzeug (2) aufweisend einen Tank (3), in welchem die Betriebsflüssigkeit lagerbar ist, und eine Abgabestelle (4), an welcher die Betriebsflüssigkeit bereitstellbar ist, weiter aufweisend eine funktional betrachtet zwischen dem Tank (3) und der Abgabestelle (4) angeordnete und bidirektional betreibbare Förderpumpe (9) zum Fördern der Betriebsflüssigkeit, und weiter aufweisend eine Ansaugleitung (15) und eine Rücklaufleitung (
 
 ---
 
@@ -2767,6 +2735,18 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162991U
 ABSTRACT   : Method for producing cheese sauce involves the use of a milk-protein base, a fat component, water, salt, a mixture of cheese-melting salts, a structure-forming agent, melting, homogenization, packaging, cooling. Low-fat sour milk cheese is used as the milk-protein base in an amount of 31–51%. Milk cream is used as the fat component in an amount of 15–25%. Apple pectin in fiber is added as a structure-forming agent and a source of biologically active substances in an amount of 2.5–3.5%, which, pr
+
+---
+
+TITLE      : DEVICE FOR ACTIVATING RESULTING VOLTAGE ARGUMENTS 010009000003e00500000000b705000000000400000003010800050000000b0200000000050000000c0212006d00030000001e0004000000070104000400000007010400b7050000410b2000cc0011006c000000000011006c0000000000280000006c000000110000000100080000000000000000000000000000000000000000000000000000000000ffffff000066b600ffb666003a90db003a000000ffdb9000dbffff00003a9000b6660000b6dbff003a669000003a6600dbb6660090b6db0090666600ffdbb6006690db00b6666600ffffdb0090dbff00903a3a00b6ffff003a0066006666b60090b6660066000000ffffb600db903a0066b6ff00903a0000663a660000003a0066003a00b6903a00dbffb600b6ffdb00000066003a3a9000663a0000903a9000666690003a90b6003a3a3a00663a3a003a66b600b6db9000660066009066900090903a00dbffdb0066b6db00db90660066666600ffb6900090b6ff003a003a00b6663a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010116252706010101010101010101010101010101010101010101010101010101010101010101010101010e0f10010101010101010101010101010101111213010101010101010101010101010101010101010101010101010101010116250000000000001e13010101010101010101331a1b0101010101010101010101010101010101010101010101010101010101010101010101043901010101010101010101010101010101010114151301010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010708030101010101010101010101010101010101010101010101010101010101010101010114211b01010101010101010101010101010101010101041c0101010101010101010101010101010101010101010101010101010101010101020301010101011d2000050d01010101021c010101112000002c0601010101010101010101010101010101011120002706010101041c010101041e13070803010101070800391301010114211b1d0000000534011d0005061d001a230800031d00050601010101010101010102030101010107080d010a25030101011d0901010101070803010101010101010101010101010101010101162f1001331a1b01070803010101022b34162f35060101162f1b333601010107260601021c0137380601021e13070803010729101438060101010101010101010102030101010107260601010409010101141513010101070803010101010101010101010101010101010101010101011617060107080301010102032d2e2f23301301072606010101010107080301021c0114211b0102310f3208030101070b2b030101010101010101010101020301010101010203010114211b0101072606010101070803010101010116250000000000001e13010101010101072a1a1b010708030101070803142b151314030101041c01010101010708030102000005060101021c0a0f0803010107262c1b0101010101010116250000000000001e13010409010107260601010102030101010708030101010101010101010101010101010101010107080027060101070803010116170601021e13072813011d09010101010107260601021c011d1e1301021c011420030107021c07291001010101010101010101020301010101011415130101020301011d001c0101010708030101010101010101010101010101010101010101010a1f06010101041c0101020506011d0901040003142000001e13010114211b1d0000000022011d00050604001a2308001e242505060101010101010101010203010101010116170601011d090101010101010101070803010101010101010101010101010101010101010101011d1e1301011415130101010101010101010101010a170601010101041c010101010101010101010101010101010101010101010101010101010101010102030101010101070803010114151301011617060718190c0301010101010101010101010101010101010116170601041a1b010101041c0101010101010101010101010102030101011415130101010101010101010101010101010101010101010101010101010101010101020301010101010400050607080009010101010101010a0b03010101010101010101010101010101010101010a0c00050d01010101010e0f100101010101010101010101010101011112130101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101040000002701ffff030000000000 AND EXCITATION VOLTAGE ENERGY ARGUMENTS 0100090000035805000000002f05000000000400000003010800050000000b0200000000050000000c0212005d00030000001e00040000000701040004000000070104002f050000410b2000cc0011005c000000000011005c0000000000280000005c000000110000000100080000000000000000000000000000000000000000000000000000000000ffffff000066b600ffb6660066b6ff0066000000dbffb600003a9000b6dbff003a669000003a66003a000000dbb6660090b6db0090666600ffdbb6006690db00b6666600ffffdb00dbdbdb0090b6b600663a6600ffffb600db903a00dbffff003a3a9000ffdb90006666b60090b66600b6ffff003a0066003a90db0090dbff00903a3a003a3a3a00903a0000b666000000003a000066660066003a00db90660000006600663a00003a66b6006666660066b6db003a90b600ffb690006600660066663a0090663a00dbb69000663a3a00b6663a000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010118190c0101010101010101010101010101010101010101010101010101010101010101010101010d0e0f0101010101010101010101010101101112010101010101010101010101010101011d290000000000002312010101010101010118191a010101010101010101010101010101010101010101010101010101010101010101011f3501010101010101010101010101010101012021120101010101010101010101010101010101010101010101010101010101010101011807030101010101010101010101010101010101010101010101010101010101010101012027160101010101010101010101010101010101011f170101010101010101010101010101010101010102030101010101180900002a1a011807030110250000341a0101010101010101010101010101010101011025002a1a0101011f17010101010224010102170101011f0023120101202716012d250000350101200a000b030101010101020301010101011f050f012d05161807030101180703010101010101010101010101010101010101011d300f012d0516011807030101011d1e31161d1e3212011807282033010118191a011f1701201e1a180717012d27160101010102030101010101021701011d1e1a180703010118070301010101010101010101010101010101010101010101011d1e1a0118070301010104232d0304232d03011807030101010118070301010101201e1a2027160118070301010101020301010101010217010118191a18070301011807030101010101011d290000000000002312010101010101182e05160118070301010102171d111f171d11011807030101010118070301011f000b2f01202716011807031d290000000000002312010217010118191a180703010118070301010101010101010101010101010101010101011807002a1a010118070301011d1e1a012b221a011b1a1807030101010118191a010101011d1e1a202c28012d0b1a01010101020301010101010217010118191a1f000301011807030101010101010101010101010101010101010101010108151a0101011f1701180700240104231220250b26000000030101202716010425000023121d1110250b280101010101020301010101010217010118191a0101010101180703010101010101010101010101010101010101010101010104231201012021120101010101010101010101180703010101011f170101010101010101011b0f0101010101010101020301010101010217010118191a180703181b1c0a03010101010101010101010101010101010101011d1e1a011f05160101011f170101010101010101010101010203010101202112010101010101010101200a220e0f0101010101020301010101040000030102000506070301010809030101010101010101010101010101010101010101080a000b0c01010101010d0e0f010101010101010101010101010110111201010101010101010101010113141516010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101040000002701ffff030000000000IN A THREE-PHASE PARALLEL-SERIES STRUCTURE OF A TOROIDAL GENERATOR 0100090000034606000000001d06000000000400000003010800050000000b0200000000050000000c0210008900030000001e00040000000701040004000000070104001d060000410b2000cc000f008800000000000f0088000000000028000000880000000f0000000100080000000000000000000000000000000000000000000000000000000000ffffff0090dbff00003a6600db903a00dbffff00003a9000ffb6660066b6ff0090b6db00663a6600ffffb600663a0000ffdb90006690b600db906600903a0000ffffdb003a669000660000003a90db006690db00b6906600903a3a0090b6900066003a00b6ffff0066006600ffdbb6000066b6006666b600dbb666003a3a9000b6666600b6663a00903a66003a0066003a000000b6dbff00666666000000660066b6db0000003a003a66b600b6660000b6903a00906600009090b6003a3a0000dbb69000663a90003a3a6600006690003a003a0090666600b6db9000db909000909066000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010128040101010101010101010101010101010101010101010101010101010101010101010101050e1f01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010105060c0d01010101010101010101010101010101010101010101010101010101010129161101011a240d010101010101010101010101010101010101010101010101010101010101010101011e0d01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010129101101010101010101010101010101010101010101010101010101010101010102210101011d040101010101010101010101010101010101010101010101010101010101010101010822010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101011a240d0101010101010101010101010101010101010101010101010101010101010114070101082c01010101012b2a002522010101010101010101010101010101050e2a00221101011d0701011a28000401010105060025070102171101010101152a25390f01010506000c1c01021711011d0c0b0506000c1c010217110101011400000c1c010105060701012b2a002522010101010101010101010101010101050e2a002211010101082c010102171101010101011a1b0b010101010101010101010101010101010217110534040105200d01010102190b01010108101102350d05200d01010102350d0114101101082c0126361105200d05203738082c0126361105200d01011a240d01291011010114040101011a1b0b01010101010101010101010101010101021711053404010101021711011a240d01010101011a1b0b0101010101010101010101010101010101010101142c011a1b0b0101011a240d010101082c01011404011d07010101021711011a240d01080000303101011d0701140701080000303101011d0701011a1b0b010506070101082c0101011a1b0b0101010101010101010101010101010101010101142c0101011a1b0b01011d0701010101011a1b0b01010101022a0000000000250d0101010101012606040105200d010101011d0701010102190b01082c01142c01010102190b011400101102190b26330d01142c0108220102190b26330d01142c0101011d070101140401011a231101011a1b0b01010101022a0000000000250d0101010101012606040101010217110101140401010101011a1b0b01010101010101010101010101010101011a2800221101011d0701010101082c010101011d2d11152e2f29303114070506070101010101011d2c11141f2f290c31021711011d2c11141f2f2930311407140401010222010105320b01011a1b0b01010101010101010101010101010101011a28002211010101082c0101080000250d0101011a1b0b0101010101010101010101010101010101010126270b010108220101010102190b010101051200250d1a2804292a04011410110101010101052b00250d1a2804082a2c0101052b00250d1a2804292a04021711011a1b0b0114000701011a1b0b0101010101010101010101010101010101010126270b01010114070101010817110101050e18190b010101010101010101010101010101011a1b1c051d040101011e0d01151f05200d1a2101010101010101010101010101050622111a2311010101010101010101010101010101010101010101010101011a240d0105060701010101050e18190b010101010101010101010101010101011a1b1c051d04010102210101010105060708070101090a0b01010101010101010101010101010101010903000c0d010101050e0f08000000000010110101010101010101010101010105120000130b01010101010101010101010101010101010101010101010101140010110800130b0108101101090a0b01010101010101010101010101010101010903000c0d011516110101010101020300040101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101040000002701ffff030000000000
+PATENT     : UA162953U  [UA]  GRANTED
+ASSIGNEE   : ADMIRAL MAKAROV NATIONAL SHIPBUILDING UNIV [UA]; НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ КОРАБЛЕБУДУВАННЯ ІМЕНІ АДМІРАЛА МАКАРОВА; НАЦИОНАЛЬНЫЙ УНИВЕРСИТЕТ КОРАБЛЕСТРОЕНИЯ ИМЕНИ АДМИРАЛА МАКАРОВА
+INVENTORS  : USHKARENKO OLEKSANDR OLEHOVYCH [UA]; DIAKONOV OLEKSII SERHIIOVYCH [UA]; Ушкаренко Олександр Олегович et al.
+FILED      : 2024-07-09   PUB: 2026-05-13
+IPC        : 
+SCORE      : 100
+LINK       : https://worldwide.espacenet.com/patent/search?q=UA162953U
+ABSTRACT   : Device for activating resulting voltage arguments DUU1-3((t)bux and excitation voltage energy arguments aUU1-3((t)зб in a three-phase parallel-series structure of a toroidal generator f1-3(TorGenerUU1-3) comprising a housing in which a ferromagnetic toroidal ring made of electrical steel forming a magnetic core is located, on an outer surface of which inductance coils ΐΊ- and , are uniformly placed, each of which is made of copper wire, and which form a three-phase system and are connected to a 
 
 ---
 
@@ -2887,6 +2867,18 @@ IPC        :
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA130782C2
 ABSTRACT   : The method of manufacturing a nanostructured gold film with controlled roughness refers to the fields of metallurgy, chemical technology, and electronics. The essence of the invention consists of immersing a gold film in a 10 % aqueous solution of sulfuric acid, where a previously installed carbon electrode was the anode, and the surface of the gold film became the cathode; passing an electric current; washing the film in distilled water after the current pulse and placing it in a fresh portion 
+
+---
+
+TITLE      : A METHOD FOR TRANSFERRING A FUNCTIONAL MATERIAL
+PATENT     : EP4742841A1  [EP]  PENDING
+ASSIGNEE   : TNO [NL]; Nederlandse Organisatie voor toegepast- natuurwetenschappelijk onderzoek TNO
+INVENTORS  : GIESBERS MERIJN PETER [NL]; ARUTINOV GARI [NL]; FLEDDERUS HENRI [NL] et al.
+FILED      : 2024-11-12   PUB: 2026-05-13
+IPC        : H05K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742841A1
+ABSTRACT   : [0001]    The invention is aimed at providing a transfer method for a functional material (3) onto a receiving substrate (5). The method comprises the steps of: providing a plate (1) including at least one cavity (2), providing a functional material (3) followed by providing at least one coating (4) covering the functional material. Releasing the coated functional material by imparting an energy pulse (6) at the at least one cavity such that the functional material is transferred onto a receivin
 
 ---
 
@@ -3442,6 +3434,18 @@ ABSTRACT   : An example valve includes an actuator body, a linear actuator; an a
 
 ---
 
+TITLE      : METHOD FOR OBTAINING A WEAR-RESISTANT COATING
+PATENT     : UA163003U  [UA]  GRANTED
+ASSIGNEE   : V I VERNADSKIY KHARKIV STATE PROFESSIONAL AND PEDAGOGICAL APPLIED COLLEGE [UA]; ХАРКІВСЬКИЙ ДЕРЖАВНИЙ ПРОФЕСІЙНО-ПЕДАГОГІЧНИЙ ФАХОВИЙ КОЛЕДЖ ІМЕНІ В.І. ВЕРНАДСЬКОГО
+INVENTORS  : SAICHUK OLEKSANDR VASYLOVYCH [UA]; TYMOFIEIEV SERHII SERHIIOVYCH [UA]; NAUMENKO ARTEM OLEKSANDROVYCH [UA] et al.
+FILED      : 2025-12-03   PUB: 2026-05-13
+IPC        : 
+SCORE      : 82
+LINK       : https://worldwide.espacenet.com/patent/search?q=UA163003U
+ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coating by ion-plasma sputtering using cathode pressed into steel mandrel. Composite material based on F-40 elastomer with aluminum (Al) and copper (Cu) nanopowders is used as cathode material, wherein the specified components are pre-mixed, pressed, and pressed into steel mandrel.
+
+---
+
 TITLE      : VERSATILE TRAY FOR BOTTLE PACKS
 PATENT     : EP4741304A1  [EP]  PENDING
 ASSIGNEE   : DW REUSABLES N V [BE]; DW Reusables N.V.
@@ -3463,6 +3467,18 @@ IPC        : G01R
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741838A1
 ABSTRACT   : [0001]    A device for protecting, controlling, and monitoring electrical medium range switchgear or other electrical devices comprising use of a Rogowski coil embedded in the bottle of a switchgear and surrounding the Mains flow of current carrying voltage, a capacitive or similar voltage-like divider, also surrounding the Mains and extending around the bottle, and providing analog signals from those devices to an integrated circuit for conversion to digital signals after possible adjustment by
+
+---
+
+TITLE      : METHOD OF PRODUCING A BIODEGRADABLE THREE-DIMENSIONALLY SHAPED PRODUCT, AND BIODEGRADABLE THREE-DIMENSIONALLY SHAPED PRODUCT OBTAINABLE BY THE METHOD
+PATENT     : EP4741553A1  [EP]  PENDING
+ASSIGNEE   : GLATFELTER GERNSBACH GMBH [DE]; Glatfelter Gernsbach GmbH
+INVENTORS  : LUTTER STEFANIE [DE]; LADANJI DIJANA [DE]; SEGER BERND [DE] et al.
+FILED      : 2024-11-08   PUB: 2026-05-13
+IPC        : B32B, B65B, B65D, D04H
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741553A1
+ABSTRACT   : The present invention relates to a method for producing a three-dimensionally shaped product, the method comprising the steps of providing a carrier layer, providing a non-woven air-laid material on the carrier layer to give a layer structure comprising the carrier layer and a layer of the non-woven air-laid material, applying an additive to the layer structure, and molding the layer structure. The present invention relates to a three-dimensionally shaped product comprising a layer structure com
 
 ---
 
@@ -3514,6 +3530,30 @@ ABSTRACT   : [0001]    The present invention is related to a process for cultiva
 
 ---
 
+TITLE      : METHOD FOR DEGRADING A VINYL POLYMER
+PATENT     : EP4741451A1  [EP]  PENDING
+ASSIGNEE   : CENTRE NAT RECH SCIENT [FR]; INSTITUT NATIONAL DE LA RECH POUR LAGRICULTURE LALIMENTATION ET LENVIRONNEMENT [FR]; UNIV BORDEAUX [FR] et al.
+INVENTORS  : BISSARO BASTIEN [FR]; TATON DANIEL [FR]; PUJOL MANON [FR] et al.
+FILED      : 2024-11-12   PUB: 2026-05-13
+IPC        : C08J
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741451A1
+ABSTRACT   : A method for degrading a vinyl polymer having an initial molar mass in order to form at least one degradation product having a final molar mass lower than the initial molar mass comprises a) providing a water-based emulsion of the vinyl polymer; b) mixing the water-based emulsion with at least one enzyme-mediator system to obtain a reaction mixture, said at least one enzyme-mediator system comprising at least one multi-copper oxidase chosen among a laccase, a laccase-ferroxidase, a laccase-like 
+
+---
+
+TITLE      : A SYSTEM AND METHOD OF REMOVING IMPURITIES FROM WASTE POLYMER RAW MATERIAL
+PATENT     : EP4741450A1  [EP]  PENDING
+ASSIGNEE   : T&R BIOEKO SP Z O O [PL]; T&R BIOEKO Sp. z o.o.
+INVENTORS  : TERMANOWSKI TOMASZ [PL]; CHMIELNICKI BLAZEJ [PL]; Termanowski, Tomasz et al.
+FILED      : 2024-11-08   PUB: 2026-05-13
+IPC        : C08J
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741450A1
+ABSTRACT   : A system for the removal of impurities from waste polymer raw material, characterised in that it comprises the following components: raw material racks (1), PH vessels (2), a reactor vessel (3), buffers (4), a vacuum pump unit and a cyclone (5), a silo for unsuitable material (6), a silo for purified material (7), wherein the PH vessels (2) are located above the reactor vessel (3), the buffers (4) are located under the reactor vessel (3), the vacuum pump unit and the cyclone (5) are located next
+
+---
+
 TITLE      : Pyrolyseverfahren
 PATENT     : DE102025130178A1  [DE]  PENDING
 ASSIGNEE   : BERGISCHE UNIV WUPPERTAL KOERPERSCHAFT DES OEFFENTLICHEN RECHTS [DE]; COROPLAST FRITZ MUELLER GMBH & CO K G [DE]; Bergische Universität Wuppertal, Körperschaft des öffentlichen Rechts et al.
@@ -3559,6 +3599,18 @@ IPC        : E04G, E04H
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024227610A1
 ABSTRACT   : Abstract A barrier system (100), for providing edge protection on a building, includes a support post (10) for supporting a panel (12). The support post (10) has a base (20) and a top, the base including means (22) for securing the post to a concrete slab, floor, ground, or the like. The top (29) of the post defines an arm (30) extending away from the post the arm defining first (32) and second (34) spaced parallel channels for receiving a rail (62) of a fence panel (12). First and second panels
+
+---
+
+TITLE      : REMOTE SUFACE ACOUSTIC WAVE SENSING OF CURABLE CHEMICAL COATINGS FOR FIRE-PROOF COATING OF STRUCTURAL ELEMENTS
+PATENT     : EP4741787A1  [EP]  PENDING
+ASSIGNEE   : HILTI AG [LI]; Hilti Aktiengesellschaft
+INVENTORS  : PFEIL ARMIN [DE]; Pfeil, Armin
+FILED      : 2024-11-08   PUB: 2026-05-13
+IPC        : G01L, G01N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741787A1
+ABSTRACT   : [0001]    The present invention relates to a surface acoustic wave sensing system comprising a surface acoustic wave sensor configured to be provided relative to a curable chemical coating or coating system and to output, to a measurement device or system, data corresponding to characteristics of the curable chemical coating or coating system identifying whether the curable chemical coating or coating system is curing correctly, data for in service control after curing and/or data corresponding 
 
 ---
 
@@ -3652,6 +3704,18 @@ IPC        : G05B, G06F
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024352234A1
 ABSTRACT   : In one embodiment, a computer-implemented method includes receiving first information pertaining to a configuration of a factory ship, and causing a graphical user interface (GUI) to be presented on a computing device. The GUI represents the configuration of the factory ship. The method includes receiving second information pertaining to a mission, determining, based on the second information, one or more parts required to perform the mission, determining, based on the one or more parts and the 
+
+---
+
+TITLE      : OPTIMIZED PRODUCT MATERIAL SELECTION FOR CIRCULAR EFFICIENCY
+PATENT     : EP4742119A1  [EP]  PENDING
+ASSIGNEE   : SIEMENS AG [DE]; Siemens Aktiengesellschaft
+INVENTORS  : PILLAI UNNIKRISHNA [IN]; PRADEEP CHANDRAN ROHITH KRISHNAN [IN]; PILLAI, Unnikrishna et al.
+FILED      : 2024-11-11   PUB: 2026-05-13
+IPC        : G06N, G06Q
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742119A1
+ABSTRACT   : [0001]    A materials selection optimization system (MSOS) (102), a computer implemented method (300) and a computer program product for selecting materials associated with a product deployable in an industrial environment, are provided. The MSOS generates obtains product data and a plurality of optimization objectives associated with the product, identifies from a materials database, material alternatives to the materials used in the product based on one or more material parameters, iteratively
 
 ---
 
@@ -4077,18 +4141,6 @@ ABSTRACT   : [0001]    Die Erfindung geht aus von einer Faltvorrichtung zu einem
 
 ---
 
-TITLE      : DEVICE FOR ACTIVATING RESULTING VOLTAGE ARGUMENTS 010009000003e00500000000b705000000000400000003010800050000000b0200000000050000000c0212006d00030000001e0004000000070104000400000007010400b7050000410b2000cc0011006c000000000011006c0000000000280000006c000000110000000100080000000000000000000000000000000000000000000000000000000000ffffff000066b600ffb666003a90db003a000000ffdb9000dbffff00003a9000b6660000b6dbff003a669000003a6600dbb6660090b6db0090666600ffdbb6006690db00b6666600ffffdb0090dbff00903a3a00b6ffff003a0066006666b60090b6660066000000ffffb600db903a0066b6ff00903a0000663a660000003a0066003a00b6903a00dbffb600b6ffdb00000066003a3a9000663a0000903a9000666690003a90b6003a3a3a00663a3a003a66b600b6db9000660066009066900090903a00dbffdb0066b6db00db90660066666600ffb6900090b6ff003a003a00b6663a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010116252706010101010101010101010101010101010101010101010101010101010101010101010101010e0f10010101010101010101010101010101111213010101010101010101010101010101010101010101010101010101010116250000000000001e13010101010101010101331a1b0101010101010101010101010101010101010101010101010101010101010101010101043901010101010101010101010101010101010114151301010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010708030101010101010101010101010101010101010101010101010101010101010101010114211b01010101010101010101010101010101010101041c0101010101010101010101010101010101010101010101010101010101010101020301010101011d2000050d01010101021c010101112000002c0601010101010101010101010101010101011120002706010101041c010101041e13070803010101070800391301010114211b1d0000000534011d0005061d001a230800031d00050601010101010101010102030101010107080d010a25030101011d0901010101070803010101010101010101010101010101010101162f1001331a1b01070803010101022b34162f35060101162f1b333601010107260601021c0137380601021e13070803010729101438060101010101010101010102030101010107260601010409010101141513010101070803010101010101010101010101010101010101010101011617060107080301010102032d2e2f23301301072606010101010107080301021c0114211b0102310f3208030101070b2b030101010101010101010101020301010101010203010114211b0101072606010101070803010101010116250000000000001e13010101010101072a1a1b010708030101070803142b151314030101041c01010101010708030102000005060101021c0a0f0803010107262c1b0101010101010116250000000000001e13010409010107260601010102030101010708030101010101010101010101010101010101010107080027060101070803010116170601021e13072813011d09010101010107260601021c011d1e1301021c011420030107021c07291001010101010101010101020301010101011415130101020301011d001c0101010708030101010101010101010101010101010101010101010a1f06010101041c0101020506011d0901040003142000001e13010114211b1d0000000022011d00050604001a2308001e242505060101010101010101010203010101010116170601011d090101010101010101070803010101010101010101010101010101010101010101011d1e1301011415130101010101010101010101010a170601010101041c010101010101010101010101010101010101010101010101010101010101010102030101010101070803010114151301011617060718190c0301010101010101010101010101010101010116170601041a1b010101041c0101010101010101010101010102030101011415130101010101010101010101010101010101010101010101010101010101010101020301010101010400050607080009010101010101010a0b03010101010101010101010101010101010101010a0c00050d01010101010e0f100101010101010101010101010101011112130101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101040000002701ffff030000000000 AND EXCITATION VOLTAGE ENERGY ARGUMENTS 0100090000035805000000002f05000000000400000003010800050000000b0200000000050000000c0212005d00030000001e00040000000701040004000000070104002f050000410b2000cc0011005c000000000011005c0000000000280000005c000000110000000100080000000000000000000000000000000000000000000000000000000000ffffff000066b600ffb6660066b6ff0066000000dbffb600003a9000b6dbff003a669000003a66003a000000dbb6660090b6db0090666600ffdbb6006690db00b6666600ffffdb00dbdbdb0090b6b600663a6600ffffb600db903a00dbffff003a3a9000ffdb90006666b60090b66600b6ffff003a0066003a90db0090dbff00903a3a003a3a3a00903a0000b666000000003a000066660066003a00db90660000006600663a00003a66b6006666660066b6db003a90b600ffb690006600660066663a0090663a00dbb69000663a3a00b6663a000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010118190c0101010101010101010101010101010101010101010101010101010101010101010101010d0e0f0101010101010101010101010101101112010101010101010101010101010101011d290000000000002312010101010101010118191a010101010101010101010101010101010101010101010101010101010101010101011f3501010101010101010101010101010101012021120101010101010101010101010101010101010101010101010101010101010101011807030101010101010101010101010101010101010101010101010101010101010101012027160101010101010101010101010101010101011f170101010101010101010101010101010101010102030101010101180900002a1a011807030110250000341a0101010101010101010101010101010101011025002a1a0101011f17010101010224010102170101011f0023120101202716012d250000350101200a000b030101010101020301010101011f050f012d05161807030101180703010101010101010101010101010101010101011d300f012d0516011807030101011d1e31161d1e3212011807282033010118191a011f1701201e1a180717012d27160101010102030101010101021701011d1e1a180703010118070301010101010101010101010101010101010101010101011d1e1a0118070301010104232d0304232d03011807030101010118070301010101201e1a2027160118070301010101020301010101010217010118191a18070301011807030101010101011d290000000000002312010101010101182e05160118070301010102171d111f171d11011807030101010118070301011f000b2f01202716011807031d290000000000002312010217010118191a180703010118070301010101010101010101010101010101010101011807002a1a010118070301011d1e1a012b221a011b1a1807030101010118191a010101011d1e1a202c28012d0b1a01010101020301010101010217010118191a1f000301011807030101010101010101010101010101010101010101010108151a0101011f1701180700240104231220250b26000000030101202716010425000023121d1110250b280101010101020301010101010217010118191a0101010101180703010101010101010101010101010101010101010101010104231201012021120101010101010101010101180703010101011f170101010101010101011b0f0101010101010101020301010101010217010118191a180703181b1c0a03010101010101010101010101010101010101011d1e1a011f05160101011f170101010101010101010101010203010101202112010101010101010101200a220e0f0101010101020301010101040000030102000506070301010809030101010101010101010101010101010101010101080a000b0c01010101010d0e0f010101010101010101010101010110111201010101010101010101010113141516010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101040000002701ffff030000000000IN A THREE-PHASE PARALLEL-SERIES STRUCTURE OF A TOROIDAL GENERATOR 0100090000034606000000001d06000000000400000003010800050000000b0200000000050000000c0210008900030000001e00040000000701040004000000070104001d060000410b2000cc000f008800000000000f0088000000000028000000880000000f0000000100080000000000000000000000000000000000000000000000000000000000ffffff0090dbff00003a6600db903a00dbffff00003a9000ffb6660066b6ff0090b6db00663a6600ffffb600663a0000ffdb90006690b600db906600903a0000ffffdb003a669000660000003a90db006690db00b6906600903a3a0090b6900066003a00b6ffff0066006600ffdbb6000066b6006666b600dbb666003a3a9000b6666600b6663a00903a66003a0066003a000000b6dbff00666666000000660066b6db0000003a003a66b600b6660000b6903a00906600009090b6003a3a0000dbb69000663a90003a3a6600006690003a003a0090666600b6db9000db909000909066000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010128040101010101010101010101010101010101010101010101010101010101010101010101050e1f01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010105060c0d01010101010101010101010101010101010101010101010101010101010129161101011a240d010101010101010101010101010101010101010101010101010101010101010101011e0d01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010129101101010101010101010101010101010101010101010101010101010101010102210101011d040101010101010101010101010101010101010101010101010101010101010101010822010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101011a240d0101010101010101010101010101010101010101010101010101010101010114070101082c01010101012b2a002522010101010101010101010101010101050e2a00221101011d0701011a28000401010105060025070102171101010101152a25390f01010506000c1c01021711011d0c0b0506000c1c010217110101011400000c1c010105060701012b2a002522010101010101010101010101010101050e2a002211010101082c010102171101010101011a1b0b010101010101010101010101010101010217110534040105200d01010102190b01010108101102350d05200d01010102350d0114101101082c0126361105200d05203738082c0126361105200d01011a240d01291011010114040101011a1b0b01010101010101010101010101010101021711053404010101021711011a240d01010101011a1b0b0101010101010101010101010101010101010101142c011a1b0b0101011a240d010101082c01011404011d07010101021711011a240d01080000303101011d0701140701080000303101011d0701011a1b0b010506070101082c0101011a1b0b0101010101010101010101010101010101010101142c0101011a1b0b01011d0701010101011a1b0b01010101022a0000000000250d0101010101012606040105200d010101011d0701010102190b01082c01142c01010102190b011400101102190b26330d01142c0108220102190b26330d01142c0101011d070101140401011a231101011a1b0b01010101022a0000000000250d0101010101012606040101010217110101140401010101011a1b0b01010101010101010101010101010101011a2800221101011d0701010101082c010101011d2d11152e2f29303114070506070101010101011d2c11141f2f290c31021711011d2c11141f2f2930311407140401010222010105320b01011a1b0b01010101010101010101010101010101011a28002211010101082c0101080000250d0101011a1b0b0101010101010101010101010101010101010126270b010108220101010102190b010101051200250d1a2804292a04011410110101010101052b00250d1a2804082a2c0101052b00250d1a2804292a04021711011a1b0b0114000701011a1b0b0101010101010101010101010101010101010126270b01010114070101010817110101050e18190b010101010101010101010101010101011a1b1c051d040101011e0d01151f05200d1a2101010101010101010101010101050622111a2311010101010101010101010101010101010101010101010101011a240d0105060701010101050e18190b010101010101010101010101010101011a1b1c051d04010102210101010105060708070101090a0b01010101010101010101010101010101010903000c0d010101050e0f08000000000010110101010101010101010101010105120000130b01010101010101010101010101010101010101010101010101140010110800130b0108101101090a0b01010101010101010101010101010101010903000c0d011516110101010101020300040101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101040000002701ffff030000000000
-PATENT     : UA162953U  [UA]  GRANTED
-ASSIGNEE   : ADMIRAL MAKAROV NATIONAL SHIPBUILDING UNIV [UA]; НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ КОРАБЛЕБУДУВАННЯ ІМЕНІ АДМІРАЛА МАКАРОВА; НАЦИОНАЛЬНЫЙ УНИВЕРСИТЕТ КОРАБЛЕСТРОЕНИЯ ИМЕНИ АДМИРАЛА МАКАРОВА
-INVENTORS  : USHKARENKO OLEKSANDR OLEHOVYCH [UA]; DIAKONOV OLEKSII SERHIIOVYCH [UA]; Ушкаренко Олександр Олегович et al.
-FILED      : 2024-07-09   PUB: 2026-05-13
-IPC        : 
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=UA162953U
-ABSTRACT   : Device for activating resulting voltage arguments DUU1-3((t)bux and excitation voltage energy arguments aUU1-3((t)зб in a three-phase parallel-series structure of a toroidal generator f1-3(TorGenerUU1-3) comprising a housing in which a ferromagnetic toroidal ring made of electrical steel forming a magnetic core is located, on an outer surface of which inductance coils ΐΊ- and , are uniformly placed, each of which is made of copper wire, and which form a three-phase system and are connected to a 
-
----
-
 TITLE      : PACKAGING SOLUTION
 PATENT     : US20260124828A1  [US]  PENDING
 ASSIGNEE   : METAPAC INC [CA]; METAPAC INC.
@@ -4329,51 +4381,51 @@ ABSTRACT   : La présente invention se rapporte à un module de conversion (1, 1
 
 ---
 
-TITLE      : METHOD OF PRODUCING A BIODEGRADABLE THREE-DIMENSIONALLY SHAPED PRODUCT, AND BIODEGRADABLE THREE-DIMENSIONALLY SHAPED PRODUCT OBTAINABLE BY THE METHOD
-PATENT     : EP4741553A1  [EP]  PENDING
-ASSIGNEE   : GLATFELTER GERNSBACH GMBH [DE]; Glatfelter Gernsbach GmbH
-INVENTORS  : LUTTER STEFANIE [DE]; LADANJI DIJANA [DE]; SEGER BERND [DE] et al.
+TITLE      : UNISHIP: UNIVERSAL DUAL-ENDED RO-RO SHIP WITH AUTOMATED HANDLING OF CONTAINERS AND VEHICLES
+PATENT     : EP4741277A1  [EP]  PENDING
+ASSIGNEE   : SHEHATA MAGDY HASSAN [NO]; Shehata, Magdy Hassan
+INVENTORS  : SHEHATA MAGDY HASSAN [NO]; Shehata, Magdy Hassan
 FILED      : 2024-11-08   PUB: 2026-05-13
-IPC        : B32B, B65B, B65D, D04H
+IPC        : B63B
 SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741553A1
-ABSTRACT   : The present invention relates to a method for producing a three-dimensionally shaped product, the method comprising the steps of providing a carrier layer, providing a non-woven air-laid material on the carrier layer to give a layer structure comprising the carrier layer and a layer of the non-woven air-laid material, applying an additive to the layer structure, and molding the layer structure. The present invention relates to a three-dimensionally shaped product comprising a layer structure com
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741277A1
+ABSTRACT   : [0001]    UniShip combines container and Ro-Ro functionalities in a novel design, enabling efficient, dual-ended automated loading and unloading and adaptable automated securing of containers. In addition to double-stacked containers, including vehicles in open containers, UniShip is capable of transporting drive-in trucks and heavy machines in multiple cargo holds. Also, oversized freight on the upper deck. Its autonomous Ro-Ro system allows simultaneous, bidirectional container loading and unl
 
 ---
 
-TITLE      : METHOD FOR DEGRADING A VINYL POLYMER
-PATENT     : EP4741451A1  [EP]  PENDING
-ASSIGNEE   : CENTRE NAT RECH SCIENT [FR]; INSTITUT NATIONAL DE LA RECH POUR LAGRICULTURE LALIMENTATION ET LENVIRONNEMENT [FR]; UNIV BORDEAUX [FR] et al.
-INVENTORS  : BISSARO BASTIEN [FR]; TATON DANIEL [FR]; PUJOL MANON [FR] et al.
-FILED      : 2024-11-12   PUB: 2026-05-13
-IPC        : C08J
+TITLE      : CRYSTALLINE STRUCTURE COMPRISING MUSHROOM MYCELIUM, METHOD FOR MANUFACTURING THE SAME, AND THIN FILM COMPRISING THE SAME
+PATENT     : EP4741490A1  [EP]  PENDING
+ASSIGNEE   : UNIV DANKOOK IACF [KR]; Industry-Academic Cooperation Foundation Dankook University
+INVENTORS  : LEE WON JUN [KR]; JEON EUN SOO [KR]; LEE, Won Jun et al.
+FILED      : 2025-11-05   PUB: 2026-05-13
+IPC        : C08J, C12N
 SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741451A1
-ABSTRACT   : A method for degrading a vinyl polymer having an initial molar mass in order to form at least one degradation product having a final molar mass lower than the initial molar mass comprises a) providing a water-based emulsion of the vinyl polymer; b) mixing the water-based emulsion with at least one enzyme-mediator system to obtain a reaction mixture, said at least one enzyme-mediator system comprising at least one multi-copper oxidase chosen among a laccase, a laccase-ferroxidase, a laccase-like 
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741490A1
+ABSTRACT   : [0001]    The present invention relates to a crystalline structure comprising mushroom mycelium, a method for manufacturing the same, and a thin film comprising the same. According to the present invention, when a coating solution containing an alkali metal, an aromatic hydrocarbon, and mushroom mycelium in a polar organic solvent is applied to a substrate and the solvent is evaporated at room temperature, a needle-like metal-organic compound comprising the alkali metal and the aromatic hydrocar
 
 ---
 
-TITLE      : REMOTE SUFACE ACOUSTIC WAVE SENSING OF CURABLE CHEMICAL COATINGS FOR FIRE-PROOF COATING OF STRUCTURAL ELEMENTS
-PATENT     : EP4741787A1  [EP]  PENDING
-ASSIGNEE   : HILTI AG [LI]; Hilti Aktiengesellschaft
-INVENTORS  : PFEIL ARMIN [DE]; Pfeil, Armin
+TITLE      : COATING SOLUTIONS WITH IMPROVED COVERING AND WHITENING EFFECT
+PATENT     : EP4740939A1  [EP]  PENDING
+ASSIGNEE   : MERCK PATENT GMBH [DE]; Merck Patent GmbH
+INVENTORS  : 
 FILED      : 2024-11-08   PUB: 2026-05-13
-IPC        : G01L, G01N
+IPC        : A61K
 SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741787A1
-ABSTRACT   : [0001]    The present invention relates to a surface acoustic wave sensing system comprising a surface acoustic wave sensor configured to be provided relative to a curable chemical coating or coating system and to output, to a measurement device or system, data corresponding to characteristics of the curable chemical coating or coating system identifying whether the curable chemical coating or coating system is curing correctly, data for in service control after curing and/or data corresponding 
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4740939A1
+ABSTRACT   : [0001]    The invention relates to coating solutions comprising a polyol, a polymer, and a solvent, wherein the polyol is mannitol or xylitol and the polymer is an aqueous soluble polymer or a cellulose based polymer, and the use of said coating solutions in the coating of medicaments. The invention further relates to a method for coating a medicament and the use of mannitol in a coating solution for medicaments.
 
 ---
 
-TITLE      : A METHOD FOR TRANSFERRING A FUNCTIONAL MATERIAL
-PATENT     : EP4742841A1  [EP]  PENDING
-ASSIGNEE   : TNO [NL]; Nederlandse Organisatie voor toegepast- natuurwetenschappelijk onderzoek TNO
-INVENTORS  : GIESBERS MERIJN PETER [NL]; ARUTINOV GARI [NL]; FLEDDERUS HENRI [NL] et al.
+TITLE      : A PHARMACEUTICAL PRODUCT COMPRISING A CONTAINER COMPRISING A PHARMACEUTICAL COMPOUND AND A LABEL HAVING LOWER MIGRATION OF LEACHABLES
+PATENT     : EP4740928A1  [EP]  PENDING
+ASSIGNEE   : BRAUN MELSUNGEN AG [DE]; B. Braun Melsungen AG
+INVENTORS  : MEDICO LEONARD [DE]; FRAUCHIGER DANIEL [DE]; VALLOTTON RAPHAEL [DE] et al.
 FILED      : 2024-11-12   PUB: 2026-05-13
-IPC        : H05K
+IPC        : A61J, A61M, B65D
 SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742841A1
-ABSTRACT   : [0001]    The invention is aimed at providing a transfer method for a functional material (3) onto a receiving substrate (5). The method comprises the steps of: providing a plate (1) including at least one cavity (2), providing a functional material (3) followed by providing at least one coating (4) covering the functional material. Releasing the coated functional material by imparting an energy pulse (6) at the at least one cavity such that the functional material is transferred onto a receivin
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4740928A1
+ABSTRACT   : It has now surprisingly found out that above-mentioned problem can be achieved by a pharmaceutical product, wherein the pharmaceutical product comprises a container comprising a pharmaceutical compound and/or a medical device suitable for receiving the pharmaceutical compound from the container, an enclosure enclosing the container and/or the medical device, and a label comprised by the enclosure, wherein the enclosure comprises at least one wall enclosing a main cavity, wherein the main cavity 
 
 ---
 
@@ -4641,114 +4693,6 @@ ABSTRACT   : [0001]    Described and shown is a transport apparatus (1) for tran
 
 ---
 
-TITLE      : METHOD FOR OBTAINING A WEAR-RESISTANT COATING
-PATENT     : UA163003U  [UA]  GRANTED
-ASSIGNEE   : V I VERNADSKIY KHARKIV STATE PROFESSIONAL AND PEDAGOGICAL APPLIED COLLEGE [UA]; ХАРКІВСЬКИЙ ДЕРЖАВНИЙ ПРОФЕСІЙНО-ПЕДАГОГІЧНИЙ ФАХОВИЙ КОЛЕДЖ ІМЕНІ В.І. ВЕРНАДСЬКОГО
-INVENTORS  : SAICHUK OLEKSANDR VASYLOVYCH [UA]; TYMOFIEIEV SERHII SERHIIOVYCH [UA]; NAUMENKO ARTEM OLEKSANDROVYCH [UA] et al.
-FILED      : 2025-12-03   PUB: 2026-05-13
-IPC        : 
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=UA163003U
-ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coating by ion-plasma sputtering using cathode pressed into steel mandrel. Composite material based on F-40 elastomer with aluminum (Al) and copper (Cu) nanopowders is used as cathode material, wherein the specified components are pre-mixed, pressed, and pressed into steel mandrel.
-
----
-
-TITLE      : PACKAGE FOR PACKAGING AND TRANSPORT OF RADIOACTIVE WASTE
-PATENT     : WO2026090690A1  [WO]  PENDING
-ASSIGNEE   : MAN AND SOLUTIONS NORM LTDA [BR]; MANAGEMENT AND SOLUTIONS NORM LTDA.
-INVENTORS  : PREZA DA SILVEIRA COSTA PEDRO HENRIQUE [BR]; FORTINS DE AQUINO GUSTAVO [BR]; PREZA DA SILVEIRA COSTA, Pedro Henrique et al.
-FILED      : 2025-07-11   PUB: 2026-05-07
-IPC        : G21F
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026090690A1
-ABSTRACT   : The present invention relates to a package for packaging and transport of low specific activity (LSA) radioactive waste, made of linear polyethylene suitable for the physical, chemical, biological and radiological characteristics of this type of radioactive waste and comprising a base (1) and a lid (2), both substantially rectangular in shape, with a pressure closure system that ensures the package is leak-proof during packaging and transport of the radioactive waste.
-
----
-
-TITLE      : SELF-SUPPORTING PACKAGING
-PATENT     : WO2026093903A1  [WO]  PENDING
-ASSIGNEE   : NET ZERO PAK S R L [IT]; NET ZERO PAK S.R.L.
-INVENTORS  : JULITA FRANCESCA [IT]; JULITA, Francesca
-FILED      : 2025-10-28   PUB: 2026-05-07
-IPC        : B65D
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026093903A1
-ABSTRACT   : A self-supporting packaging is described, customizable depending on the object or objects to be contained, of the type made from a single planar-shaped initial sheet, such as for example a die-cut made of paper material, and comprising a plurality of planar partitions defining an outer shape substantially corresponding in shape to a six-faced right prismatoid, each face of the right prismatoid comprising one or more planar partitions of said plurality of planar partitions, wherein a planar fold 
-
----
-
-TITLE      : CARTON FOR PACKAGING A PRODUCT, BLANK, AND METHOD FOR PACKAGING A PRODUCT
-PATENT     : WO2026096243A1  [WO]  PENDING
-ASSIGNEE   : WESTROCK PACKAGING SYSTEMS LLC [US]; WESTROCK PACKAGING SYSTEMS, LLC
-INVENTORS  : VALENCIA JOHN [US]; VALENCIA, John
-FILED      : 2025-10-21   PUB: 2026-05-07
-IPC        : B65D
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026096243A1
-ABSTRACT   : A carton for packaging an article includes a longitudinal axis, a first end, a second end opposite the first end along the longitudinal axis, and a plurality of panels that form an interior volume. The interior volume is configured to receive the article. The first end is open for inserting the article into the interior volume and removing the article from the interior volume. The second end is configured to close in response to inserting the article for retaining the article within the interior
-
----
-
-TITLE      : ALUMINUM ALLOY FOIL FOR PACKAGING MATERIAL AND METHOD FOR PRODUCING SAME
-PATENT     : WO2026094473A1  [WO]  PENDING
-ASSIGNEE   : TOYO ALUMINIUM KK [JP]; 東洋アルミニウム株式会社
-INVENTORS  : MATSUMOTO MASAKI [JP]; MURAMATSU KENJI [JP]; HATAKEYAMA HIROYASU [JP] et al.
-FILED      : 2025-09-22   PUB: 2026-05-07
-IPC        : C22C, C22F
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026094473A1
-ABSTRACT   : The objective of the present invention is to provide a packaging material of an aluminum alloy foil, the packaging material having high moldability while having sufficient corrosion resistance. This aluminum alloy foil for a packaging material comprises Fe and Si, with the balance consisting of Al and other trace elements including inevitable impurities, wherein the Fe content is 0.60 mass% to 0.80 mass% (exclusive of 0.80 mass%), the Si content is 0.50 mass% or less, the number density of secon
-
----
-
-TITLE      : REDUCED WARPAGE ELECTRONIC PACKAGE AND PACKAGING STRUCTURE
-PATENT     : US20260130222A1  [US]  PENDING
-ASSIGNEE   : INT BUSINESS MACHINES CORPORATION [US]; International Business Machines Corporation
-INVENTORS  : SAKUMA KATSUYUKI [US]; CHEN QIANWEN [US]; RAGHAVAN SATHYANARAYANAN [US] et al.
-FILED      : 2024-11-07   PUB: 2026-05-07
-IPC        : 
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260130222A1
-ABSTRACT   : [0000]    An electronic package is provided which includes a continuous stiffener element (i.e., frame) located around a semiconductor die. The continuous stiffener element has a coefficient of thermal expansion (CTE) that closely matches the CTE of a carrier substrate that is located beneath the semiconductor die. The closely matched CTA between the continuous stiffener element and the carrier substrate reduced warpage in an electronic package containing the same. A molding component can be dis
-
----
-
-TITLE      : BIODEGRADABLE FOAM SUBSTRATE FOR BIODEGRADABLE EARPLUGS, METHOD FOR MANUFACTURING SAID EARPLUG, BIODEGRADABLE EARPLUG, AND USE THEREOF
-PATENT     : NL2038747B1  [NL]  GRANTED
-ASSIGNEE   : EARTHBUDS B V [NL]; EARTHBUDS B.V.
-INVENTORS  : JOHANNES MARINUS WILHELMUS VAN GASTEL [NL]; MARK DEN DUBBELDEN [NL]; BASTIAAN BARNASCONI [NL] et al.
-FILED      : 2024-10-01   PUB: 2026-04-30
-IPC        : A61F, C08L
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=NL2038747B1
-ABSTRACT   : [0001]    A biodegradable foam substrate is presented which is suitable for a biodegradable earplug. This biodegradable foam substrate comprises a polymeric carbohydrate, a binding agent, a plasticiser and, optionally, a foaming agent residue and/or water. A method of manufacturing said biodegradable foam substrate is also presented. This method comprises the steps of: providing a reaction mixture comprising a polymeric carbohydrate, a binding agent, a plasticiser, and a foaming agent; heating t
-
----
-
-TITLE      : CIRCUIT BOARD ASSEMBLY, METHOD OF MANUFACTURING CIRCUIT BOARD ASSEMBLY, CAMERA MODULE, PACKAGING METHOD OF CAMERA MODULE, AND ELECTRONIC DEVICE
-PATENT     : US20260122790A1  [US]  PENDING
-ASSIGNEE   : TRIPLE WIN TECH SHENZHEN CO LTD [TW]; TRIPLE WIN TECHNOLOGY (SHENZHEN) CO. LTD.
-INVENTORS  : YEH CHIEN-LIANG [TW]; CHEN SHIN-WEN [TW]; LU JYUN-HONG [TW] et al.
-FILED      : 2025-07-14   PUB: 2026-04-30
-IPC        : H04N, H05K
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260122790A1
-ABSTRACT   : A method of manufacturing a circuit board assembly includes defining a through hole penetrating a first surface and a second surface of a printed circuit board, the first surface and the second surface facing each other and spaced apart. The method includes placing an image sensor in the through hole, wherein the image sensor is spaced apart from an inner wall of the through hole, and the image sensor is lower than the first surface and higher than or flush with the second surface. The method al
-
----
-
-TITLE      : HYBRID PAPERBOARD CONTAINER/PACKAGING
-PATENT     : US20260114585A1  [US]  PENDING
-ASSIGNEE   : OREAL [FR]; L'Oreal
-INVENTORS  : CHENG WENZHEN [US]; CHENG, Wenzhen
-FILED      : 2024-10-30   PUB: 2026-04-30
-IPC        : A45D, B65D
-SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260114585A1
-ABSTRACT   : [0000]    A container including a shell including a recyclable material, and a container insert, including a chamber configured to hold a formulation, an attachment configured to removably couple the container insert with a cap, and a plurality of teeth configured to form an interference fit with the shell by deforming an inner surface of the shell. Further, a method of using the container inert, including pressing the container insert into the shell, deforming the shell in response to a pressur
-
----
-
 ============================================================
 DOMAIN: Procesos Avanzados Cervecería
 ============================================================
@@ -4774,6 +4718,18 @@ IPC        : G01R, H01M
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026090098A2
 ABSTRACT   : Methods of assessing an energy storage device include providing material for a metal-chalcogen battery, washing the metal anode in a first organic solvent to form a polychalcogenide free metal anode upon which gas chromatography is performed on the polychalcogenide free metal anode to quantify the amount of M0, soaking the chalcogen cathode and the remainder of the metal- chalcogen battery in the organic solvent used to wash the metal anode to form a first solution comprising methylated polychal
+
+---
+
+TITLE      : Custom shoe inserts from pressure mapping technology
+PATENT     : AU2024227604A1  [AU]  PENDING
+ASSIGNEE   : BAIRUI PTY LTD; BAIRUI PTY. LTD.
+INVENTORS  : BIRCH LANCE; Birch, Lance
+FILED      : 2024-10-24   PUB: 2026-05-14
+IPC        : A43B, G06F
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024227604A1
+ABSTRACT   : Abstract A method for creating custom shoe inserts using pressure mapping technology. Pressure data is captured using a pressure-sensitive device or any other form of imaging or testing device and processed to for the purpose of designing and printing or manufacturing inserts for shoes. These inserts are manufactured according to the data provided using 3D printing to match the specific pressure distribution of the user's feet, improving comfort and support and offloading.
 
 ---
 
@@ -5134,6 +5090,54 @@ IPC        : B81B, B81C
 SCORE      : 59
 LINK       : https://worldwide.espacenet.com/patent/search?q=CZ2024508A3
 ABSTRACT   : The submitted solution applies to the method of manufacture of a micro-electric-mechanical system (MEMS) with a beam structure which includes the following steps: providing a substrate (1); depositing a sacrificial layer (2) of silicon dioxide or silicon nitride on the substrate (1); cutting or etching a part in the sacrificial layer (2) to support the beam structure using a laser-assisted machining, wet etching or dry etching whereas the sacrificial layer (2) is removed as far as the substrate 
+
+---
+
+TITLE      : REMOTE SUFACE ACOUSTIC WAVE SENSING OF CURABLE CHEMICAL MORTAR SYSTEMS FOR CHEMICAL FASTENING
+PATENT     : EP4741816A1  [EP]  PENDING
+ASSIGNEE   : HILTI AG [LI]; Hilti Aktiengesellschaft
+INVENTORS  : PFEIL ARMIN [DE]; Pfeil, Armin
+FILED      : 2024-11-08   PUB: 2026-05-13
+IPC        : G01N
+SCORE      : 59
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741816A1
+ABSTRACT   : The present invention relates to a surface acoustic wave sensing system comprising a surface acoustic wave sensor configured to be provided relative to a curable chemical mortar system and to output, to a measurement device or system, data corresponding to characteristics of the curable chemical mortar system identifying whether the curable chemical mortar system is curing correctly, data for in service control after curing and/or data corresponding to characteristics of the chemical mortar syst
+
+---
+
+TITLE      : REMOTE SUFACE ACOUSTIC WAVE SENSING OF CURABLE SEALANTS AND FOAMS FOR EFFECTIVELY SEALING CONSTRUCTION CAVITIES AND JOINTS
+PATENT     : EP4741817A1  [EP]  PENDING
+ASSIGNEE   : HILTI AG [LI]; Hilti Aktiengesellschaft
+INVENTORS  : PFEIL ARMIN [DE]; Pfeil, Armin
+FILED      : 2024-11-08   PUB: 2026-05-13
+IPC        : G01N
+SCORE      : 59
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4741817A1
+ABSTRACT   : The present invention relates to a surface acoustic wave sensing system comprising a surface acoustic wave sensor configured to be provided relative to a curable chemical sealant or foam and to output, to a measurement device or system, data corresponding to characteristics of the curable sealant or foam identifying whether the curable sealant or foam is curing correctly, data for in service control after curing and/or data corresponding to characteristics of the sealant or foam associated with 
+
+---
+
+TITLE      : ORAL CARE COMPOSITION FOR USE IN THE TREATMENT OF DRY MOUTH
+PATENT     : EP4740931A1  [EP]  PENDING
+ASSIGNEE   : ORAL CARE SOLUTIONS GMBH [CH]; Oral Care Solutions GmbH
+INVENTORS  : ORTIZ SANCHEZ VIRGINIA BEATRICE [CH]; ORTIZ SANCHEZ, Virginia Beatrice
+FILED      : 2024-11-06   PUB: 2026-05-13
+IPC        : A61K
+SCORE      : 59
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4740931A1
+ABSTRACT   : An oral care composition for use in the treatment of dry mouth comprising at least one thickening agent in an amount of 0.1 to 15 wt% based on the weight of the oral care composition, a pH buffering agent in an amount of 0.5 to 2 wt% based on the weight of the oral care composition, at least two humectants in an amount of 15 to 30 wt% based on the weight of the oral care composition, water in an amount of 66.5 to 83.6 wt% based on the weight of the oralcare composition, under the form of a gel.
+
+---
+
+TITLE      : Formation of outer shell of caravan or RV
+PATENT     : AU2025242238A1  [AU]  PENDING
+ASSIGNEE   : DESERTMASTER INTELLECTUAL PROPERTY PTY LTD; Desertmaster Intellectual Property Pty Ltd
+INVENTORS  : NAYLOR PETER; Naylor, Peter
+FILED      : 2025-10-03   PUB: 2026-05-14
+IPC        : B60P, B62D
+SCORE      : 59
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025242238A1
+ABSTRACT   : Abstract A caravan or RV has at least a roof and a front and/or rear wall formed from a single panel. The panel is bent at a bend formed by kerfing on an internal face of the panel. The shell of the caravan or RV may be formed by a single panel which is bent into position and sealed at the resulting joints. Abstract A caravan or RV has at least a roof and a front and/or rear wall formed from a single panel. The panel is bent at a bend formed by kerfing on an internal face of the panel. The shell
 
 ---
 
@@ -5609,6 +5613,30 @@ ABSTRACT   : The present invention relates to a crystalline polyester resin and 
 
 ---
 
+TITLE      : TELEMATICS CONTROL UNIT COMPRISING AN ANTENNA PRINTED ON A PLASTIC CARRIER
+PATENT     : EP4742442A1  [EP]  PENDING
+ASSIGNEE   : VALEO COMFORT & DRIVING ASSISTANCE [FR]; Valeo Comfort and Driving Assistance
+INVENTORS  : ATMATZAKIS GEORGIOS [FR]; JAFARI AHMADREZA [FR]; ATMATZAKIS, Georgios et al.
+FILED      : 2024-11-07   PUB: 2026-05-13
+IPC        : H01Q
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742442A1
+ABSTRACT   : [0001]    The invention relates to a telematics control unit (1) for a vehicle (3), said telematics control unit (1) comprising at least one antenna (10) connected to an electronic support (11), a first housing (12) and a second housing (13) that are configured to house said at least one antenna (10) and said electronic support (11), wherein it further comprises a plastic carrier (14) that is placed opposite to the electronic support (11), and wherein said at least one antenna (10) is printed on
+
+---
+
+TITLE      : SINGLE-USE BELLOWS MICROENEMA
+PATENT     : EP4740977A1  [EP]  PENDING
+ASSIGNEE   : INGE SPA [IT]; INGE S.p.A.
+INVENTORS  : NOBBIO ALESSIO [IT]; NOBBIO, Alessio
+FILED      : 2025-11-10   PUB: 2026-05-13
+IPC        : A61M
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=EP4740977A1
+ABSTRACT   : [0001]    A disposable microenema comprising a container (2), made of a flexible plastic material, surmounted by a neck (3) on which a cannula is inserted for dispensing a liquid solution contained in the container, said container comprising a bellows portion comprising a plurality of accordion-like folds (21) which, when pressed one on top of the other, reduce the internal volume of the container, forcing the liquid contained therein to flow out of the neck (3) through said cannula. The bottom 
+
+---
+
 TITLE      : A high-efficiency low-temperature heat generator and a method of heat energy recovery
 PATENT     : CZ202514A3  [CZ]  PENDING
 ASSIGNEE   : PLISKA JAN [CZ]; PLISKOVA EVA [CZ]; Pliska, Jan et al.
@@ -5798,30 +5826,6 @@ IPC        :
 SCORE      : 65
 LINK       : https://worldwide.espacenet.com/patent/search?q=USD1125719S
 ABSTRACT   : 
-
----
-
-TITLE      : TELEMATICS CONTROL UNIT COMPRISING AN ANTENNA PRINTED ON A PLASTIC CARRIER
-PATENT     : EP4742442A1  [EP]  PENDING
-ASSIGNEE   : VALEO COMFORT & DRIVING ASSISTANCE [FR]; Valeo Comfort and Driving Assistance
-INVENTORS  : ATMATZAKIS GEORGIOS [FR]; JAFARI AHMADREZA [FR]; ATMATZAKIS, Georgios et al.
-FILED      : 2024-11-07   PUB: 2026-05-13
-IPC        : H01Q
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4742442A1
-ABSTRACT   : [0001]    The invention relates to a telematics control unit (1) for a vehicle (3), said telematics control unit (1) comprising at least one antenna (10) connected to an electronic support (11), a first housing (12) and a second housing (13) that are configured to house said at least one antenna (10) and said electronic support (11), wherein it further comprises a plastic carrier (14) that is placed opposite to the electronic support (11), and wherein said at least one antenna (10) is printed on
-
----
-
-TITLE      : SINGLE-USE BELLOWS MICROENEMA
-PATENT     : EP4740977A1  [EP]  PENDING
-ASSIGNEE   : INGE SPA [IT]; INGE S.p.A.
-INVENTORS  : NOBBIO ALESSIO [IT]; NOBBIO, Alessio
-FILED      : 2025-11-10   PUB: 2026-05-13
-IPC        : A61M
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4740977A1
-ABSTRACT   : [0001]    A disposable microenema comprising a container (2), made of a flexible plastic material, surmounted by a neck (3) on which a cannula is inserted for dispensing a liquid solution contained in the container, said container comprising a bellows portion comprising a plurality of accordion-like folds (21) which, when pressed one on top of the other, reduce the internal volume of the container, forcing the liquid contained therein to flow out of the neck (3) through said cannula. The bottom 
 
 ---
 
@@ -6017,15 +6021,15 @@ ABSTRACT   : A locking structure of a demountable table consists of four corner 
 
 ---
 
-TITLE      : PROCESSING METHOD
-PATENT     : EP4737097A1  [EP]  PENDING
-ASSIGNEE   : SOLERA THERMOFORM GROUP SPA [IT]; Solera-Thermoform Group SpA
-INVENTORS  : ALDINIO-COLBACHINI DACIANO [IT]; SCHIAVO FABIO [IT]; ALDINIO-COLBACHINI, Daciano et al.
-FILED      : 2025-10-27   PUB: 2026-05-06
-IPC        : B29C
+TITLE      : METHOD FOR DISINFECTING HIVES AND HONEYCOMBS IN THE SPRING PERIOD
+PATENT     : UA162968U  [UA]  GRANTED
+ASSIGNEE   : NATIONAL SCIENTIFIC CENTER INST OF BEEKEEPING NAMED AFTER P I PROKOPOVICH [UA]; НАЦІОНАЛЬНИЙ НАУКОВИЙ ЦЕНТР "ІНСТИТУТ БДЖІЛЬНИЦТВА ІМЕНІ П.І. ПРОКОПОВИЧА"
+INVENTORS  : POSTOIENKO VOLODYMYR OLEKSIIOVYCH [UA]; FOKIN ANDRII VOLODYMYROVYCH [UA]; MISHCHENKO OLEKSANDR ANTONOVYCH [UA] et al.
+FILED      : 2025-07-15   PUB: 2026-05-13
+IPC        : 
 SCORE      : 53
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737097A1
-ABSTRACT   : [0001]    Method for processing a semi-finished product (2) by hot forming, to produce a manufactured article (1), the semi-finished product (2) being made of a polymeric material having a degradation temperature and a minimum processing temperature for hot forming; comprising a surface (2a), defining the portion of the semi-finished product that is in contact with the outside, and a core (2b) defining the internal portion of the semi-finished product (2) at a greater distance from the surface (
+LINK       : https://worldwide.espacenet.com/patent/search?q=UA162968U
+ABSTRACT   : Method for disinfecting hives and honeycombs in the spring period involves the use of a disinfectant mixture based on an antimicrobial agent by spraying the inner surface of the hive and honeycombs. Propolis is used as the antimicrobial agent. As a disinfectant mixture, a mixture of 20% alcohol solution of propolis and an organosilicon surfactant trisiloxane polyester in an amount of 0.1 ml/l is used, once, with a consumption rate of 250 ml/sq. m.
 
 ---
 
