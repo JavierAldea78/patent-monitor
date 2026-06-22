@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-06-15
+Last updated : 2026-06-22
 Total patents: 500
 
 ============================================================
@@ -1244,6 +1244,18 @@ ABSTRACT   : The present invention relates to: an acrylic resin composition havi
 
 ---
 
+TITLE      : OPTIMIZED CONTROL OF A MILK PUMP IN A MILK MODULE IN AN AUTOMATIC BEVERAGE PREPARATION MACHINE
+PATENT     : US20260165528A1  [US]  PENDING
+ASSIGNEE   : EVOCA S P A [IT]; EVOCA S.P.A.
+INVENTORS  : ZONATO ALBERTO [IT]; ZONATO, Alberto
+FILED      : 2025-12-11   PUB: 2026-06-18
+IPC        : A47J
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260165528A1
+ABSTRACT   : [0000]    A milk module for an automatic beverage preparation machine, comprising a milk line extending from a cold liquid milk container to a milk dispensing nozzle in a beverage dispensing compartment and comprising a milk pump, by means of which cold liquid milk is drawn from the cold liquid milk container and supplied to a mixing chamber of a milk frother arranged upstream of the milk dispensing nozzle; an air line extending from an air source to the mixing chamber of the milk frother to sup
+
+---
+
 TITLE      : NANO-EMULSION COMPOSITIONS CONTAINING CANNABINOIDS
 PATENT     : US20260152478A1  [US]  PENDING
 ASSIGNEE   : CCT SCIENCES LLC [US]; CCT Sciences, LLC
@@ -1517,66 +1529,6 @@ IPC        :
 SCORE      : 65
 LINK       : https://worldwide.espacenet.com/patent/search?q=USD1125790S
 ABSTRACT   : 
-
----
-
-TITLE      : Lid system for beverage container
-PATENT     : US12612223B1  [US]  GRANTED
-ASSIGNEE   : BRUMATE INC [US]; BRUMATE LLC [US]; Brumate, Inc. et al.
-INVENTORS  : JACOB DYLAN M [US]; WESTERBERG JORDAN [US]; Jacob, Dylan M. et al.
-FILED      : 2025-07-15   PUB: 2026-04-28
-IPC        : A47G, B65D
-SCORE      : 65
-LINK       : https://worldwide.espacenet.com/patent/search?q=US12612223B1
-ABSTRACT   : [0000]    A lid system for a beverage container is disclosed that improves hygiene and ease of use by integrating a hands-free, self-deploying straw mechanism. The lid body includes a slidable cover that moves along a recessed channel between open and closed positions. Beneath the cover, a cavity houses a straw assembly including a pivotable spout and removable straw portion. As the lid cover is slid open, a spring-biased mechanism automatically pivots the spout from a stowed position to a deplo
-
----
-
-TITLE      : Method and Composition for an Improved Bioavailability Delivery System
-PATENT     : US20260158042A1  [US]  PENDING
-ASSIGNEE   : AMERICANA PHARMA LLC [US]; Americana Pharma LLC
-INVENTORS  : BERI AMAN [US]; Beri, Aman
-FILED      : 2025-10-22   PUB: 2026-06-11
-IPC        : A61K
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260158042A1
-ABSTRACT   : [0000]    A method of forming a DHEA derivative supplement including adaptogens, modified stilbenoids complex, non-esterified omega-3 fatty acids, essential amino acids, HMB free acid, vitamins, L-arginine, creatine, green tea extracts, and chelated minerals, in a multi-bioavailability delivery system, based on the nature of the constituents, formed as an encapsulated micronized material having a phytosomal delivery system which reduces supplements dosage while increasing active nutrients effica
-
----
-
-TITLE      : ORAL HYGIENE FORMULATION
-PATENT     : US20260158085A1  [US]  PENDING
-ASSIGNEE   : EZ DENT CORP [US]; EZ Dent Corp.
-INVENTORS  : RHEINLANDER THOMAS [US]; BROMBOZ JONATHAN [US]; Bromboz, Jonathan et al.
-FILED      : 2025-12-02   PUB: 2026-06-11
-IPC        : A61K
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260158085A1
-ABSTRACT   : [0000]    An oral hygiene powder formulation and a method of administering a therapeutic consumable preparation are disclosed. The oral hygiene powder formulation includes coconut oil or MCT powder, remineralizing agent(s), vitamins, supplement(s), probiotic(s), sugar alcohol, optionally together with emulsifiers and/or thickeners and/or stabilizers and/or sweeteners and/or flavorants. The probiotic includes one or more strains of Streptococcus Salivarius.
-
----
-
-TITLE      : METHOD FOR PREDICITING COMPOUND-PROTEIN BINDING AFFINITY AND APPARATUS THEREOF
-PATENT     : US20260162777A1  [US]  PENDING
-ASSIGNEE   : UIF UNIV INDUSTRY FOUNDATION YONSEI UNIV [KR]; UIF (University Industry Foundation), Yonsei University
-INVENTORS  : KIM HWANHEE [KR]; PARK SANGHYUN [KR]; CHOI SEUNGYEON [KR] et al.
-FILED      : 2025-12-06   PUB: 2026-06-11
-IPC        : G16C
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260162777A1
-ABSTRACT   : [0000]    A compound-protein binding affinity prediction method performed by at least one processor includes receiving compound data and protein data, which interact with each other, generating an attribute vector of a compound and an attribute vector of a protein based on the input compound data and the input protein data, calculating an attention value based on the attribute vector of the compound and the attribute vector of the protein, generating a first interaction matrix based on the atten
-
----
-
-TITLE      : METHODS OF TREATING IMPAIRED GLUCOCORTICOID SIGNALLING IN UTERINE DISORDERS
-PATENT     : US20260159840A1  [US]  PENDING
-ASSIGNEE   : UNIV OF SOUTH FLORIDA [US]; UNIVERSITY OF SOUTH FLORIDA
-INVENTORS  : GUZELOGLU-KAYISLI OZLEM [US]; MALCOM CARRIE ANN [US]; KAYISLI UMIT ALI [US] et al.
-FILED      : 2025-12-08   PUB: 2026-06-11
-IPC        : A61P, C12N, C12Q
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159840A1
-ABSTRACT   : The present disclosure relates to methods of modulating FK506-binding protein-51 (FKBP51) mediated glucocorticoid signalling and HSD11B1 expression in uterine disorders. Further disclosed are compositions comprising FKBP5 gene modulating agents and use thereof.
 
 ---
 
@@ -2245,6 +2197,78 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : BEVERAGE CONTAINER
+PATENT     : WO2026128285A2  [WO]  PENDING
+ASSIGNEE   : GABBAY DANIEL [US]; HEIDMANN DIETER [DE]; GABBAY, Daniel et al.
+INVENTORS  : GABBAY DANIEL [US]; HEIDMANN DIETER [DE]; GABBAY, Daniel et al.
+FILED      : 2025-12-04   PUB: 2026-06-18
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026128285A2
+ABSTRACT   : An improved beverage container (100) is provided. In one version, the beverage container (100) includes a chamber creating system (140) with a partitioning wall (145) that divides the beverage container interior (135) into a sipping chamber (160) and a beverage storage chamber (155). In one version, the beverage container (100) is in the form of a beverage tumber (4100). In one version, the beverage container (100) is part of a beverage container system (6100) that includes a straw (6110). The s
+
+---
+
+TITLE      : BEVERAGE PROVISION SYSTEM, CUSTOM BEVERAGE CREATION METHOD, AND PROGRAM
+PATENT     : WO2026126744A1  [WO]  PENDING
+ASSIGNEE   : ASAHI GROUP HOLDINGS LTD [JP]; アサヒグループホールディングス株式会社
+INVENTORS  : HATORI MICHIO [JP]; OTSUKA YASUNOBU [JP]; INOUE TOMONORI [JP] et al.
+FILED      : 2025-11-18   PUB: 2026-06-18
+IPC        : B67D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026126744A1
+ABSTRACT   : A beverage provision system 1 comprises a first terminal 10 and a dispenser 20 that are configured to be capable of communicating with each other. The first terminal 10 includes a beverage information generation unit that generates beverage information relating to a custom beverage on the basis of an operation input from a user, and a first communication unit that transmits information including the beverage information. The dispenser 20 includes: a storage unit for storing a plurality of bevera
+
+---
+
+TITLE      : A BEVERAGE PREPARATION DEVICE
+PATENT     : WO2026127926A1  [WO]  PENDING
+ASSIGNEE   : ARZUM ELEKTRIKLI EV ALETLERI SAN VE TIC A S [TR]; ARZUM ELEKTRIKLI EV ALETLERI SAN. VE TIC. A.S.
+INVENTORS  : YORUK HASAN [TR]; YORUK, Hasan
+FILED      : 2025-12-09   PUB: 2026-06-18
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026127926A1
+ABSTRACT   : The present invention relates to a beverage preparation device (1) which can prepare both espresso-based beverages and Turkish coffee, comprising at least one espresso unit (3) for preparing espresso, at least one Turkish coffee unit (4) for preparing Turkish coffee, at least one input unit for the user to select the beverage he/she wants to prepare, at least one water tank (5) for providing water to the espresso unit (3) and/or the Turkish coffee unit (4), at least one grinder (6) suitable for 
+
+---
+
+TITLE      : BEVERAGE PREPARATION WITH COMPACT CONDITIONING CHAMBER
+PATENT     : WO2026125206A1  [WO]  PENDING
+ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIETE DES PRODUITS NESTLE S.A.
+INVENTORS  : GAVILLET GILLES [CH]; SAUER BJÖRN [CH]; RUCHET VALÉRIAN [CH] et al.
+FILED      : 2025-12-08   PUB: 2026-06-18
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026125206A1
+ABSTRACT   : A machine (1) has: a rotatable ingredient handling system (10,20) to hold and rotate a flavouring ingredient (5a) and water for centrifugation about a processing axis (30') in a processing cavity (5) so as to form a beverage (4). The machine (1) includes a beverage conditioner (50) in fluid communication with and downstream of the processing cavity (5). The conditioner (50) has a conditioning cavity (51) in which the beverage (4) supplied from the processing cavity (5) is conditioned. The condit
+
+---
+
+TITLE      : BEVERAGE, METHOD FOR PRODUCING SAME, AND METHOD FOR MASKING UNPLEASANT ODOR OF BEVERAGE
+PATENT     : WO2026127115A1  [WO]  PENDING
+ASSIGNEE   : KIRIN BEVERAGE CO LIMITED [JP]; キリンビバレッジ株式会社
+INVENTORS  : SANO RYOKO [JP]; KURODA YUSUKE [JP]; SAKA CHINAMI [JP] et al.
+FILED      : 2025-12-12   PUB: 2026-06-18
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026127115A1
+ABSTRACT   : This beverage contains: one or more selected from the group consisting of ceramide, hyaluronic acid, coenzyme Q10, 2-hydroxy-1,2,3-propane-tricarboxylic acid, and imidazole dipeptide; and non-viable beneficial bacteria.
+
+---
+
+TITLE      : BREWING BEVERAGE MIXTURE WITHIN A SINGLE-SERVE POD WITH EXCESSIVE PRESSURE
+PATENT     : US20260165338A1  [US]  PENDING
+ASSIGNEE   : OH SUNG [US]; KATO SHIGEKI [JP]; DIVERGENTIP LLC [US] et al.
+INVENTORS  : OH SUNG [US]; KATO SHIGEKI [JP]; SHIRAKATA MASANORI [US] et al.
+FILED      : 2025-09-29   PUB: 2026-06-18
+IPC        : A23F, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260165338A1
+ABSTRACT   : The method and system are adapted to brew a matcha beverage into a single-serve pod where the beverage mixture has excess pressure during the brewing process. The beverage mixture includes matcha powder and tencha, where the tencha does not affect the taste of the matcha because the tencha is the precursor to making the matcha by grinding the tencha to make matcha powder. The tencha is coarser than matcha powder, so that the water may flow through the beverage mixture to reduce the pressure. Alt
 
 ---
 
@@ -3469,6 +3493,18 @@ IPC        :
 SCORE      : 82
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA163003U
 ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coating by ion-plasma sputtering using cathode pressed into steel mandrel. Composite material based on F-40 elastomer with aluminum (Al) and copper (Cu) nanopowders is used as cathode material, wherein the specified components are pre-mixed, pressed, and pressed into steel mandrel.
+
+---
+
+TITLE      : SYSTEM AND METHOD FOR DIGITALIZATION AND IMPROVEMENT OF NUTRITION CARE FOR CHRONIC DISEASE PATIENTS
+PATENT     : HRP20241724A1  [HR]  PENDING
+ASSIGNEE   : KLINICKI BOLNICKI CENTAR SPLIT [HR]; Klinički bolnički centar Split
+INVENTORS  : RADIĆ JOSIPA [HR]; BUČAN NENADIĆ DORA [HR]; RADIĆ MISLAV [HR] et al.
+FILED      : 2024-12-18   PUB: 2026-06-19
+IPC        : G16H
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=HRP20241724A1
+ABSTRACT   : This invention represents a clinical procedure intended for physicians, nutritionists and patients suffering from chronic non-contagious diseases in the management of nutritional therapy with a multidisciplinary approach simultaneously. Experts can enter and update patient data, including medical history, goals and dietary restrictions, and manually create customised nutritional plans. There are also specific questionnaires that physicians and nutritionists assign to patients according to chroni
 
 ---
 
@@ -4840,6 +4876,18 @@ ABSTRACT   : [0000]    A wearable device or system for monitoring food consumpti
 
 ---
 
+TITLE      : FLEXIBLE PACKAGING WITH SMART LABEL
+PATENT     : US20260166863A1  [US]  PENDING
+ASSIGNEE   : BROOK & WHITTLE LTD [US]; BROOK & WHITTLE LIMITED
+INVENTORS  : GALLAGHER SEAN PATRICK [US]; Gallagher, Sean Patrick
+FILED      : 2025-09-16   PUB: 2026-06-18
+IPC        : B32B
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260166863A1
+ABSTRACT   : [0000]    A packing material and a method of making are provided. The packing material has a layered film and a smart label inlay. The layered film includes a metallic layer having a disruption therethrough and a non-metallic layer. The smart label inlay is disposed on the layered film and registered with the disruption in the metallic layer. The disruption enables transmission of the smart label antenna. A flexible packaging is formed of the packing material.
+
+---
+
 TITLE      : UPDATE PACKAGING FOR DISCONNECTED PRIVATE CLOUD
 PATENT     : US20260161379A1  [US]  PENDING
 ASSIGNEE   : HEWLETT PACKARD ENTPR DEVELOPMENT LP [US]; Hewlett Packard Enterprise Development LP
@@ -5221,54 +5269,6 @@ IPC        :
 SCORE      : 65
 LINK       : https://worldwide.espacenet.com/patent/search?q=USD1125919S
 ABSTRACT   : 
-
----
-
-TITLE      : SINGLE OR DOUBLE LYOCELL NETTING BASED BIODEGRADABLE EROSION CONTROL BLANKET
-PATENT     : US20260158762A1  [US]  PENDING
-ASSIGNEE   : MKB CO LLC [US]; MKB Company, LLC
-INVENTORS  : FAUCETTE BRITT [US]; DREHER NICK [US]; Faucette, Britt et al.
-FILED      : 2025-04-16   PUB: 2026-06-11
-IPC        : B32B, E02D
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260158762A1
-ABSTRACT   : An erosion control blanket includes one or two layers of lyocell netting and a biodegradable substrate of natural fibers such as formed of one of straw, coconut fiber, excelsior fiber and mixtures thereof. The biodegradable erosion control blankets 10 and 10′ are appropriate for any bare soil area where temporary protection from raindrop and wind erosion is needed, or where newly seeded grass requires short-term cover and support prior to germination, early growth, and full establishment. Erosio
-
----
-
-TITLE      : RESIDUAL URINE NEUTRALIZING COMPOSITIONS AND COATINGS
-PATENT     : US20260158184A1  [US]  PENDING
-ASSIGNEE   : MICROBAN PRODUCTS CO [US]; MICROBAN PRODUCTS COMPANY
-INVENTORS  : LOTT CRAIG C [US]; BATES DANIEL [US]; Lott, Craig C. et al.
-FILED      : 2025-12-30   PUB: 2026-06-11
-IPC        : A61L
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260158184A1
-ABSTRACT   : A liquid composition that forms a residual hydrophobic coating on a substrate post-application that neutralizes urine odor and/or degrades urine including water, microbial spore(s) and an enzyme dispersed within the water present in an effective amount to reduce and/or eliminate urine odor and/or degrade urine on the substrate post-application; and a film forming composition dispersed within the water present in an effective amount to form a clear hydrophobic film on the substrate post-applicati
-
----
-
-TITLE      : SMART KNEE ORTHOSIS WITH INTEGRATED BIOFEEDBACK FOR REAL-TIME PROPRIOCEPTIVE TRAINING
-PATENT     : US20260157871A1  [US]  PENDING
-ASSIGNEE   : REDDY RAVI SHANKAR [SA]; SAMUEL PAUL SILVIAN [SA]; KAKARAPARTHI VENKATA NAGARAJ [SA] et al.
-INVENTORS  : REDDY RAVI SHANKAR [SA]; SAMUEL PAUL SILVIAN [SA]; KAKARAPARTHI VENKATA NAGARAJ [SA] et al.
-FILED      : 2025-09-23   PUB: 2026-06-11
-IPC        : A61B, A61F
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157871A1
-ABSTRACT   : A smart knee orthosis system provides structural stabilization of the knee joint and integrated proprioceptive training through real-time biofeedback. The orthosis includes an upper thigh frame and a lower shank frame interconnected by a hinge aligned with the anatomical knee axis. The hinge incorporates an encoder for continuous monitoring of angular displacement. Embedded within the orthotic structure are multi-modal sensors including inertial measurement units, strain gauges, and surface elec
-
----
-
-TITLE      : SMART SCALE WITH COLOR FEEDBACK
-PATENT     : US20260157708A1  [US]  PENDING
-ASSIGNEE   : REESTAR INTERNATIONAL LTD [HK]; Reestar International Limited
-INVENTORS  : YU TOBY [HK]; Yu, Toby
-FILED      : 2024-12-06   PUB: 2026-06-11
-IPC        : A61B, G01G, G16H
-SCORE      : 59
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157708A1
-ABSTRACT   : System apparatus, article of manufacture, method and/or computer program embodiments are provided for providing a color scheme or color-coded feedback corresponding to one or more health metrics determined by the smart scale for a user. An example method may include obtaining sensor data from one or more sensors of a smart scale; determining at least a first health metric based on the sensor data; determining a color associated with the first health metric based on color map data associated with
 
 ---
 
