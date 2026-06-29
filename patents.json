@@ -14412,6 +14412,125 @@
     "fetch_date": "2026-05-06"
   },
   {
+    "patent_number": "US20260182382A1",
+    "lens_id": "",
+    "title": "PANEL COMPRISING PACKAGING SUBSTRATE",
+    "abstract": "[0000]    According to the embodiment, a panel comprises a glass core having a width or length of 10 cm or more, and an upper layer disposed on the glass core and having redistribution lines therein. A unit refers to a portion in which a semiconductor element is disposed within a die layout and is separated into an individual packaging substrate. A plurality of the units are disposed on the panel. A reinforcement structure is disposed on the upper layer, configured to surround at least a portion of the die layout. A first unit comprises a first die layout and a first reinforcement structure disposed on the first die layout. A second unit comprises a second die layout and a second reinforcement structure disposed on the second die layout. The second unit is disposed adjacent to one side of the first unit, and the first reinforcement structure and the second reinforcement structure are disposed separately from each other.",
+    "assignee": "ABSOLICS INC [US]; Absolics Inc.",
+    "inventors": "KIM JINCHEOL [KR]; YUN SEHAN [US]; KIM, Jincheol et al.",
+    "filing_date": "2025-10-27",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182382A1",
+    "google_url": "https://patents.google.com/patent/US20260182382A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Smart packaging freshness biosensor",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": true,
+    "raw_score": 90,
+    "score": 71,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181781A1",
+    "lens_id": "",
+    "title": "PANEL LEVEL PACKAGING FOR MODULAR EMBEDDED DEVICES",
+    "abstract": "[0000]    A semiconductor device package includes a first panel including at least one first connection and a second panel including at least one second connection. The package includes a semiconductor device with a first surface of the semiconductor device attached to the first panel and connected to the at least one first connection, and with a second surface of the semiconductor device, opposed to the first surface of the semiconductor device, attached to the second panel and connected to the at least one second connection. The package includes a panel connector, with a first surface of the panel connector attached to the first panel, and with a second surface of the panel connector, opposed to the first surface of the panel connector, attached to the second panel, the panel connector thereby coupling the first panel to the second panel.",
+    "assignee": "SEMICONDUCTOR COMPONENTS IND LLC [US]; SEMICONDUCTOR COMPONENTS INDUSTRIES, LLC",
+    "inventors": "SHARMA ANKIT BHUSHAN [DE]; SHARMA, Ankit Bhushan",
+    "filing_date": "2024-12-20",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H05K"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181781A1",
+    "google_url": "https://patents.google.com/patent/US20260181781A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Smart packaging freshness biosensor",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": true,
+    "raw_score": 90,
+    "score": 71,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "AU2024278236A1",
+    "lens_id": "",
+    "title": "BAG FOR WASTE COLLECTION",
+    "abstract": "Abstract The invention pertains to a utility model patent for a disposable bag designed for use inside vehicles, primarily attached to the gear stick, to collect typical waste such as packaging, paper scraps, and food leftovers 5 produced by passengers; made from materials like fabrics or fibre and cellulose composites, the bag addresses the common issue of improper waste storage, which can contaminate the vehicle's interior and complicate cleaning; the bag ensures waste is collected in a designated container rather than scattered inside the vehicle, and once full, it can be easily 10 removed and disposed of appropriately, diagrams illustrate its design, placement, and usage. Abstract The invention pertains to a utility model patent for a disposable bag designed for use inside vehicles, primarily attached to the gear stick, to 5 collect typical waste such as packaging, paper scraps, and food leftovers produced by passengers; made from materials like fabrics or fibre and cellulose composites, the bag addresses the common issue of improper waste storage, which can contaminate the vehicle's interior and complicate cleaning; the bag ensures waste is collected in a designated container 10 rather than scattered inside the vehicle, and once full, it can be easily removed and disposed of appropriately, diagrams illustrate its design, placement, and usage. ec b s t r a c t e c Drawing Fig. 1 Drawing Fig. 1 ec e c",
+    "assignee": "GOMES GUILHERME; GOMES, GUILHERME",
+    "inventors": "GOMES GUILHERME; GOMES, GUILHERME",
+    "filing_date": "2024-12-10",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "AU",
+    "ipc_codes": [
+      "B60N",
+      "B65F"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=AU2024278236A1",
+    "google_url": "https://patents.google.com/patent/AU2024278236A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Smart packaging freshness biosensor",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": true,
+    "raw_score": 90,
+    "score": 71,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182460A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR DEVICE WITH PATTERNED WAVE GUIDE AND SELF-ALIGNED COMPONENT PLACEMENT",
+    "abstract": "Disclosed is a method of panel level packaging of one or more devices. The method comprises: providing a carrier, forming at least one optical waveguide on the carrier, selectively removing the at least one optical waveguide to obtain one or more opening areas, and mounting one or more components to the carrier within the one or more opening areas. Also disclosed is a panel level packaged device, comprising one or more of a photonic integrated circuit and an electronic integrated circuit; and a carrier, having a mounting side with at least one patterned optical waveguide. The photonic integrated circuit and/or the electronic integrated circuit are mounted into one or more opening areas of the at least one patterned optical waveguide.",
+    "assignee": "MICROCHIP TECH INC [US]; Microchip Technology Inc.",
+    "inventors": "NAGEL STEVE [US]; CHEN BOMY [US]; Chen, Bomy et al.",
+    "filing_date": "2025-05-09",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G02B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182460A1",
+    "google_url": "https://patents.google.com/patent/US20260182460A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Smart packaging freshness biosensor",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": true,
+    "raw_score": 90,
+    "score": 71,
+    "fetch_date": "2026-06-29"
+  },
+  {
     "patent_number": "US20260166863A1",
     "lens_id": "",
     "title": "FLEXIBLE PACKAGING WITH SMART LABEL",
@@ -16621,6 +16740,68 @@
     "raw_score": 85,
     "score": 65,
     "fetch_date": "2026-05-06"
+  },
+  {
+    "patent_number": "AU2024278264A1",
+    "lens_id": "",
+    "title": "Method for Preparing High-Content Phenolic Compounds and Strong Antioxidant Kombucha Beverage Using Dual-Phase Oxygen-Temperature Control Technology",
+    "abstract": "Abstract This invention belongs to the field of beverage technology and provides a method for preparing high-content phenolic compounds and strong antioxidant kombucha liquid using dual-phase temperature-oxygen dual-control technology. The method includes the following two stages. In the first stage, standard fermentation: Sri Lankan highland Ceylon black tea is added to the sugar water, soaked, and then the tea leaves are removed using sterile tools. The tea solution is cooled to room temperature, and the fermentation starter and SCOBY (Symbiotic Culture of Bacteria and Yeast) are added to begin fermentation. After the first-stage fermentation is complete, the process immediately enters the second stage, where fermentation is optimized through controlled oxygen supply and gradual temperature changes. This invention uses a dual-phase fermentation technique. The first stage is standard fermentation, providing an abundant oxygen environment to support microbial growth, while the second stage reduces oxygen supply and uses temperature gradients, effectively increasing the content of phenolic substances and antioxidant compounds, and improving the flavor and functionality of the kombucha. Abstract This invention belongs to the field of beverage technology and provides a method for preparing high-content phenolic compounds and strong antioxidant kombucha liquid using dual-phase temperature-oxygen dual-control technology. The method includes the following two stages. In the first stage, standard fermentation: Sri Lankan highland Ceylon black tea is added to the sugar water, soaked, and then the tea leaves are removed using sterile tools. The tea solution is cooled to room temperature, and the fermentation starter and SCOBY (Symbiotic Culture of Bacteria and Yeast) are added to begin fermentation. After the first-stage fermentation is complete, the process immediately enters the second stage, where fermentation is optimized through controlled oxygen supply and gradual temperature changes. This invention uses a dual-phase fermentation technique. The first stage is standard fermentation, providing an abundant oxygen environment to support microbial growth, while the second stage reduces oxygen supply and uses temperature gradients, effectively increasing the content of phenolic substances and antioxidant compounds, and improving the flavor and functionality of the kombucha. ec b s t r a c t e c k o m b u c h a",
+    "assignee": "WANG BOYING; YANG YANYU; WANG, BOYING et al.",
+    "inventors": "WANG BOYING; YANG YANYU; WANG, BOYING et al.",
+    "filing_date": "2024-12-10",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "AU",
+    "ipc_codes": [
+      "A23F",
+      "A23L"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=AU2024278264A1",
+    "google_url": "https://patents.google.com/patent/AU2024278264A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film",
+      "Smart packaging freshness biosensor",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 80,
+    "score": 59,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "AU2024278265A1",
+    "lens_id": "",
+    "title": "A method for preparing high-antibacterial kombucha beverage using blended black tea, mixed sugars, and microaerobic technology",
+    "abstract": "Abstract This invention belongs to the field of beverage technology and provides a method for preparing high-antibacterial kombucha liquid using blended black tea, mixed sugar, and micro-oxygen technology. The process involves heating water, adding part of the mixed sugar, and infusing with highland blended black tea; natural cooling and continued steeping; removing the tea leaves; after the solution temperature decreases, adding kombucha fermentation starter liquid; adding the starter culture and covering with breathable cloth to promote the growth of acetic acid bacteria; on days 2- 4 of fermentation, gradually adding the remaining sugar while monitoring the pH to maintain it between 3.0 and 3.3; maintaining a micro-oxygen environment of 3%-5% by controlling the oxygen supply; introducing lactic acid bacteria during the secondary fermentation stage; and extending the fermentation time at low temperature: on day 8, setting the fermentation temperature to 12°C and extending the fermentation time to 15 days. This invention, using a blend of black tea and sugar, significantly increases the organic acids and exhibits high antibacterial properties compared to kombucha products made with green tea. The method is simple, with high processing efficiency. Abstract This invention belongs to the field of beverage technology and provides a method for preparing high-antibacterial kombucha liquid using blended black tea, mixed sugar, and micro-oxygen technology. The process involves heating water, adding part of the mixed sugar, and infusing with highland blended black tea; natural cooling and continued steeping; removing the tea leaves; after the solution temperature decreases, adding kombucha fermentation starter liquid; adding the starter culture and covering with breathable cloth to promote the growth of acetic acid bacteria; on days 2- 4 of fermentation, gradually adding the remaining sugar while monitoring the pH to maintain it between 3.0 and 3.3; maintaining a micro-oxygen environment of 3%-5% by controlling the oxygen supply; introducing lactic acid bacteria during the secondary fermentation stage; and extending the fermentation time at low temperature: on day 8, setting the fermentation temperature to 12°C and extending the fermentation time to 15 days. This invention, using a blend of black tea and sugar, significantly increases the organic acids and exhibits high antibacterial properties compared to kombucha products made with green tea. The method is simple, with high processing efficiency. ec e c b s t r a c t",
+    "assignee": "WANG BOYING; YANG YANYU; WANG, BOYING et al.",
+    "inventors": "WANG BOYING; YANG YANYU; WANG, BOYING et al.",
+    "filing_date": "2024-12-10",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "AU",
+    "ipc_codes": [
+      "A23F",
+      "A23L"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=AU2024278265A1",
+    "google_url": "https://patents.google.com/patent/AU2024278265A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Smart packaging freshness biosensor",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 80,
+    "score": 59,
+    "fetch_date": "2026-06-29"
   },
   {
     "patent_number": "WO2026124792A1",
@@ -30080,6 +30261,212 @@
     "raw_score": 70,
     "score": 47,
     "fetch_date": "2026-05-06"
+  },
+  {
+    "patent_number": "AU2024278228A1",
+    "lens_id": "",
+    "title": "Production of High-Performance Base Oils from Iso-recycle (Hydrocracking Byproducts) and a New Formula for Rust-Protective Oil Using These Base Oils",
+    "abstract": "Abstract: This invention relates to producing high-performance base oils from hydrocracking byproducts, specifically using a byproduct called \"ISO-RECYCLE”. The process employs a novel batch methodology incorporating ethyl acetate as a solvent for selective extraction, a temperature- controlled filtration system, and a glycol-water cooling system. The resulting base oils demonstrate superior properties, including low sulfur content, high oxidation stability, and enhanced corrosion resistance, making them ideal for industrial and motor oil formulations. This process is safer, more efficient, and environmentally sustainable compared to conventional methods. Abstract: This invention relates to producing high-performance base oils from hydrocracking byproducts, specifically using a byproduct called \"ISO-RECYCLE\". The process employs a novel batch methodology incorporating ethyl acetate as a solvent for selective extraction, a temperature- controlled filtration system, and a glycol-water cooling system. The resulting base oils demonstrate superior properties, including low sulfur content, high oxidation stability, and enhanced corrosion resistance, making them ideal for industrial and motor oil formulations. This process is safer, more efficient, and environmentally sustainable compared to conventional methods. ec b s t r a c t : e c",
+    "assignee": "SHAKOURI HAMID; Shakouri, Hamid",
+    "inventors": "SHAKOURI HAMID; Shakouri, Hamid",
+    "filing_date": "2024-12-09",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "AU",
+    "ipc_codes": [
+      "C10G",
+      "C10M"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=AU2024278228A1",
+    "google_url": "https://patents.google.com/patent/AU2024278228A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 65,
+    "score": 41,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180488A1",
+    "lens_id": "",
+    "title": "SOLAR PHOTOVOLTAIC-POWERED, SELF-CLEANING THERMOELECTRIC SYSTEM FOR NET-ZERO COOLING (SPVTE-C) SYSTEM",
+    "abstract": "A solar photovoltaic-powered thermoelectric system and a method for using thereof to cool air are described. The solar photovoltaic-powered thermoelectric system includes a cabinet with a plurality of intake air fans and outtake cooling fans, and a plurality of thermoelectric modules. A sliding mechanism is connected to the exterior of the cabinet and supports a fixed bifacial photovoltaic panel and first and second sliding bifacial photovoltaic panels. An inverter generates a DC current from the power generated by the photovoltaic panels. A microcontroller actuates the sliding mechanism to position the photovoltaic panels to receive maximum solar radiation, provides the DC current to the thermoelectric modules, and actuates the intake and outtake fans to draw ambient air towards a heat sink and expel cooled air through an air duct. The solar photovoltaic-powered thermoelectric system provides efficient and sustainable cooling by utilizing solar energy and thermoelectric modules.",
+    "assignee": "KING FAHD UNIV OF PETROLEUM AND MINERALS [SA]; KING FAHD UNIVERSITY OF PETROLEUM AND MINERALS",
+    "inventors": "IRSHAD KASHIF [SA]; IRSHAD, Kashif",
+    "filing_date": "2024-12-30",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H02S"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180488A1",
+    "google_url": "https://patents.google.com/patent/US20260180488A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 65,
+    "score": 41,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260179011A1",
+    "lens_id": "",
+    "title": "SUSTAINABLE DATA-ON-WHEEL TRANSPORTATION SYSTEM",
+    "abstract": "A method and system for dynamic placement of vehicles within a geographic region (e.g., a city) are described herein. Metadata of a plurality of vehicles in a geographic region is read. Data cache demand and a sustainability metric for at least one subregion of the geographic region is read. Based on the metadata, a sustainability score for each vehicle to serve the data cache demand is determined. One or more vehicles from the plurality of vehicles is selected based on the sustainability score for each vehicle and the sustainability metric for the at least one subregion. The selected one or more vehicles is routed to the at least one subregion. Data is served from the selected one or more vehicles to meet the cache demand within the at least one subregion.",
+    "assignee": "INT BUSINESS MACHINES CORPORATION [US]; INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "inventors": "JAIN ABHISHEK [IN]; SOOD SIDDHARTHA [IN]; Jain, Abhishek et al.",
+    "filing_date": "2024-12-24",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06Q"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260179011A1",
+    "google_url": "https://patents.google.com/patent/US20260179011A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 65,
+    "score": 41,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260179925A1",
+    "lens_id": "",
+    "title": "METHODS AND SYSTEMS FOR MANUFACTURING CATHODE ACTIVE MATERIALS FOR RECHARGEABLE BATTERIES",
+    "abstract": "The present disclosure provides methods and system for manufacturing cathode active materials for rechargeable batteries. The method includes melting precursor materials (10, 10a) to form a molten mixture (12, 12a), which is either solidified into a dense ingot for nanoshearing (14) or directly atomized (14a) into fine droplets that solidify into particles of controlled dimensions, which may include micro- or nanoscale or combinations thereof. The resulting particles of controlled dimensions are subsequently directed to a coating step (16, 16a), where conductive or protective layers are applied to enhance electrochemical performance, thereby yielding cathode active materials (18, 18a) with improved conductivity, stability, and energy density. The disclosed approach significantly reduces processing times, enables flexible coating options, accommodates lower-purity or processed recycled feedstocks and supports continuous manufacturing workflows. Optional post-processing, including ball milling, spray drying, thermal treatment, and chemical vapor deposition, further refines particle morphology and density of the resulting powders. The invention thus provides a scalable, efficient, and sustainable route for producing advanced cathode active materials for lithium-ion and other secondary batteries.",
+    "assignee": "NASCENT MAT INC [US]; NASCENT MATERIALS INC.",
+    "inventors": "SHARMA CHAITANYA [US]; GRUNDISH NICHOLAS [US]; SHARMA MAYANK [US] et al.",
+    "filing_date": "2025-12-10",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H01M"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260179925A1",
+    "google_url": "https://patents.google.com/patent/US20260179925A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 65,
+    "score": 41,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "AU2024278266A1",
+    "lens_id": "",
+    "title": "The method for preparing high-antibacterial and high-antioxidant kombucha liquid using highland blended black tea",
+    "abstract": "Abstract The present invention belongs to the field of beverage technology and provides a method for preparing high-antibacterial and high-antioxidant kombucha liquid using highland blended black tea, which involves adding a portion of mixed sugar to hot water and stirring until completely dissolved; adding blended black tea, steeping, and filtering to remove the tea leaves; cooling the solution to room temperature; adding the fermentation starter liquid; gently placing the starter culture (SCOBY) on the surface; covering with breathable cloth to ensure air circulation; setting the initial fermentation temperature to 28°C; and fermenting for a total of 13 days. Starting on day 2 of fermentation, sugar is gradually added and the temperature is adjusted; after 8 days, the temperature is maintained at 20°C for an additional 5 days. The end of fermentation is marked by the pH stabilizing between 3.3 and 3.5, with the fermented liquid having a rich aroma and ideal acidity. The fermented liquid is then filtered to remove microbial biomass and suspended solids, and stored at - 20°C. This invention aims to obtain fermented black tea rich in phenolic and flavonoid compounds, which has strong inhibitory effects on specific strains. Abstract The present invention belongs to the field of beverage technology and provides a method for preparing high-antibacterial and high-antioxidant kombucha liquid using highland blended black tea, which involves adding a portion of mixed sugar to hot water and stirring until completely dissolved; adding blended black tea, steeping, and filtering to remove the tea leaves; cooling the solution to room temperature; adding the fermentation starter liquid; gently placing the starter culture (SCOBY) on the surface; covering with breathable cloth to ensure air circulation; setting the initial fermentation temperature to 28°C; and fermenting for a total of 13 days. Starting on day 2 of fermentation, sugar is gradually added and the temperature is adjusted; after 8 days, the temperature is maintained at 20°C for an additional 5 days. The end of fermentation is marked by the pH stabilizing between 3.3 and 3.5, with the fermented liquid having a rich aroma and ideal acidity. The fermented liquid is then filtered to remove microbial biomass and suspended solids, and stored at - 20°C. This invention aims to obtain fermented black tea rich in phenolic and flavonoid compounds, which has strong inhibitory effects on specific strains. ec e c",
+    "assignee": "WANG BOYING; YANG YANYU; WANG, BOYING et al.",
+    "inventors": "WANG BOYING; YANG YANYU; WANG, BOYING et al.",
+    "filing_date": "2024-12-10",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "AU",
+    "ipc_codes": [
+      "A23F",
+      "A23L"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=AU2024278266A1",
+    "google_url": "https://patents.google.com/patent/AU2024278266A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor",
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 65,
+    "score": 41,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177529A1",
+    "lens_id": "",
+    "title": "3D PRINTED SCAFFOLDS FOR THE ENHANCEMENT OF POLYMER COATING TECHNIQUES FOR TUNABLE MEMS SENSORS",
+    "abstract": "The present disclosure relates generally to chemical sensors and polymer coatings for chemical sensors, and more particularly to a sensing system including a sensor having a polymeric 3D printed coating disposed on a surface thereof. A sensing system includes a sensor including a resonator structure. The sensing system includes a polymeric 3D printed coating disposed on a surface of at least a portion of the sensor. The polymeric 3D printed coating includes a three-dimensional scaffold structure.",
+    "assignee": "GEORGIA TECH RES CORPORATION [US]; Georgia Tech Research Corporation",
+    "inventors": "HAILE BIYA D [US]; BEARDSLEE LUKE A [US]; BRAND OLIVER [US] et al.",
+    "filing_date": "2025-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "C09D",
+      "G01N"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177529A1",
+    "google_url": "https://patents.google.com/patent/US20260177529A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 65,
+    "score": 41,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180129A1",
+    "lens_id": "",
+    "title": "SEPARATOR FOR ELECTROCHEMICAL DEVICE, ELECTROCHEMICAL DEVICE INCLUDING THE SAME AND METHOD OF MANUFACTURING THE SAME",
+    "abstract": "A separator for an electrochemical device of the present disclosure includes: a porous polymer substrate; and a coating layer that is provided on at least one surface of the porous polymer substrate, and includes a polymer binder and inorganic particles. The coating layer includes a first coating layer and a second coating layer formed on the first coating layer, and the packing density of the coating layer is about 1.70 g/cm3 or less.",
+    "assignee": "LG ENERGY SOLUTION LTD [KR]; LG ENERGY SOLUTION, LTD.",
+    "inventors": "LEE BYEONG KYU [KR]; KA KYUNG RYUN [KR]; LEE SEUNG HYUN [KR] et al.",
+    "filing_date": "2025-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H01M"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180129A1",
+    "google_url": "https://patents.google.com/patent/US20260180129A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging",
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 65,
+    "score": 41,
+    "fetch_date": "2026-06-29"
   },
   {
     "patent_number": "WO2026126969A1",
@@ -59531,6 +59918,1939 @@
     "raw_score": 55,
     "score": 29,
     "fetch_date": "2026-05-06"
+  },
+  {
+    "patent_number": "US20260177237A1",
+    "lens_id": "",
+    "title": "ENVIRONMENTALLY FRIENDLY EMISSION SYSTEM FOR A KITCHEN WASTE INCINERATOR",
+    "abstract": "[0000]    The present invention discloses an environmentally friendly emission system for a kitchen waste incinerator, comprising a waste incinerator, a dry desulfurization tower, a dust collector, and a chimney; a flue gas emission pipe of the waste incinerator is connected to the dry desulfurization tower; an outlet of the dry desulfurization tower is connected to an inlet of the dust collector; an outlet of the dust collector is connected to the chimney; a high-temperature heat exchanger and a low-temperature heat exchanger are sequentially provided on the flue gas pipeline between the waste incinerator and the dry desulfurization tower; a branch recirculation pipeline is provided on the pipeline between the high-temperature heat exchanger and the low-temperature heat exchanger and is connected to an inlet of a recirculation fan; the outlet of the recirculation fan are respectively connected to each air chamber provided on the waste incinerator through pipeline. The beneficial effects of the present invention are as follows: low nitrogen oxide generation, reduced energy consumption, and saved waste treatment costs.",
+    "assignee": "GUANGDONG UNIV OF TECHNOLOGY [CN]; Guangdong University of Technology",
+    "inventors": "HOU JIHONG [CN]; TANG JIN [CN]; LIU XIAOZHOU [CN] et al.",
+    "filing_date": "2025-12-30",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "F23G"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177237A1",
+    "google_url": "https://patents.google.com/patent/US20260177237A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180489A1",
+    "lens_id": "",
+    "title": "ULTRA-LIGHTWEIGHT ALUMINUM SOLAR POWER SUPPLY TRAILER WITH FOLDWAY FLEXIBLE SOLAR PANELS ON SLIDING TRAYS",
+    "abstract": "A trailer configured to collect solar energy from a plurality of solar panels connected to an electrical system. Central, forward, and aft pluralities of solar panel trays deploy from the trailer to support arrays of solar panels that charge batteries connected to the electrical system. The forward and aft pluralities of trays slide away from a central portion of the trailer and unfold to support solar panels on the right and left side of the trailer as well as in front of and behind the trailer. A plurality of 400 Watt 90 charging modules combined for a total direct current array power of 8.4 KW, wherein the output from each charging module is connected to a separate DC optimizer. The electrical system includes at least one 240 V @25 amp AC output connector, a 120 V @25 amp AC output connector, and a 12 V @30 amp DC output connector.",
+    "assignee": "CLEWIS RICHARD MARTIN [US]; Clewis Richard Martin",
+    "inventors": "CLEWIS RICHARD MARTIN [US]; Clewis, Richard Martin",
+    "filing_date": "2024-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H02S"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180489A1",
+    "google_url": "https://patents.google.com/patent/US20260180489A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260178270A1",
+    "lens_id": "",
+    "title": "AUDIO-ENHANCED TRANSACTION INTERFACE FOR SELF-SERVICE TERMINALS (SSTs)",
+    "abstract": "Methods and system for improving accessibility of self-service terminals for users with visual impairments through enhanced text-to-speech functionality. The system detects headphone insertion into a universal navigator device and automatically switches to an accessibility mode. The system provides specialized audio feedback for navigable interface elements, incorporating customizable spoken descriptions and metadata while managing conflicting audio streams. The system implements a hierarchical approach to audio feedback, prioritizing critical transaction information while maintaining context through specific audio cues for different interface element types. This creates an efficient, user-friendly transaction experience for customers with visual impairments.",
+    "assignee": "NCR VOYIX CORP [US]; NCR Voyix Corporation",
+    "inventors": "KHAKI ERFAN [US]; JONG WUCHIEH JAMES [US]; BENNETT GINA TORCIVIA [US] et al.",
+    "filing_date": "2024-12-20",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06F",
+      "G06Q"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260178270A1",
+    "google_url": "https://patents.google.com/patent/US20260178270A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260178968A1",
+    "lens_id": "",
+    "title": "APPLYING A SPARSE-DENSE-SPARSE METHODOLOGY TO LANGUAGE MODELS",
+    "abstract": "[0000]    Embodiments herein describe a sparse-dense-sparse (SDS) process that achieves a better pruning scheme that benefits from pruning-friendliness relative to one-shot pruning schemes. The SDS process performs a first pruning to generate a sparse ML model followed by reconstruction to generate a re-dense ML model, followed by a second pruning to generate another sparse ML model. By pruning a ML model and then re-constructing the ML model, the ML model can be made more pruning-friendly by performing data and/or weight regularization. As a result, performing the second pruning in the SDS process can result in a smoother weight distribution and lower perplexity relative to one-shot pruning.",
+    "assignee": "XILINX INC [US]; XILINX, INC.",
+    "inventors": "BARSOUM EMAD [US]; ZHAO XIANDONG [CN]; LI GUANCHEN [CN] et al.",
+    "filing_date": "2025-01-21",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06N"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260178968A1",
+    "google_url": "https://patents.google.com/patent/US20260178968A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177773A1",
+    "lens_id": "",
+    "title": "All dry-type ribbon optical cable and method of making the same",
+    "abstract": "The present invention describes an all dry-type ribbon optical cable and its manufacturing method. The ribbon optical fibers are wrapped using a loose tube, with the tube closely surrounding the fibers as much as possible to increase the fiber-to-space ratio, thereby enhancing the structural cost-efficiency. Additionally, dry-type water-blocking materials are used both inside and outside the loose tube, eliminating the use of grease. This environmentally friendly design improves the fiber-to-space ratio within the loose tube while significantly enhancing the ease of installation. The sheath is designed with air-guiding grooves, enabling air-blown installation of the optical cable. This reduces labor requirements, speeds up installation, and minimizes attenuation caused during deployment. During the manufacturing process, the ribbon optical fibers and the first dry type water-blocking components enter the loose tube in a wavy pattern during extrusion.",
+    "assignee": "SUMEC MACHINERY AND ELECTRONIC CO LTD [CN]; SUMEC MACHINERY AND ELECTRONIC CO., LTD.",
+    "inventors": "CHEN CHAO [CN]; ZOU XUEWU [CN]; ZHANG RENCHUN [CN] et al.",
+    "filing_date": "2025-12-18",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G02B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177773A1",
+    "google_url": "https://patents.google.com/patent/US20260177773A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4764063A1",
+    "lens_id": "",
+    "title": "MULTI-BARRIER PAPER-BASED PACKAGING MATERIAL",
+    "abstract": "[0001]    The present invention relates to a packaging material comprising a paper substrate and a coating, the paper substrate having a Bendtsen permeability of less than 20.0 ml/min and the coating comprising C<6>-C<18> alkenyl succinic anhydride modified starch, platy pigment having an average aspect ratio of 100-3000 and optionally plasticizer. The invention further relates to the use of the packaging material for food packaging and to a method of manufacturing the packaging material.",
+    "assignee": "AHLSTROM OYJ [FI]; Ahlstrom Oyj",
+    "inventors": "LAITI ERKKI [FR]; Laiti, Erkki",
+    "filing_date": "2024-12-20",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "C08B",
+      "D21H"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4764063A1",
+    "google_url": "https://patents.google.com/patent/EP4764063A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4763509A1",
+    "lens_id": "",
+    "title": "LAMINATED PACKAGING MATERIAL, METHOD FOR MANUFACTURING THE MATERIAL, PACKAGING CONTAINER COMPRISING THE MATERIAL AND METHOD OF MANUFACTURING CONTAINER",
+    "abstract": "The present invention relates to a laminated packaging material (10) for packaging of oxygen sensitive food products, and to a method for manufacturing thereof. The invention further relates to packaging containers comprising the laminated packaging material, for packaging of oxygen-sensitive products, such as food products.",
+    "assignee": "TETRA LAVAL HOLDINGS & FINANCE [CH]; Tetra Laval Holdings & Finance S.A.",
+    "inventors": "SCARAMUZZINO TOMMASO [IT]; MÖLLER ANNA [SE]; BERGVALL ERIK [SE] et al.",
+    "filing_date": "2025-07-04",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "B32B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4763509A1",
+    "google_url": "https://patents.google.com/patent/EP4763509A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4764061A1",
+    "lens_id": "",
+    "title": "USE OF A PAPER SUBSTRATE, THE BARRIER-COATED PAPER SUBSTRATE, A LAMINATED PACKAGING MATERIAL AND PACKAGING CONTAINER COMPRISING THE BARRIER-COATED PAPER SUBSTRATE",
+    "abstract": "[0001]    The present invention relates to the use of a paper substrate (11) in a high-quality, barrier-coated paper substrate (10) for providing good toughness, flexibility and oxygen barrier properties to a laminated packaging material and to packaging containers comprising the laminated packaging material. The barrier-coated paper substrate may also provide heat sealing capability to a laminated packaging material comprising it. The barrier-coated paper substrate (10; 23), is suitable in packaging of oxygen-sensitive food products.",
+    "assignee": "TETRA LAVAL HOLDINGS & FINANCE [CH]; Tetra Laval Holdings & Finance S.A.",
+    "inventors": "SAXENA AMIT [SE]; ALDÉN MATS [SE]; BERG HARALD [SE] et al.",
+    "filing_date": "2025-12-17",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "B32B",
+      "B65D",
+      "D21H"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4764061A1",
+    "google_url": "https://patents.google.com/patent/EP4764061A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4764831A1",
+    "lens_id": "",
+    "title": "PACKAGING OF INFRASTRUCTURE AS CODE MODULES CONTAINING BINARY ARTIFACTS",
+    "abstract": "A computer-implemented method of packaging one or more module source files for an infrastructure as code, laC, module, wherein the laC module is not able to store binary files, the method comprising: parsing one or more module source files to identify at least one relative path to a binary file; for each relative path identified, adjusting the one or more module source files by replacing the relative path with an absolute path to an object stored in a cloud-based object storage, the object containing content from the binary file; and packaging the one or more adjusted module source files into the laC module.",
+    "assignee": "BARCLAYS EXECUTION SERVICES LTD [GB]; Barclays Execution Services Limited",
+    "inventors": "EDGE JAMIE [GB]; EDGE, , Jamie",
+    "filing_date": "2024-12-23",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "G06F"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4764831A1",
+    "google_url": "https://patents.google.com/patent/EP4764831A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4763511A1",
+    "lens_id": "",
+    "title": "WATER BASED COMPOSTABLE LAMINATING ADHESIVE",
+    "abstract": "A method of adhering substrate surfaces to one another comprises applying a laminating adhesive to one of the surfaces and contacting the surfaces with one another. The laminating adhesive may be food grade compliant and compostable. The laminating adhesive comprises a blend of a sulfonated copolyester dispersion and a water soluble crosslinker, preferably the water soluble crosslinker comprises at least one of a polyfunctional isocyanate having a functionality of at least about 2.0, preferably at least about 2.2, more preferably at least about 2.5, further preferably more than about 2.7, even further preferably at least about 2.9 and most preferably at least about 3.0, a polyfunctional epoxy having a functionality of at least about 2.0, preferably at least about 2.2, more preferably at least about 2.5, further preferably more than about 2.7, even further preferably at least about 2.9 and most preferably at least about 3.0 and combinations thereof.",
+    "assignee": "ARKEMA FRANCE [FR]; ARKEMA FRANCE",
+    "inventors": "LEE BYOUNGCHUL [US]; HARJU JOSH [US]; KARIS ASHLYNN [US] et al.",
+    "filing_date": "2024-12-22",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "B32B",
+      "C08G",
+      "C09J"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4763511A1",
+    "google_url": "https://patents.google.com/patent/EP4763511A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4763740A1",
+    "lens_id": "",
+    "title": "BAG PROTECTOR FOR PROTECTING A BAG FILLED WITH PLURALITY OF MEDICAL OBJECTS, AND PACKAGING AND PACKAGING SYSTEM COMPRISING SUCH BAG PROTECTOR",
+    "abstract": "[0001]    The invention relates to a bag protector (30) for protecting a bag filled with plurality of unit medical objects, wherein the bag protector (30) comprises a main body formed by folding and erecting one or more blanks made of sheet material, characterized in that said main body comprises a base section including a base panel (100) extending along a base plane and having two transversally opposite lateral edges (102), and in that the bag protector (30) comprises at least one belt panel (140), which extends over the base panel (100) to secure the bag filled with a plurality of unit medical objects on the base panel (100). The invention also provides for a packaging (40) and for a packaging system comprising such bag protector.",
+    "assignee": "BECTON DICKINSON FRANCE [FR]; Becton Dickinson France",
+    "inventors": "COSTA GUILLAUME [FR]; VIALET MATTHIEU [FR]; VIALET, Matthieu et al.",
+    "filing_date": "2024-12-17",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "B65D"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4763740A1",
+    "google_url": "https://patents.google.com/patent/EP4763740A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4763719A1",
+    "lens_id": "",
+    "title": "METHOD AND PACKAGING MACHINE FOR PRODUCING SEALED PACKAGES CONTAINING A POURABLE PRODUCT",
+    "abstract": "[0001]    There is described a method for producing sealed packages (2) containing a pourable product, the method comprises the steps of:\na) advancing a web (4) of packaging material along an advancing path (P);\nb) folding the web (4) into a tube (3);\nc) filling the tube (3) with the pourable product by means of a filling device (7);\nd) detecting a deviation or anomaly at the web (4) indicative of the state of the packaging material;\ne) adjusting the operation of the filling device (7) as a function of the detection.",
+    "assignee": "TETRA LAVAL HOLDINGS & FINANCE [CH]; Tetra Laval Holdings & Finance S.A.",
+    "inventors": "MONARI MATTIA [IT]; FERRARINI FILIPPO [IT]; MELANDRI MARCO [IT] et al.",
+    "filing_date": "2025-12-03",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "B65B",
+      "G05B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4763719A1",
+    "google_url": "https://patents.google.com/patent/EP4763719A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4763452A1",
+    "lens_id": "",
+    "title": "DEVICE AND METHOD FOR MAKING OPENINGS IN PROTECTIVE PACKAGING OF PALLETISED LOADS",
+    "abstract": "Aeration device (1) for forming aeration openings in a protective packaging material (13), in particular a stretch film, wrapping a palletised load (10), comprising a support pallet (11) on which a plurality of products (20) are stacked according to a vertical direction (Z), said aeration device (1) comprising a bearing structure (100), adapted to move a perforating head (200) closer to/away from a side surface (12) of the palletised load (10), and said perforating head (200) comprises a plurality of perforating elements (210) for forming aeration openings in said protective packaging (13), wherein the bearing structure (100) is configured to perforate at least one first and one second side (12a, 12b, 12c, 12d) of the palletised load (10), in particular at least one longitudinal side (12b, 12d) and/or at least one transverse side (12a, 12c).",
+    "assignee": "ERCOPAC S R L [IT]; Ercopac S.r.l.",
+    "inventors": "GRASSI ANTONIO [IT]; GRASSI, Antonio",
+    "filing_date": "2025-09-11",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "B26D",
+      "B26F",
+      "B65B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4763452A1",
+    "google_url": "https://patents.google.com/patent/EP4763452A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "EP4764082A1",
+    "lens_id": "",
+    "title": "NATURAL SCOUR PROTECTION",
+    "abstract": "A method for producing an eco-friendly protective material to provide scour protection for artificial structures in aquatic environments is provided. The method involves depositing natural granular material from the geological region of the structure's environment into a mold and supplying an agent such as a bacterial suspension to initiate cementation. The agent may be selected based on analysis of local material and water samples to determine the most effective agent for cementation. The method results in a protective material that mimics natural beachrock formation, offering an environmentally sustainable solution for scour protection in marine and coastal infrastructure.",
+    "assignee": "NATIONAL AND KAPODISTRIAN UNIV OF ATHENS [GR]; National and Kapodistrian University of Athens",
+    "inventors": "LIVIERATOS ANTONIOS [GR]; EVELPIDOU NIKI [GR]; SAITIS GIANNIS [GR] et al.",
+    "filing_date": "2024-12-20",
+    "pub_date": "2026-06-24",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "EP",
+    "ipc_codes": [
+      "B01J",
+      "C04B",
+      "E02B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=EP4764082A1",
+    "google_url": "https://patents.google.com/patent/EP4764082A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Sustainable beer bottle packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181850A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR DEVICE WITH HYBRID CONTACT AIR SPACER CONFIGURATION",
+    "abstract": "A semiconductor circuit for a SRAM cell includes a first transistor and a second transistor on a substrate. The first transistor includes a first source contact over and coupled to a first source structure, a first drain contact over and coupled to a first drain structure, and a first gate structure laterally coupled between the first source contact and the first drain contact. The second transistor includes a second source contact over and coupled to a second source structure, a second drain contact over and coupled to a second drain structure, and a second gate structure laterally coupled between the second source contact and the second drain contact. The first drain contact is coupled to a bit line and has an air spacer on a sidewall thereof. The first source contact or the second source contact has no air spacer on a sidewall thereof.",
+    "assignee": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD [TW]; Taiwan Semiconductor Manufacturing Company, Ltd.",
+    "inventors": "WU YU-BEY [TW]; CHEN JUI-LIN [TW]; CHANG YUNG-TING [TW] et al.",
+    "filing_date": "2024-12-20",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181850A1",
+    "google_url": "https://patents.google.com/patent/US20260181850A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182337A1",
+    "lens_id": "",
+    "title": "CU PAD ON AL PAD FOR HYBRID BONDING LINK CONTACT RESISTANCE REDUCTION",
+    "abstract": "A three-dimensional (3D) memory structure is described. The 3D memory structure includes a first memory die having first multilayer contact pads including a first outer pad composed of a first conductive material. The 3D memory structure also includes a base logic die including second multilayer contact pads having a second outer pad composed of the first conductive material. The 3D memory structure further includes hybrid bonding links coupled between the second outer pad of the second multilayer contact pads of the base logic die and the first outer pad of the first multilayer contact pads of the first memory die. The hybrid bonding links are composed of the first conductive material.",
+    "assignee": "QUALCOMM INCORPORATED [US]; QUALCOMM Incorporated",
+    "inventors": "JAIN ABHISHEK [US]; LEE HYUN [US]; CHOI JIHONG [US] et al.",
+    "filing_date": "2025-08-04",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10B",
+      "H10D"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182337A1",
+    "google_url": "https://patents.google.com/patent/US20260182337A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "DE102024139347A1",
+    "lens_id": "",
+    "title": "Verfahren zur Herstellung eines Flammschutzmittels, ein Flammschutzmittel, Verwendung eines Flammschutzmittels und ein System",
+    "abstract": "Die Erfindung betrifft ein Verfahren zur Herstellung eines Flammschutzmittels, wobei das Verfahren zumindest die folgenden Schritte umfasst: a) Bereitstellen einer reaktiven Mischung, umfassend eine Komponente A die Itaconsäure umfasst oder daraus besteht, b) Polymerisation der reaktiven Mischung zu einer Polymerlösung, wobei die Polymerlösung ein in einem Lösemittel zumindest teilweise gelöstes Polymer, das Itaconsäure ausgewählt aus einem Bereich von 25 Gew.-% bis 99,95 Gew.-% aufweist, umfasst, c) Erhalt eines Flammschutzmittels umfassend das Polymer, wobei aus dem Polymer des Flammschutzmittels durch thermisch katalysierte Decarboxylierung CO2freisetzbar ist, ein Flammschutzmittel, die Verwendung des Flammschutzmittels und ein System umfassend ein Substrat und das Flammschutzmittel.",
+    "assignee": "LEONHARD KURZ STIFTUNG & CO KG [DE]; Leonhard Kurz Stiftung & Co. KG",
+    "inventors": "KNOOP MATS [DE]; MÜLLER JULIAN [DE]; LUDWIG JOHANNES [DE] et al.",
+    "filing_date": "2024-12-20",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "DE",
+    "ipc_codes": [
+      "C08F",
+      "C09K"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=DE102024139347A1",
+    "google_url": "https://patents.google.com/patent/DE102024139347A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260176216A1",
+    "lens_id": "",
+    "title": "INTEGRATED FISCHER-TROPSCH AND LINEAR ALKYLBENZENE COMPLEX",
+    "abstract": "Processes for converting Fischer-Tropsch products into linear alkyl benzene (LAB) are described. By selecting a portion of the Fischer-Tropsch product stream, it can be fed to the alkylation reaction zone. Some pretreatment steps can be eliminated or reduced. Unreacted paraffins can be dehydrogenated and recycled to the alkylation reaction zone.",
+    "assignee": "UOP LLC [US]; UOP LLC",
+    "inventors": "DEVANATHAN RAGHAVAN [IN]; SHAKUR MOHAMED [US]; DE REN JAN [US] et al.",
+    "filing_date": "2025-08-14",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "C07C"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260176216A1",
+    "google_url": "https://patents.google.com/patent/US20260176216A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182448A1",
+    "lens_id": "",
+    "title": "BOTTOM SIDE SILICON REJECTS RING STIFFENER FOR PACKAGE WARPAGE MITIGATION",
+    "abstract": "Embodiments disclosed herein may include an apparatus that includes a substrate, such as a package substrate. In an embodiment, a ring may be on the substrate. The ring may be a stiffener used to improve planarity of the package substrate. In an embodiment, the ring may include a matrix material, and a plurality of semiconductor chips may be embedded in the matrix material. The semiconductor chips may be recycled pieces of semiconductor material.",
+    "assignee": "INTEL CORP [US]; Intel Corporation",
+    "inventors": "LIM MIN SUET [MY]; STOECKL STEPHAN [DE]; LIM SEOK LING [MY] et al.",
+    "filing_date": "2024-12-24",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182448A1",
+    "google_url": "https://patents.google.com/patent/US20260182448A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "DE102025118843A1",
+    "lens_id": "",
+    "title": "DEPOLYMERISATIONSVORRICHTUNG, CHEMISCHE RECYCLINGVORRICHTUNG UND DEPOLYMERISATIONSVERFAHREN",
+    "abstract": "Es werden eine Depolymerisationsvorrichtung (5) und dergleichen bereitgestellt, die in der Lage sind, eine Depolymerisationsreaktion in einem Reaktionsbehälter (300) für Depolymerisation effizient durchzuführen. Eine Depolymerisationsvorrichtung (5) umfasst einen Reaktionsbehälter (300) für Depolymerisation, der eine Depolymerisationsreaktion, bei der PET durch Verwenden von EG in BHET zersetzt wird, verursacht, und eine Heizeinheit (320), die eine Temperatur innerhalb des Reaktionsbehälters (300) für Depolymerisation in Übereinstimmung mit einer Zunahme einer Konzentration von BHET aufgrund von Fortschritt der Depolymerisationsreaktion in dem Reaktionsbehälter (300) für Depolymerisation erhöht. Ein Rückführweg (53), der mindestens einen Teil eines Produkts, das BHET enthält, das aus dem Reaktionsbehälter (300) für Depolymerisation abgegeben wird, in das Innere des Reaktionsbehälters (300) für Depolymerisation zurückführt, ist vorgesehen. Eine Rückführmengen-Anpassungseinheit (6), die eine Rückführmenge des Produkts durch den Rückführweg (53) anpasst, ist vorgesehen.",
+    "assignee": "SUMITOMO HEAVY INDUSTRIES [JP]; SUMITOMO HEAVY INDUSTRIES, LTD.",
+    "inventors": "MENJO TAKAYUKI [JP]; SUZUKI TAKASHI [JP]; SHISHIDO YOSHIKO [JP] et al.",
+    "filing_date": "2025-05-15",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "DE",
+    "ipc_codes": [
+      "C08J",
+      "C08L"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=DE102025118843A1",
+    "google_url": "https://patents.google.com/patent/DE102025118843A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260178867A1",
+    "lens_id": "",
+    "title": "WIRELESS LABEL CONSTRUCTIONS HAVING HYDROPHILIC FUNCTIONAL LAYERS",
+    "abstract": "[0000]    Wireless label constructions, methods of making, and methods of using the wireless label constructions are disclosed. The wireless label constructions comprise one or more functional layers. The functional layers can be a hydrophilic layer containing a polymer matrix and plasticizer. The wireless label construction improves the readability when placed on a package containing a high dielectric material.",
+    "assignee": "AVERY DENNISON CORP [US]; Avery Dennison Corporation",
+    "inventors": "DHOPATKAR NISHAD [US]; HENDERSON KEVIN O [US]; NYARKO ALEX [US] et al.",
+    "filing_date": "2025-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "B32B",
+      "G06K"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260178867A1",
+    "google_url": "https://patents.google.com/patent/US20260178867A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180131A1",
+    "lens_id": "",
+    "title": "BILAYER BATTERY STRUCTURE",
+    "abstract": "An electrode assembly for lithium-ion batteries is presented. The electrode assembly includes a metal foil current collector, an active material layer with aligned pores, and an intermediary layer positioned between the current collector and the active material layer. The intermediary layer includes a polymer matrix with active material particles dispersed throughout, forming a network of randomly oriented pores.",
+    "assignee": "FORD GLOBAL TECH LLC [US]; FORD GLOBAL TECHNOLOGIES, LLC",
+    "inventors": "EMLEY BENJAMIN JASON [US]; EMLEY, Benjamin Jason",
+    "filing_date": "2024-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H01M"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180131A1",
+    "google_url": "https://patents.google.com/patent/US20260180131A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182461A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR PACKAGE",
+    "abstract": "[0000]    A semiconductor package includes a first semiconductor chip including first chip pads, a second semiconductor chip including second chip pads and stacked on the first semiconductor chip in a vertical direction, wherein the second semiconductor chip exposes a portion of the top surface of the first semiconductor chip, a mold layer covering the first and second semiconductor chips, a redistribution substrate on the mold layer, and a first conductive structure penetrating the mold layer in the vertical direction and electrically connected to a corresponding first chip pad among the plurality of first chip pads. The first conductive structure comprises barrel-shaped sections stacked in the vertical direction. Each barrel-shaped section has a convex circumferential side surface. The first conductive structure contains a first polymer matrix and first metal nanoparticles dispersed within the first polymer matrix.",
+    "assignee": "SAMSUNG ELECTRONICS CO LTD [KR]; Samsung Electronics Co., Ltd.",
+    "inventors": "JEON TAEJUN [KR]; LEE SANGHYEON [KR]; LEE, Sanghyeon et al.",
+    "filing_date": "2025-08-04",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10W"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182461A1",
+    "google_url": "https://patents.google.com/patent/US20260182461A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177357A1",
+    "lens_id": "",
+    "title": "MULTI-THREAT PROTECTIVE ARTICLE WITH A MULTI-LAYERED FABRIC COMPOSITE",
+    "abstract": "[0000]    Traditional protective suits often struggle to balance puncture resistance with flexibility and comfort. Existing materials may provide protection but can be cumbersome or less effective under different threat conditions. This invention addresses these issues by employing a composite structure that leverages 2D fillers, 3D fabric configurations with auxetic performance, and a brick-and-mortar polymer compound to enhance both puncture resistance and energy absorption.",
+    "assignee": "NANO AND ADVANCED MATERIALS INST LIMITED [HK]; Nano and Advanced Materials Institute Limited",
+    "inventors": "YEC CHRISTOPHER CHEUNG [HK]; ZHANG KANG [HK]; CHANG YUPING [HK] et al.",
+    "filing_date": "2024-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "A41D",
+      "B32B",
+      "F41H"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177357A1",
+    "google_url": "https://patents.google.com/patent/US20260177357A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182352A1",
+    "lens_id": "",
+    "title": "TWO-DIMENSIONAL LINER-BASED RESISTANCE REDUCTION FOR SUBTRACTIVE PATTERNING",
+    "abstract": "Semiconductor devices having a 2D liner for resistance reduction using subtractive patterning are provided. In one aspect, a semiconductor device includes: an FET; a source/drain contact to a source/drain region of the FET; a top via in direct contact with the source/drain contact, where the source/drain contact and the top via each has an upwardly tapered profile; and a liner of a 2D material disposed on the source/drain contact and on the top via. A metal layer can be disposed over the source/drain contact and on the top via, which includes an interconnect that contacts the top via. A method of fabricating the present semiconductor devices is also provided.",
+    "assignee": "INT BUSINESS MACHINES CORPORATION [US]; International Business Machines Corporation",
+    "inventors": "XIE RUILONG [US]; MOTOYAMA KOICHI [US]; GLUSCHENKOV OLEG [US] et al.",
+    "filing_date": "2024-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182352A1",
+    "google_url": "https://patents.google.com/patent/US20260182352A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180114A1",
+    "lens_id": "",
+    "title": "Cell Array Structure, and Battery Pack and Vehicle Including the Same",
+    "abstract": "[0000]    A cell array structure including a plurality of battery cells; and at least one side structure configured to accommodate and support the plurality of battery cells is provided. The side structure includes a cell contact portion configured such that at least a portion thereof is in contact with the battery cells and a cooling member contact portion having a bottom surface formed to be in contact with a predetermined area of a cooling member and is configured to cool the battery cells.",
+    "assignee": "LG ENERGY SOLUTION LTD [KR]; LG Energy Solution, Ltd.",
+    "inventors": "YOON IN-SE [KR]; JEONG EUI-CHEOL [KR]; YANG JIN-OH [KR] et al.",
+    "filing_date": "2025-12-22",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "B60L",
+      "H01M"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180114A1",
+    "google_url": "https://patents.google.com/patent/US20260180114A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182464A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR DEVICE ASSEMBLIES WITH ALUMINUM NITRIDE HYBRID BONDS AND METHODS OF FORMING THE SAME",
+    "abstract": "[0000]    A semiconductor device assembly is provided, comprising a first semiconductor device having an upper surface at which are disposed a first plurality of coplanar metal contact structures and a first aluminum nitride bonding surface and a second semiconductor device having a lower surface at which are disposed a second plurality of coplanar metal contact structures and a second aluminum nitride bonding surface. Each of the first plurality of coplanar metal contact structures are directly bonded to a corresponding one of the second plurality of coplanar metal contact structures by a metal-metal bond, and the first aluminum nitride bonding surface is directly bonded to the second aluminum nitride bonding surface by a fusion bond.",
+    "assignee": "MICRON TECH INC [US]; Micron Technology, Inc.",
+    "inventors": "GRIFFIN AMY R [US]; NOVESKI VLADIMIR [US]; ZHOU WEI [US] et al.",
+    "filing_date": "2025-10-27",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182464A1",
+    "google_url": "https://patents.google.com/patent/US20260182464A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181940A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR STRUCTURE AND FORMING METHOD THEREOF",
+    "abstract": "A semiconductor structure includes a substrate, a channel structure, a source/drain feature (S/D feature), and a source/drain contact (S/D contact) is provided. The substrate includes a channel region and a source/drain region. The channel structure is disposed on the substrate corresponding to the channel region. The source/drain feature is disposed on the structure corresponding to the source/drain region. The source/drain contact is at least embedded in the source/drain feature.",
+    "assignee": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD [TW]; Taiwan Semiconductor Manufacturing Company, Ltd.",
+    "inventors": "TSAI MING-HENG [TW]; LIN TA-CHUN [TW]; Tsai, Ming-Heng et al.",
+    "filing_date": "2024-12-24",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10D"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181940A1",
+    "google_url": "https://patents.google.com/patent/US20260181940A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Bioplastic PLA PHA food packaging"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181957A1",
+    "lens_id": "",
+    "title": "THIN FILM TRANSISTOR HAVING BARRIER LAYER AND DISPLAY DEVICE COMPRISING THE SAME",
+    "abstract": "[0000]    The present disclosure relates to a thin film transistor and a display device including the same and manufacturing method thereof. A thin film transistor is provided, which includes an active layer, a gate insulating layer on the active layer, a gate electrode on the gate insulating layer, and a first barrier layer on the gate insulating layer, wherein the gate electrode and the first barrier layer are arranged to be spaced apart from each other, a portion of the active layer overlaps the gate electrode to form a channel portion in the active layer, the first barrier layer overlaps another portion of the active layer.",
+    "assignee": "LG DISPLAY CO LTD [KR]; LG Display Co., Ltd.",
+    "inventors": "KANG DONGYEON [KR]; KIM DAEHWAN [KR]; PARK JAEYOON [KR] et al.",
+    "filing_date": "2025-11-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10D"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181957A1",
+    "google_url": "https://patents.google.com/patent/US20260181957A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182259A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR DEVICE INCLUDING CHANNEL STRUCTURE INCLUDING RESISTANCE CHANGE LAYER",
+    "abstract": "[0000]    A semiconductor device includes a substrate, a channel structure disposed over the substrate, a source electrode layer and a drain electrode layer respectively disposed at opposite ends of the channel structure, an oxygen vacancy reservoir layer disposed on the channel structure, and a gate electrode layer disposed on the oxygen vacancy reservoir layer. The channel structure includes a base channel layer, a barrier layer, and a resistance change layer sequentially disposed over the substrate.",
+    "assignee": "SK HYNIX INC [KR]; SK hynix Inc.",
+    "inventors": "JUNG PIL HOON [KR]; KOO WON TAE [KR]; KOO, Won Tae et al.",
+    "filing_date": "2025-06-09",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10B",
+      "H10N"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182259A1",
+    "google_url": "https://patents.google.com/patent/US20260182259A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260178387A1",
+    "lens_id": "",
+    "title": "Memory-Governed Supervisory and Evolutionary System with Adjudicated Memory Admission, Write-Barrier Constitutional Constraints, and Execution Separation Architecture",
+    "abstract": "A memory-governed supervisory and evolutionary system is disclosed in which authority to influence system evolution is constitutionally constrained through adjudicated memory admission. Information from external sources and internally generated outputs is recorded as candidate memory resources within a structured memory architecture and rendered ineffective prior to adjudication by a write barrier. Admission occurs under a governance framework defining admissible evolution ranges, and system evolution arises exclusively from admitted structured memory resources. Supervisory outputs generated from admitted memory resources are expressive and non-executable, while execution and enforcement actions occur exclusively outside the system boundary. The disclosed architecture structurally separates information, authority, and execution, preventing delegation of authority to computation, intelligence, or external execution and enabling governed system evolution across asynchronous and heterogeneous environments.",
+    "assignee": "LED SMART INC [CA]; SHAN XINXIN [CA]; Shan Xinxin et al.",
+    "inventors": "SHAN XINXIN [CA]; Shan, Xinxin",
+    "filing_date": "2026-02-13",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06F"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260178387A1",
+    "google_url": "https://patents.google.com/patent/US20260178387A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180683A1",
+    "lens_id": "",
+    "title": "OPTICAL COMMUNICATION ASSEMBLY WITH INTERNAL PLANAR OPTICAL ELEMENT AND OPTICAL COATING",
+    "abstract": "An optical communication assembly includes a housing having an aperture and a planar optical element disposed within the housing. The planar optical element is positioned along an optical signal path, the planar optical element being located away from and not adjacent to the aperture. The optical communication assembly further includes an optical coating disposed on a surface of the planar optical element, the optical coating including a narrowband transmission region and a broadband blocking region configured to attenuate optical signals outside the narrowband transmission region.",
+    "assignee": "VIAVI SOLUTIONS INC [US]; VIAVI Solutions Inc.",
+    "inventors": "BILGER MARKUS [US]; HOUCK WILLIAM D [US]; HOUCK, William D. et al.",
+    "filing_date": "2025-12-17",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G02B",
+      "H04B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180683A1",
+    "google_url": "https://patents.google.com/patent/US20260180683A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182267A1",
+    "lens_id": "",
+    "title": "METHOD OF DEPOSITING FILM AND APPARATUS FOR DEPOSITING FILM",
+    "abstract": "[0000]    A method of depositing a film includes preparing a substrate having a recess on a surface of the substrate, forming a first film along an inner surface of the recess, etching the first film, and further forming the first film along a surface of the first film which has been etched, wherein the etching includes supplying an etching gas including a halogen-containing gas and a gaseous base to the substrate under a plurality of different processing conditions.",
+    "assignee": "TOKYO ELECTRON LTD [JP]; Tokyo Electron Limited",
+    "inventors": "OGAWA JUN [JP]; ITO DAICHI [JP]; SON SUNG DUK [KR] et al.",
+    "filing_date": "2025-12-08",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10P"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182267A1",
+    "google_url": "https://patents.google.com/patent/US20260182267A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181976A1",
+    "lens_id": "",
+    "title": "Semiconductor Device and Method of Fabricating the Same",
+    "abstract": "[0000]    The present disclosure relates to a semiconductor device and a method of fabricating the same including a substrate, a first gate structure, two first source/drain structures, and an air barrier layer. The substrate includes at least one shallow trench isolation disposed therein. The first gate structure is disposed on the substrate. Two first source/drain structures are disposed in the substrate, at two sides of the first gate structure, and a side of each of the two first source/drain structures is adjacent to the at least one shallow trench isolation. The air gap barrier layer is disposed between the substrate and each of the two first source/drain structures, wherein the air gap barrier layer includes a bottom surface and two sidewalls each extending in three different directions.",
+    "assignee": "UNITED MICROELECTRONICS CORP [TW]; UNITED MICROELECTRONICS CORP.",
+    "inventors": "WANG YU-REN [TW]; TSAI YUNG-CHEN [TW]; HSU CHEN-CHIH [TW] et al.",
+    "filing_date": "2025-02-06",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10D"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181976A1",
+    "google_url": "https://patents.google.com/patent/US20260181976A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181959A1",
+    "lens_id": "",
+    "title": "METHOD FOR MANUFACTURING INDIUM MONOSELENIDE SEMICONDUCTOR THIN FILM FOR FABRICATING LARGE-AREA THIN FILM TRANSISTOR",
+    "abstract": "[0000]    Disclosed is a method for manufacturing indium monoselenide semiconductor thin film for fabricating large-area thin film transistor. The present disclosure provides the method for manufacturing an indium monoselenide semiconductor thin film, the method comprising: (a) depositing a deposition source including an indium selenide (InSe) on a substrate using a thermal evaporation method, thus preparing a first indium monoselenide semiconductor thin film including a first indium monoselenide (InSe); and (b) annealing the first indium monoselenide semiconductor thin film, thus preparing a second indium monoselenide semiconductor thin film including a second indium monoselenide (InSe). The indium monoselenide semiconductor thin film according to the present disclosure can be applied to large-area thin film transistors, and the large-area thin film transistors including the indium monoselenide semiconductor thin film according to the present disclosure can be applied in circuits.",
+    "assignee": "POSTECH RES AND BUSINESS DEVELOPMENT FOUNDATION [KR]; POSTECH RESEARCH AND BUSINESS DEVELOPMENT FOUNDATION",
+    "inventors": "LEE JAEYUN [KR]; NOH YONG-YOUNG [KR]; NOH, Yong-Young et al.",
+    "filing_date": "2025-12-16",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "C23C",
+      "H10D",
+      "H10P"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181959A1",
+    "google_url": "https://patents.google.com/patent/US20260181959A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182263A1",
+    "lens_id": "",
+    "title": "METHOD FOR MANUFACTURING HIGH-QUALITY GAN HEMT POWER SEMICONDUCTOR EPITAXIAL WAFER",
+    "abstract": "[0000]    A method for manufacturing a high-quality GaN HEMT power semiconductor epitaxial wafer according to the present disclosure includes forming a nucleation region on a growth substrate; and forming a 3-dimensional nitride structure region (3DNS region), a stress-relieving region, a buffer region, a channel region, and a barrier region on the nucleation region. The 3DNS region is formed at one or more positions among: between the nucleation region and the stress-relieving region, between individual regions within the stress-relieving region, between the stress-relieving region and the buffer region, between the buffer region and the channel region, and between the barrier region and a pGaN region formed thereon. The 3DNS region is formed of a nitride material having an energy bandgap smaller than that of a lower region.",
+    "assignee": "WAVELORD CO LTD [KR]; WAVELORD CO., LTD.",
+    "inventors": "SONG JUNE O [KR]; LIM HYUN CHUL [KR]; HAN YOUNGHUN [KR] et al.",
+    "filing_date": "2025-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10P"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182263A1",
+    "google_url": "https://patents.google.com/patent/US20260182263A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181920A1",
+    "lens_id": "",
+    "title": "METHODS, APPARATUSES, AND SYSTEMS FOR THIN FILM RESISTORS",
+    "abstract": "Methods, apparatuses, and systems for thin film resistors (TFRs) are provided. An example method includes a semiconductor structure with a device area and resistor area. The resistor area includes thin film resistor patterning. A dielectric layer is formed over the device area and the resistor area. The dielectric layer is etched over the device area. A metal deposition layer is deposited over the device area and the resistor area. The metal layer is etched to expose the TFRs, to form spacers for the TFRs, and to form a metal layer of the device area.",
+    "assignee": "STMICROELECTRONICS INT N V [CH]; STMicroelectronics International N.V.",
+    "inventors": "COLPANI PAOLO [IT]; SCIARRILLO SAMUELE [IT]; AZZOPARDO ALESSIA [IT] et al.",
+    "filing_date": "2024-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10D"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181920A1",
+    "google_url": "https://patents.google.com/patent/US20260181920A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182360A1",
+    "lens_id": "",
+    "title": "CAPACITOR STRUCTURE AND METHOD OF MAKING THEREOF",
+    "abstract": "[0000]    Some embodiments relate to a three-dimensional (3D) metal-insulator-metal (MIM) capacitor having a first set of conductive rods conductively connected to a first conductive plate, a first set of corresponding conductive sleeves conductively connected to a second conductive plate, and a conductive perimeter and filler enveloping the first set of corresponding conductive sleeves. The conductive perimeter and filler are conductively connected to the first conductive plate. The first conductive plate is electrically isolated from the second conductive plate. For each conductive rod of the first set of conductive rods and corresponding conductive sleeve of the first set of corresponding conductive sleeves, the conductive rod is laterally enveloped by the corresponding conductive sleeve, and the conductive rod is electrically isolated from the corresponding conductive sleeve by a dielectric barrier. The first set of conductive sleeves is electrically isolated from the conductive perimeter and filler by the dielectric barrier.",
+    "assignee": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD [TW]; Taiwan Semiconductor Manufacturing Company, Ltd.",
+    "inventors": "CHEN CHIEH-EN [TW]; TING SHYH-FANN [TW]; Chen, Chieh-En et al.",
+    "filing_date": "2024-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H04N",
+      "H10D"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182360A1",
+    "google_url": "https://patents.google.com/patent/US20260182360A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181879A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR STRUCTURE AND FORMATION METHOD THEREOF",
+    "abstract": "A semiconductor structure and a formation method thereof are provided. The semiconductor structure includes a substrate, a logic gate structure, a capping layer, an interlayer dielectric layer, a barrier layer, and a first contact. The substrate includes peripheral and array areas. The logic gate structure is disposed in the peripheral area and on the substrate. The capping layer is disposed on the logic gate structure. The interlayer dielectric layer is disposed on the capping layer. The barrier layer includes a first portion located in the peripheral area and a second portion located in the array area. The first portion is disposed on the interlayer dielectric layer and directly above the logic gate structure. The first contact is disposed in the interlayer dielectric layer and is in contact with the substrate. The width of the logic gate structure is smaller than the width of the first portion.",
+    "assignee": "WINBOND ELECTRONICS CORP [TW]; Winbond Electronics Corp.",
+    "inventors": "LIN JENG-YANG [TW]; CHIU YUNG-HAN [TW]; LIN, Jeng-Yang et al.",
+    "filing_date": "2025-09-30",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181879A1",
+    "google_url": "https://patents.google.com/patent/US20260181879A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181919A1",
+    "lens_id": "",
+    "title": "METHODS, APPARATUSES, AND SYSTEMS FOR THIN FILM RESISTORS",
+    "abstract": "[0000]    Methods, apparatuses, and systems for thin film resistors (TFRs) are provided. An example method includes a semiconductor structure with a device area and resistor area. The resistor area includes thin film resistor patterning. A dielectric layer is formed over the device area and the resistor area. The dielectric layer is planarized. In a first embodiment, the dielectric layer is etched over the device area. In a second embodiment, the dielectric layer over the device area has a via formed in it. A metal deposition layer is deposited. The metal deposition layer is etched to form a metal layer and expose the TFRs.",
+    "assignee": "STMICROELECTRONICS INT N V [CH]; STMicroelectronics International N.V.",
+    "inventors": "COLPANI PAOLO [IT]; SCIARRILLO SAMUELE [IT]; AZZOPARDO ALESSIA [IT] et al.",
+    "filing_date": "2024-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10D"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181919A1",
+    "google_url": "https://patents.google.com/patent/US20260181919A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181871A1",
+    "lens_id": "",
+    "title": "MEMORY DEVICE AND METHOD FOR MANUFACTURING THE SAME",
+    "abstract": "[0000]    A memory device may include a substrate, bit lines disposed on the substrate, extending in a first direction of an upper surface of the substrate, and spaced apart from each other in a second direction of the upper surface of the substrate, an interlayer insulation layer disposed between the bit lines, and channel structures respectively connected to the bit lines and extending in a third direction perpendicular to the upper surface of the substrate. Each of the bit lines may include a conductive layer and a barrier layer surrounding a side surface and an upper surface of the conductive layer.",
+    "assignee": "SK HYNIX INC [KR]; SK hynix Inc.",
+    "inventors": "CHANG HEON YONG [KR]; CHANG, Heon Yong",
+    "filing_date": "2025-04-22",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181871A1",
+    "google_url": "https://patents.google.com/patent/US20260181871A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177730A1",
+    "lens_id": "",
+    "title": "FLEXIBLE RADIO-FREQUENCY-TRANSPARENT SOLAR REFLECTIVE FILM",
+    "abstract": "[0000]    A RF-transparent solar reflective film includes a substrate, a near-infrared reflective layer, a glue layer, a protective layer, and an anti-scratch and abrasion-resistant layer. The near-infrared reflective layer is disposed on the substrate and comprises at least one DMD structure. Each DMD structure comprises a first dielectric layer, a second dielectric layer, and a metal layer sandwiched between the first dielectric layer and the second dielectric layer. The near-infrared reflective layer is micro-patterned to define separated metallic regions with interspatial gaps sized to interrupt electrical continuity of the metal layer and thereby enable RF signal transmission while maintaining near-infrared reflectivity. The glue layer is disposed over the near-infrared reflective layer and in contact with the substrate through the gaps. The protective layer is laminated over the glue layer. The anti-scratch and abrasion-resistant layer is disposed on a top surface of the protective layer.",
+    "assignee": "THE HONG KONG UNIV OF SCIENCE AND TECHNOLOGY [CN]; The Hong Kong University of Science and Technology",
+    "inventors": "ZHANG YINGLUN [CN]; HUANG BAOLING [CN]; HUANG, Baoling et al.",
+    "filing_date": "2025-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G02B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177730A1",
+    "google_url": "https://patents.google.com/patent/US20260177730A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182380A1",
+    "lens_id": "",
+    "title": "SUBSTRATE SURFACE TREATMENT FOR STIFFENER BONDING",
+    "abstract": "A device package and a method of forming a device package are described. The device package includes a substrate and a stiffener. A portion of a top surface of the substrate is treated prior to stiffener attachment to change a profile of the portion. An adhesive material applied between a bottom surface of the stiffener and the treated substrate creates a more durable bond when attaching the stiffener to the substrate. An in-line process to treat the substrate to change the profile includes marking the portion of the top surface with a pattern and/or a barrier that creates a texture that improves surface wettability and effectiveness of adhesive material filling, and reduces defects in the device package, including stiffener delamination.",
+    "assignee": "INTEL CORP [US]; Intel Corporation",
+    "inventors": "HOANG THIEN BAO [VN]; HOANG, Thien Bao",
+    "filing_date": "2024-12-24",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182380A1",
+    "google_url": "https://patents.google.com/patent/US20260182380A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182277A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR DEVICE INCLUDING AN ULTRATHIN CONTROLLER DIE",
+    "abstract": "[0000]    A semiconductor device includes an ultrathin controller die. In embodiments, a semiconductor die is be mounted on a substrate. The die may be thinned by backgrinding before being mounted on the substrate. Thereafter, a protective coating is applied to the die and substrate, and the protective coating is processed to expose an upper, inactive surface of the die. The die is then thinned by a plasma etching process to partially or completely remove the inactive silicon layer of the die. Thereafter, the protective coating may be removed leaving only the ultrathin die on the substrate. In some embodiments, the die is a memory controller die.",
+    "assignee": "SANDISK TECH INC [US]; Sandisk Technologies, Inc.",
+    "inventors": "TANG JIHAO [CN]; CHEN XU [CN]; YUAN RUI [CN] et al.",
+    "filing_date": "2024-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182277A1",
+    "google_url": "https://patents.google.com/patent/US20260182277A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260179924A1",
+    "lens_id": "",
+    "title": "POSITIVE ELECTRODE ACTIVE MATERIAL, METHOD FOR MANUFACTURING THE SAME, POSITIVE ELECTRODE COMPRISING THE SAME, AND LITHIUM SECONDARY BATTERY COMPRISING THE SAME",
+    "abstract": "[0000]    A positive electrode active material comprising a coating portion with excellent conductivity, a method for manufacturing the same, a positive electrode comprising the same, and a lithium secondary battery comprising the same.",
+    "assignee": "KIA CORP [KR]; HYUNDAI MOTOR CO [KR]; INDUSTRY ACADEMIC COOPERATION FOUNDATION OF KYUNGHEE UNIV [KR] et al.",
+    "inventors": "PARK TAEHO [KR]; OH SEUNG-MIN [KR]; JUN DOWOOK [KR] et al.",
+    "filing_date": "2025-04-03",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "C01G",
+      "H01M"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260179924A1",
+    "google_url": "https://patents.google.com/patent/US20260179924A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180126A1",
+    "lens_id": "",
+    "title": "SEPARATOR FOR RECHARGEABLE LITHIUM BATTERY AND RECHARGEABLE LITHIUM BATTERY INCLUDING THE SAME",
+    "abstract": "Provided are a separator for a rechargeable lithium battery, and a lithium secondary battery including the separator. The separator includes a porous substrate, and a coating layer located on at least one surface of the porous substrate. The coating layer includes a composition including a binder, a crosslinking agent, and a filler mixture. The filler mixture includes a filler having an amine group, and a filler having a carboxyl group or carboxylate.",
+    "assignee": "SAMSUNG SDI CO LTD [KR]; SAMSUNG SDI CO., LTD.",
+    "inventors": "JEONG BICH NAM [KR]; LEE WOO SUNG [KR]; PARK SAM JIN [KR] et al.",
+    "filing_date": "2025-12-18",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H01M"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180126A1",
+    "google_url": "https://patents.google.com/patent/US20260180126A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181880A1",
+    "lens_id": "",
+    "title": "SEMICONDUCTOR DEVICES",
+    "abstract": "A semiconductor device includes a substrate including an active region extending in a first direction, a gate structure extending in a second direction intersecting the active region on the substrate, a source/drain region in a recessed region of the active region on at least one side of the gate structure, a first conductive structure connected to the source/drain region, and a first contact spacer. The first conductive structure includes a first interconnection portion, a first via portion extending from a lower surface of the first interconnection portion, and a first contact barrier layer on a lower surface of the first interconnection portion and a side surface and a lower surface of the first via portion. The first contact spacer extends along at least a portion of a side surface of the first via portion below the first interconnection portion.",
+    "assignee": "SAMSUNG ELECTRONICS CO LTD [KR]; Samsung Electronics Co., Ltd.",
+    "inventors": "KO SEUNGBO [KR]; LEE KISEOK [KR]; KIM TAEHOON [KR] et al.",
+    "filing_date": "2025-10-20",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181880A1",
+    "google_url": "https://patents.google.com/patent/US20260181880A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182266A1",
+    "lens_id": "",
+    "title": "PULSED CHEMICAL VAPOR DEPOSITION WITH PROGRAMMABLE LOGIC CONTROL",
+    "abstract": "[0000]    Embodiments described herein generally relate to semiconductor device fabrication. More specifically, embodiments of the present disclosure relate to methods of forming a conformal liner on inner sidewalls of a via and/or a trench structure. The present disclosure generally provides a method of depositing a liner layer in a semiconductor structure. The method includes forming a passivation layer, forming a barrier layer, forming the liner layer, and filing the via and the trench with a conductive material. Forming the liner layer includes holding a precursor gas in a gas line upstream from a processing chamber behind a closed programmable logic control (PLC) valve, wherein the precursor gas is held behind the closed PLC valve for a PLC valve close period and releasing the precursor gas into the processing chamber by opening the PLC valve, wherein the precursor gas is released into the processing chamber for a PLC valve open period.",
+    "assignee": "APPLIED MAT INC [US]; Applied Materials, Inc.",
+    "inventors": "ZHOU YANG [US]; KASHEFI KEVIN [US]; LAM HYMAN W H [US] et al.",
+    "filing_date": "2024-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "C23C"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182266A1",
+    "google_url": "https://patents.google.com/patent/US20260182266A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177269A1",
+    "lens_id": "",
+    "title": "AIRFLOW SYSTEM FOR A BUILDING AND METHOD OF USING THE SAME TO PROVIDE CONTAMINATION MITIGATION FOR OCCUPANTS OF THE BUILDING",
+    "abstract": "There is provided an airflow system for a building. The airflow system includes at least one air purification system providing purified air and receiving recirculated air; at least one air supply assembly supplying the purified air from the air purification system to at least one interior airflow space including one or more of, an aisleway, a cafeteria, a restroom, and an elevator; at least one air return assembly returning the recirculated air from the at least one interior airflow space to the at least one air purification system; directional airstream(s) formed between the air supply assembly and the air return assembly, and comprising at least one or more of, a directed airflow field around each occupant, air barrier(s) between each occupant, and an airflow field around each occupant; and at least one control system controlling the airflow system. The airflow system provides a contamination mitigation for each occupant.",
+    "assignee": "THE BOEING CO [US]; The Boeing Company",
+    "inventors": "GRIP ROBERT E [US]; HOISINGTON ZACHARY C [US]; Grip, Robert E. et al.",
+    "filing_date": "2025-06-03",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "F24F"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177269A1",
+    "google_url": "https://patents.google.com/patent/US20260177269A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182264A1",
+    "lens_id": "",
+    "title": "METHOD FOR INSPECTING GALLIUM NITRIDE BASED SEMICONDUCTOR FILM, METHOD FOR MANUFACTURING GALLIUM NITRIDE BASED SEMICONDUCTOR DEVICE COMPRISING THE SAME, AND LAYERED STRUCTURE USED THEREFOR",
+    "abstract": "[0000]    A method for inspecting a gallium nitride based semiconductor film includes preparing a layered structure including a substrate and a crystal orientation region and a crystalline region disposed on the substrate, forming a gallium nitride based semiconductor film on each of the crystal orientation region and the crystalline region, and evaluating a crystallinity of each of the gallium nitride based semiconductor films formed on the crystal orientation region and the crystalline region.",
+    "assignee": "JAPAN DISPLAY INC [JP]; Japan Display Inc.",
+    "inventors": "NISHIMURA MASUMI [JP]; NISHIMURA, Masumi",
+    "filing_date": "2025-12-10",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G01N",
+      "H10P"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182264A1",
+    "google_url": "https://patents.google.com/patent/US20260182264A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Oxygen barrier biodegradable coating film"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181484A1",
+    "lens_id": "",
+    "title": "VOICE CALL HANDOVER BASED ON VOICE OVER WI-FI TO EVOLVED PACKET SYSTEM-FALLBACK HANDOVER INDICATOR",
+    "abstract": "Systems and methods for voice call handovers are provided. A user device, while on a VoWiFi call, sends a first request to a base station to handover the VoWiFi call to VoNR on a particular cell. In response to a determination that the base station does not support VoNR on the particular cell, the base station sends a message to the user device including an indicator instructing the user device to perform a VoWiFi to EPS-FB handover. In response to the message with the indicator instructing the user device to perform a VoWiFi to EPS-FB handover, the user device implements operations of a VoWiFi to EPS-FB handover resulting in a handover of the VoWiFi call to VoLTE on an LTE cell.",
+    "assignee": "T MOBILE INNOVATIONS LLC [US]; T-MOBILE INNOVATIONS LLC",
+    "inventors": "ZHANG LIN [US]; ZHANG, Lin",
+    "filing_date": "2024-12-24",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H04W"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181484A1",
+    "google_url": "https://patents.google.com/patent/US20260181484A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260179424A1",
+    "lens_id": "",
+    "title": "SMART GATE WITH ADVANCED RECOGNITION CAPABILITIES",
+    "abstract": "[0000]    The present disclosure relates to a smart gate of a property. The smart gate is coupled to a wireless communication system and further comprises a processor and a memory storing processor-executable instructions. Execution of the processor-executable instructions cause the processor to: receive, sensor data from one or more sensors deployed on the smart gate; detect from the sensor data that a vehicle has arrived at the smart gate at an actual arrival time; receive, from at least a first one of one or more image capturing devices deployed on the smart gate, the one or more images of the vehicle; determine, by processing the one or more images of the vehicle, that the vehicle is associated with an expected arrival event, the expected arrival event being associated with a time interval defined by a first time and a second time, the first time being earlier than the second time; determine, based at least in part on the actual arrival time and the time interval, that conditions associated with the expected arrival event have been sufficiently satisfied; and cause the smart gate to open in response to determining that the conditions have been sufficiently satisfied.",
+    "assignee": "PRASHER RAVI [CA]; PRASHER Ravi",
+    "inventors": "PRASHER RAVI [CA]; PRASHER, Ravi",
+    "filing_date": "2024-12-20",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06V",
+      "G07C"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260179424A1",
+    "google_url": "https://patents.google.com/patent/US20260179424A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260178460A1",
+    "lens_id": "",
+    "title": "TEMPERATURE SENSING UNIT AND TEMPERATURE SENSING METHOD FOR AI LAPTOP",
+    "abstract": "A temperature sensing unit for AI laptop is proposed that can measure inside temperature of in-machine temperature (Ta), Target area temperature (Tb) and provide calculated ambient temperature (Tamb) for Fan speed and ON/OFF control to offer sustained optimized AI computing power and maintain better user experience. The proposed method can be used in steady state case as well as in-machine temperature (Ta) varied case. One implementation of the invention is to use dual thermopile sensors for thermal-shock resistance and high accuracy in temperature measurement with one thermopile sensor as active element to sense temperature of target area and another one thermopile sensor as dummy element for encapsulation effect compensation to improve accuracy of temperature reading. One embodiment of the invention is to estimate the skin temperature of laptop which is away from the location of thermopile sensor.",
+    "assignee": "ORIENTAL SYSTEM TECH INC [TW]; ORIENTAL SYSTEM TECHNOLOGY INC.",
+    "inventors": "WANG CHEIN-HSUN [TW]; CHEN CHUN-CHIANG [TW]; KU JENPING [TW] et al.",
+    "filing_date": "2024-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G01J",
+      "G01K",
+      "G06F"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260178460A1",
+    "google_url": "https://patents.google.com/patent/US20260178460A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180343A1",
+    "lens_id": "",
+    "title": "SMART SELF-CHARGING A WEARABLE ELECTRONIC DEVICE",
+    "abstract": "[0000]    A method, computer program product, and computer system for charging a wearable device that a user wears. A command to charge, during a specified sequence of time periods, a battery is received. The battery powers the wearable device and is disposed in the wearable device. The wearable device includes at least two chargers for charging the battery and a sensor associated with each charger are selected from: (i) a solar charger and an associated photoconductive sensor for sensing light intensity, (ii) a thermal charger and an associated temperature gradient sensor for sensing a temperature difference, between the user's body temperature and an ambient temperature, and (iii) a piezo charger and an associated motion sensor for sensing the users motion. The user's motion is the user's linear acceleration and/or angular velocity. For each time period, a preferred charger is selected and subsequently triggered to charge the battery.",
+    "assignee": "INT BUSINESS MACHINES CORPORATION [US]; INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "inventors": "MAHALINGAM VIVEK [IN]; Mahalingam, Vivek",
+    "filing_date": "2024-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06F",
+      "H02J",
+      "H10N"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180343A1",
+    "google_url": "https://patents.google.com/patent/US20260180343A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180502A1",
+    "lens_id": "",
+    "title": "SOLAR PANEL ASSEMBLY",
+    "abstract": "A solar panel assembly for a vehicle includes a housing and at least one movable solar panel configured for extension and retraction. An intelligent central controller executes sensor fusion logic to manage panel deployment based on real-time environmental data received from distributed light, motion, and proximity sensors. The assembly includes shade-avoidance logic for partial panel deployment to optimize energy harvest, a vehicle motion fail-safe for automatic emergency retraction, and a safety interlock to inhibit vehicle operation during mechanical malfunctions. An integrated power distribution module features external outlets and a waterproof storage compartment managed by smart power-sharing logic to allocate energy between a vehicle battery and external loads. The assembly is hardwired into the vehicle's electrical architecture and facilitates hands-free operation via user-presence detection or a mobile application interface.",
+    "assignee": "VERMA ABHINAV S [AE]; Verma Abhinav S.",
+    "inventors": "VERMA ABHINAV S [AE]; Verma, Abhinav S.",
+    "filing_date": "2026-02-14",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H02S",
+      "H10F"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180502A1",
+    "google_url": "https://patents.google.com/patent/US20260180502A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260178220A1",
+    "lens_id": "",
+    "title": "DATA TRANSFER SIGNALING FOR MEMORY ARRAY OPERATIONS",
+    "abstract": "[0000]    Methods, systems, and devices for data transfer signaling for memory array operations are described. A memory system may receive a first signal indicating that one or more devices are ready for a data transfer and a second signal indicating an array status. In response to the first signal and the second signal, the memory system may perform the data transfer operation during one or more programming or read operations. In some cases, the memory system, a memory device, or both, may output an indicator of a readiness to perform the data transfer, where the indication may be stored to a register, or may be sent via one or more signal lines. Further, one or more indications may include an internal indication in response to polling by a controller of the memory system. In some examples, data transfer may be postponed after a threshold time duration after transmitting the indicator.",
+    "assignee": "MICRON TECH INC [US]; Micron Technology, Inc.",
+    "inventors": "YU LIANG [US]; Yu, Liang",
+    "filing_date": "2025-12-12",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06F"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260178220A1",
+    "google_url": "https://patents.google.com/patent/US20260178220A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260182065A1",
+    "lens_id": "",
+    "title": "IMAGE SENSOR AND ELECTRONIC APPARATUS COMPRISING IMAGE SENSOR",
+    "abstract": "[0000]    An image sensor includes a substrate including a first surface and a second surface facing the first surface in a first direction, a first pixel region and a second pixel region that are isolated by a photodiode isolation pattern in the substrate, a plurality of active regions adjacent to the first surface of the substrate, a plurality of gate electrodes on the first surface of the substrate and respectively on the plurality of active regions, a plurality of gate insulating layers respectively between the plurality of active regions and the plurality of gate electrodes, a first floating diffusion region in the first pixel region, a second floating diffusion region in the second pixel region, a connection portion on the first surface of the substrate, and an insulating pattern between the substrate and the connection portion.",
+    "assignee": "SAMSUNG ELECTRONICS CO LTD [KR]; SAMSUNG ELECTRONICS CO., LTD.",
+    "inventors": "KWON HEESANG [KR]; KWON, HEESANG",
+    "filing_date": "2025-11-26",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H10F"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260182065A1",
+    "google_url": "https://patents.google.com/patent/US20260182065A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177673A1",
+    "lens_id": "",
+    "title": "LIDAR RECEIVER WITH AN ACTIVE NON-INVERTING DIFFERENTIATOR",
+    "abstract": "[0000]    A receiver of a light detection and ranging system includes at least one silicon photomultiplier (SiPM) sensor. A SiPM output signal of the at least one SiPM sensor is processed by an active non-inverting differentiator. The differentiator outputs an output signal which is based at least in part on the SiPM output signal, and a signal-to-nose ration (SNR) of the output signal is equal to or greater than the SNR of the SiPM output signal as the differentiator is configured to differentiate in a portion of a frequency domain of the SiPM output signal. The input of the differentiator is an input with active input impedance.",
+    "assignee": "Y E HUB ARMENIA LLC [AM]; Y.E. Hub Armenia LLC",
+    "inventors": "KOROTEEV DMITRY [RU]; KOROTEEV, Dmitry",
+    "filing_date": "2025-07-02",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G01S"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177673A1",
+    "google_url": "https://patents.google.com/patent/US20260177673A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177405A1",
+    "lens_id": "",
+    "title": "System and Method for Detecting Opening Events of an Item",
+    "abstract": "An example assembly for detecting opening events of an item includes: a wireless communications tag. A memory of the wireless communications tag is configured to store an opening indicator. A piezoelectric element is configured to be disposed between two mating portions of a closing structure of the item. The piezoelectric element is loaded when the two portions are mated and unloaded when the two portions of the closing structure are unmated. The piezoelectric element is configured to output an electric signal that can be used by the wireless communications tag, e.g., to cause a logic circuit of the wireless communications tag to update the opening indicator when the piezoelectric element is unloaded.",
+    "assignee": "ZEBRA TECH CORPORATION [US]; Zebra Technologies Corporation",
+    "inventors": "BELLOWS DAVID [US]; Bellows, David",
+    "filing_date": "2024-12-20",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G01D",
+      "G06K"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177405A1",
+    "google_url": "https://patents.google.com/patent/US20260177405A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260178315A1",
+    "lens_id": "",
+    "title": "METHODS AND SYSTEMS FOR UPDATE MANAGEMENT BETWEEN EDGE DEVICES",
+    "abstract": "A method for distributing software updates by an edge device is disclosed. A first edge device broadcasts a beacon signal containing its current software version indicator and a service set identifier (SSID) for a wireless network it intends to establish. The first edge device then receives response signals from proximate edge devices, each indicating their respective software versions. Upon determining that at least one responding device has an older software version, the first edge device establishes the wireless network using the broadcast SSID. The first edge device then receives a request from at least one proximate device that selects it as an update source based on received signal strength indicator (RSSI) measurements. Thereafter, the first edge device transmits a software update package through the established wireless network to the requesting proximate device for version upgrading.",
+    "assignee": "NETRADYNE INC [US]; NETRADYNE, INC.",
+    "inventors": "KASANI RAMAKRISHNA [IN]; SAGI KISHAN VARMA [IN]; SHETTY ADITYA M [IN] et al.",
+    "filing_date": "2025-12-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06F",
+      "H04B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260178315A1",
+    "google_url": "https://patents.google.com/patent/US20260178315A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181668A1",
+    "lens_id": "",
+    "title": "UE METHOD AND APPARATUS FOR TN AND NTN COMMUNICATION",
+    "abstract": "In an embodiment, a method may be performed by a first wireless device which comprises transmitting a SIP invite towards a second wireless device and receiving information as to whether the second wireless device is reachable via a satellite having an altitude higher than a low earth orbital satellite. The indication is received based in part on information obtained via a satellite network and in part based on information obtained via a terrestrial network. The first wireless device may play audio based on a latency of the satellite and may start a voice based media session, between the first wireless device and the second wireless device, subsequent to playing the audio. The UE may be bound to an independent network slice of the cellular network and may receive one or more key performance indicator (KPI) and/or key quality indicator (KQI) based parameters pertaining to the network slice.",
+    "assignee": "OSWEGO TECH LLC [US]; Oswego Technologies LLC",
+    "inventors": "GORDAYCHIK BRIAN [US]; HAYASHI KAZUKI [US]; Gordaychik, Brian et al.",
+    "filing_date": "2025-11-04",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H04L",
+      "H04W"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181668A1",
+    "google_url": "https://patents.google.com/patent/US20260181668A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177295A1",
+    "lens_id": "",
+    "title": "HEAT PUMP WITH REFRIGERANT DETECTION AND TEMPERATURE-BASED OPERATION",
+    "abstract": "[0000]    A device may include a furnace, a heat exchanger, a refrigerant sensor located proximate to the heat exchanger and configured to detect a presence of refrigerant in air adjacent to the refrigerant sensor, a first temperature switch located proximate to the refrigerant sensor and configured to open when a first temperature at the first temperature switch exceeds a first threshold temperature, and a latch circuit configured to close the first temperature switch upon execution of a human-initiated resume command. The first temperature switch may be further configured to prevent operation of the heat pump when the first temperature switch is open.",
+    "assignee": "MITSUBISHI ELECTRIC US INC [US]; Mitsubishi Electric US, Inc.",
+    "inventors": "MANOLE DAN [US]; MANOLE, Dan",
+    "filing_date": "2024-12-23",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "F25B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177295A1",
+    "google_url": "https://patents.google.com/patent/US20260177295A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260179497A1",
+    "lens_id": "",
+    "title": "SYSTEM AND METHOD FOR GRAPH-BASED MULTI-AGENT DRONE COPILOT ORCHESTRATION OF SEARCH, DETECTION, AND RESCUE OPERATIONS",
+    "abstract": "A system and method are provided for multi-agent orchestration of UAV-based search, detection, triage, and threat assessment missions. An Agentic AI subsystem coordinates specialist agents each implemented as a large language model (LLM) constrained by a GraphRAG (graph-based retrieval-and-gating) framework. Per-track sensor inputs including ROI imagery, multi-keypoint pose vectors, posture classifications, telemetry, and CLIP-based semantic similarity scores are fused into structured, schema-validated JSON records conforming to an AI-Agent Contract Schema. A conductor module performs latest-per-track fusion; an orchestrator routes fused states to specialist agents based on confirmed classifications. GraphRAG constraints enforce indicator logic and gate conditions prior to LLM inference. Outputs include triage priority, threat likelihood, uncertainty scores, and operator guidance. Inference may occur on UAV edge devices or be offloaded to ground compute systems with cross-validation. Outputs are rendered via a DroneChat GUI, enabling operator-in-the-loop escalation. The modular architecture supports plug-in specialist agents via contract-governed interfaces without altering core fusion or orchestration logic.",
+    "assignee": "ARTEAGA RICARDO [US]; Arteaga Ricardo",
+    "inventors": "ARTEAGA RICARDO [US]; Arteaga, Ricardo",
+    "filing_date": "2026-01-01",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G06Q",
+      "G08G"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260179497A1",
+    "google_url": "https://patents.google.com/patent/US20260179497A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260173996A1",
+    "lens_id": "",
+    "title": "METHOD AND SYSTEM FOR AUTOMATED FARM MANAGEMENT THROUGH INTELLIGENT RESPONSE GENERATION USING CONNECTED QUERY GRAPHS",
+    "abstract": "This disclosure relates generally to a method and system for the automated farm management by utilizing connected graphs to navigate through unexpected future events affecting the farm. State-of-art methods for prediction of the unexpected future events is based a vast asynchronous data distributed across various complex data analytics tools. And it becomes difficult to choose most suitable actions to be taken to navigate the future event based on the asynchronous data. The present disclosure addresses these problems through a method that utilizes a graphical form of a plurality of sensor data collected from the farm to derive refined multi-contextual intelligent queries. The refined multi-contextual intelligent query is provided to a remotely located LLM model to generate a set of recommendations. The most suitable recommendation is transmitted to an associated autonomous farm machinery to take a suitable action. The method utilizes a feedback mechanism to improve future query generation.",
+    "assignee": "TATA CONSULTANCY SERVICES LTD [IN]; Tata Consultancy Services Limited",
+    "inventors": "MOHITE JAYANTRAO [IN]; PANDIT ANKUR [IN]; PAPPULA SRINIVASU [IN] et al.",
+    "filing_date": "2025-09-19",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "A01B",
+      "G05B"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260173996A1",
+    "google_url": "https://patents.google.com/patent/US20260173996A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177382A1",
+    "lens_id": "",
+    "title": "LINE LASER ASSEMBLY WITH ACTIVE LEVELING",
+    "abstract": "[0000]    A laser leveling apparatus includes a housing, a first laser generator, and a second laser generator such that the laser leveling apparatus is reorientable between an upright position, in which the first laser generator is oriented for generating a horizontal line when activated and in which the second laser generator is oriented for generating a first vertical line when activated, and a side lying position, in which the first laser generator is oriented for producing a second vertical line when activated and in which the second laser generator is oriented for producing the first vertical line when activated. The laser leveling apparatus further includes an active leveling platform assembly having a plurality of sensor assemblies in electronic communication with a plurality of motor assemblies for tilting an upper frame assembly supporting the first laser generator and the second laser generator about a lower frame assembly about three perpendicular axes.",
+    "assignee": "STANLEY BLACK & DECKER INC [US]; Stanley Black & Decker Inc.",
+    "inventors": "HERNANDEZ VEA [US]; SCHMITTDIEL MIKAEL C [US]; RING JB [US] et al.",
+    "filing_date": "2025-12-18",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G01C"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177382A1",
+    "google_url": "https://patents.google.com/patent/US20260177382A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260180778A1",
+    "lens_id": "",
+    "title": "SELF-ADAPTATION METHOD FOR OPTIMIZING MULTIPLE COMMUNICATION MODULES COEXISTING IN FREQUENCY-DIVISION DUPLEXING AND COMMUNICATION SYSTEM THEREOF",
+    "abstract": "[0000]    A self-adaptation method for optimizing multiple communication modules coexisting in frequency-division duplexing is provided. The method is operated in a communication system having at least two communication modules. Communication data generated by the communication modules is obtained when the communication system is operated under a time-division duplexing mode. The communication data is used to establish a standard comparison value for a frequency-division duplexing mode. The communication system then enters a parameter-adjustment phase, and radio-frequency parameters for the communication modules can be obtained. Thus, based on the standard comparison value, key performance indicator check is periodically performed for assessing whether to start or to stop a frequency-divisional duplexing training process according to one or more reference indicators so as to determine whether the radio-frequency parameters need to be adjusted. A set of radio-frequency parameters suitably operating the communication system under the frequency-division duplexing mode are finally obtained.",
+    "assignee": "REALTEK SEMICONDUCTOR CORP [TW]; REALTEK SEMICONDUCTOR CORP.",
+    "inventors": "TSAI SSU-YI [TW]; TSAI CHIH-HUNG [TW]; HO CHIEH-LIN [TW] et al.",
+    "filing_date": "2025-07-16",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H04L"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260180778A1",
+    "google_url": "https://patents.google.com/patent/US20260180778A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260181071A1",
+    "lens_id": "",
+    "title": "USER WARNING FOR FRAUDULENT CALL PHASES",
+    "abstract": "[0000]    A computer-implemented system, method, and apparatus for warning a user of fraudulent call phases may include communicating with a backend analysis engine, wherein the backend analysis engine is to provide a periodically-updated assessment of a voice call, the assessment comprising an inferred call phase and a fraudulence score; and providing a graphical user interface (GUI) visible to a participant of the voice call, wherein the GUI is to display the inferred call phase and a visual fraud indicator based on a likelihood that the voice call is fraudulent.",
+    "assignee": "MCAFEE LLC [US]; McAfee, LLC",
+    "inventors": "AGARWAL AYUSH [IN]; SAHOO NEHA [IN]; SRIVASTAVA HIMANSHU [IN] et al.",
+    "filing_date": "2026-02-17",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "H04M"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260181071A1",
+    "google_url": "https://patents.google.com/patent/US20260181071A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
+  },
+  {
+    "patent_number": "US20260177674A1",
+    "lens_id": "",
+    "title": "TIME-OF-FLIGHT SENSOR AND METHOD OF OPERATING THE SAME",
+    "abstract": "A sensor includes a depth pixel including a plurality of taps configured to operate based on demodulation signals having different phases, and each tap includes a first transfer gate, a storage gate and a second transfer gate that are sequentially arranged between a photodiode and a floating diffusion region. A first data sampling operation corresponding to a first conversion gain is performed by applying a turn-off voltage to the second transfer gate to set a capacitance of the floating diffusion region to a first capacitance. A second data sampling operation corresponding to a second conversion gain smaller than the first conversion gain is performed by applying the turn-off voltage to the storage gate and applying a turn-on voltage to the second transfer gate to increase the capacitance of the floating diffusion region to a second capacitance greater than the first capacitance.",
+    "assignee": "SAMSUNG ELECTRONICS CO LTD [KR]; Samsung Electronics Co., Ltd.",
+    "inventors": "LEE SEUNGHYUN [KR]; JIN YOUNGGU [KR]; Lee, Seunghyun et al.",
+    "filing_date": "2025-11-07",
+    "pub_date": "2026-06-25",
+    "year": "2026",
+    "status": "pending",
+    "jurisdiction": "US",
+    "ipc_codes": [
+      "G01S",
+      "H04N"
+    ],
+    "patent_url": "https://worldwide.espacenet.com/patent/search?q=US20260177674A1",
+    "google_url": "https://patents.google.com/patent/US20260177674A1",
+    "citations": 0,
+    "source": "EPO",
+    "domain": "Packaging & Smart Packaging",
+    "matched_tags": [
+      "Smart packaging freshness biosensor"
+    ],
+    "must_match": false,
+    "raw_score": 50,
+    "score": 24,
+    "fetch_date": "2026-06-29"
   },
   {
     "patent_number": "WO2026123124A1",

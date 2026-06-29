@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-06-22
+Last updated : 2026-06-29
 Total patents: 500
 
 ============================================================
@@ -4876,6 +4876,54 @@ ABSTRACT   : [0000]    A wearable device or system for monitoring food consumpti
 
 ---
 
+TITLE      : PANEL COMPRISING PACKAGING SUBSTRATE
+PATENT     : US20260182382A1  [US]  PENDING
+ASSIGNEE   : ABSOLICS INC [US]; Absolics Inc.
+INVENTORS  : KIM JINCHEOL [KR]; YUN SEHAN [US]; KIM, Jincheol et al.
+FILED      : 2025-10-27   PUB: 2026-06-25
+IPC        : 
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260182382A1
+ABSTRACT   : [0000]    According to the embodiment, a panel comprises a glass core having a width or length of 10 cm or more, and an upper layer disposed on the glass core and having redistribution lines therein. A unit refers to a portion in which a semiconductor element is disposed within a die layout and is separated into an individual packaging substrate. A plurality of the units are disposed on the panel. A reinforcement structure is disposed on the upper layer, configured to surround at least a portion
+
+---
+
+TITLE      : PANEL LEVEL PACKAGING FOR MODULAR EMBEDDED DEVICES
+PATENT     : US20260181781A1  [US]  PENDING
+ASSIGNEE   : SEMICONDUCTOR COMPONENTS IND LLC [US]; SEMICONDUCTOR COMPONENTS INDUSTRIES, LLC
+INVENTORS  : SHARMA ANKIT BHUSHAN [DE]; SHARMA, Ankit Bhushan
+FILED      : 2024-12-20   PUB: 2026-06-25
+IPC        : H05K
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260181781A1
+ABSTRACT   : [0000]    A semiconductor device package includes a first panel including at least one first connection and a second panel including at least one second connection. The package includes a semiconductor device with a first surface of the semiconductor device attached to the first panel and connected to the at least one first connection, and with a second surface of the semiconductor device, opposed to the first surface of the semiconductor device, attached to the second panel and connected to the
+
+---
+
+TITLE      : BAG FOR WASTE COLLECTION
+PATENT     : AU2024278236A1  [AU]  PENDING
+ASSIGNEE   : GOMES GUILHERME; GOMES, GUILHERME
+INVENTORS  : GOMES GUILHERME; GOMES, GUILHERME
+FILED      : 2024-12-10   PUB: 2026-06-25
+IPC        : B60N, B65F
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024278236A1
+ABSTRACT   : Abstract The invention pertains to a utility model patent for a disposable bag designed for use inside vehicles, primarily attached to the gear stick, to collect typical waste such as packaging, paper scraps, and food leftovers 5 produced by passengers; made from materials like fabrics or fibre and cellulose composites, the bag addresses the common issue of improper waste storage, which can contaminate the vehicle's interior and complicate cleaning; the bag ensures waste is collected in a design
+
+---
+
+TITLE      : SEMICONDUCTOR DEVICE WITH PATTERNED WAVE GUIDE AND SELF-ALIGNED COMPONENT PLACEMENT
+PATENT     : US20260182460A1  [US]  PENDING
+ASSIGNEE   : MICROCHIP TECH INC [US]; Microchip Technology Inc.
+INVENTORS  : NAGEL STEVE [US]; CHEN BOMY [US]; Chen, Bomy et al.
+FILED      : 2025-05-09   PUB: 2026-06-25
+IPC        : G02B
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260182460A1
+ABSTRACT   : Disclosed is a method of panel level packaging of one or more devices. The method comprises: providing a carrier, forming at least one optical waveguide on the carrier, selectively removing the at least one optical waveguide to obtain one or more opening areas, and mounting one or more components to the carrier within the one or more opening areas. Also disclosed is a panel level packaged device, comprising one or more of a photonic integrated circuit and an electronic integrated circuit; and a 
+
+---
+
 TITLE      : FLEXIBLE PACKAGING WITH SMART LABEL
 PATENT     : US20260166863A1  [US]  PENDING
 ASSIGNEE   : BROOK & WHITTLE LTD [US]; BROOK & WHITTLE LIMITED
@@ -5997,53 +6045,5 @@ IPC        :
 SCORE      : 71
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162969U
 ABSTRACT   : Fixed bridge prosthesis for patients with temporomandibular joint dysfunction consists of artificial crowns connected to form a single structure made of zirconium dioxide using computer-aided milling. The chewing surface of the prosthesis is made with a shape that is identical to the chewing surface of the patient’s individually adapted temporary plastic prosthesis.
-
----
-
-TITLE      : Pet lounger
-PATENT     : USD1125710S  [US]  PENDING
-ASSIGNEE   : K&H MFG LLC [US]; K&H Manufacturing, LLC
-INVENTORS  : ERSPAMER FARA [US]; KOSKEY JAMES [US]; Erspamer, Fara et al.
-FILED      : 2024-02-19   PUB: 2026-05-05
-IPC        : 
-SCORE      : 65
-LINK       : https://worldwide.espacenet.com/patent/search?q=USD1125710S
-ABSTRACT   : 
-
----
-
-TITLE      : Pet slicker brush
-PATENT     : USD1125724S  [US]  PENDING
-ASSIGNEE   : XIAMEN CHURI TECH CO LTD [CN]; Xiamen Churi Technology Co., Ltd.
-INVENTORS  : WENG JIANMIN [CN]; Weng, Jianmin
-FILED      : 2024-08-03   PUB: 2026-05-05
-IPC        : 
-SCORE      : 65
-LINK       : https://worldwide.espacenet.com/patent/search?q=USD1125724S
-ABSTRACT   : 
-
----
-
-TITLE      : Pet cleaning cart
-PATENT     : USD1125723S  [US]  PENDING
-ASSIGNEE   : JINHUA LIYANG HARDWARE MFG CO LTD [CN]; JINHUA LEEYOUNG HARDWARE MFT CO LTD [CN]; Jinhua Liyang Hardware Manufacturing Co., Ltd. et al.
-INVENTORS  : WU BINTAO [CN]; Wu, Bintao
-FILED      : 2025-03-14   PUB: 2026-05-05
-IPC        : 
-SCORE      : 65
-LINK       : https://worldwide.espacenet.com/patent/search?q=USD1125723S
-ABSTRACT   : 
-
----
-
-TITLE      : Smart pet leash
-PATENT     : USD1125719S  [US]  PENDING
-ASSIGNEE   : SHENZHEN PAIPAI TECH CO LTD [CN]; Shenzhen PaiPai Technology Co., Ltd
-INVENTORS  : JIANG YUANZHUO [CN]; Jiang, Yuanzhuo
-FILED      : 2024-11-30   PUB: 2026-05-05
-IPC        : 
-SCORE      : 65
-LINK       : https://worldwide.espacenet.com/patent/search?q=USD1125719S
-ABSTRACT   : 
 
 ---
