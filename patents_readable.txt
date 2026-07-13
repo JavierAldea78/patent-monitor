@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-07-06
+Last updated : 2026-07-13
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,66 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : SYSTEMS AND METHODS FOR PRODUCING FERMENTED COMESTIBLES WITH PRECISELY CONTROLLED ETHANOL AND METABOLITE PROFILES WITH MACHINE LEARNING MODELS
+PATENT     : WO2026146445A1  [WO]  PENDING
+ASSIGNEE   : KULTURE REBELLION CORP [CA]; KULTURE REBELLION CORP.
+INVENTORS  : ALSAYED SUBHI ALAN [CA]; MAK CHUNG PING [CA]; PATEL YUKTA ALKESH [CA] et al.
+FILED      : 2025-12-31   PUB: 2026-07-09
+IPC        : C12C, C12G, G16C
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146445A1
+ABSTRACT   : A computer-implemented method is provided for producing a fermented beverage having an alcohol content below a predefined threshold includes receiving a target organoleptic profile corresponding to desired flavor and aroma characteristics. The method applies a trained machine-learning model to evaluate candidate combinations including at least one precursor substrate formulation, at least one food-safe microbial strain or consortium, and associated fermentation process parameters. The trained ma
+
+---
+
+TITLE      : FERMENTED GUAVA LEAF COMPOSITION HAVING ENHANCED ANTIOXIDANT EFFICACY BY USING LACTIC ACID BACTERIA, AND PREPARATION METHOD THEREFOR
+PATENT     : WO2026146708A1  [WO]  PENDING
+ASSIGNEE   : KOREA NATIONAL UNIV OF TRANSPORTATION INDUSTRY ACADEMIC COOPERATION FOUNDATION [KR]; TOMO HOLDINGS [KR]; 국립한국교통대학교산학협력단 et al.
+INVENTORS  : KWON SANG CHUL [KR]; PARK CHEOL HWAN [KR]; YI SEUNG HWA [KR] et al.
+FILED      : 2025-02-21   PUB: 2026-07-09
+IPC        : A23B, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146708A1
+ABSTRACT   : The present invention relates to a method for preparing a fermented guava leaf composition having antioxidant efficacy superior to that of conventional guava leaves by using lactic acid bacteria fermentation in a guava leaf extract. The present invention has an excellent effect of providing: the method for preparing a guava leaf composition fermented with lactic acid bacteria, in which lactic acid bacteria of Leuconostoc mesenteroides (MGE 3138), Lactobacillus plantarum (MGE 3143), and Leuconost
+
+---
+
+TITLE      : EPOXY RESIN COMPOSITION FOR SEMICONDUCTOR ENCAPSULATION AND SEMICONDUCTOR DEVICE OBTAINED USING SAME
+PATENT     : WO2026146617A1  [WO]  PENDING
+ASSIGNEE   : SHIN ETSU CHEMICAL CO LTD [JP]; 信越化学工業株式会社
+INVENTORS  : OSADA SHOICHI [JP]; YOKOTA RYUHEI [JP]; HAGIWARA KENJI [JP] et al.
+FILED      : 2025-12-19   PUB: 2026-07-09
+IPC        : C08G, C08K, C08L, H10W
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146617A1
+ABSTRACT   : This epoxy resin composition for semiconductor encapsulation is characterized by comprising components (A) to (D): (A) an epoxy resin represented by general formula (1); (B) a phenolic hardener; (C) an inorganic filler; (D) organosilicon compounds comprising (D1) and (D2), (D1) being one or more epoxidized organosilicon compounds selected from among organooxysilanes represented by general formula (2) and hydrolyzates thereof and (D2) being an organosilicon compound which has an S-Si bond and is 
+
+---
+
+TITLE      : HIGH-PROTEIN HYDROLYSATE FROM SUNFLOWER MEAL
+PATENT     : WO2026147339A1  [WO]  PENDING
+ASSIGNEE   : JOINT STOCK CO ASTON FOODS AND FOOD INGREDIENTS JSC ASTON [RU]; АКЦИОНЕРНОЕ ОБЩЕСТВО "АСТОН ПРОДУКТЫ ПИТАНИЯ И ПИЩЕВЫЕ ИНГРЕДИЕНТЫ" (АО "АСТОН")
+INVENTORS  : VIKULOV VADIM IVANOVICH [RU]; RYZENKO SERGEY PETROVICH [RU]; NEGODA MIKHAIL VLADIMIROVICH [RU] et al.
+FILED      : 2025-12-26   PUB: 2026-07-09
+IPC        : A23J, A23K, A23L, C11B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026147339A1
+ABSTRACT   : The group of inventions relates to the field of processing oleaginous raw materials, and more particularly to a novel product in the form of a high-protein hydrolysate (HPH) obtained from sunflower meal, a method for producing same by enzymatic hydrolysis, and HPH-based food and feed products. The HPH contains 75-85% protein, 10-20% sugar, and at least 0.01% caffeic acid in free form or in bound form as part of chlorogenic acid isomer molecules. In addition, the HPH has a total branched-chain am
+
+---
+
+TITLE      : RECOMBINANT YEAST PRODUCING GERANIOL AND METHOD FOR CONSTRUCTING SAME
+PATENT     : WO2026146740A1  [WO]  PENDING
+ASSIGNEE   : FOUNDATION FOR RESEARCH AND BUSINESS SEOUL NATIONAL UNIV OF SCIENCE AND TECHNOLOGY [KR]; 서울과학기술대학교 산학협력단
+INVENTORS  : SEO SEUNG-OH [KR]; KIM GEUN-HYUNG [KR]; BAEK KWANG-RIM [KR] et al.
+FILED      : 2025-06-19   PUB: 2026-07-09
+IPC        : C12C, C12N, C12P
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146740A1
+ABSTRACT   : The present invention relates to a recombinant yeast producing geraniol and a method for producing geraniol using same and, specifically, to a method for producing geraniol from a carbon source through fermentation using recombinant yeast. Geraniol produced by the method described above may be included in alcoholic beverages such as beer, and can serve as a novel food composition in response to the current hop production and decrease in quality.
 
 ---
 
@@ -435,6 +495,90 @@ IPC        : H10K
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089266A1
 ABSTRACT   : This electronic device may include a display panel. The display panel may comprise: a first electrode layer; a light-emitting layer disposed on the first electrode layer and including a first light-emitting portion and a second light-emitting portion; a second electrode layer disposed on the light-emitting layer; an insulating layer disposed beneath the second electrode layer and disposed between the first light-emitting portion and the second light-emitting portion so as to define the first lig
+
+---
+
+TITLE      : METHOD AND SYSTEM FOR PRODUCING FERMENTED COMESTIBLES WITH TARGETED METABOLITE PROFILES
+PATENT     : WO2026146443A1  [WO]  PENDING
+ASSIGNEE   : KULTURE REBELLION CORP [CA]; KULTURE REBELLION CORP.
+INVENTORS  : ALSAYED SUBHI ALAN [CA]; MAK CHUNG PING [CA]; PATEL YUKTA ALKESH [CA] et al.
+FILED      : 2025-12-31   PUB: 2026-07-09
+IPC        : A23L, A61K, A61P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146443A1
+ABSTRACT   : A computer-implemented method for producing a fermented comestible having a target physiological or functional effect is provided. The method involves receiving a target input corresponding to a desired physiological or functional effect, including mood modulation, cognitive focus, or sleep support. A trained machine-learning model identifies a candidate combination including at least one precursor substrate, at least one food-safe microbial strain or microbial consortium, and associated ferment
+
+---
+
+TITLE      : EXTRACELLULAR VESICLES DERIVED FROM FERMENTED NATURAL PRODUCTS AS WELL AS PREPARATION METHOD AND APPLICATION THEREOF
+PATENT     : WO2026147483A1  [WO]  PENDING
+ASSIGNEE   : SUMATRIX BIYOTEKNOLOJI LTD STI [TR]; SUMATRIX BİYOTEKNOLOJİ LTD ŞTİ
+INVENTORS  : YILDIRIM SEMRA ÜNAL [TR]; YILDIRIM, Semra Ünal
+FILED      : 2025-12-31   PUB: 2026-07-09
+IPC        : A23L, A61K, C12N, C12P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026147483A1
+ABSTRACT   : The present invention generally relates to microvesicles, i.e. extracellular vesicles from the product of the fermentation of natural raw materials by microorganisms. In particular, the present invention relates to extracellular vesicles derived from a fermentation product of natural raw materials which are suitable as food for humans, for example directly as fruit and/or in fermented form. In particular, the present invention relates to extracellular vesicles derived from the fermentation produ
+
+---
+
+TITLE      : FERMENTATION OF NEUROSPORA INTERMEDIA
+PATENT     : WO2026146160A1  [WO]  PENDING
+ASSIGNEE   : SPORA APS [DK]; SPORA APS
+INVENTORS  : MUÑOZ VILDÓSOLA JUAN AGUSTÍN [DK]; BJØRNVAD MADS ESKELUND [DK]; EROTOKRITOU GEORGIOS ROMANOS [DK] et al.
+FILED      : 2025-12-30   PUB: 2026-07-09
+IPC        : A23J, A23L, C12N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146160A1
+ABSTRACT   : The present invention relates to methods of fermentation with Neurospora intermedia using simple carbon substrates as carbon/energy source, for converting simple carbon waste products into edible protein sources. In particular, the present disclosure relates to a process for producing a mycoprotein product comprising a) cultivating a Neurospora intermedia microorganism in a liquid medium comprising one or more simple organic compound(s) as the primary/sole carbon source under conditions suitable
+
+---
+
+TITLE      : SYSTEMS AND METHODS FOR TRANSLATING ABSTRACT AND CREATIVE INPUTS INTO QUANTITATIVE ORGANOLEPTIC PROFILES
+PATENT     : WO2026146444A1  [WO]  PENDING
+ASSIGNEE   : KULTURE REBELLION CORP [CA]; KULTURE REBELLION CORP.
+INVENTORS  : ALSAYED SUBHI ALAN [CA]; MAK CHUNG PING [CA]; PATEL YUKTA ALKESH [CA] et al.
+FILED      : 2025-12-31   PUB: 2026-07-09
+IPC        : G16C
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146444A1
+ABSTRACT   : A computer-implemented method for generating a quantitative target organoleptic profile for a fermented comestible receives at least one creative input and processes the creative input to generate a geometric representation defined by at least one geometric parameter derived according to a mapping scheme. Using at least one processor, a correspondence is determined between the geometric representation and at least one molecular structure representation corresponding to flavor-associated compound
+
+---
+
+TITLE      : EFFICIENT PRODUCTION OF FERMENTABLE SUGARS FROM LIGNOCELLULOSIC BIOMASS
+PATENT     : WO2026143287A1  [WO]  PENDING
+ASSIGNEE   : RESOLVE ENERGIE INC [CA]; RÉSOLVE ÉNERGIE INC.
+INVENTORS  : DURET XAVIER DOMINIQUE [CA]; DURET, Xavier Dominique
+FILED      : 2025-12-30   PUB: 2026-07-09
+IPC        : C08H, C08J, C12P, C13K
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026143287A1
+ABSTRACT   : A process that enables the efficient conversion of lignocellulosic biomass into fermentable sugars through a multi-step method that integrates acid liquefaction, hydrolysis, and advanced transformation of by-products. Biomass is first treated with concentrated sulfuric acid under controlled conditions to break down complex structures, followed by saccharification through dilution and heating to convert polysaccharides into simple sugars is disclosed. Advanced filtration techniques separate the r
+
+---
+
+TITLE      : SYSTEM AND METHOD FOR ULTRASONIC MONITORING OF CELL CULTURES
+PATENT     : LT2024545A  [LT]  PENDING
+ASSIGNEE   : KAUNO TECHNOLOGIJOS UNIV [LT]; LIETUVOS SVEIKATOS MOKSLŲ UNIV [LT]; Kauno technologijos universitetas et al.
+INVENTORS  : OSTAŠEVIČIUS VYTAUTAS [LT]; BUBULIS ALGIMANTAS [LT]; JŪRĖNAS VYTAUTAS [LT] et al.
+FILED      : 2024-12-12   PUB: 2026-07-10
+IPC        : G01N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=LT2024545A
+ABSTRACT   : PAGE \* MERGEFORMAT 4ReferatasThe ultrasonic cell culture observation system according to the invention includes an electron microscope (1), standard medical dishes (2), a bath (3) with liquid (4), an acoustic ultrasonic transducer (5) resting on the bottom of the bath (3), a precision drive (6) controlling the movement of the ultrasonic transducer (5) in two directions, a closed housing (7) of the entire system, a controller (8) for coordinating the movement of the precision drive (6) in the pl
+
+---
+
+TITLE      : BIOSCELLULOSE-BASED THREE-DIMENSIONAL TISSUE MODELS, METHODS FOR THEIR PRODUCTION, AND USES THEREOF
+PATENT     : WO2026147484A1  [WO]  PENDING
+ASSIGNEE   : SUMATRIX BIYOTEKNOLOJI LTD SIRKETI [TR]; SUMATRIX BİYOTEKNOLOJİ LİMİTED ŞİRKETİ
+INVENTORS  : YILDIRIM SEMRA ÜNAL [TR]; YILDIRIM, Semra Ünal
+FILED      : 2025-12-31   PUB: 2026-07-09
+IPC        : C08B, C12P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026147484A1
+ABSTRACT   : The invention relates to bioscellulose hydrogel-based three-dimensional matrices that are optimized and standardized in terms of the porosity ratios of their layer surfaces (measured as a percentage) and their flexibility (measured by Young's modulus), and that are further developed through in vitro modifications. The invention further discloses production methods in which the fermentation medium and process are critical, the three-dimensional bioscellulose matrices obtained by such methods, and
 
 ---
 
@@ -1328,99 +1472,39 @@ ABSTRACT   : The present invention relates to: an acrylic resin composition havi
 
 ---
 
-TITLE      : SYSTEMS AND METHODS FOR AN AUTOMATED BEVERAGE DISPENSER
-PATENT     : US20260184555A1  [US]  PENDING
-ASSIGNEE   : YUM CONNECT LLC [US]; Yum Connect, LLC
-INVENTORS  : SZATROWSKI KARL [US]; THOMAS AARON [US]; Thomas, Aaron et al.
-FILED      : 2024-12-30   PUB: 2026-07-02
-IPC        : B67D
+TITLE      : FUNCTIONAL BEVERAGE
+PATENT     : WO2026146345A1  [WO]  PENDING
+ASSIGNEE   : INFUSI DI CALABRIA SRL [IT]; INFUSI DI CALABRIA SRL
+INVENTORS  : CHIRILLO FRANCESCANTONIO [IT]; CHIRILLO, Francescantonio
+FILED      : 2025-12-12   PUB: 2026-07-09
+IPC        : A23L
 SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260184555A1
-ABSTRACT   : [0000]    An automated beverage dispenser includes a cup dispensing station configured to dispense cups for use. The cup dispensing station includes a housing, a plurality of cups positioned within the housing, the plurality of cups being positioned in a nested relationship, a driver configured to de-nest a cup from the plurality of cups, and a controller. The controller is configured to receive a predefined threshold regarding an operating parameter of the driver and receive a value regarding t
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146345A1
+ABSTRACT   : Functional beferage, comprising: - juice of at least one of the fruits chosen within the group consisting of: Citrus limon Burm or Rocca Imperiale Lemon variety, Citrus medica, Diamante cultivar, Citrus aurantium Biondo tardivo di Trebisacce cultivar; - minerals, vitamins and microelements in the form of chelates consisting of Magnesium and zinc bisglycinates, Selenomethionine. - extract of at least one of the plants chosen within the group consisting of Lavender, Mint, Sage, Chamomile, sweetbri
 
 ---
 
-TITLE      : OPTIMIZED CONTROL OF A MILK PUMP IN A MILK MODULE IN AN AUTOMATIC BEVERAGE PREPARATION MACHINE
-PATENT     : US20260165528A1  [US]  PENDING
-ASSIGNEE   : EVOCA S P A [IT]; EVOCA S.P.A.
-INVENTORS  : ZONATO ALBERTO [IT]; ZONATO, Alberto
-FILED      : 2025-12-11   PUB: 2026-06-18
-IPC        : A47J
+TITLE      : CYCLODEXTRIN ENCAPSULATED PROBIOTIC STRAINS
+PATENT     : US20260191792A1  [US]  PENDING
+ASSIGNEE   : ZOGNITION LLC [US]; Zognition, LLC
+INVENTORS  : PHAM PETER ANGIA [US]; Pham, Peter Angia
+FILED      : 2025-01-06   PUB: 2026-07-09
+IPC        : A61K
 SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260165528A1
-ABSTRACT   : [0000]    A milk module for an automatic beverage preparation machine, comprising a milk line extending from a cold liquid milk container to a milk dispensing nozzle in a beverage dispensing compartment and comprising a milk pump, by means of which cold liquid milk is drawn from the cold liquid milk container and supplied to a mixing chamber of a milk frother arranged upstream of the milk dispensing nozzle; an air line extending from an air source to the mixing chamber of the milk frother to sup
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260191792A1
+ABSTRACT   : The present disclosure teaches methods, materials, and structures for encapsulating probiotic microorganisms in a biocompatible encapsulation compound. The encapsulation compound may be a cyclodextrin macrocyclic molecule that has a hollow, cone-shaped, central cavity. Probiotic microorganisms are then encapsulated partially, or completely, inside of the hollow, central cavity of the cyclodextrin molecule to make a cyclodextrin inclusion complex. The resulting encapsulated probiotic assembly pro
 
 ---
 
-TITLE      : NANO-EMULSION COMPOSITIONS CONTAINING CANNABINOIDS
-PATENT     : US20260152478A1  [US]  PENDING
-ASSIGNEE   : CCT SCIENCES LLC [US]; CCT Sciences, LLC
-INVENTORS  : MECKLER HAROLD [US]; BRACKEEN MARCUS [US]; OLSON KYLE [US] et al.
-FILED      : 2025-07-21   PUB: 2026-06-04
-IPC        : A23L, A61K, B01D, C07B
+TITLE      : FOOD COMPOSITIONS HAVING ALLULOSE AND MASTIC GUM FOR ORAL CARE
+PATENT     : WO2026148112A1  [WO]  PENDING
+ASSIGNEE   : PULPDENT CORP [US]; SONG RUIQI [MA]; BERK KENNETH [US] et al.
+INVENTORS  : SONG RUIQI [US]; BERK KENNETH [US]; SONG, RuiQi et al.
+FILED      : 2025-12-31   PUB: 2026-07-09
+IPC        : A23G, A23L
 SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260152478A1
-ABSTRACT   : Provided herein are nano-emulsion compositions comprising a cannabinoid, a solvent, a lipid source, and a surfactant. Methods of making the nano-emulsion compositions and methods of use are also provided herein. Compositions comprising the nano-emulsion compositions, such as food and beverage compositions and topical compositions, are also provided herein.
-
----
-
-TITLE      : ENCAPSULATION STRUCTURE FOR DISPLAY APPARATUS, AND DISPLAY APPARATUS AND ELECTRONIC DEVICE
-PATENT     : WO2026113188A1  [WO]  PENDING
-ASSIGNEE   : JADE BIRD DISPLAY SHANGHAI LTD [CN]; 上海显耀显示科技有限公司
-INVENTORS  : ZHU XIAOFENG [CN]; 朱小峰
-FILED      : 2025-03-14   PUB: 2026-06-04
-IPC        : G02F, G09G, H10H
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026113188A1
-ABSTRACT   : An encapsulation structure for a display apparatus, and a display apparatus and an electronic device. The encapsulation structure comprises: a display chip, which has a light emission side, wherein the display chip comprises a display region and a first electrode region located on the outer side of the display region; a heat dissipation layer, wherein the surface of the heat dissipation layer is partially in contact with the display chip; a circuit board, which comprises a second electrode regio
-
----
-
-TITLE      : Hautpflegemittel mit Lichtschutzfaktor für Tiegelprodukte III
-PATENT     : DE102024211269A1  [DE]  PENDING
-ASSIGNEE   : BEIERSDORF AG [DE]; Beiersdorf Aktiengesellschaft
-INVENTORS  : REITER KATHARINA [DE]; SPROCK SARAH [DE]; ZANFORLIN TREDE LUCIA [DE] et al.
-FILED      : 2024-11-25   PUB: 2026-05-28
-IPC        : A61K, A61Q
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=DE102024211269A1
-ABSTRACT   : Kosmetische Öl-in-Wasser-Emulsion (O/W-Emulsion) enthaltenda) Hydroxypropylstärkephosphat (INCI: Hydroxypropyl Starch Phosphate),b) 2-Phenylbenzimidazol-5-sulfonsäuresalze,c) Dipropylenglycoldibenzoat (INCI: Dipropylene Glycol Dibenzoate).
-
----
-
-TITLE      : Hautpflegemittel mit Lichtschutzfaktor für Tiegelprodukte II
-PATENT     : DE102024211266A1  [DE]  PENDING
-ASSIGNEE   : BEIERSDORF AG [DE]; Beiersdorf Aktiengesellschaft
-INVENTORS  : SPROCK SARAH [DE]; REITER KATHARINA [DE]; ZANFORLIN TREDE LUCIA [DE] et al.
-FILED      : 2024-11-25   PUB: 2026-05-28
-IPC        : A61K, A61Q
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=DE102024211266A1
-ABSTRACT   : Kosmetische Öl-in-Wasser-Emulsion (O/W-Emulsion) enthaltenda) Hydroxypropylstärkephosphat (INCI: Hydroxypropyl Starch Phosphate),b) 2-Phenylbenzimidazol-5-sulfonsäuresalze,c) Isopropylmyristat (INCI: Isopropyl Myristate).
-
----
-
-TITLE      : MODULAR POINT-OF-SALE DISPLAY, DRAUGHT BEVERAGE DISPENSER AND DRAUGHT BEVERAGE POINT-OF-SALE MANAGEMENT SYSTEM
-PATENT     : WO2026106484A1  [WO]  PENDING
-ASSIGNEE   : DEKKERS INNOVATION B V [NL]; DEKKERS INNOVATION B.V.
-INVENTORS  : YILMAZ MUHAMMED NURI [NL]; DEKKERS ROBERTUS JOHANNES [NL]; YILMAZ, Muhammed Nuri et al.
-FILED      : 2025-11-13   PUB: 2026-05-21
-IPC        : B67D, G07F
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026106484A1
-ABSTRACT   : Modular point-of-sale display comprising: - a tubularly shaped housing arranged to be inserted in a tubular shaped mounting arrangement of a draught beverage dispenser; - a display module connected to the housing and arranged to display content and for covering an opening of the tubular shaped mounting arrangement of the draught beverage dispenser; - a printed circuit board comprising a controller and a data storage, said data storage operatively connected to the controller and the controller op
-
----
-
-TITLE      : LOW ENERGY PROCESS FOR TRANSESTERIFICATION OF EXTRACTED LIPIDS FROM MICROBIAL DEGRADATION OF PLASTIC
-PATENT     : US20260139281A1  [US]  PENDING
-ASSIGNEE   : BATTELLE MEMORIAL INST [US]; Battelle Memorial Institute
-INVENTORS  : GARBARK DANIEL B [US]; CAFMEYER JEFFREY T [US]; LILLY JACOB [US] et al.
-FILED      : 2025-11-20   PUB: 2026-05-21
-IPC        : C12M, C12N, C12P
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260139281A1
-ABSTRACT   : The invention provides a method and system for the enzymatic transesterification of fatty acids or fatty acid derived products to produce lubricant esters. The process involves a reaction mixture containing a fatty acid or fatty acid-derived substrate, an alcohol and a lipolytic enzyme catalyst. A reactive column with a porous frit is employed through which air is bubbled into a mixture of fatty acid derivatives, alcohol and an immobilized lipase catalyst. The air bubbles promote mixing and the 
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026148112A1
+ABSTRACT   : A food composition includes allulose having a concentration of about 43% to about 82% by weight, a cocoa product having a concentration of about 15% to about 50% by weight, and mastic gum or powder having a concentration of about 0.35% to about 2.71% by weight. A food composition also includes allulose having a concentration of about 55% to about 90% by weight, mastic gum or powder having a concentration of about 0.35% to about 5% by weight, and one or more plant-based proteins having a concentr
 
 ---
 
@@ -1916,42 +2000,6 @@ ABSTRACT   : An improved reciprocating engine with compound expansion suitable f
 
 ---
 
-TITLE      : FROZEN FOOD PRODUCT WITH A COATING
-PATENT     : WO2026139412A1  [WO]  PENDING
-ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIÉTÉ DES PRODUITS NESTLÉ S.A.
-INVENTORS  : GALAFFU NICOLA [FR]; CHUAT JEAN-YVES [CH]; NIEDERREITER GERHARD [CH] et al.
-FILED      : 2025-12-19   PUB: 2026-07-02
-IPC        : A21D, A23L
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026139412A1
-ABSTRACT   : The present invention relates to a frozen food product coated with a coating, the coating comprising a compound selected from acacia gum, arabic gum, gellan gum, guar gum, locust bean gum, konjac gum, tara gum, a wax, an alginate, cellulose, whey protein isolate, corn zein, gluten, soy, caseinate, chitosan, carrageenan, gelatin, pullulan, modified starch, or combinations thereof.
-
----
-
-TITLE      : ELECTRONIC COMPONENT ENCAPSULATION
-PATENT     : US20260165187A1  [US]  PENDING
-ASSIGNEE   : ANALOG DEVICES INC [US]; Analog Devices, Inc.
-INVENTORS  : ZENG HANSONG [US]; BOLOGNIA DAVID FRANK [US]; DOWNEY MARK [US] et al.
-FILED      : 2024-12-06   PUB: 2026-06-11
-IPC        : 
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260165187A1
-ABSTRACT   : An encapsulated integrated circuit package is disclosed. The package includes an integrated device package mounted on a substrate. The integrated device package may have a housing defining a cavity and a crystal oscillator in the cavity. The integrated device package may be encapsulated using a high-pressure molding process. The integrated circuit package may further comprise a protection layer over the integrated device package to reduce deformation during pressure processes.
-
----
-
-TITLE      : NANO-POLYSACCHARIDE COMPOSITE PARTICLE AND PREPARATION METHOD THEREFOR
-PATENT     : WO2026112796A1  [WO]  PENDING
-ASSIGNEE   : CHOU MINGYANG [CN]; 周名洋
-INVENTORS  : CHOU MINGYANG [CN]; TSAI YU CHEN [CN]; LIN TI YAN [CN] et al.
-FILED      : 2024-11-26   PUB: 2026-06-04
-IPC        : A61K, C08L
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026112796A1
-ABSTRACT   : The present application provides a novel nano-polysaccharide composite particle. The nano-polysaccharide composite particle is prepared from one polycationic polysaccharide and two polyanionic polysaccharides by means of electrostatic attraction and a complexation reaction. The nano-polysaccharide composite particle has an excellent active ingredient encapsulation efficiency, so that the nano-polysaccharide composite particle can be uniformly distributed within cells upon uptake.
-
----
-
 ============================================================
 DOMAIN: Métodos Analíticos y Digital
 ============================================================
@@ -2053,6 +2101,150 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : Stacked Magnet Weighted Water Bottle
+PATENT     : US20260191318A1  [US]  PENDING
+ASSIGNEE   : CLEMONS JR DAVID [US]; CLEMONS SHEILA [US]; Clemons, JR. David et al.
+INVENTORS  : CLEMONS JR DAVID [US]; CLEMONS SHEILA [US]; Clemons, JR., David et al.
+FILED      : 2026-01-01   PUB: 2026-07-09
+IPC        : A45F
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260191318A1
+ABSTRACT   : [0000]    The disclosed Stacking Magnetic Weighted Water Bottle provides users with the ability to decide how much magnetic sticking ability their water bottle has to metallic surfaces and how much weight it has to non-metallic surfaces. The disclosure does all of this by providing magnets which successively attach to each other on a bottom of a water bottle or insulated beverage glass/bottle. This is accomplished in multiple ways as disclosed herein including threaded attachment to the bottom o
+
+---
+
+TITLE      : METHOD FOR MANUFACTURING A PACKAGING FILM, PACKAGING FILM AND PACKAGING ASSEMBLY
+PATENT     : WO2026146173A1  [WO]  PENDING
+ASSIGNEE   : AIRNOV INC [US]; LOGEL VALERE [FR]; BERTHOUD THOMAS [FR] et al.
+INVENTORS  : LOGEL VALÈRE [FR]; BERTHOUD THOMAS [FR]; SAVIGNY VIVIEN [FR] et al.
+FILED      : 2025-12-30   PUB: 2026-07-09
+IPC        : B29C, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146173A1
+ABSTRACT   : Disclosed is a method for manufacturing a packaging film comprising a substrate film (4A) and at least one active member (6) secured to the substrate film. The substrate film (4A) comprises at least a barrier layer and a sealant layer. The at least one active member (6) comprises a base polymer and an active material. A face of the substrate film on the opposite side from the sealant layer is configured to form an outer face of a packaging assembly. The method comprises steps of: positioning the
+
+---
+
+TITLE      : COMPOSTABLE PACKAGING ARTICLES AND MATERIALS
+PATENT     : WO2026147918A1  [WO]  PENDING
+ASSIGNEE   : COLGATE PALMOLIVE CO [US]; COLGATE-PALMOLIVE COMPANY
+INVENTORS  : ALINEJAD MONA [US]; WANG JUN [US]; ALINEJAD, Mona et al.
+FILED      : 2025-12-30   PUB: 2026-07-09
+IPC        : B32B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026147918A1
+ABSTRACT   : A laminate structure includes a cellulosic layer, a barrier layer comprising starch or polysaccharides, and a sealant layer comprising one or more of polyhydroxyalkanoate (PHA), polylactic acid (PLA), biaxially oriented polypropylene (BOPP), polyethylene (PE), polypropylene (PP), and polybutylene adipate terephthalate (PBAT).
+
+---
+
+TITLE      : EYE HEALTH, MENTAL FOCUS, AND MEMORY SUPPORT NUTRITIONAL SUPPLEMENT BLEND, DIETARY SUPPLEMENT, FUNCTIONAL FOOD AND FUNCTIONAL BEVERAGE
+PATENT     : WO2026147722A1  [WO]  PENDING
+ASSIGNEE   : MATCHSTICK BRANDS LLC [US]; MATCHSTICK BRANDS, LLC
+INVENTORS  : MACCHIARULO MICHAEL THOMAS [US]; MACCHIARULO, Michael Thomas
+FILED      : 2025-12-18   PUB: 2026-07-09
+IPC        : A61K, A61P
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026147722A1
+ABSTRACT   : Provided herein are methods and compositions comprising effective amount of lutein, zeaxanthin, and citicoline for Eye Health, Mental Focus, and Memory Support, wherein the effective amount of citicoline synergistically effects lutein and zeaxanthin immediately and over time, and the composition is to be ingested as a Nutritional Supplement Blend, Dietary Supplement, Functional Food or Functional Beverage.
+
+---
+
+TITLE      : Extruded Gelling Food Products, Extruded Gelling Food Product Ingredients, and Methods for Making Extruded Gelling Food Products and Extruded Food Product Ingredients
+PATENT     : US20260191246A1  [US]  PENDING
+ASSIGNEE   : GHL SPECIALTY FLOURS LLC [US]; GHL Specialty Flours, LLC
+INVENTORS  : LIPSCOMB JOHN M [US]; RODRIGUEZ OMAR I [US]; Lipscomb, John M et al.
+FILED      : 2026-02-17   PUB: 2026-07-09
+IPC        : A21D, A23D, A23G, A23L, A23P
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260191246A1
+ABSTRACT   : A method of manufacturing an extruded gelling food product, constituent, or ingredient includes extruding a starch-containing admixture at an extrusion pressure of at least 2000 PSI for a residency time of no more than 30 seconds to modify starch therein into a cold water-soluble extrusion-modified starch gellant substantially uniformly distributed throughout the resulting extrudate, and cooling and drying the extrudate without the application of heat to preserve its cold water-soluble gelling p
+
+---
+
+TITLE      : SUGAR ALTERNATIVES AND FOOD PRODUCTS COMPRISING THEM
+PATENT     : WO2026146497A1  [WO]  PENDING
+ASSIGNEE   : AMAI PROTEINS LTD [IL]; AMAI PROTEINS LTD.
+INVENTORS  : BEN-BASSAT NETA [IL]; ZUKER INBAR [IL]; MARKO SHMUEL [IL] et al.
+FILED      : 2025-12-31   PUB: 2026-07-09
+IPC        : A23G, A23L, C07K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146497A1
+ABSTRACT   : The present disclosure relates to frozen food products and/or a chilled food and food ingredient for preparing the food products, the food product and/or the food ingredient comprises sweet protein as well as fiber and/or starch.
+
+---
+
+TITLE      : OPTICAL MEASUREMENT SYSTEMS AND TECHNIQUES FOR WATER USED IN FOOD AND BEVERAGE PROCESSES
+PATENT     : US20260194389A1  [US]  PENDING
+ASSIGNEE   : ECOLAB USA INC [US]; Ecolab USA Inc.
+INVENTORS  : WALSH RICHARD JOESPH [US]; STROBERGER DANIEL ARTHUR [US]; MCGINNESS RACHEL [US] et al.
+FILED      : 2026-01-05   PUB: 2026-07-09
+IPC        : G01J, G01N
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260194389A1
+ABSTRACT   : A method of controlling an optical sensor exposed to a high-fouling water source from a food or beverage production operation can include introducing clean water into a flow chamber of the optical sensor. The optical sensor can measure an absorbance of the clean water and a cleanliness value can be determined based on the measured absorbance. If the cleanliness value is beyond a cleanliness threshold, a deep cleaning is performed on the optical sensor. Otherwise, if the cleanliness value is with
+
+---
+
+TITLE      : SALTY TASTE MODIFIERS, AND FOOD AND BEVERAGE PRODUCTS INCLUDING SALTY TASTE MODIFIERS
+PATENT     : WO2026148026A1  [WO]  PENDING
+ASSIGNEE   : KRAFT FOODS GROUP BRANDS LLC [US]; TECHNISCHE UNIV MUENCHEN [DE]; KRAFT FOODS GROUP BRANDS LLC et al.
+INVENTORS  : DIERBACH LISA [US]; GROVER JULIE ANNE [US]; TRIO ALLISON THERESE [US] et al.
+FILED      : 2025-12-30   PUB: 2026-07-09
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026148026A1
+ABSTRACT   : Salty-taste modifier compositions are provided that include one or more salty taste-modifier peptides. The salty taste modifier compositions may be added to food or beverage products to modify, enhance, or add salty taste to the food or beverage product.
+
+---
+
+TITLE      : UMAMI TASTE MODIFIERS, AND FOOD AND BEVERAGE PRODUCTS INCLUDING UMAMI TASTE MODIFIERS
+PATENT     : WO2026148031A1  [WO]  PENDING
+ASSIGNEE   : KRAFT FOODS GROUP BRANDS LLC [US]; TECHNISCHE UNIV MUENCHEN [DE]; KRAFT FOODS GROUP BRANDS LLC et al.
+INVENTORS  : DIERBACH LISA [US]; GROVER JULIE ANNE [US]; TRIO ALLISON THERESE [US] et al.
+FILED      : 2025-12-30   PUB: 2026-07-09
+IPC        : A23L, C07K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026148031A1
+ABSTRACT   : Taste modifier compositions are provided that include one or more umami taste-enhancing peptides. The taste modifier compositions may be added to food or beverage products to modify, enhance, or add umami taste to the food or beverage product.
+
+---
+
+TITLE      : SYSTEM AND APPARATUS OF SPECIALTY BEVERAGE BREWING AND AUTOMATED VENDING MACHINE
+PATENT     : WO2026146449A1  [WO]  PENDING
+ASSIGNEE   : SUTODIYA HARSH [IN]; SUTODIYA POOJA [IN]; SUTODIYA, Harsh et al.
+INVENTORS  : SUTODIYA HARSH [IN]; SUTODIYA POOJA [IN]; SUTODIYA, Harsh et al.
+FILED      : 2026-01-02   PUB: 2026-07-09
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146449A1
+ABSTRACT   : The invention provides a configurable, automated beverage brewing and vending system capable of preparing a wide range of hot, cold and carbonated drinks, including specialty teas (1), coffees (2), cocoa-based beverages (3) and flavoured infusions. The system incorporates modular processing units such as ingredient hoppers, precision dispensing mechanisms, a controlled brewing chamber (12), heating (17) and cooling modules and an optional carbonation unit (20). A microcontroller-based control sy
+
+---
+
+TITLE      : TASTE MODIFIERS AND FOOD AND BEVERAGE PRODUCTS INCLUDING TASTE MODIFIERS
+PATENT     : WO2026148035A1  [WO]  PENDING
+ASSIGNEE   : KRAFT FOODS GROUP BRANDS LLC [US]; TECHNISCHE UNIV MUENCHEN [DE]; KRAFT FOODS GROUP BRANDS LLC et al.
+INVENTORS  : DIERBACH LISA [US]; GROVER JULIE ANNE [US]; TRIO ALLISON THERESE [US] et al.
+FILED      : 2025-12-30   PUB: 2026-07-09
+IPC        : A23C, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026148035A1
+ABSTRACT   : Taste modifier compositions are provided that include one or more taste modifier peptides. The taste modifier peptides are effective to modulate one or more of salty, bitter, sour, astringent, umami, and kokumi taste characteristics. The taste modifier compositions may further include one or more lactones and/or one or more glutamyl peptides. The taste modifier compositions may be added to food or beverage products to modify one or more tastes in the food or beverage products.
+
+---
+
+TITLE      : SHAPED BEVERAGE CONTAINER AND INTEGRATED PARTS SYSTEM
+PATENT     : US20260192966A1  [US]  PENDING
+ASSIGNEE   : RUSKEY CHAD [US]; Ruskey Chad
+INVENTORS  : RUSKEY CHAD [US]; Ruskey, Chad
+FILED      : 2025-04-21   PUB: 2026-07-09
+IPC        : A63B, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260192966A1
+ABSTRACT   : A beverage container and integrated parts system is disclosed, including a hollow body having an opening, the body configured in a novelty shape, and a stopper configured to fit the opening of the body. The stopper includes a member extending downward into the body. In some aspects of the technology, the novelty shape is a golf ball, and the member extending downward from the stopper is configured in the shape of a golf tee, or in other words, the stopper comprises a golf tee. The stopper may be
 
 ---
 
@@ -3556,6 +3748,30 @@ ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coa
 
 ---
 
+TITLE      : PORTABLE FOOD CONTAINER DEVICE
+PATENT     : US20260192995A1  [US]  PENDING
+ASSIGNEE   : HILL LEAH [US]; Hill Leah
+INVENTORS  : HILL LEAH [US]; Hill, Leah
+FILED      : 2025-01-09   PUB: 2026-07-09
+IPC        : B65D
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260192995A1
+ABSTRACT   : A portable food container device for packing and transporting a meal includes a bottle having an interior space for storing the meal. The bottle has a base wall and a peripheral wall that is coupled to and extends upwardly from the base wall. The peripheral wall has an upper edge that defines an opening into the interior space. A lid is couplable to the bottle to cover the opening. A sheet is removably coupled to the lid to define a compartment within the lid for storing a topping within the com
+
+---
+
+TITLE      : HEATING UNIT, FOOD PRODUCTION METHOD, AND FOOD
+PATENT     : US20260191236A1  [US]  PENDING
+ASSIGNEE   : SODICK CO LTD [JP]; Sodick Co., Ltd.
+INVENTORS  : NAKAMURA TAKAHIRO [JP]; NOGUCHI AKINORI [JP]; KURITA JUNICHI [JP] et al.
+FILED      : 2025-12-15   PUB: 2026-07-09
+IPC        : A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260191236A1
+ABSTRACT   : [0000]    A heating unit includes a cylindrical body, a first planar electrode, a second planar electrode, and a conductive thin film, in which the cylindrical body is configured to be fillable with a food having conductivity, the first planar electrode and the second planar electrode are configured to be arrangeable so as to seal the food on two sides of the food filled in the cylindrical body, the conductive thin film is provided in a band shape along a circumferential direction at a position 
+
+---
+
 TITLE      : CULTURE MEDIUM FOR BEER-SPOILING YEAST, AND METHOD FOR DETECTING BEER-SPOILING YEAST
 PATENT     : WO2026140987A1  [WO]  PENDING
 ASSIGNEE   : ASAHI GROUP HOLDINGS LTD [JP]; アサヒグループホールディングス株式会社
@@ -5020,6 +5236,30 @@ ABSTRACT   : [0000]    A wearable device or system for monitoring food consumpti
 
 ---
 
+TITLE      : PACKAGING ARRANGEMENT FOR AN OPTIONALLY HYDROGENATED NITRILE RUBBER
+PATENT     : WO2026146054A1  [WO]  PENDING
+ASSIGNEE   : ARLANXEO HIGH PERFORMANCE ELASTOMERS CHANGZHOU CO LTD [CN]; ARLANXEO DEUTSCHLAND GMBH [DE]; ARLANXEO HIGH PERFORMANCE ELASTOMERS (CHANGZHOU) CO., LTD. et al.
+INVENTORS  : HOCH MARTIN [CN]; DU HANG [CN]; LU LUCY [CN] et al.
+FILED      : 2025-12-22   PUB: 2026-07-09
+IPC        : B01J, B65D, C08C, C08L
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146054A1
+ABSTRACT   : The present invention relates to a packaging arrangement (10) for enclosing and storing a polymer (20), wherein the polymer comprises an optionally hydrogenated nitrile rubber, wherein the optionally hydrogenated nitrile rubber has complex modulus G* measured at 100°C and at 1 Hz frequency of ≤ 100 kPa, wherein the packaging arrangement (10) comprises an inner packaging (12) and an outer packaging (14), wherein the inner packaging (12) comprises a main layer (16) and optionally a contact layer (
+
+---
+
+TITLE      : TUMBLER HAVING TEMPERATURE CONTROL FUNCTION
+PATENT     : WO2026146806A1  [WO]  PENDING
+ASSIGNEE   : ALLCOM CO LTD [KR]; 주식회사 올컴
+INVENTORS  : JANG SEUNG HYEOK [KR]; 장승혁
+FILED      : 2025-10-16   PUB: 2026-07-09
+IPC        : A47J, B65D, F25B
+SCORE      : 71
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146806A1
+ABSTRACT   : The present invention comprises: a case forming an outer shape; a beverage container body provided inside the case so as to form a space in which a beverage is contained, and made of a thermally conductive material; a temperature control means provided inside the case so as to contact the outer surface of the beverage container body such that same provides heat to the beverage container body or receives heat from the beverage container body, thereby heating or cooling the beverage contained in t
+
+---
+
 TITLE      : A PACKAGING ARTICLE BASED ON CARDBOARD COMPOSITE FOR GLASS TRANSPORTATION
 PATENT     : WO2026139972A1  [WO]  PENDING
 ASSIGNEE   : SAINT GOBAIN GLASS FRANCE [FR]; NARAYANA MURTHY RAMESH ATHISH [IN]; SAINT-GOBAIN GLASS FRANCE et al.
@@ -5053,234 +5293,6 @@ IPC        : G16B
 SCORE      : 71
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026137036A1
 ABSTRACT   : This disclosure relates to a computer-implemented method for determining spatial characteristics of a single stranded nucleic acid (ssNA) molecule for packaging the ssNA molecule into a vector. The method comprises determining a three-dimensional structure of the ssNA molecule; applying a virtual force to elements of the ssNA molecule in a simulator environment using the three-dimensional structure, the virtual force being applied towards an interior point of the three-dimensional structure, the
-
----
-
-TITLE      : MASTERBATCH RESIN COMPOSITION FOR FOOD PACKAGING MATERIAL, THERMOPLASTIC RESIN COMPOSITION FOR FOOD PACKAGING MATERIAL, AND FOOD PACKAGING MATERIAL
-PATENT     : WO2026141447A1  [WO]  PENDING
-ASSIGNEE   : ARTIENCE CO LTD [JP]; TOYOCOLOR CO LTD [JP]; ａｒｔｉｅｎｃｅ株式会社 et al.
-INVENTORS  : OHASHI RYOTA [JP]; KOGAI NANA [JP]; KANEDA TAKAKI [JP] et al.
-FILED      : 2025-12-24   PUB: 2026-07-02
-IPC        : B65D, C08J, C08K, C08L
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026141447A1
-ABSTRACT   : Provided is a masterbatch resin composition for food packaging material, said masterbatch resin composition comprising a polyolefin resin (A), a basic filler (B) which has a pH of 10.0-13.0 in water and which has a water content of not more than 20,000 ppm, and an antioxidant (C) which is at least one antioxidant selected from the group consisting of hindered amine-based antioxidants, hydroxylamine-based antioxidants, and phosphorus-based antioxidants, wherein the content of the antioxidant (C) 
-
----
-
-TITLE      : TWO-PACK CURABLE COMPOSITION, TWO-PACK CURABLE COATING AGENT, TWO-PACK CURABLE ADHESIVE, LAMINATE, AND PACKAGING MATERIAL
-PATENT     : WO2026141107A1  [WO]  PENDING
-ASSIGNEE   : DIC CORP [JP]; ＤＩＣ株式会社
-INVENTORS  : TERAMURA MISATO [JP]; KUBOTA TAKAYUKI [JP]; HOSONO TSUKIKO [JP] et al.
-FILED      : 2025-12-18   PUB: 2026-07-02
-IPC        : B32B, B65D, C08G, C09D, C09J
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026141107A1
-ABSTRACT   : The present invention provides: a two-pack curable composition capable of imparting oxygen barrier properties when used as a laminate adhesive or a coating agent; and a laminate and a packaging material that are manufactured by using said composition.　Provided are: a two-pack curable composition that contains a polyol composition (X) containing a polyol compound (A), and contains a polyisocyanate composition (Y) containing a polyisocyanate compound (B), the polyol composition (X) containing a po
-
----
-
-TITLE      : PANEL COMPRISING PACKAGING SUBSTRATE
-PATENT     : US20260182382A1  [US]  PENDING
-ASSIGNEE   : ABSOLICS INC [US]; Absolics Inc.
-INVENTORS  : KIM JINCHEOL [KR]; YUN SEHAN [US]; KIM, Jincheol et al.
-FILED      : 2025-10-27   PUB: 2026-06-25
-IPC        : 
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260182382A1
-ABSTRACT   : [0000]    According to the embodiment, a panel comprises a glass core having a width or length of 10 cm or more, and an upper layer disposed on the glass core and having redistribution lines therein. A unit refers to a portion in which a semiconductor element is disposed within a die layout and is separated into an individual packaging substrate. A plurality of the units are disposed on the panel. A reinforcement structure is disposed on the upper layer, configured to surround at least a portion
-
----
-
-TITLE      : PANEL LEVEL PACKAGING FOR MODULAR EMBEDDED DEVICES
-PATENT     : US20260181781A1  [US]  PENDING
-ASSIGNEE   : SEMICONDUCTOR COMPONENTS IND LLC [US]; SEMICONDUCTOR COMPONENTS INDUSTRIES, LLC
-INVENTORS  : SHARMA ANKIT BHUSHAN [DE]; SHARMA, Ankit Bhushan
-FILED      : 2024-12-20   PUB: 2026-06-25
-IPC        : H05K
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260181781A1
-ABSTRACT   : [0000]    A semiconductor device package includes a first panel including at least one first connection and a second panel including at least one second connection. The package includes a semiconductor device with a first surface of the semiconductor device attached to the first panel and connected to the at least one first connection, and with a second surface of the semiconductor device, opposed to the first surface of the semiconductor device, attached to the second panel and connected to the
-
----
-
-TITLE      : BAG FOR WASTE COLLECTION
-PATENT     : AU2024278236A1  [AU]  PENDING
-ASSIGNEE   : GOMES GUILHERME; GOMES, GUILHERME
-INVENTORS  : GOMES GUILHERME; GOMES, GUILHERME
-FILED      : 2024-12-10   PUB: 2026-06-25
-IPC        : B60N, B65F
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024278236A1
-ABSTRACT   : Abstract The invention pertains to a utility model patent for a disposable bag designed for use inside vehicles, primarily attached to the gear stick, to collect typical waste such as packaging, paper scraps, and food leftovers 5 produced by passengers; made from materials like fabrics or fibre and cellulose composites, the bag addresses the common issue of improper waste storage, which can contaminate the vehicle's interior and complicate cleaning; the bag ensures waste is collected in a design
-
----
-
-TITLE      : SEMICONDUCTOR DEVICE WITH PATTERNED WAVE GUIDE AND SELF-ALIGNED COMPONENT PLACEMENT
-PATENT     : US20260182460A1  [US]  PENDING
-ASSIGNEE   : MICROCHIP TECH INC [US]; Microchip Technology Inc.
-INVENTORS  : NAGEL STEVE [US]; CHEN BOMY [US]; Chen, Bomy et al.
-FILED      : 2025-05-09   PUB: 2026-06-25
-IPC        : G02B
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260182460A1
-ABSTRACT   : Disclosed is a method of panel level packaging of one or more devices. The method comprises: providing a carrier, forming at least one optical waveguide on the carrier, selectively removing the at least one optical waveguide to obtain one or more opening areas, and mounting one or more components to the carrier within the one or more opening areas. Also disclosed is a panel level packaged device, comprising one or more of a photonic integrated circuit and an electronic integrated circuit; and a 
-
----
-
-TITLE      : FLEXIBLE PACKAGING WITH SMART LABEL
-PATENT     : US20260166863A1  [US]  PENDING
-ASSIGNEE   : BROOK & WHITTLE LTD [US]; BROOK & WHITTLE LIMITED
-INVENTORS  : GALLAGHER SEAN PATRICK [US]; Gallagher, Sean Patrick
-FILED      : 2025-09-16   PUB: 2026-06-18
-IPC        : B32B
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260166863A1
-ABSTRACT   : [0000]    A packing material and a method of making are provided. The packing material has a layered film and a smart label inlay. The layered film includes a metallic layer having a disruption therethrough and a non-metallic layer. The smart label inlay is disposed on the layered film and registered with the disruption in the metallic layer. The disruption enables transmission of the smart label antenna. A flexible packaging is formed of the packing material.
-
----
-
-TITLE      : UPDATE PACKAGING FOR DISCONNECTED PRIVATE CLOUD
-PATENT     : US20260161379A1  [US]  PENDING
-ASSIGNEE   : HEWLETT PACKARD ENTPR DEVELOPMENT LP [US]; Hewlett Packard Enterprise Development LP
-INVENTORS  : RAO RAKESH LAKSHMINARAYANA [IN]; SUDHAKARAN SONU [IN]; RAJEEVALOCHANAM TEJASWI BANGALORE [IN] et al.
-FILED      : 2025-02-03   PUB: 2026-06-11
-IPC        : G06F
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260161379A1
-ABSTRACT   : [0000]    In certain examples, a method includes obtaining, from a schema and by a disconnected private cloud update packager, an information set corresponding to a set of updates for a disconnected private cloud; obtaining, based on the information set and by the disconnected private cloud update packager, the set of updates from one or more update locations; packaging, by the disconnected private cloud update packager, the set of updates as a disconnected private cloud update package comprisin
-
----
-
-TITLE      : STACKED SUBSTRATE AND PACKAGING ASSEMBLY
-PATENT     : US20260165173A1  [US]  PENDING
-ASSIGNEE   : PANELSEMI CORP [TW]; PanelSemi Corporation
-INVENTORS  : CHEN HSIEN-TE [TW]; LI CHIN-TANG [TW]; LO PEN-CHAO [TW] et al.
-FILED      : 2025-12-10   PUB: 2026-06-11
-IPC        : B32B, H10W
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260165173A1
-ABSTRACT   : A stacked substrate includes a first tiling layer, a second tiling layer and a bonding layer. The first tiling layer includes plural first tiling substrates adjacent by one another and plural first gaps formed between adjacent two first tiling substrates. The second tiling layer includes plural second tiling substrates and plural second gaps formed between adjacent two second tiling substrates. The bonding layer is arranged between the first tiling layer and the second tiling layer, and defines 
-
----
-
-TITLE      : OFFSET-CHIP EMBEDDED CIRCUIT BOARD AND MANUFACTURING METHOD THEREFOR
-PATENT     : US20260165169A1  [US]  PENDING
-ASSIGNEE   : ZF FRIEDRICHSHAFEN AG [DE]; ZF Friedrichshafen AG
-INVENTORS  : XU QING [CN]; YUAN SHAOZHI [CN]; Xu, Qing et al.
-FILED      : 2025-12-10   PUB: 2026-06-11
-IPC        : H10W
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260165169A1
-ABSTRACT   : An offset-chip embedded circuit board includes a core; a chip packaging unit embedded in the core and including a conductive substrate and a chip unit embedded in the conductive substrate, wherein the chip unit is offset on a side of the substrate, and an electrode lead-out area of the chip unit is reserved on the other side of the substrate; a prepreg and a conductive layer stacked on the core; and lead-out wires led out from a front side of the chip packaging unit and arranged in the prepreg a
-
----
-
-TITLE      : Method and Composition for an Improved Bioavailability Delivery System
-PATENT     : US20260157968A1  [US]  PENDING
-ASSIGNEE   : AMERICANA PHARMA LLC [US]; Americana Pharma LLC
-INVENTORS  : BERI AMAN [US]; Beri, Aman
-FILED      : 2025-11-17   PUB: 2026-06-11
-IPC        : A61K
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157968A1
-ABSTRACT   : [0000]    A polarity-specific, multi-route delivery system for dietary supplement bioactives with each active pre-mapped to an optimized carrier tailored for oral, transdermal, or topical delivery. A unified formulation stability framework incorporates antioxidants, photoprotectants, oxygen scavengers, and nitrogen-flushed packaging, ensuring integrity under ICH Q1A(R2) conditions. The system supports modular formulations combining esterified DHEA analogs with adaptogens, minerals, amino acids, 
-
----
-
-TITLE      : LIGHTWEIGHT BOTTLE
-PATENT     : US20260152311A1  [US]  PENDING
-ASSIGNEE   : MID AMERICA MACHINING INC [US]; Mid-America Machining, Inc.
-INVENTORS  : LOBBESTAEL PETER [US]; SIMPSON MATTHEW [US]; YENOR DAVID [US] et al.
-FILED      : 2026-01-27   PUB: 2026-06-04
-IPC        : B65D
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260152311A1
-ABSTRACT   : A container for pourable materials. The container has a hollow body with an elongated rectangular cross-sectional shape that is defined by four side walls and four corners, each of the four corners being further defined by two rounded sub-corners and an intermediate wall. The container also includes a spout defining an opening into the container, a transition section located between and connecting the body to the spout, and a base closing one end of the body opposite of the spout.
-
----
-
-TITLE      : AQUEOUS POLYMER DISPERSION FOR HOT AIR SEALING OF A PAPER PACKAGING
-PATENT     : WO2026114847A2  [WO]  PENDING
-ASSIGNEE   : BASF SE [DE]; BASF SE
-INVENTORS  : VAN SLUIJS CHRISTOF [NL]; KAPPEN NIELS [NL]; VAN SLUIJS, Christof et al.
-FILED      : 2025-11-25   PUB: 2026-06-04
-IPC        : C08F, C08G
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026114847A2
-ABSTRACT   : Described is an aqueous polymer dispersion obtained or obtainable from a first aqueous polymer dispersion A comprising an acid-free copolymer prepared in the presence of an acid-rich copolymer and a second aqueous polymer dispersion B comprising a polyurethane. The aqueous polymer dispersion can be used for hot air sealing of a paper packaging, wherein the paper packaging preferably is a folding box for food or a paper cup for hot or cold drinks.
-
----
-
-TITLE      : PACKAGING DEVICE
-PATENT     : EP4748730A2  [EP]  PENDING
-ASSIGNEE   : SCHREYER SONDERMASCHINEN GMBH [DE]; Schreyer Sondermaschinen GmbH
-INVENTORS  : SCHREYER JULIAN [DE]; Schreyer, Julian
-FILED      : 2025-11-06   PUB: 2026-05-27
-IPC        : B65B
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748730A2
-ABSTRACT   : Die Erfindung betrifft eine Vorrichtung (10) zur Verpackung von Lebensmittelportionen (12) mit einer Verpackungseinrichtung (20), mit einer Zuführeinrichtung (22) zum Zuführen der Lebensmittelportionen (12) in gleichen räumlichen Abständen zur Verpackungseinrichtung (20), wobei die Zuführeinrichtung (22) einen umlaufenden Träger (24) und am Träger (24) in gleichen Abständen angeordnete, vom Träger (24) abstehende Mitnehmer (26) für die Lebensmittelportionen (12) aufweist und mit einer Fördereinr
-
----
-
-TITLE      : High power semiconductor device packaging
-PATENT     : GB2701980A  [GB]  PENDING
-ASSIGNEE   : CAMBRIDGE GAN DEVICES LTD [GB]; Cambridge GaN Devices Limited
-INVENTORS  : SIMON STACEY [GB]; AHMAD BIN ARSHAD [GB]; Simon Stacey et al.
-FILED      : 2024-10-18   PUB: 2026-05-27
-IPC        : H10W
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=GB2701980A
-ABSTRACT   : Method of forming semiconductor die module or package 600 comprising attaching semiconductor die 605 between first leadframe 601 and second leadframe 400 (Figure 4). The second leadframe comprises interconnection clip 604 for attaching to the die. The second leadframe may comprise support frame 402 (Figure 4) around a perimeter of the second leadframe. The interconnection clip may be connected to the support frame by deformable connections 406 (Figure 4) comprising a lateral spring structure in 
-
----
-
-TITLE      : QUALITY CONTROL OF PACKAGES PRODUCED IN A PACKAGING MACHINE
-PATENT     : EP4749566A1  [EP]  PENDING
-ASSIGNEE   : TETRA LAVAL HOLDINGS & FINANCE [CH]; Tetra Laval Holdings & Finance S.A.
-INVENTORS  : SACERDOTI DILETTA [IT]; VERASANI MATTIA [IT]; EGIDI SARA [IT] et al.
-FILED      : 2025-10-10   PUB: 2026-05-27
-IPC        : G06T
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4749566A1
-ABSTRACT   : [0001]    The present invention relates to a quality control apparatus for quality control of packages. The quality control apparatus comprising: a memory storing a machine learning model being trained to identify defects in 3D representations of packages; and circuitry. The circuitry is configured to execute: an image obtaining function configured to, from an image capturing device, obtain a plurality of images depicting a package from a plurality of view angles; a 3D rendering function configu
-
----
-
-TITLE      : DEVICE FOR PACKAGING A MEDICAL PRODUCT, IN PARTICULAR DESIGNED IN A FLAT MANNER
-PATENT     : EP4748733A1  [EP]  PENDING
-ASSIGNEE   : HARTMANN PAUL AG [DE]; Paul Hartmann AG
-INVENTORS  : SPRICK RALF [DE]; FRANK BERND [DE]; SCHMIDT CHRISTIAN [DE] et al.
-FILED      : 2024-11-22   PUB: 2026-05-27
-IPC        : B65B
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748733A1
-ABSTRACT   : [0001]    Die vorliegende Erfindung betrifft ein Verfahren zum Verpacken eines, insbesondere flächig ausgestalteten, medizinischen Produktes. Zwei flexible Materialbahnen und ein Produkt werden bereitgestellt. Das Produkt wird zwischen den zwei gegenüberliegenden flexiblen Materialbahnen angeordnet. Mindestens eine der Materialbahnen weist einen thermisch aktivierbaren Klebstoff auf ihrer Oberfläche auf, die der anderen Materialbahn zugewandt ist. Mindestens ein Teil einer vorgesehenen Siegelnah
-
----
-
-TITLE      : TAMPON PACKAGING SYSTEM CONTAINING LUBRICANT
-PATENT     : WO2026102547A1  [WO]  PENDING
-ASSIGNEE   : WE ARE MARLOW CORP [CA]; WE ARE MARLOW CORPORATION
-INVENTORS  : SOHAL HARIT [CA]; LADAK NADIA [CA]; BOTHA KIARA [CA] et al.
-FILED      : 2025-11-17   PUB: 2026-05-21
-IPC        : A61F, A61K, A61Q
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026102547A1
-ABSTRACT   : The present invention relates to methods, systems, and apparatuses for a tampon packaging system that integrates a lubricant designed to be easily dispensed and applied by a user. After applying the lubricant to the applicator within the outer packaging, the outer packaging is disposed of, offering a practical and efficient method for including lubricant in the tampon packaging system.
-
----
-
-TITLE      : RICE BALL PACKAGING SHEET AND PACKAGED RICE BALL
-PATENT     : WO2026105815A1  [WO]  PENDING
-ASSIGNEE   : SUZUPACK CO LTD [JP]; 株式会社スズパック
-INVENTORS  : SHIMIZU WATARU [JP]; 清水　渡
-FILED      : 2025-11-13   PUB: 2026-05-21
-IPC        : B65D
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026105815A1
-ABSTRACT   : The present invention provides a rice ball packaging sheet that allows easy unpacking. A rice ball food packaging sheet 1 according to the present invention: includes an outer film 2, an inner film 3 which is disposed in a layered manner on the outer film and which is separable into right and left portions, and a sheet-like food 4 which is sandwiched between the outer film and the inner film; and is obtained by heat-sealing the outer film and the inner film together along the outer periphery of 
 
 ---
 
@@ -6033,17 +6045,5 @@ IPC        : B09B, C02F, C12N
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=US20260117170A1
 ABSTRACT   : [0000]    The present disclosure relates to composition and methods of treating waste for the purposes of, including but not limited to, degrading waste, bioremediation of waste, reducing odor in waste, reducing organics in waste, and combinations thereof. More particularly, the present disclosure relates to the use of isolated Bacillus strains Bp D10, Bs E12, and strains having all of the identifying characteristics of those strains, and combinations thereof, for treating waste.
-
----
-
-TITLE      : METHOD FOR RECYCLING RUBBER PRODUCT, TIRE, TIRE CHIPS, AND TIRE POWDER
-PATENT     : WO2026116116A1  [WO]  PENDING
-ASSIGNEE   : BRIDGESTONE CORP [JP]; 株式会社ブリヂストン
-INVENTORS  : SATO TAKAYUKI [JP]; OGURA KENTA [JP]; HOJO MASAHIRO [JP] et al.
-FILED      : 2025-11-13   PUB: 2026-06-04
-IPC        : B29B, B60C, C08J
-SCORE      : 71
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026116116A1
-ABSTRACT   : The present invention provides a method for recycling a rubber product, the method being capable of preventing degradation in the quality of produced oil. This recycling method is for recycling a rubber product provided with a composite of a rubber member and an organic fiber cord, wherein this recycling method is characterized by comprising: a crushing step of crushing the rubber product to obtain rubber chips containing a crushed product of the rubber member and a crushed product of the organi
 
 ---
