@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-07-20
+Last updated : 2026-07-27
 Total patents: 500
 
 ============================================================
@@ -1556,30 +1556,6 @@ ABSTRACT   : The present invention relates to the use of compounds of formula If
 
 ---
 
-TITLE      : BLADE FRAME MEMBER AND ROD-SHAPED FOOD MATERIAL CUTTING DEVICE
-PATENT     : WO2026088557A1  [WO]  PENDING
-ASSIGNEE   : SUZUMO MACHINERY CO LTD [JP]; 鈴茂器工株式会社
-INVENTORS  : SUZUKI MINAKO [JP]; KORENAGA TOMOKAZU [JP]; 鈴木　美奈子 et al.
-FILED      : 2025-07-29   PUB: 2026-04-30
-IPC        : A23L, B26D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026088557A1
-ABSTRACT   : A blade frame member to be attached to a rod-shaped food material cutting device for cutting a rod-shaped food material comprises: a plurality of cutting blades arrayed along the crosswise direction and extending along the longitudinal direction intersecting the crosswise direction; a first support part that holds first end parts which are end parts, on one side in the longitudinal direction, of the plurality of cutting blades; a second support part that holds second end parts which are end part
-
----
-
-TITLE      : BELT CONVEYOR PROVIDED WITH A ROLLING DEVICE FOR TRANSPORTING AND ROLLING FOOD PRODUCTS
-PATENT     : US20260114491A1  [US]  PENDING
-ASSIGNEE   : ELCAT S R L [IT]; ELCAT S.R.L.
-INVENTORS  : TESTA ENRICO [IT]; TESTA, Enrico
-FILED      : 2025-10-27   PUB: 2026-04-30
-IPC        : A23P, B65G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260114491A1
-ABSTRACT   : [0000]    A belt conveyor has a frame carrying a plurality of guide rollers which are rotatable about horizontal axes parallel to one another, and are coupled to a transport belt for transporting food products from an inlet to an outlet; the conveyor has a rolling device with a support structure rotatable relative to the frame between a first condition in which the support structure is lowered, and a second condition in which the support structure is tilted upwards and the transport belt is fold
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -2049,6 +2025,78 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : PART PACKAGING APPARATUS AND PART PACKAGING DEVICE
+PATENT     : WO2026153570A1  [WO]  PENDING
+ASSIGNEE   : HOREN CORTP CO LTD [CN]; 上海箱箱智能科技股份有限公司
+INVENTORS  : 
+FILED      : 2026-01-20   PUB: 2026-07-23
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026153570A1
+ABSTRACT   : A part packaging apparatus and a part packaging device. The part packaging apparatus comprises: a chassis, having a bottom receiving cavity and a bottom accommodating cavity which are communicated with each other, wherein the bottom receiving cavity is formed by radially expanding at least part of the top of the bottom accommodating cavity, the bottom surface of the bottom receiving cavity is connected to a wall surface of the bottom accommodating cavity and extends radially toward the outside o
+
+---
+
+TITLE      : DRESSING PATCH PRODUCT PACKAGING STRUCTURE
+PATENT     : WO2026152336A1  [WO]  PENDING
+ASSIGNEE   : SHANGHAI XINZHONGHAI TECH CO LTD [CN]; 上海信中海科技有限公司
+INVENTORS  : MA YUESHUANG [CN]; 马月双
+FILED      : 2025-01-16   PUB: 2026-07-23
+IPC        : A61F
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026152336A1
+ABSTRACT   : A dressing patch product packaging structure, comprising a first packaging layer (1), a second packaging layer (2), and a dressing patch product (3). The dressing patch product (3) comprises a base layer (301) and an adhesive layer (302) applied on the base layer (301). A packaging space is formed between the first packaging layer (1) and the second packaging layer (2) by means of an edge sealing portion (4), and the dressing patch product (3) is packaged in the packaging space. The side of the 
+
+---
+
+TITLE      : TRAY, PACKAGING SYSTEM AND PROCESS FOR PACKAGING A PRODUCT
+PATENT     : WO2026153811A1  [WO]  PENDING
+ASSIGNEE   : LINPAC PACKAGING LTD [GB]; LINPAC PACKAGING LIMITED
+INVENTORS  : HARDWICK CRAIG [GB]; HIRST TOM [GB]; RICHARDSON ADAM [GB] et al.
+FILED      : 2026-01-08   PUB: 2026-07-23
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026153811A1
+ABSTRACT   : The present disclosure relates to a tray comprising: a base including a surface for supporting a product; a plurality of fluid retention recesses formed in the base; and one or more flaps movable between a first configuration in which the one or more flaps extend outward from the base and a second configuration in which cover the one or more fluid retention recesses. The present disclosure also relates to a process for manufacturing the tray, to a packaging system comprising the tray, and to a p
+
+---
+
+TITLE      : PACKAGING ASSEMBLY AND CONTAINER
+PATENT     : WO2026155746A1  [WO]  PENDING
+ASSIGNEE   : AMCOR FLEXIBLES NORTH AMERICA INC [US]; AMCOR FLEXIBLES NORTH AMERICA, INC.
+INVENTORS  : ISSA JEAN [US]; ISSA, Jean
+FILED      : 2025-01-20   PUB: 2026-07-23
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026155746A1
+ABSTRACT   : A packaging assembly includes a container (120) comprised of a first sheet (122) folded to result in a bottom portion (124) and three or more walls (126) extending upward from the bottom portion. Each wall is connected to another wall by a pleat (128). The pleat is formed by five folds (129) arranged in a fan shape and forms two wings (132), each wing arranged flat against an inside surface of an adjacent wall. The packaging assembly further includes a product (130) located within the container.
+
+---
+
+TITLE      : COMPOSTABLE CAPSULES FOR PREPARING BEVERAGES WITH IMPROVED BEVERAGE OUTFLOW
+PATENT     : WO2026154404A2  [WO]  PENDING
+ASSIGNEE   : NOVADELTA COMERCIO E IND DE CAFES UNIPESSOAL LDA [PT]; NOVADELTA-COMÉRCIO E INDUSTRIA DE CAFÉS, UNIPESSOAL, LDA
+INVENTORS  : NABEIRO RUI MIGUEL [PT]; DE FIGUEIREDO BRANCO JOÃO ANDRÉ [PT]; GONÇALVES MARTINS MARCO FILIPE [PT] et al.
+FILED      : 2026-01-15   PUB: 2026-07-23
+IPC        : 
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026154404A2
+ABSTRACT   : The present disclosure relates to capsules (1) for preparing beverages comprising compostable materials and configured so as to provide improved reliability and efficiency of the outflow of the beverage from the capsules (1), as well as improved structural and functional efficiency when impinged on by a fluid flow under pressure.
+
+---
+
+TITLE      : RESIN FILM AND PACKAGING BODY
+PATENT     : WO2026155013A1  [WO]  PENDING
+ASSIGNEE   : SUMITOMO BAKELITE CO LTD [JP]; 住友ベークライト株式会社
+INVENTORS  : OCHI SHUNSUKE [JP]; 越智　俊介
+FILED      : 2026-01-06   PUB: 2026-07-23
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026155013A1
+ABSTRACT   : Provided is a resin film for a bottom material of a blister pack packaging body. The resin film comprises: a base material layer; and a sealant layer provided on one surface of the base material layer. The base material layer contains a propylene-based resin. The sealant layer contains a homopolypropylene and an α-olefin elastomer. In the sealant layer, the proportion of the content of the homopolypropylene to the total mass of the sealant layer is at least 50 mass%. In the sealant layer, the pr
 
 ---
 
@@ -5457,54 +5505,6 @@ IPC        : A21D, A23L
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089633A1
 ABSTRACT   : The invention relates to the field of food industry, namely, to a breading mixture for food products, such as meat, fish, dairy and vegetable semi-finished products subject to heating. The technical result of the claimed invention is an increase in the organoleptic properties of a product prepared by frying or deep-frying while maintaining health benefits. The technical result is achieved with a breading mixture for food products containing the following components, % by weight: flour - 70-90%, 
-
----
-
-TITLE      : Eyewear with Eating-Activated Camera for Monitoring Food Consumption
-PATENT     : US20260120843A1  [US]  PENDING
-ASSIGNEE   : CONNOR ROBERT A [US]; MEDIBOTICS LLC [US]; Connor Robert A. et al.
-INVENTORS  : CONNOR ROBERT A [US]; Connor, Robert A.
-FILED      : 2025-01-02   PUB: 2026-04-30
-IPC        : A61F, A61M, G02C, G06F, G16H, H04N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260120843A1
-ABSTRACT   : [0000]    A wearable device or system for monitoring food consumption can include a wrist-worn or finger-worn device which is worn by a person, a motion sensor on the wrist-worn or finger-worn device, eyewear which is worn by the person, and a camera on the eyewear which is activated to record food images when analysis of data from the motion sensor detects that the person is eating. This device can be used alone or as part of a closed-loop glucose level management system.
-
----
-
-TITLE      : INJECTABLE NUTRIENT SOLUTION
-PATENT     : US20260115244A1  [US]  PENDING
-ASSIGNEE   : MARULIS NIKOLAS CARMELO [US]; Marulis Nikolas Carmelo
-INVENTORS  : MARULIS NIKOLAS CARMELO [US]; Marulis, Nikolas Carmelo
-FILED      : 2025-04-17   PUB: 2026-04-30
-IPC        : A61K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260115244A1
-ABSTRACT   : The present invention relates to a customizable injectable solution comprising Human Growth Hormone (HGH), Insulin-like Growth Factor 1 (IGF-1), or a growth hormone secretagogue such as sermorelin or ipamorelin, combined with a blend of nutrients including amino acids, vitamins, electrolytes, functional mushroom extracts, and optionally mushroom mycelium. The solution is delivered via a dual-chamber syringe to preserve component stability, with mixing occurring immediately before administration.
-
----
-
-TITLE      : WHOLE-EGG-BASED LIQUID FOODS AND METHODS OF PREPARING WHOLE-EGG-BASED LIQUID FOODS
-PATENT     : US20260114482A1  [US]  PENDING
-ASSIGNEE   : HBF SUSTAINABLE FOOD LAB LLC [US]; HBF Sustainable Food Lab LLC
-INVENTORS  : FELDER DANIEL [US]; BOUZARI JONATHAN ALI [US]; Felder, Daniel et al.
-FILED      : 2025-10-30   PUB: 2026-04-30
-IPC        : A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260114482A1
-ABSTRACT   : [0000]    Non-dairy egg-based liquid food products are provided, comprising: liquified hard-cooked egg including cooked egg yolk and cooked egg white, a predetermined amount of liquid having a moisture content of at least about 65% by weight, one or more flavoring ingredients; an acidifier; a thickening agent; and a predetermined amount a food additive for mitigating an impact of sulfurous compounds on taste; and the non-dairy egg-based liquid food product has a pH between about 3.9 to about 4.4
-
----
-
-TITLE      : Eyewear with EEG Sensors for Monitoring Food Consumption
-PATENT     : US20260115383A1  [US]  PENDING
-ASSIGNEE   : CONNOR ROBERT A [US]; MEDIBOTICS LLC [US]; Connor Robert A. et al.
-INVENTORS  : CONNOR ROBERT A [US]; Connor, Robert A.
-FILED      : 2025-01-02   PUB: 2026-04-30
-IPC        : A61M
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260115383A1
-ABSTRACT   : [0000]    A wearable device or system for monitoring food consumption can include a head-worn device such as eyewear which is worn by a person and a plurality of brain activity sensors on the head-worn device, wherein data from the plurality of brain activity sensors is analyzed to detect when the person is eating. This device can be used alone or as part of a closed-loop glucose level management system.
 
 ---
 
