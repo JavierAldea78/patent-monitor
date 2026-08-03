@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-07-27
+Last updated : 2026-08-03
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,18 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : SWEETENER COMPOSITIONS
+PATENT     : WO2026159448A1  [WO]  PENDING
+ASSIGNEE   : SUSTAIN CO2 LTD [GB]; SUSTAIN CO2 LIMITED
+INVENTORS  : STORY JOHN MICHAEL [GB]; STORY, John Michael
+FILED      : 2026-01-23   PUB: 2026-07-30
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026159448A1
+ABSTRACT   : A sweetener composition comprising an intense sweetener and an additive. The additive is selected from one or more of: a polyoxyethylene sorbitan fatty acid ester; a polyethylene glycol fatty acid ester; or a polyglycerol fatty acid ester. The intense sweetener and the additive are present in the sweetener composition in a weight ration of from 200:1 to 10:1. A method of preparing said sweetener composition, a food product comprising the sweetener composition and a method of manufacturing a food
 
 ---
 
@@ -1937,24 +1949,20 @@ ABSTRACT   : Systems and methods for testing a power plant emulation are disclos
 ---
 
 ============================================================
-DOMAIN: Métodos Analíticos y Digital
-============================================================
-
-TITLE      : TOTZEIT-KOMPENSATION FÜR DIE STEUERUNG EINES BÜRSTENLOSEN GLEICHSTROMMOTORS
-PATENT     : DE102024134859A1  [DE]  PENDING
-ASSIGNEE   : STEERING SOLUTIONS IP HOLDING [US]; Steering Solutions IP Holding Corporation
-INVENTORS  : WANG TAIBIN [US]; ZUO ZACK [US]; LIU YONGFEI [US] et al.
-FILED      : 2024-11-26   PUB: 2026-05-07
-IPC        : H02P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=DE102024134859A1
-ABSTRACT   : Ein Verfahren zum Betreiben eines Inverters für einen bürstenlosen Gleichstrommotor (BLDC-Motor) schließt ein: Ansteuern eines High-Side-Schalters, um Strom zwischen einem DC-High-Knoten und einem Ausgangsknoten, der mit dem BLDC-Motor verbunden ist, und für eine leitenden Periode in jeder einer Vielzahl von Betriebsperioden zu leiten; Ansteuern eines Low-Side-Schalters in einen leitenden Zustand nach einer Totzeit nach der leitenden Periode und um Strom zwischen dem Ausgangsknoten und einem DC-
-
----
-
-============================================================
 DOMAIN: Packaging & Smart Packaging
 ============================================================
+
+TITLE      : ANTI-CORROSIVE COATING BASED ON DISTILLATION SLUDGE FROM WASTE SOLVENT RECOVERY
+PATENT     : HRUM20250072U2  [HR]  GRANTED
+ASSIGNEE   : PREMIFAB D O O [HR]; PREMIFAB d.o.o.
+INVENTORS  : PETKOVIĆ SILVIJA [HR]; OREŠKI IGOR [HR]; Petković, Silvija et al.
+FILED      : 2023-12-27   PUB: 2026-07-31
+IPC        : B01D, C09D
+SCORE      : 100
+LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250072U2
+ABSTRACT   : The related utility model refers to an anticorrosive coating obtained by processing the distillation sludge formed in the process of waste solvent recovery from the flexible packaging printing industry and the automotive industry. The coating is predominantly polymer-based, with a solid content of 10% to 98%, and exhibits pseudoplastic (thixotropic) flow behaviour comparable to commercial anticorrosive coatings. By optionally adding an organic solvent (regenerate, 5-10%) or bitumen (10-30%), it 
+
+---
 
 TITLE      : METHOD FOR PRODUCING PACKAGING BIODEGRADABLE BIOFILM USING DRY COMPOST
 PATENT     : UA162967U  [UA]  GRANTED
@@ -2025,6 +2033,78 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : SOFA PACKAGING MACHINE
+PATENT     : WO2026159660A1  [WO]  PENDING
+ASSIGNEE   : DOLPHIN PACK S R L [IT]; DOLPHIN PACK S.R.L.
+INVENTORS  : ZANINELLI DAVIDE [IT]; ZANINELLI, Davide
+FILED      : 2026-01-23   PUB: 2026-07-30
+IPC        : B29C, B65B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026159660A1
+ABSTRACT   : A sofa packaging machine (100), comprising a conveyor (20) configured to receive a sofa and to convey it; a packaging station (30) configured to receive the sofa and proceed to package it with a flexible film, and an unloading station (40) configured to receive the packaged sofa and convey it towards a collection section (31). Wherein the packaging station (30) comprises a first and a second sealing bar (30a, 30b) respectively mounted on a first and a second carriage (31a, 31b) independent from 
+
+---
+
+TITLE      : PACKAGING STRUCTURE AND ELECTRONIC DEVICE
+PATENT     : WO2026157148A1  [WO]  PENDING
+ASSIGNEE   : HUAWEI TECH CO LTD [CN]; 华为技术有限公司
+INVENTORS  : LIU ZHE [CN]; YANG FAN [CN]; LI YANG [CN] et al.
+FILED      : 2025-07-18   PUB: 2026-07-30
+IPC        : 
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026157148A1
+ABSTRACT   : Provided in the present application are a packaging structure and an electronic device. The packaging structure comprises: a first chip, which comprises a first device layer, a first metal layer and a second metal layer which are stacked in sequence; and a second chip, which is located on one side of the first chip and comprises a second device layer, the number of functional units of the first device layer being less than the number of functional units in the second device layer. The second dev
+
+---
+
+TITLE      : FOOD PRODUCT WITH CARTON PACKAGING FOR IMPROVED STACKABILITY
+PATENT     : WO2026159455A1  [WO]  PENDING
+ASSIGNEE   : CIE GERVAIS DANONE [FR]; COMPAGNIE GERVAIS DANONE
+INVENTORS  : TANCHETTE JEAN-BAPTISTE [FR]; TANCHETTE, Jean-Baptiste
+FILED      : 2025-01-24   PUB: 2026-07-30
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026159455A1
+ABSTRACT   : The present disclosure provides a food product (100) comprising a plurality of food containers (10), each containing a dairy or plant-based composition and having a polymeric hollow body (11) and a lid (12). The food product includes a carton packaging with a surrounding belt (20) that at least partially surrounds the food containers. The surrounding belt comprises at least one load transmitting portion (Lt) with a top portion and a bottom portion. The load transmitting portion is configured to 
+
+---
+
+TITLE      : BEVERAGE FROTHING ASSEMBLY
+PATENT     : WO2026159762A1  [WO]  PENDING
+ASSIGNEE   : DE LONGHI APPLIANCES S R L [IT]; DE' LONGHI APPLIANCES S.R.L.
+INVENTORS  : PACELLA MICHAEL [IT]; ANTONEL ALESSANDRO [IT]; BENEDETTI ALESSANDRO [IT] et al.
+FILED      : 2026-01-26   PUB: 2026-07-30
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026159762A1
+ABSTRACT   : A beverage foaming assembly 100a is disclosed comprising a beverage-maker 200a, a beverage foaming device 200a removably attachable to the beverage-maker, wherein the beverage-foaming device includes an air input line 311a and a beverage input line 330a, and wherein the beverage foaming device is configured to combine air from the air input line 311a and beverage from the beverage input line 330a to produce foamed beverage. A valve 350a is integrally provided with the beverage foaming device 300
+
+---
+
+TITLE      : INTELLIGENT BEVERAGE REFRIGERATED CABINET WITH AUTOMATIC SORTING AND DIRECTIONAL DISPLAY
+PATENT     : US20260215598A1  [US]  PENDING
+ASSIGNEE   : EBULENT OPTRONICS SHENZHEN LTD [CN]; Ebulent Optronics (Shenzhen) LTD
+INVENTORS  : DENG LEI [CN]; YU NING [CN]; DENG, LEI et al.
+FILED      : 2026-03-24   PUB: 2026-07-30
+IPC        : A47F, B07C, G06V
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260215598A1
+ABSTRACT   : [0000]    Disclosed is an intelligent beverage refrigerated cabinet capable of automatically sorting and directionally displaying a beverage. The cabinet includes multiple layers of track shelves, and a replenishment mechanism pushes the beverage to a front-end display position of a track slot; and A front end of a cabinet body is integrated with a friction-wheel driving mechanism and an image sensor such as a camera or a Contact Image Sensor (CIS), and a bottom of the cabinet body is provided w
+
+---
+
+TITLE      : FLUID OUTLET DEVICE, BEVERAGE DISPENSER, AND METHOD FOR PROVIDING FLUID
+PATENT     : WO2026158783A1  [WO]  PENDING
+ASSIGNEE   : BOEHM RAINER [DE]; BÖHM, Rainer
+INVENTORS  : BÖHM RAINER [DE]; BÖHM, Rainer
+FILED      : 2025-01-23   PUB: 2026-07-30
+IPC        : B67D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026158783A1
+ABSTRACT   : The present invention relates to a fluid outlet device, a beverage dispenser, and a method for providing fluid. In order to allow a fluid (60) to flow out, the fluid outlet device (20) comprises a valve device (22), an outlet opening (21) for discharging the fluid (60), and at least one operating element (40) designed for manual operation of the fluid outlet device (20), wherein the valve device (22) can be opened by operating the operating element (40), and the operating element (40) is provide
 
 ---
 
@@ -5436,78 +5516,6 @@ ABSTRACT   : [0001]    A method and system that builds a regression model from a
 
 ---
 
-TITLE      : Dual-Chamber Feeding Bottle Device
-PATENT     : US20260115104A1  [US]  PENDING
-ASSIGNEE   : MCQUEEN ARTHUR STEPHANIE [US]; McQueen-Arthur Stephanie
-INVENTORS  : MCQUEEN-ARTHUR STEPHANIE [US]; McQueen-Arthur, Stephanie
-FILED      : 2025-09-03   PUB: 2026-04-30
-IPC        : A61J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260115104A1
-ABSTRACT   : A dual-chamber feeding bottle device is provided. The device is designed to minimize milk waste and prevent contamination through a compartmentalized structure. The device comprises a lower reservoir chamber for storing milk in a sterile environment and an upper feeding chamber that dispenses controlled portions of milk. A button mechanism allows the user to transfer milk incrementally, ensuring only the required amount is exposed during feeding while preserving the remainder for future use. The
-
----
-
-TITLE      : GAS-LIQUID CONTACT PACKING MATERIAL
-PATENT     : WO2026088490A1  [WO]  PENDING
-ASSIGNEE   : TO TOKU ENG CO LTD [JP]; トウトクエンジ株式会社
-INVENTORS  : OTA JIRO [JP]; 大田　二郎
-FILED      : 2025-05-23   PUB: 2026-04-30
-IPC        : B01J, D03D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026088490A1
-ABSTRACT   : [Problem] To obtain a gas-liquid contact packing material that has high gas-liquid contact efficiency and can be formed of a lightweight and inexpensive material. [Solution] Provided is a woven fabric or a knitted fabric formed from a composite yarn 44 composed of a single fiber and a wire, a combination of a single fiber yarn 42 consisting of a single fiber and a wire yarn 43 consisting of a wire, or a combination of all or any of the single fiber yarn 42, the wire yarn 43, and the composite ya
-
----
-
-TITLE      : FOOD CONTAINER ASSEMBLY
-PATENT     : US20260114416A1  [US]  PENDING
-ASSIGNEE   : LOOS MACHINE & AUTOMATION LLC [US]; Loos Machine & Automation, LLC
-INVENTORS  : MERTENS ERIC JOHN [US]; HOES BRADY LEE [US]; KALDUNSKI BRIAN ROBERT [US] et al.
-FILED      : 2024-12-27   PUB: 2026-04-30
-IPC        : A01J, B65D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260114416A1
-ABSTRACT   : [0000]    A food container configured to store a foodstuff therein, the food container including an inner structural layer at least partially defining an internal volume in which the foodstuff may be positioned and an outer structural layer located outside the inner structural layer relative to the internal volume. Where the outer structural layer is adjustable between an installed position, in which the outer structural layer encompasses and provides structural support to the inner structural l
-
----
-
-TITLE      : FOOD FORMING SYSTEM WITH A STATIC MIXER
-PATENT     : WO2026087253A1  [WO]  PENDING
-ASSIGNEE   : GEA FOOD SOLUTIONS BAKEL BV [NL]; GEA FOOD SOLUTIONS BAKEL B.V.
-INVENTORS  : VAN ROOIJ THOMAS WILLEM [NL]; VERHOEVEN MARTINUS JOHANNES WILHELMUS [NL]; VAN ROOIJ, Thomas Willem et al.
-FILED      : 2025-10-09   PUB: 2026-04-30
-IPC        : A22C, A23P, B01F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026087253A1
-ABSTRACT   : The present invention relates to a system for forming a product from a food mass, comprising a mould member and a food supply means, that supplies the food mass to the mould member. The present invention also relates to a method to mould a food mass.
-
----
-
-TITLE      : Food Processor Extension and Pusher Assembly
-PATENT     : US20260114674A1  [US]  PENDING
-ASSIGNEE   : TRAUDT MICHAEL SCOTT [US]; Traudt Michael Scott
-INVENTORS  : TRAUDT MICHAEL SCOTT [US]; Traudt, Michael Scott
-FILED      : 2025-10-23   PUB: 2026-04-30
-IPC        : A47J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260114674A1
-ABSTRACT   : [0000]    An improved food processor accessory is disclosed that enhances the efficiency, safety, and versatility of food preparation. The invention includes a large-diameter feed tube extension and a pusher assembly with pyramid-shaped protrusions for secure gripping and precise slicing. The blade is mounted at the top of the work bowl, and an exit hole allows processed food to spill out safely. Additional features include an integrated emergency switch rod, angled jacks for tilting the process
-
----
-
-TITLE      : COMPOSITION FOR BREADING FOOD PRODUCTS WITH AMARANTH FLOUR
-PATENT     : WO2026089633A1  [WO]  PENDING
-ASSIGNEE   : RES AND PRODUCTION HOLDING AMARANTH/AGRO LIMITED LIABILITY COMPANY [RU]; RESEARCH AND PRODUCTION HOLDING "AMARANTH/AGRO" LIMITED LIABILITY COMPANY
-INVENTORS  : SHARYKIN OLEG VITALIEVICH [RU]; AFANASOV DMITRY ALEKSANDROVICH [RU]; CHERNYSHOV ALEKSANDR SERGEYEVICH [RU] et al.
-FILED      : 2025-10-27   PUB: 2026-04-30
-IPC        : A21D, A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089633A1
-ABSTRACT   : The invention relates to the field of food industry, namely, to a breading mixture for food products, such as meat, fish, dairy and vegetable semi-finished products subject to heating. The technical result of the claimed invention is an increase in the organoleptic properties of a product prepared by frying or deep-frying while maintaining health benefits. The technical result is achieved with a breading mixture for food products containing the following components, % by weight: flour - 70-90%, 
-
----
-
 ============================================================
 DOMAIN: Procesos Avanzados Cervecería
 ============================================================
@@ -6029,17 +6037,5 @@ IPC        : A61M
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=EP4740977A1
 ABSTRACT   : [0001]    A disposable microenema comprising a container (2), made of a flexible plastic material, surmounted by a neck (3) on which a cannula is inserted for dispensing a liquid solution contained in the container, said container comprising a bellows portion comprising a plurality of accordion-like folds (21) which, when pressed one on top of the other, reduce the internal volume of the container, forcing the liquid contained therein to flow out of the neck (3) through said cannula. The bottom 
-
----
-
-TITLE      : A high-efficiency low-temperature heat generator and a method of heat energy recovery
-PATENT     : CZ202514A3  [CZ]  PENDING
-ASSIGNEE   : PLISKA JAN [CZ]; PLISKOVA EVA [CZ]; Pliska, Jan et al.
-INVENTORS  : PLISKA JAN [CZ]; PLISKOVÁ EVA [CZ]; Pliska, Jan et al.
-FILED      : 2025-01-16   PUB: 2026-05-06
-IPC        : F01D, F01K, F03G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=CZ202514A3
-ABSTRACT   : A high-efficiency low-temperature heat generator designed in particular to receive electric power from low-temperature sources with the temperature ranging from 7 to 15 °C, includes the first closed circulation circuit (6) with a coolant to receive heat from the source of heat energy, the second closed circulation circuit (7) with a coolant to accumulate the received heat energy and transform it to electric power and the third closed circulation circuit (8) with a coolant to remove the excessive
 
 ---
