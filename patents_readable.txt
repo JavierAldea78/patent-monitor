@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-08-03
+Last updated : 2026-08-10
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,90 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : MULTIVITAMIN FORMULATION
+PATENT     : US20260223893A1  [US]  PENDING
+ASSIGNEE   : ELLAOLA BRANDS INC [US]; ELLAOLA BRANDS INC.
+INVENTORS  : PAN HOLLY [US]; LI LUKE [US]; Pan, Holly et al.
+FILED      : 2026-03-24   PUB: 2026-08-06
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260223893A1
+ABSTRACT   : A powdered beverage composition formulated as a balanced combination of vitamins, minerals, fruits, vegetables, and other nutritional components configured to deliver high volumes of nutrients without altering the taste, color, or smell of the consumable medium. The powdered beverage composition is substantially flavorless, odorless, and colorless when dissolved in a beverage or soft food product. The composition can be formulated to be age appropriate, such as for toddlers or other children, or
+
+---
+
+TITLE      : METHOD FOR DETERMINING TIME OF DEATH OF INSECT
+PATENT     : WO2026164064A1  [WO]  PENDING
+ASSIGNEE   : HOUSE FOOD ANALYTICAL LABORATORY INC [JP]; 株式会社ハウス食品分析テクノサービス
+INVENTORS  : SASAKI CHIHIRO [JP]; MATSUMORI YASUMASA [JP]; SATO SHINYA [JP] et al.
+FILED      : 2026-01-27   PUB: 2026-08-06
+IPC        : G01N
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164064A1
+ABSTRACT   : A purpose of the present invention is to provide a novel means for determining the timing of contamination for a biological organism that has contaminated a food/beverage as foreign matter. The present invention provides: a method for determining the time of death of an insect, the method using, as an indicator, the amount of two or more components selected from the group consisting of the ATP, ADP, AMP, IMP, HxR, and Hx contained in the insect's carcass; and a method that uses said determinatio
+
+---
+
+TITLE      : EMULSIFIER FROM CITRUS PEEL
+PATENT     : WO2026165307A1  [WO]  PENDING
+ASSIGNEE   : THE US SECRETARY OF AGRICULTURE [US]; THE UNITED STATES OF AMERICA, AS REPRESENTED BY THE SECRETARY OF AGRICULTURE
+INVENTORS  : ZHAO WEI [US]; ZHAO, Wei
+FILED      : 2026-01-30   PUB: 2026-08-06
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026165307A1
+ABSTRACT   : Processes for producing new useful food-grade compositions from orange peel are described. The compositions can be used as an alternative to gum arabic. Formulation and procedures for the new compositions to be used in beverage production as an emulsifying agent are also described.
+
+---
+
+TITLE      : METHOD FOR PRODUCING A COFFEE SUBSTITUTE
+PATENT     : WO2026164554A1  [WO]  PENDING
+ASSIGNEE   : PREFER PTE LTD [SG]; PREFER PTE LTD
+INVENTORS  : TAN DING JIE [SG]; BERBER JAKE AUSTIN [SG]; TAN, Ding Jie et al.
+FILED      : 2025-01-28   PUB: 2026-08-06
+IPC        : A23F, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164554A1
+ABSTRACT   : The present invention relates to a method for producing a coffee substitute that is suitable for making a coffee-like beverage. There is provided a method for producing a coffee substitute, the method comprising: (a). providing a first formulation containing a high protein content food substrate; (b). providing a second formulation containing a high carbohydrate content food substrate; (c). mixing the first and second formulations to form a mixture; and (d). drying the mixture to obtain the coff
+
+---
+
+TITLE      : Inorganic-Protein Coating on Mg-Based Biomaterials
+PATENT     : US20260224334A1  [US]  PENDING
+ASSIGNEE   : ZENG HONGBO [CA]; ZHAO ZIQIAN [CA]; ZENG Hongbo et al.
+INVENTORS  : ZENG HONGBO [CA]; ZHAO ZIQIAN [CA]; ZENG, Hongbo et al.
+FILED      : 2026-01-21   PUB: 2026-08-06
+IPC        : A61C, A61L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260224334A1
+ABSTRACT   : A composite coating is formed from NaMgF3 nanoparticles and a protein on an magnesium-based biomaterial, by immersing the biomaterial in a solution of the NaF and the protein. The composite coated biomaterial may be used as a surgical implant, such as in dental implant surgery.
+
+---
+
+TITLE      : Low-calorie, protein-enhanced pet treats
+PATENT     : US20260223890A1  [US]  PENDING
+ASSIGNEE   : SMITH DANIEL [US]; Smith Daniel
+INVENTORS  : SMITH DANIEL [US]; Smith, Daniel
+FILED      : 2025-02-04   PUB: 2026-08-06
+IPC        : A23K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260223890A1
+ABSTRACT   : [0000]    A method for producing low-calorie, protein-enhanced pet treats using air-popped popcorn as a base, coated with refined coconut oil and animal protein powder. The treats are particularly suitable for dog training due to their low caloric content while maintaining palatability through protein enhancement. The manufacturing process includes air-popping corn kernels, selecting whole popped kernels, applying melted refined coconut oil, and coating with animal protein powder. The resulting 
+
+---
+
+TITLE      : COMPOSITION FOR ANALYZING CHEMICAL STRUCTURE OF NUCLEIC ACID, METHOD FOR PRODUCING SAMPLE FOR ANALYZING CHEMICAL STRUCTURE OF NUCLEIC ACID, AND METHOD FOR ANALYZING CHEMICAL STRUCTURE OF NUCLEIC ACID
+PATENT     : WO2026164049A1  [WO]  PENDING
+ASSIGNEE   : YAMASA CORP [JP]; ヤマサ醤油株式会社
+INVENTORS  : TAKEMURA TOKIAKI [JP]; 竹村　時空
+FILED      : 2026-01-26   PUB: 2026-08-06
+IPC        : C12N, C12Q
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164049A1
+ABSTRACT   : The present invention enables simple analysis by a method for analyzing the chemical structure of a nucleic acid, the method comprising: (a) a step for obtaining a nucleic acid fragment having a phosphate group at the 3'-end thereof from a nucleic acid to be analyzed; (b) a step for performing a dephosphorylation reaction of the phosphate group present at the 3'-end of the nucleic acid fragment obtained in the step (a); and (c) a step for analyzing the nucleic acid fragment obtained in the step 
 
 ---
 
@@ -519,6 +603,114 @@ IPC        : H10K
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089266A1
 ABSTRACT   : This electronic device may include a display panel. The display panel may comprise: a first electrode layer; a light-emitting layer disposed on the first electrode layer and including a first light-emitting portion and a second light-emitting portion; a second electrode layer disposed on the light-emitting layer; an insulating layer disposed beneath the second electrode layer and disposed between the first light-emitting portion and the second light-emitting portion so as to define the first lig
+
+---
+
+TITLE      : A FUNCTIONAL FERMENTED EXTRACT TO ALLEVIATE HANGOVER AND A PROCESS FOR THE PREPARATION THEREOF
+PATENT     : WO2026163212A1  [WO]  PENDING
+ASSIGNEE   : PRARAS BIOSCIENCES PVT LTD [IN]; JEIVA ADVISORY INDIA [IN]; PRARAS BIOSCIENCES PVT LTD et al.
+INVENTORS  : SATTUR AVINASH PRAHLAD [IN]; SATTUR, Avinash Prahlad
+FILED      : 2025-01-30   PUB: 2026-08-06
+IPC        : A23L, A61K, A61P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163212A1
+ABSTRACT   : The present invention provides a functional fermented extract product to alleviate alcohol hangovers and a process for its preparation. The invention provides a process for the preparation of a proprietary, targeted fermented extract, wherein the process comprises steps of preparing a specialized and proprietary broth medium for precision fermentation by a strain of yeast designed specifically to give the desired unique and uncommon peptides in the fermented culture broth. The invention also pro
+
+---
+
+TITLE      : A METHOD FOR FERMENTING COCOA PULP AND/OR COCOA BEANS AND COCOA PRODUCT THUS OBTAINED, A FERMENTING DEVICE AND ITS USE
+PATENT     : WO2026162592A1  [WO]  PENDING
+ASSIGNEE   : BARRY CALLEBAUT AG [CH]; BARRY CALLEBAUT AG
+INVENTORS  : CORNO MARCELLO [CH]; ANTONIALI PAOLO [IT]; CORNO, Marcello et al.
+FILED      : 2026-01-28   PUB: 2026-08-06
+IPC        : A23G
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162592A1
+ABSTRACT   : A method for fermenting cocoa pulp, said method comprising the steps of providing at least one starter culture of a yeast, said yeast being Saccharomyces cerevisiae; providing cocoa pulp; mixing said starter culture with said cocoa pulp within a reactor to obtain a mixture and fermenting said mixture under anaerobic conditions to obtain said fermented cocoa pulp. Also described, is a fermenting device and its use.
+
+---
+
+TITLE      : COCOA POWDER SUBSTITUTE COMPRISING FERMENTED SOY OKARA AND METHOD FOR PRODUCING THE SAME
+PATENT     : WO2026163143A1  [WO]  PENDING
+ASSIGNEE   : MYCOSORTIA PTE LTD [SG]; MYCOSORTIA PTE. LTD.
+INVENTORS  : SUN FENG [SG]; SUN, Feng
+FILED      : 2026-01-30   PUB: 2026-08-06
+IPC        : A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163143A1
+ABSTRACT   : The present invention relates to a novel cocoa powder substitute comprising soy okara, optionally further comprising one or more beans and grains, and a method for producing the same. The method involves the controlled fermentation of sterilized soy okara, beans, and grains using GRAS microbial strains. The chocolate-like sensory profile is enhanced through a specific post-fermentation alkalization step (pH 9.0–11.0) and the supplementation of flavor precursors, including amino acids and reducin
+
+---
+
+TITLE      : METHOD FOR PRODUCING A MICROBIAL OIL
+PATENT     : WO2026162828A1  [WO]  PENDING
+ASSIGNEE   : OMV DOWNSTREAM GMBH [AT]; OMV DOWNSTREAM GMBH
+INVENTORS  : FEJER ANDRAS MIKLOS [AT]; MALY MARKUS [AT]; VOLLNHOFER WOLFGANG [AT] et al.
+FILED      : 2026-02-03   PUB: 2026-08-06
+IPC        : C12N, C12P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162828A1
+ABSTRACT   : The invention relates to a method for producing a microbial oil (12) from biomass (1), the method comprising the following steps: – Step A: Providing the biomass (1); – Step B: Pretreating the biomass (1) to obtain a fermentation substrate (3), wherein the pretreating comprises a solid- liquid separation step for removing insoluble components; – Step C: Culturing an oleaginous microorganism in a fermentation broth (5) comprising the fermentation substrate (3), wherein lipids are produced within 
+
+---
+
+TITLE      : FIBER BLEND COMPOSITIONS AND METHODS OF USE THEREOF
+PATENT     : US20260223891A1  [US]  PENDING
+ASSIGNEE   : ANIMAL MICROBIOME ANALYTICS INC [US]; Animal Microbiome Analytics, Inc.
+INVENTORS  : DAHLHAUSEN KATIE [US]; GANZ HOLLY H [US]; ROJAS CONNIE A [US] et al.
+FILED      : 2026-02-05   PUB: 2026-08-06
+IPC        : A23K
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260223891A1
+ABSTRACT   : [0000]    Disclosed herein are compositions and methods of using a fiber-blend composition for improving gastrointestinal (gut) health in companion mammals. The fiber blend compositions comprise multiple types of fiber that differ in their fermentation rates and/or the location of their fermentation along the gastrointestinal tract of the companion mammal. The fiber blend compositions comprise two or more of a slow-fermenting fiber (e.g., arabinogalactan), a moderate fermenting fiber (e.g., beet
+
+---
+
+TITLE      : Production of Organic Pea Protein Isolate
+PATENT     : US20260223886A1  [US]  PENDING
+ASSIGNEE   : LOUIS DREYFUS CO PLANT PROTEINS LLC [US]; Louis Dreyfus Company Plant Proteins LLC
+INVENTORS  : KUMAR MANOJ [US]; BILKIC NIKOLINA [US]; Kumar, Manoj et al.
+FILED      : 2025-02-06   PUB: 2026-08-06
+IPC        : A23J, A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260223886A1
+ABSTRACT   : [0000]    The present disclosure provides a process for producing pea protein products, in particular pea protein isolates (PPIs), PPI produced by the process and use of PPI, wherein the process utilizes lactic acid or L-Malic acid to precipitate PPI (lactic acid PPI and malic acid PPI, respectively) from a protein-rich solution derived from a pea source. The process comprises steps of a) providing a pea source, b) extracting protein from the pea source in a basic solution to produce a protein—r
+
+---
+
+TITLE      : METHOD FOR PRODUCING RECOMBINANT PROTEIN
+PATENT     : WO2026164234A1  [WO]  PENDING
+ASSIGNEE   : SPIBER INC [JP]; Ｓｐｉｂｅｒ株式会社
+INVENTORS  : NAKAHIGASHI KENJI [JP]; 中東　憲治
+FILED      : 2026-01-29   PUB: 2026-08-06
+IPC        : C12N, C12P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164234A1
+ABSTRACT   : A method for producing a recombinant protein, the method comprising: culturing, in a culture medium, a recombinant cell that expresses the recombinant protein; inducing the expression of a gene encoding the recombinant protein; and collecting the recombinant protein, wherein the recombinant protein has a glycine residue content of 25% or more, and the recombinant cell contains at least one modification selected from the group consisting of (A) and (B) below. (A) A modification that increases thr
+
+---
+
+TITLE      : MODIFIED PLANT UBX DOMAIN PROTEINS FOR ENHANCED PROTEIN PRODUCTION
+PATENT     : WO2026165289A1  [WO]  PENDING
+ASSIGNEE   : MOZZA FOODS INC [US]; MOZZA FOODS, INC.
+INVENTORS  : TOBIN CORY [US]; TOBIN, Cory
+FILED      : 2026-01-29   PUB: 2026-08-06
+IPC        : C07K, C12N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026165289A1
+ABSTRACT   : The present invention herein is enhancing recombinant protein production in plant-based expression systems through modulation of Plant UBX (PUX) protein activity. Engineered PUX proteins with modified functional domains, including systematic deletions of UBX, UBA, UAS, UIM, SEP, SHP, zinc finger, and PUB domains, compete with native PUX proteins to modulate CDC48-mediated protein degradation pathways. Additionally, RNA interference and CRISPR-based methods for reducing native PUX protein express
+
+---
+
+TITLE      : PROTEIN COMPOSITIONS AND METHODS OF USE THEREOF IN MODULATING PER1 FUNCTION
+PATENT     : US20260226117A1  [US]  PENDING
+ASSIGNEE   : WASHINGTON UNIV [US]; Washington University
+INVENTORS  : DEBOSCH BRIAN J [US]; HIGGINS CASSANDRA [US]; SUN JIAMENG [US] et al.
+FILED      : 2026-01-16   PUB: 2026-08-06
+IPC        : A61K, A61P, C07K, C12N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260226117A1
+ABSTRACT   : Protein compositions, such as fusion protein compositions, and methods of use thereof for modulating PER1 function are provided. Exemplary embodiments include methods for inducing PER1 expression, protecting against glucose intolerance, and improving glucose homeostasis. Exemplary compositions include at least one of: a deltaCBD fusion protein, a CBD fragment fusion protein, a TAT-CBD fusion protein, an Fc-CBD fusion protein, and an AAV8-native CBD fusion protein.
 
 ---
 
@@ -1374,200 +1566,6 @@ ABSTRACT   : [Problem] To provide a meat chunk-like food and a production method
 
 ---
 
-TITLE      : TILE-CLAD PLINTH USING OMEGA-SECTION TILE-SECURING FENCE RAIL
-PATENT     : AU2024227489A1  [AU]  PENDING
-ASSIGNEE   : DONG HONGJUN; Dong, Hongjun
-INVENTORS  : DONG XIAOHUI; DONG HONGJUN; Dong, Xiaohui et al.
-FILED      : 2024-10-20   PUB: 2026-05-07
-IPC        : E04H
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024227489A1
-ABSTRACT   : The invention is a tile-clad plinth system consisting of outdoor tiles, Diamond-Shaped Connectors, and Omega-section fence rails known as Tile-Securing Rails, designed for use in Good neighbour fence construction. The system assembles to create a sturdy plinth that accommodates fence sheets, with the Diamond-Shaped Connectors specifically engineered for installation on slopes. This design combines aesthetic appeal with functional benefits, making it ideal for fencing projects on sloped terrain. 
-
----
-
-TITLE      : METHOD OF DETECTING TARGET SUBSTANCE AND REAGENT FOR INSPECTION OF TARGET SUBSTANCE
-PATENT     : EP4737586A1  [EP]  PENDING
-ASSIGNEE   : CANON KK [JP]; Canon Kabushiki Kaisha
-INVENTORS  : YAMAUCHI FUMIO [JP]; KAKEGAWA NORISHIGE [JP]; KITAGAWA KENJI [JP] et al.
-FILED      : 2025-11-03   PUB: 2026-05-06
-IPC        : C12Q, G01N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737586A1
-ABSTRACT   : [0001]    Provided are a highly sensitive detection method for a target substance and a reagent for inspection thereof. Specifically, provided is a method of detecting a target substance that is an enzyme reaction-related substance, the method including: a first step of mixing a specimen and a reagent to obtain a liquid sample containing hydrogen peroxide, a peroxidase (40), a phenol derivative, a luminescent particle (10) and hydrophilic polymers (30) each having a binding functional group; a s
-
----
-
-TITLE      : METHOD OF DETECTING TARGET SUBSTANCE AND REAGENT FOR INSPECTION OF TARGET SUBSTANCE
-PATENT     : EP4737585A1  [EP]  PENDING
-ASSIGNEE   : CANON KK [JP]; Canon Kabushiki Kaisha
-INVENTORS  : YAMAUCHI FUMIO [JP]; KAKEGAWA NORISHIGE [JP]; KITAGAWA KENJI [JP] et al.
-FILED      : 2025-11-03   PUB: 2026-05-06
-IPC        : C12Q, G01N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737585A1
-ABSTRACT   : [0001]    Provided are a highly sensitive detection method for a target substance and a reagent for inspection thereof. Specifically, provided is a method of detecting a target substance that is a substance related to an enzyme reaction, the method including: mixing a specimen liquid that may contain the target substance and a reagent to obtain a liquid sample containing hydrogen peroxide, a peroxidase (40), a phenol derivative and a plurality of luminescent particles (10) each having a binding 
-
----
-
-TITLE      : GENERATIVE AI PROMPT CYCLE AND REFINEMENT FOR INDUSTRIAL AUTOMATION VISUALIZATION
-PATENT     : EP4738101A1  [EP]  PENDING
-ASSIGNEE   : ROCKWELL AUTOMATION TECH INC [US]; Rockwell Automation Technologies, Inc.
-INVENTORS  : BRIANT STEPHEN C [US]; BILLI-DURAN SHARON [US]; MILLER MICHAEL B [US] et al.
-FILED      : 2025-10-23   PUB: 2026-05-06
-IPC        : G06F, G06N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4738101A1
-ABSTRACT   : [0001]    A human-machine interface (HMI) development system leverages a generative Al model to assist in development of HMI projects in accordance with specified functional requirements, which can be provided to the development system as intuitive natural language spoken or written text. The system can formulate and implement HMI project edits during design time based on analysis of this natural language design input. After the HMI project is deployed as a runtime application, the system can al
-
----
-
-TITLE      : PROTECTIVE FABRIC DISPLAYING WATER, OIL AND FUEL REPELLENCY
-PATENT     : EP4737638A1  [EP]  PENDING
-ASSIGNEE   : SAFETY COMPONENTS INT INC [US]; Safety Components International, Inc.
-INVENTORS  : ARANGDAD KIARASH [US]; SMITH CEVIN BRENT [US]; CANTIN JACQUES A [US] et al.
-FILED      : 2024-12-10   PUB: 2026-05-06
-IPC        : A41D, D06M
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737638A1
-ABSTRACT   : [0001]    Protective garments are disclosed having a fabric material treated with a durable water resistant treatment. In accordance with the present disclosure, the durable water resistant treatment contains primarily non-fluorinated chemistries or components in combination with a very minor amount of a fluorocarbon compound. The resulting treated fabric not only displays excellent water resistance but is also resistant to many chemicals including fuels and oils.
-
----
-
-TITLE      : METHOD FOR PRODUCING PLANT-BASED MILK PRODUCTS SUCH AS TOFU AND CHEESE BY COAGULATION, TRANSGLUTAMINASE TREATMENT AND OPTIONAL FERMENTATION; PRODUCTS MADE BY THIS METHOD; AND USE OF COAGULATION SALTS AND TRANSGLUTAMINASE HEREIN
-PATENT     : EP4736659A1  [EP]  PENDING
-ASSIGNEE   : KATECH INGREDIENT SOLUTIONS GMBH [DE]; KaTech Ingredient Solutions GmbH
-INVENTORS  : HERNANDEZ MEDINA JOCELYN [DE]; MAESSE ALEXANDER [DE]; TIETJEN MARKUS [DE] et al.
-FILED      : 2024-11-05   PUB: 2026-05-06
-IPC        : A23C, A23J, A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736659A1
-ABSTRACT   : [0001]    This present application describes a method for producing plant-based milk products, specifically tofu or plant-based cheese, using legume milk. The process involves heating the legume milk, adding coagulation salts and transglutaminase to form a curd, and then filtering and pressing the curd to create the final product. The coagulation salts used are magnesium or calcium salts, and the method allows for variations in the concentration of these salts, as well as the inclusion of fermen
-
----
-
-TITLE      : FISH-BASED DOUGH AND PROCESS TO OBTAIN THE DOUGH
-PATENT     : EP4736653A1  [EP]  PENDING
-ASSIGNEE   : COMPASS GROUP HOLDINGS SPAIN S L [ES]; ENTRAMBOSMARES S L [ES]; Compass Group Holdings Spain, S.L. et al.
-INVENTORS  : ALONSO PÉREZ ISMAEL [ES]; ALONSO PÉREZ, Ismael
-FILED      : 2024-10-30   PUB: 2026-05-06
-IPC        : 
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736653A1
-ABSTRACT   : The present invention relates to a fish-based dough and the process for its preparation. This dough incorporates fish as a primary ingredient, providing an enhanced nutritional benefits. The fish-based dough can be used in a variety of culinary applications, including but not limited to pizza, flatbreads, focaccia and calzone. The method of preparation ensures that the dough maintains its desired texture and flavor, while also offering the health benefits associated with the inclusion of fish. P
-
----
-
-TITLE      : USE OF A COMBINATION OF GLYCINE, L-PROLINE, L-LYSINE, L-ASPARTIC ACID, CITRIC ACID AND VITAMIN C, IN THE PREVENTION OF HEALTH AND PERFORMANCE CONDITIONS IN PHYSICAL EXERCISES IN A SUBJECT
-PATENT     : EP4736850A1  [EP]  PENDING
-ASSIGNEE   : MELENDEZ HEVIA ENRIQUE [ES]; MATOS EXPOSITO GUSTAVO ADOLFO [ES]; Melendez Hevia, Enrique et al.
-INVENTORS  : MELENDEZ HEVIA ENRIQUE [ES]; MATOS EXPÓSITO GUSTAVO ADOLFO [ES]; Melendez Hevia, Enrique et al.
-FILED      : 2024-10-31   PUB: 2026-05-06
-IPC        : A23L, A61K, A61P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736850A1
-ABSTRACT   : The present invention is a method to improve physical-sports performance, reduce fatigue, combat physical-sports aging, and to cure and prevent physical injuries, based on an effective dose of glycine, L-proline, L-lysine, L-aspartic acid (or L-aspartate, citric acid, or citrate), and vitamin C. The method is based on the limitations and subsequent conditions of the metabolism in three aspects: (1) the synthesis of ATP in mitochondria, dependent on the Krebs cycle; (2) the synthesis of proteins 
-
----
-
-TITLE      : SYSTEM AND METHOD FOR SEMANTIC MATCHING OF UNSTRUCTURED MULTI-MODAL DOCUMENTS AND INFORMATION WITH INTERNAL SYSTEM INFORMATION
-PATENT     : AU2025252668A1  [AU]  PENDING
-ASSIGNEE   : LAVECKY LEO; Lavecky, Leo
-INVENTORS  : LAVECKY LEO; Lavecky, Leo
-FILED      : 2025-10-20   PUB: 2026-05-07
-IPC        : G06F, G06N, G06Q, G06V
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025252668A1
-ABSTRACT   : Systems and methods for matching unstructured business inputs to master data are disclosed. Inputs include PDFs, images, emails, messages, and speech transcripts. Text is extracted by OCR, parsers, and speech-to-text and normalised with tokenisation and abbreviation tables. A deterministic matcher attempts an exact or rule-based match to records in a master database. When unmatched or below a similarity threshold, a large language model is invoked via a schema- constrained interface that returns
-
----
-
-TITLE      : METHODS FOR THE C-TERMINAL MODIFICATION OF (POLY)PEPTIDES
-PATENT     : EP4737471A1  [EP]  PENDING
-ASSIGNEE   : NUMAFERM GMBH [DE]; NUMAFERM GmbH
-INVENTORS  : SCHWARZ CHRISTIAN [DE]; REBMANN PHILIPP [DE]; STRAUSS JANNIK [DE] et al.
-FILED      : 2024-10-29   PUB: 2026-05-06
-IPC        : C07K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737471A1
-ABSTRACT   : The present invention concerns a method for the C-terminal modification of a (poly)peptide that is free of cysteine residues comprising providing the to-be-modified (poly)peptide as a fusion protein with a C-terminal tag of the amino acid sequence C(X)<sub>n</sub>, wherein n is an integer of 1 to 100, and X is any amino acid with the exception of C, reacting said fusion protein with 2-nitro-5-thiocyanatobenzoic acid or salt thereof under conditions that allow to cyanylate the cysteine residue of
-
----
-
-TITLE      : UTILIZATION OF SUCROSE FOR INCREASED PRODUCTION OF TERPENES IN RHODOBACTER MICROBIAL CELL FACTORIES
-PATENT     : EP4737565A1  [EP]  PENDING
-ASSIGNEE   : ISOBIONICS B V [NL]; STICHTING WAGENINGEN RES [NL]; Isobionics B.V. et al.
-INVENTORS  : CANKAR KATARINA [NL]; VAN HOUWELINGEN ADELE MARGARETHA MARIA LIDUINA [NL]; BOSCH HENDRIK JAN [NL] et al.
-FILED      : 2024-10-31   PUB: 2026-05-06
-IPC        : C12N, C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737565A1
-ABSTRACT   : [0001]    The present invention relates to a Rhodobacter cell engineered to utilize sucrose, comprising: (i) a heterologous enzyme having invertase activity; (ii) a heterologous enzyme having sucrose permease activity; and, optionally, (iii) a heterologous enzyme having fructokinase activity, and to a method for producing a Rhodobacter cell engineered to utilize sucrose. The invention further relates to a method for preparing a monoterpene, a sesquiterpene, a diterpene, a triterpene, a tetraterp
-
----
-
-TITLE      : RESONANCE HEAT EXCHANGER
-PATENT     : EP4737841A1  [EP]  PENDING
-ASSIGNEE   : YAMILEV LTD [BG]; Yamilev Ltd
-INVENTORS  : YAMILEVA RIMA [BG]; Yamileva, Rima
-FILED      : 2025-10-25   PUB: 2026-05-06
-IPC        : F28D, F28F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737841A1
-ABSTRACT   : [0001]    The present invention relates to heat exchange devices and can be used in technological processes in energy, utilities, oil refining, petrochemical, chemical, nuclear, refrigeration, gas, cryogenic, and other industries. The resonant heat exchange apparatus comprising a Helmholtz resonator consisting of a chamber with an input for a pulsating gas flow and at least one pipe connected to the output of said chamber of the Helmholtz resonator, and said resonant heat exchange apparatus incl
-
----
-
-TITLE      : A PROCESS FOR WASHING AND/OR FRACTIONATING A WOOD-BASED MATERIAL
-PATENT     : FI20246309A1  [FI]  PENDING
-ASSIGNEE   : UPM KYMMENE CORP [FI]; UPM-Kymmene Corporation
-INVENTORS  : VIRTANEN PASI [FI]; RISTOLAINEN MATTI [FI]; KOSONEN HARRI [FI] et al.
-FILED      : 2024-11-05   PUB: 2026-05-06
-IPC        : C08B, C08H, D21C, D21D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FI20246309A1
-ABSTRACT   : A process for washing and/or fractionating a wood-based material (1) comprising fines is disclosed. The process may comprise providing the wood-based material as a suspension; and subjecting the suspension to centrifugal forces, thereby separating the suspension into at least two fractions (5, 6) based on at least their densities.
-
----
-
-TITLE      : A PROCESS FOR PRODUCING A PARTIALLY HYDROLYSED CELLULOSE MATERIAL
-PATENT     : FI20246308A1  [FI]  PENDING
-ASSIGNEE   : UPM KYMMENE CORP [FI]; UPM-Kymmene Corporation
-INVENTORS  : VIRTANEN PASI [FI]; SAPKOTA JANAK [FI]; Virtanen, Pasi et al.
-FILED      : 2024-11-05   PUB: 2026-05-06
-IPC        : C08B, C08H, C08L, D21H
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FI20246308A1
-ABSTRACT   : A process for producing a partially hydrolysed cellulose material (1) is disclosed. The process may comprise providing a cellulose material (2) as a suspension (3), partially hydrolysing the cellulose material in the presence of an acid (6), and simultaneously mechanically treating the cellulose material so as to break fibres of the cellulose material, thereby obtaining the partially hydrolysed cellulose material.
-
----
-
-TITLE      : RAPID CURE EPOXY RESIN HARDENERS
-PATENT     : EP4737500A1  [EP]  PENDING
-ASSIGNEE   : JONES PAUL [GB]; Jones, Paul
-INVENTORS  : JONES PAUL [GB]; Jones, Paul
-FILED      : 2025-10-30   PUB: 2026-05-06
-IPC        : C08G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737500A1
-ABSTRACT   : [0001]    The invention relates to a class of epoxy resin curatives which act as rapid curing epoxy resin hardeners. In particular, the invention is directed to a class of epoxy resin curatives comprising a benzoic acid moiety and at least one Mannich base group, as well as a curative composition comprising the epoxy resin curative, processes for preparing the epoxy resin curative, and uses thereof. In one aspect, the epoxy resin curative has the formula (1) below:
-
-<img class="EMIRef" id="538a4
-
----
-
-TITLE      : TETRAORGANOPHOSPHONIUM COMPOUNDS FOR USE IN THE PREVENTION AND TREATMENT OF METABOLIC DISEASES
-PATENT     : EP4736858A1  [EP]  PENDING
-ASSIGNEE   : INST OF CLINICAL AND EXPERIMENTAL MEDICINE [CZ]; Institiute of Clinical and Experimental Medicine
-INVENTORS  : STEMBERKOVA-HUBACKOVA SONA [CZ]; STURSA JAN [CZ]; WERNER LUKAS [CZ] et al.
-FILED      : 2024-11-04   PUB: 2026-05-06
-IPC        : A61K, A61P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736858A1
-ABSTRACT   : The present invention relates to the use of compounds of formula Ifor treatment of metabolic disease,wherein R<sup>1</sup>, R<sup>2</sup>, R<sup>3</sup> are independently selected from the group consisting of phenyl, benzyl, and cyclohexyl; Z is a linear alkylene, alkenylene or alkynylene chain with the number of carbon atoms in the range of from 6 to 20, wherein one or more -CH<sub>2</sub>- groups may optionally be substituted with one or more O atoms; R<sup>4</sup> is selected from the group c
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -1680,30 +1678,6 @@ ABSTRACT   : A method for finalizing concrete production is presented, which ens
 
 ---
 
-TITLE      : PRODUCTION PROCESS OF A FOOTWEAR WITH ELASTICALLY EXPANDABLE INLET
-PATENT     : EP4736698A1  [EP]  PENDING
-ASSIGNEE   : SANTONI SPA [IT]; Santoni Societa' Per Azioni
-INVENTORS  : SANTONI GIUSEPPE [IT]; SANTONI, Giuseppe
-FILED      : 2025-10-13   PUB: 2026-05-06
-IPC        : A43B, A43C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736698A1
-ABSTRACT   : [0001]    Production process of a brogue-style footwear comprising an upper provided with an inlet for the foot that is suitable for being elastically expanded during the insertion or extraction of the user's foot due to the provision of an elastic fabric insert that is assembled in correspondence of the foot inlet and covered by a leather flap.
-
----
-
-TITLE      : PRODUCTION PROCESS OF A MOCCASIN WITH ELASTICALLY EXPANDABLE INLET
-PATENT     : EP4736694A1  [EP]  PENDING
-ASSIGNEE   : SANTONI SPA [IT]; Santoni Societa' Per Azioni
-INVENTORS  : SANTONI GIUSEPPE [IT]; SANTONI, Giuseppe
-FILED      : 2025-10-14   PUB: 2026-05-06
-IPC        : A43B, A43C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736694A1
-ABSTRACT   : Production process of a moccasin comprising an upper provided with an inlet for the foot that is suitable for being elastically expanded during the insertion or extraction of the user's foot due to the provision of an elastic fabric insert that is assembled in correspondence of the foot inlet and covered by a leather flap.
-
----
-
 ============================================================
 DOMAIN: Microencapsulación
 ============================================================
@@ -1717,6 +1691,30 @@ IPC        : A47K
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250065U2
 ABSTRACT   : This invention represents a one-piece shelf for installation on a shower tap. The plate (1) is mounted on the tap mixer, in such a way that it is held by the force created by the elastic deformation of the shelf wings (21, 22). The plate has two wings that are positioned under the shower tap pipe. The plate is mounted without tools, the assembly is performed by pressing the wings with a finger through the grooves (3) intended for this purpose. The plate has a slot (4) that allows the positioning
+
+---
+
+TITLE      : FLAVOR-ENHANCING COMPOSITION, METHOD FOR PRODUCING SAME, AND METHOD FOR ENHANCING FLAVOR OF FOOD PRODUCT
+PATENT     : WO2026163745A1  [WO]  PENDING
+ASSIGNEE   : HOUSE FOODS CORP [JP]; HOUSE FOODS GROUP INC [JP]; ハウス食品株式会社 et al.
+INVENTORS  : KOBAYASHI RUNO [JP]; SAKANE KUMI [JP]; MIYAZAKI KINUKO [JP] et al.
+FILED      : 2025-12-26   PUB: 2026-08-06
+IPC        : A23C, A23G, A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163745A1
+ABSTRACT   : The present specification discloses: a flavor-enhancing composition with which it is possible to enhance the flavor of a food product by being blended in the food product; and a method for producing the flavor-enhancing composition. The present disclosure relates to: a flavor-enhancing composition containing one or more heat-treated spices selected from the group consisting of heat-treated turmeric and heat-treated black cumin; and a method for producing the flavor-enhancing composition.
+
+---
+
+TITLE      : LIQUID FOOD PRODUCT WITH ENHANCED FLAVOUR AND AROMA
+PATENT     : WO2026164533A1  [WO]  PENDING
+ASSIGNEE   : BALTIKA BREWERIES LIMITED LIABILITY CO [RU]; GUSHCHIN GENNADII MIHAILOVICH [CH]; ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ПИВОВАРЕННАЯ КОМПАНИЯ "БАЛТИКА" et al.
+INVENTORS  : GUSHCHIN GENNADII MIHAILOVICH [CH]; AFONIN DMITRII VLADIMIROVICH [RU]; EFIMOV ILYA VICTOROVICH [RU] et al.
+FILED      : 2026-01-30   PUB: 2026-08-06
+IPC        : A23L, C12C, C12G
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164533A1
+ABSTRACT   : Proposed is a method for producing a liquid food product having an enhanced flavour and aroma, in which a flow of a multiphase system containing a base liquid and at least one flavouring ingredient, which is saturated with at least one gas selected from among СО2, О2 and N2, is treated using a dispersing effect that causes the multiphase system to undergo, under the influence of hydrodynamic forces, a change in turbidity, at scatter angles of 90 and/or 25 and/or 12 degrees, of no less than 45% i
 
 ---
 
@@ -1924,30 +1922,6 @@ ABSTRACT   : A securing device in the form of a clip 10 is used for securing an 
 
 ---
 
-TITLE      : Systems and methods for fault tolerant energy management systems configured to manage heterogeneous power plants
-PATENT     : AU2025256066A1  [AU]  PENDING
-ASSIGNEE   : ENERGY VAULT INC; Energy Vault, Inc.
-INVENTORS  : FAKHAR SHAHEEN; WANG CHRISTIAN CHIA; TOTH ROBERT JORDAN et al.
-FILED      : 2025-10-21   PUB: 2026-05-07
-IPC        : G05B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025256066A1
-ABSTRACT   : An energy management system and methods of using the same are disclosed. The energy management system is configured to distribute power plant tasks. Energy management system tasks are received at the energy management system. At least a portion of the received tasks are passed over a network from the energy management system to a power plant lead controller in a cluster of nodes, the cluster of nodes comprising electronic devices configured to control power plant equipment, the cluster of nodes 
-
----
-
-TITLE      : Systems and methods for fault tolerant energy management systems configured to manage heterogeneous power plants
-PATENT     : AU2025252660A1  [AU]  PENDING
-ASSIGNEE   : ENERGY VAULT INC; Energy Vault, Inc.
-INVENTORS  : FAKHAR SHAHEEN; TARLECKI JAMES MICHAEL; TOTH ROBERT JORDAN et al.
-FILED      : 2025-10-20   PUB: 2026-05-07
-IPC        : 
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025252660A1
-ABSTRACT   : Systems and methods for testing a power plant emulation are disclosed. Software for an energy management system is deployed to a computer system comprising computing devices. A model of a power plant site is deployed to a test framework. Test commands and/or use cases are injected, via the test framework to public energy management system end points. The test commands and/or use cases are used to emulate and test the model of at least the portion of the power plant site and to generate simulated
-
----
-
 ============================================================
 DOMAIN: Packaging & Smart Packaging
 ============================================================
@@ -2033,6 +2007,126 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : RECYCLABLE VACUUM PACKAGING CONTAINING AN INSTANT DRY YEAST
+PATENT     : WO2026162910A1  [WO]  PENDING
+ASSIGNEE   : LESAFFRE ET CIE [FR]; LESAFFRE ET COMPAGNIE
+INVENTORS  : DOBEL SANDRINE [FR]; MORGAND GAUTIER [FR]; NIVAL CHRISTOPHE [FR] et al.
+FILED      : 2026-02-02   PUB: 2026-08-06
+IPC        : B32B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162910A1
+ABSTRACT   : The invention relates to a vacuum packaging (10) containing an instant dry yeast, the packaging (10) comprising a film (20) that includes an outer layer (23), an intermediate barrier layer (22) and an inner layer (21), each of which is made of polypropylene and/or polyethylene.
+
+---
+
+TITLE      : METHOD AND ELECTRONIC DEVICE FOR CLASSIFYING PACKAGING METHODS
+PATENT     : WO2026164336A1  [WO]  PENDING
+ASSIGNEE   : COUPANG CORP [KR]; 쿠팡 주식회사
+INVENTORS  : ZHAO RUBIN [KR]; WANG HAITING [KR]; JIANG YANYANG [KR] et al.
+FILED      : 2025-06-11   PUB: 2026-08-06
+IPC        : B25J, G01G, G06N, G06Q
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164336A1
+ABSTRACT   : Disclosed is a method for classifying packaging methods, performed by at least one processor, the method comprising the steps of: receiving identification information of a product; obtaining feature information of the product on the basis of the received identification information; and classifying a packaging method for the product on the basis of the obtained feature information.
+
+---
+
+TITLE      : KILLER YEASTS TO PREVENT SPOILAGE OF BEER
+PATENT     : US20260226380A1  [US]  PENDING
+ASSIGNEE   : UNIV OF IDAHO [US]; University of Idaho
+INVENTORS  : ROWLEY PAUL A [US]; Rowley, Paul A.
+FILED      : 2026-02-03   PUB: 2026-08-06
+IPC        : C07K, C12C, C12N
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260226380A1
+ABSTRACT   : Variant K2 (K2v) killer toxins that inhibit the growth of diastatic yeast are provided. Also provided are engineered yeasts including K2v killer toxins, as well as methods of inhibiting diastatic yeast growth in fermented beverage products.
+
+---
+
+TITLE      : SELECTIVE DEPOLYMERIZATION OF MIXED POLYESTER WASTE STREAMS
+PATENT     : WO2026162723A1  [WO]  PENDING
+ASSIGNEE   : BASF SE [DE]; BASF SE
+INVENTORS  : OTT JONAS CHRISTIAN [DE]; MANGOLD HANNAH STEPHANIE [DE]; OTT, Jonas Christian et al.
+FILED      : 2026-01-30   PUB: 2026-08-06
+IPC        : C07C, C08J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162723A1
+ABSTRACT   : A first aspect of the invention is directed to a process for recycling a mixture of polyesters, wherein the mixture of polyesters comprises at least polylactic acid and at least one polyalkylene aromatic diacid based polyester. In a second aspect, the invention relates to the monomomer(s) obtained or obtainable from the process of the first aspect of the invention. A third aspect is directed to the use of the one or more monomomer(s) of the second aspect of the invention for polymer synthesis; a
+
+---
+
+TITLE      : FOOD MATERIAL FOR COATING MATERIAL OR TENKASU AND METHOD FOR PRODUCING SAME
+PATENT     : WO2026163958A1  [WO]  PENDING
+ASSIGNEE   : NISSHIN SEIFUN WELNA INC [JP]; 株式会社日清製粉ウェルナ
+INVENTORS  : BIZEN CHIFUYU [JP]; TAKASU RYOSUKE [JP]; ANDO MANAMI [JP] et al.
+FILED      : 2026-01-23   PUB: 2026-08-06
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163958A1
+ABSTRACT   : The present invention addresses the problem of providing a food material for a coating material or tenkasu with a suitable crispy texture. This food material for a coating material or tenkasu comprises a puffed product of a mixture of a liquid raw material and a powder raw material containing grain flour. The content of the grain flour in the powder raw material is 70 mass% or more. The food material has a membrane and a plurality of spaces surrounded by the membrane. The proportion of the membr
+
+---
+
+TITLE      : BIOSENSOR CHIP FOR THE DETECTION OF TOXINS IN FOOD PRODUCTS AND METHOD FOR FABRICATION THEREOF
+PATENT     : US20260227373A1  [US]  PENDING
+ASSIGNEE   : BITS BIOCYTIH FOUND [IN]; BIRLA INST OF TECHNOLOGY & SCIENCE BITS PILANI [IN]; BITS BioCyTiH FOUNDATION et al.
+INVENTORS  : BHAND SUNIL [IN]; M K NEELAMA [IN]; BHAND, Sunil et al.
+FILED      : 2025-03-31   PUB: 2026-08-06
+IPC        : B01L, G01N
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260227373A1
+ABSTRACT   : [0000]    The present invention relates to a biosensor chip (100) for the detection of toxins in food and a method thereof. The biosensor chip (100) comprises a flexible substrate (102); a conductive layer (104) deposited on the flexible substrate (102); a bio-receptor (106) coated on the conductive layer (104) through a cross-linker (110); an analyzer (112) connected to the biosensor chip; and an operating device (114) to view the output. The length of the conductive layer (electrode) (104) is 
+
+---
+
+TITLE      : JELLY BEVERAGE
+PATENT     : WO2026163482A1  [WO]  PENDING
+ASSIGNEE   : MITSUI DM SUGAR CO LTD [JP]; ＤＭ三井製糖株式会社
+INVENTORS  : KONISHI KENTA [JP]; NISHIKAWA SHINOHARA YUKA [JP]; TAKAI YUSUKE [JP] et al.
+FILED      : 2025-08-08   PUB: 2026-08-06
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163482A1
+ABSTRACT   : This jelly beverage contains trehalose and a gelling agent and has low cariogenicity, wherein the jelly beverage has a pH of 5.5 or more and exhibits a breaking load of 0.4 to 1 N inclusive when the temperature of the jelly beverage is 20°C. The breaking load is measured under the conditions of a load cell capacity of 20 N and a measurement speed of 1 mm/s, using a creep meter equipped with a plunger having a diameter of 8 mm and a plunger extension jig of 5 cm.
+
+---
+
+TITLE      : BEVERAGE TASTE-TESTING APPARATUS AND RELATED METHODS
+PATENT     : WO2026164700A2  [WO]  PENDING
+ASSIGNEE   : JUST NEAT LLC [US]; JUST NEAT, LLC
+INVENTORS  : CHAPANAR CHRISTOPHER [US]; WHITMIRE SOLOMON [US]; CHAPANAR, Christopher et al.
+FILED      : 2025-10-20   PUB: 2026-08-06
+IPC        : G01N
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164700A2
+ABSTRACT   : A beverage taste-testing apparatus having: a beverage-cup holding component that is configured to hold a beverage cup; the beverage-cup holding component mounted to a tray component; the tray component releasably or fixedly attached to a rotatable-interface component that is configured to permit the tray component to rotate in a first or second direction relative to a base component; the rotatable-interface component releasably or fixedly attached to the base component; the base component or the
+
+---
+
+TITLE      : BEVERAGE CAN ASSEMBLY WITH DETACHABLE LID
+PATENT     : WO2026165533A1  [WO]  PENDING
+ASSIGNEE   : COORS BREWING CO [US]; COORS BREWING COMPANY
+INVENTORS  : WALKER CAROL [US]; SHROUT JENNIFER [US]; MARSHALLSAY HARRIET [US] et al.
+FILED      : 2026-02-03   PUB: 2026-08-06
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026165533A1
+ABSTRACT   : Methods and apparatus are disclosed for beverage can assemblies for consumable material. A beverage can assembly includes a can and a pivot cap assembly. The can includes a body and a top coupled to the body to form a chamber in which the consumable material is stored. The top includes a base and an opening cover. The opening cover includes a scored edge along which the opening cover is separable from the base to form a drink opening to the chamber. The pivot cap assembly includes a cap and a fu
+
+---
+
+TITLE      : BREWING HEAD UNIT FOR AN APPARATUS FOR PREPARING A BEVERAGE
+PATENT     : WO2026162649A1  [WO]  PENDING
+ASSIGNEE   : OESTERLANDSK 1889 INNOVATION APS [DK]; ØSTERLANDSK 1889 INNOVATION APS
+INVENTORS  : SVENDSEN TORBEN JØRGEN [DK]; SVENDSEN, Torben Jørgen
+FILED      : 2026-01-29   PUB: 2026-08-06
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162649A1
+ABSTRACT   : A liquid dispenser unit (200) configured for connecting to an apparatus (1) for preparing and/or dispensing a beverage wherein the liquid dispenser unit (200) comprises - a body portion (210), - a dispenser inlet (240) to said body portion (210), - a body portion outlet (241), and - a fluid passage (230) extending through said body portion (210) from the dispenser inlet (240) to said a body portion outlet (241), and wherein said body portion (210) comprises three or more plate-shaped body elemen
 
 ---
 
@@ -4040,6 +4134,162 @@ ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coa
 
 ---
 
+TITLE      : REUSABLE PET BOTTLE
+PATENT     : WO2026162728A1  [WO]  PENDING
+ASSIGNEE   : PETAINER LARGE CONTAINER IP LTD [GB]; PETAINER LARGE CONTAINER IP LIMITED
+INVENTORS  : JOYES MICHAEL PATRICK [GB]; JOYES, Michael Patrick
+FILED      : 2026-01-30   PUB: 2026-08-06
+IPC        : B65D
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162728A1
+ABSTRACT   : The invention provides a reusable polyethylene terephthalate (PET) bottle having a capacity of 500 mL and capable of withstanding at least eight pasteurisation cycles at 60°C. The bottle comprises a body portion and a base portion. The base portion defines a champagne base and extends 24 mm in a direction from a bottom of the bottle towards a top of the bottle. The base portion weighs at least 15 g and a thickness of the bottle at the bottom of the base portion is at least 2.3 mm.
+
+---
+
+TITLE      : CALCIUM CARBONATE-BASED BIODEGRADABLE COMPOSITES AS AN ALTERNATIVE MATERIAL TO INDUSTRIAL PLASTICS
+PATENT     : WO2026165201A1  [WO]  PENDING
+ASSIGNEE   : UNIV OF SOUTHERN CALIFORNIA [US]; UNIVERSITY OF SOUTHERN CALIFORNIA
+INVENTORS  : CHUNG YOO EUN JI PAIGE [US]; CHUNG YOO, Eun Ji Paige
+FILED      : 2026-01-29   PUB: 2026-08-06
+IPC        : C08K, C09C
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026165201A1
+ABSTRACT   : A biodegradable composition includes a cross-linked polyester matrix and a plurality of reinforcing particles dispersed within the matrix in a sufficient amount to enable degradation in marine environments while maintaining structural integrity during use. The reinforcing particles may include calcium-containing particles such as calcium carbonate or ground shell materials, and/or plant-derived particles such as bamboo, wood, rice, wheat, seaweed, or paper. The composition may further include a 
+
+---
+
+TITLE      : METHOD FOR PRODUCING MICRO/NANOPLASTICS (MNPS) STANDARDS FROM POLYETHYLENE TEREPHTHALATE (PET)
+PATENT     : WO2026163168A1  [WO]  PENDING
+ASSIGNEE   : UNIV DEGLI STUDI DI MILANO BICOCCA [IT]; UNIVERSITA' DEGLI STUDI DI MILANO - BICOCCA
+INVENTORS  : PERI FRANCESCO [IT]; SHAIK MOHAMMED MONSOOR [IT]; PERI, Francesco et al.
+FILED      : 2026-02-02   PUB: 2026-08-06
+IPC        : C08G, C08J, G01N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163168A1
+ABSTRACT   : The present invention relates to a method for producing micro/nanoplastics (MNPs) derived from polyethylene terephthalate (PET) comprising the steps of: a) mixing ethylene glycol and PET; b) adding a catalyst to the mixture obtained in step a); c) heating the mixture of step b); d) quenching the reaction after a time comprised between 2 and 5 hours, preferably by adding water. A further aspect relates to the MNPs produced by said method, which comprise oligomers with at least one terminal unit, 
+
+---
+
+TITLE      : FOOD CONSUMPTION REMINDERS
+PATENT     : US20260229107A1  [US]  PENDING
+ASSIGNEE   : MEDTRONIC MINIMED INC [US]; Medtronic MiniMed, Inc.
+INVENTORS  : LINTEREUR LOUIS J [US]; LINTEREUR, Louis J.
+FILED      : 2026-01-29   PUB: 2026-08-06
+IPC        : G08B, G16H
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260229107A1
+ABSTRACT   : [0000]    Techniques for providing food consumption reminders are disclosed herein. In some embodiments, the techniques may involve receiving an indication that a patient is to consume a food item after a bolus of insulin is administered. The techniques may further involve determining a duration of time after delivery of the bolus at which the patient is to begin consumption of the food item. The techniques may further involve in response to determining the duration of time has elapsed, causing 
+
+---
+
+TITLE      : APPARATUS FOR TREATING FOOD POWDER
+PATENT     : WO2026164127A1  [WO]  PENDING
+ASSIGNEE   : NISSHIN SEIFUN GROUP INC [JP]; 株式会社日清製粉グループ本社
+INVENTORS  : ANDO KOSUKE [JP]; KITAMURA SHOMA [JP]; ARAI MASAKI [JP] et al.
+FILED      : 2026-01-28   PUB: 2026-08-06
+IPC        : A21D, A23L, F26B
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164127A1
+ABSTRACT   : The present invention includes a microwave heating device that heats food powder; a conveyor that supplies the food powder to the microwave heating device and discharges the heated food powder from the microwave heating device; and a shaping unit that shapes the food powder supplied to the conveyor and conveyed to the microwave heating device. In the microwave heating device, microwave heating is performed so that the temperature of the food powder reaches a predetermined temperature.
+
+---
+
+TITLE      : METHOD AND SYSTEM FOR ANALYZING QUALITY OF A FOOD ITEM
+PATENT     : US20260229048A1  [US]  PENDING
+ASSIGNEE   : NAGRAVISION SARL [CH]; NAGRAVISION SARL
+INVENTORS  : SAHOO BIBHUDANANDA [IN]; JOSEPH ALLWIN [IN]; RAVICHANDRAN SEENUVASAN [IN] et al.
+FILED      : 2026-01-27   PUB: 2026-08-06
+IPC        : G01N, G06V
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260229048A1
+ABSTRACT   : [0000]    A method and system of analyzing a food item comprise receiving, from a user device, sensor data relating to the food item including image data and measurement data including odor data, determining a food class of the food item from a plurality of food classes from the image data and by using a first trained machine learning model, MLM, determining a food quality indicator of the food item based on the measurement data and the determined food class, and transmitting the food class and 
+
+---
+
+TITLE      : HYDROPHOBIC FOOD COATING COMPOSITION
+PATENT     : WO2026162009A1  [WO]  PENDING
+ASSIGNEE   : GRANOLIN SPA [CL]; GRANOLIN SPA
+INVENTORS  : TORRENT GONZÁLEZ FLAVIA ANDREA [CL]; BARRA OLIVA PABLA ANDREA [CL]; TORRENT GONZÁLEZ, Flavia Andrea et al.
+FILED      : 2026-01-29   PUB: 2026-08-06
+IPC        : A23B, A23L, A23P, B65D, C08L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162009A1
+ABSTRACT   : The present invention relates to a hydrophobic food coating composition comprising an oil-in-water (O/W) emulsion system having the following components: at least one base polysaccharide, at least one base lipid, at least one plasticising agent, at least one stabilising agent and at least one non-ionic surfactant, and completing the volume of the emulsion with water.
+
+---
+
+TITLE      : Cooking and Home Food Preservation Implement Storage Assembly
+PATENT     : US20260225767A1  [US]  PENDING
+ASSIGNEE   : BAKER JENNIFER [US]; Baker Jennifer
+INVENTORS  : BAKER JENNIFER [US]; Baker, Jennifer
+FILED      : 2025-02-03   PUB: 2026-08-06
+IPC        : B65D
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260225767A1
+ABSTRACT   : The invention listed herein relates to a portable, stackable storage container assembly for the storage, organization and sanitary containment of implements used for cooking and Home Food Preservation methods such as pressure canning, water bath canning, fermenting, pickling, salting, dehydrating, freezing, vacuum sealing and all other forms of cooking and Home Food Preservation methods. In one embodiment of the invention, the apparatus may consist of multiple storage containers. The storage con
+
+---
+
+TITLE      : FOOD SUPPLEMENT AND PRODUCTION METHOD THEREOF EFFECTIVE ON COGNITIVE FUNCTIONS
+PATENT     : WO2026164586A1  [WO]  PENDING
+ASSIGNEE   : NISANTASI UNIV [TR]; NISANTASI UNIVERSITESI
+INVENTORS  : MUDUROGLU KIRMIZIBEKMEZ AYNUR [TR]; MUDUROGLU KIRMIZIBEKMEZ, Aynur
+FILED      : 2025-12-31   PUB: 2026-08-06
+IPC        : A23L, A23P, A61K
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164586A1
+ABSTRACT   : In particular, the present invention relates to a food supplement that prevents and/or eliminates the effects of cognitive impairment occurring in Alzheimer-like dementia types, prevents toxic effects by obtaining the same from natural materials, and reduces the risk of neurodegenerative diseases occurring and/or progressing with its antioxidant effect by using black carrots and chicory roots, and to the food supplement production method that enables the production of this food supplement.
+
+---
+
+TITLE      : METHOD FOR MANUFACTURING PROCESSED MEAT FOOD OR PROCESSED SEAFOOD
+PATENT     : WO2026163544A1  [WO]  PENDING
+ASSIGNEE   : AJINOMOTO CO INC [JP]; 味の素株式会社
+INVENTORS  : MARUTA SOTA [JP]; GESHI KENJIRO [JP]; ABE TAKAAKI [JP] et al.
+FILED      : 2025-10-31   PUB: 2026-08-06
+IPC        : A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163544A1
+ABSTRACT   : Provided is a method for manufacturing a processed meat food or processed seafood having preferable firmness and improved retention of moisture or juice. The method for manufacturing a processed meat food or processed seafood comprises adding, to a raw ingredient, at least one glycosyltransferase selected from the group consisting of branching enzymes and maltotriosyl transferase.
+
+---
+
+TITLE      : WIRELESS FOOD TEMPERATURE PROBE WITH MOISTURE DETECTION FUNCTION
+PATENT     : US20260227244A1  [US]  PENDING
+ASSIGNEE   : SHENZHEN TOPOS SENSOR TECH CO LTD [CN]; Shenzhen TOPOS Sensor Technology Co., LTD.
+INVENTORS  : ZENG ZHAOTING [CN]; ZHANG HUI [CN]; ZENG, ZHAOTING et al.
+FILED      : 2026-03-31   PUB: 2026-08-06
+IPC        : G01K, G01N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260227244A1
+ABSTRACT   : Provided is a wireless food temperature probe with moisture detection function, which includes a probe body and a circuit board component. The probe body includes a metal tip component, a metal tube component, and a first insulation connector. The metal tip component and the metal tube component are connected through the first insulation connector. The metal tip component is provided with a first temperature sensor for detecting an internal temperature of food and is electrically connected to th
+
+---
+
+TITLE      : CONVEYOR SYSTEM AND METHOD FOR ARRANGING FOOD PRODUCTS
+PATENT     : WO2026162463A1  [WO]  PENDING
+ASSIGNEE   : SLEEGERS TECHNIEK B V [NL]; SLEEGERS TECHNIEK B.V.
+INVENTORS  : ROOSEN CAROLUS GODEFRIDUS PETRUS [NL]; VAN VALDEREN AARON KOENRAAD FRANK [NL]; ROOSEN, Carolus Godefridus Petrus et al.
+FILED      : 2026-01-27   PUB: 2026-08-06
+IPC        : B65G
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162463A1
+ABSTRACT   : The present invention relates to a conveyor system (1) for distributing food products (2) comprising an infeed unit (3) comprising an infeed belt (6), a distributor unit (4) downstream of the infeed unit (3) and an outfeed unit (5) downstream of the distributing unit (3). The distributing unit (3) comprises a distributor belt (7), a belt support (22) on which the distributor belt is arranged and a belt support drive (34) configured to move the respective belt support with the distributor belt in
+
+---
+
+TITLE      : Brosse à dent SMART
+PATENT     : FR3171763A1  [FR]  PENDING
+ASSIGNEE   : BAHA KHADIDJA [FR]; BAHA Khadidja
+INVENTORS  : BAHA KHADIDJA [FR]; BAHA, Khadidja
+FILED      : 2025-02-05   PUB: 2026-08-07
+IPC        : A46B
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=FR3171763A1
+ABSTRACT   : Si nous ne souvenons pas de la date du déballage de notre brosse à dent, nous risquons de continuer à l'utiliser au delà de la durée recommandée par les professionnels dentaires, à savoir, moins de 3 mois d'usage. Ce dispositif consiste à indiquer à l'usager la fin de vie de sa brosse à dent pour la changer. Une couleur présente sur l'une ou plusieurs parties de la brosse (les poils, la tête et/ou le manche) s'estompera à l'usage. Lorsque cette couleur disparaît ou laisse des résidus, l'usager d
+
+---
+
 TITLE      : WATER BOTTLE
 PATENT     : WO2026148930A1  [WO]  PENDING
 ASSIGNEE   : SGUAI SHENZHEN INTELLIGENT TECH CO LTD [CN]; 小水怪（深圳）智能科技有限公司
@@ -5358,164 +5608,6 @@ ABSTRACT   : Stopper scrubbers (100) for use in sinks (10,300) and methods of us
 
 ---
 
-TITLE      : A DUAL-BASKET AIR FRYER WITH TOP AND BOTTOM BACK-BLOWING
-PATENT     : EP4736713A1  [EP]  PENDING
-ASSIGNEE   : ZHEJIANG BIYI ELECTRIC APPLIANCE CO LTD [CN]; Zhejiang Biyi Electric Appliance Co., Ltd.
-INVENTORS  : LOU HONGXIAN [CN]; ZANG HAO [CN]; ZHOU LICONG [CN] et al.
-FILED      : 2025-04-27   PUB: 2026-05-06
-IPC        : A47J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736713A1
-ABSTRACT   : [0001]    The present invention relates to a dual-basket air fryer that features top and bottom back-blowing, which aims at addressing a drastic temperature disparity between the upper and lower chambers of these products and similar models poses challenges in simultaneously processing and cooking food that requires high temperatures. An essential aspect of the structural design is the increased height of the thermal barrier at the top of both chambers, which transitions from the front opening t
-
----
-
-TITLE      : HYDROGEN PRODUCTION PROCESS AND PLANT
-PATENT     : EP4737391A1  [EP]  PENDING
-ASSIGNEE   : TECHNIP ENERGIES FRANCE [FR]; Technip Energies France
-INVENTORS  : KARNIK ABHIJEET [FR]; LOPEZ JORGE ALBERTO PENA [FR]; ROWLAND NICOLE [FR] et al.
-FILED      : 2024-10-30   PUB: 2026-05-06
-IPC        : B01D, C01B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737391A1
-ABSTRACT   : A process and production plant for producing hydrogen. In one example of the process, a reformer reaction unit for generating a reformate including hydrogen is heated using a burner that is fed fuel gas, a high-purity oxygen gas, and recycled flue gas. The burner generates a flue gas that is at least 95% water and carbon dioxide. The flue gas generated in this manner may be optimized for subsequent carbon-dioxide capture processes.
-
----
-
-TITLE      : A NOISE ABSORBER SOUND BARRIER AND ITS PRODUCTION METHOD
-PATENT     : EP4737114A1  [EP]  PENDING
-ASSIGNEE   : HATKO KAUCUK ANONIM SIRKETI [TR]; Hatko Kaucuk Anonim Sirketi
-INVENTORS  : HATKO NEJAN [TR]; HATKO, Nejan
-FILED      : 2024-11-01   PUB: 2026-05-06
-IPC        : B32B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737114A1
-ABSTRACT   : The present invention relates to a sound barrier (7) containing styrene butadiene rubber (SBR) granule core layers (2), waste carbon fiber mesh (1) sandwiched between two SBR granule core layers (2), low-density polyethylene (LDPE) foam layer, placed on the frontal side of the sound barrier (7) and synthetic grass layer (3) by mass, placed on the back side of the sound barrier (7). The SBR granule core layers (2) contain SBR granule with the diameter size of 1.0 - 4.0 mm obtained from end-of-lif
-
----
-
-TITLE      : A DIGITAL IMAGING SYSTEM FOR CONVERTING A FILM CAMERA INTO A DIGITAL CAMERA
-PATENT     : EP4738856A1  [EP]  PENDING
-ASSIGNEE   : TECAM GMBH [DE]; Tecam GmbH
-INVENTORS  : CHOI YONG-JAE [DE]; Choi, Yong-Jae
-FILED      : 2024-11-05   PUB: 2026-05-06
-IPC        : G03B, H04N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4738856A1
-ABSTRACT   : The invention relates to a digital imaging system for converting a film camera into a digital camera, a method for capturing a digital image with a film camera using a digital imaging system and a kit of parts comprising a digital imaging system for converting a film camera into a digital camera.
-
----
-
-TITLE      : SEMITRANSPARENT THIN FILM SOLAR CELL AND PREPARATION METHOD THEREOF
-PATENT     : EP4739049A1  [EP]  PENDING
-ASSIGNEE   : TALLINN UNIV OF TECHNOLOGY [EE]; Tallinn University of Technology
-INVENTORS  : KRUNKS MALLE [EE]; SPALATU NICOLAE [EE]; KATERSKI ATANAS [EE] et al.
-FILED      : 2024-11-04   PUB: 2026-05-06
-IPC        : H10F, H10K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4739049A1
-ABSTRACT   : [0001]    Disclosed is a customized semitransparent thin film solar cell comprising a substrate layer comprising a transparent conductive oxide on top of a glass layer, a double electron transport layer comprising a first electron transport layer and a second electron transport layer deposited by ultrasonic spray pyrolysis (USP), an absorber layer deposited by USP, and a back contact layer.
-
----
-
-TITLE      : PIEZOELECTRIC ACTUATOR CONTROLLED SMART FLOW REGULATOR FOR AIRCRAFT OXYGEN SYSTEMS
-PATENT     : EP4738046A1  [EP]  PENDING
-ASSIGNEE   : BE AEROSPACE INC [US]; B/E Aerospace, Inc.
-INVENTORS  : SELVARAJ SUGUMARAN [IN]; GOEKE RALF [DE]; SELVARAJ, Sugumaran et al.
-FILED      : 2025-10-27   PUB: 2026-05-06
-IPC        : G05D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4738046A1
-ABSTRACT   : [0001]    A piezoelectric actuator controlled smart flow regulator (300) is provided. The piezoelectric actuator controlled smart flow regulator includes an inlet chamber (302) and an actuator chamber (304). The inlet chamber includes an inlet port (310). The actuator chamber includes an exit port (312), a sealing disc (316, 416), and at least one piezoelectric actuator (318). The at least one piezoelectric actuator is coupled to the sealing disc. In a deactivated state, the sealing disc is in c
-
----
-
-TITLE      : CURABLE COMPOSITION AND METHODS FOR FORMING FILM AND MANUFACTURING ARTICLE
-PATENT     : EP4738008A1  [EP]  PENDING
-ASSIGNEE   : CANON KK [JP]; Canon Kabushiki Kaisha
-INVENTORS  : ITO YUTO [JP]; ITO TOSHIKI [JP]; KAWATA ISAO [JP] et al.
-FILED      : 2025-10-30   PUB: 2026-05-06
-IPC        : G03F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4738008A1
-ABSTRACT   : A curable composition includes a polymerizable compound (a), a photopolymerization initiator (b), and a solvent (d). The curable composition has a viscosity of 1.3 mPa·s to 60 mPa·s at 23°C and 1 atm. The amount of the solvent (d) ranges from more than 5% to 95% by volume relative to the entire curable composition. The boiling point of the solvent (d) is less than 250°C. The curable composition in a state excluding the solvent (d) has a viscosity of 8 mPa·s to 30 mPa·s at 23°C and 1 atm.
-
----
-
-TITLE      : CERAMIC HOLLOW FIBER MEMBRANE COATED WITH NANO-GRAPHITE AND METHOD FOR PREPARING SAME
-PATENT     : EP4736994A1  [EP]  PENDING
-ASSIGNEE   : UNIV EWHA IND COLLABORATION [KR]; Ewha University-Industry Collaboration Foundation
-INVENTORS  : PARK CHANHYUK [KR]; KIM SOYOUN [KR]; KIM HYEYOOL [KR] et al.
-FILED      : 2025-10-22   PUB: 2026-05-06
-IPC        : B01D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736994A1
-ABSTRACT   : The present disclosure relates to a ceramic hollow fiber membrane coated with nano graphite and a method for preparing the same and more particularly, to a coated ceramic hollow fiber membrane including a hollow tubular ceramic support with pores; and a coating layer disposed on an outer peripheral surface of the ceramic support and the coating layer is a nano graphite coating layer coated with a nano graphite and a method for preparing the same. According to the present disclosure, a ceramic ho
-
----
-
-TITLE      : CONTROLLED RELEASE GRANULATE
-PATENT     : EP4736847A1  [EP]  PENDING
-ASSIGNEE   : FARMOLAB S L [ES]; UMBRELLA BUSINESS GROUP S L [ES]; Farmolab S.L. et al.
-INVENTORS  : SANCHEZ RIOS PEDRO LUIS [ES]; SAEZ LORENTE FRANCESC XAVIER [ES]; Sanchez Rios, Pedro Luis et al.
-FILED      : 2024-10-30   PUB: 2026-05-06
-IPC        : A61K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736847A1
-ABSTRACT   : The invention relates to a controlled release granulate comprising: a microcrystalline cellulose core; a first coating comprising vitamin B1, vitamin B2, vitamin B3, vitamin B5, vitamin B6, vitamin B9, vitamin B12, a source of Zn, R-lipoic acid, or an acceptable salt or racemate, L-carnosine or an acceptable salt, olive extract as hydroxytyrosol source, and at least one antioxidant, and a second coating deposited upon the first coating comprising a modified cellulose and/or an hydroalcoholic pol
-
----
-
-TITLE      : LASER-VORRICHTUNG MIT GEKRÜMMTEM SPIEGEL
-PATENT     : DE102024132082A1  [DE]  PENDING
-ASSIGNEE   : AMS OSRAM INT GMBH [DE]; ams-OSRAM International GmbH
-INVENTORS  : ALAEE RASOUL [DE]; GHASEMI AFSHAR FARHANG [DE]; Alaee, Rasoul et al.
-FILED      : 2024-11-05   PUB: 2026-05-07
-IPC        : H01S
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=DE102024132082A1
-ABSTRACT   : A VCSEL includes epitaxial layers on a main surface of a substrate layer. The epitaxial layers include an n-doped semiconductor layer, a p-doped semiconductor layer, and an active region arranged between the n-doped semiconductor layer and the p-doped semiconductor layer. The VCSEL includes a first distributed Bragg reflector (DBR) disposed on or over a second surface of the substrate layer opposite to the main surface, the first DBR including a concave portion with respect to a direction facing
-
----
-
-TITLE      : A GAS ANALYSER AND METHOD OF USE THEREOF
-PATENT     : AU2024227482A1  [AU]  PENDING
-ASSIGNEE   : STIEINDL MICHAAEL; SHEPHERD KARYN; Stieindl, Michaael et al.
-INVENTORS  : STIEINDL MICHAAEL; Stieindl, Michaael
-FILED      : 2024-10-18   PUB: 2026-05-07
-IPC        : A61M, A62B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024227482A1
-ABSTRACT   : (Figure 1) The present invention relates to gas analyser for analysing breathing grade air from a compressed course. In one form, the gas analyser includes: a body having an inlet connectable to the compressed source, an outlet connectable to breathing apparatus, an outlet valve operatively associated with the outlet and a flow path extending between the inlet and the outlet; at least one sensor located in the body and operatively associated with the flow path for sensing a selected gas or conta
-
----
-
-TITLE      : DIGITAL GLAZE PRODUCTION PROCESS
-PATENT     : EP4737409A1  [EP]  PENDING
-ASSIGNEE   : MARDIECAR S L [ES]; Mardiecar, S.L.
-INVENTORS  : VILLALBA BALAGUER MARIA ISABEL [ES]; Villalba Balaguer, Maria Isabel
-FILED      : 2024-11-04   PUB: 2026-05-06
-IPC        : B02C, B41M, C03C, C09D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737409A1
-ABSTRACT   : [0001]    Digital glaze production process for particulate mixtures for ceramic glazes intended for high-discharge digital inkjet printing with a minimum resolution of 200 dpi, comprising a weighted dry ball mill (1) with a dynamic classifier (2) and a pneumatic homogenizer (3), characterized in that it comprises the steps of:
-dosing and feeding (4) the raw materials of the glaze components.
-milling the components in a weighted dry ball mill (1); where an induced airflow through the ball mill (1
-
----
-
-TITLE      : PERSONALIZED STRUCTURAL AND FUNCTIONAL CARDIAC DIGITAL TWIN FOR ASSESSMENT OF CARDIOPULMONARY ENDURANCE OF ATHLETE
-PATENT     : EP4738377A1  [EP]  PENDING
-ASSIGNEE   : TATA CONSULTANCY SERVICES LTD [IN]; Tata Consultancy Services Limited
-INVENTORS  : MAZUMDER OISHEE [IN]; SINHA ANIRUDDHA [IN]; MUKHERJEE AYAN [IN] et al.
-FILED      : 2025-10-21   PUB: 2026-05-06
-IPC        : A61B, G16H
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4738377A1
-ABSTRACT   : [0001]    A method and system that builds a regression model from a personalized structural and functional Cardiac Digital Twin (CDT) for assessment of cardiopulmonary endurance of an athlete is disclosed. The personalized Cardiac Digital Twin (CDT), which replicates echo like functionality under dynamic conditions integrates subject specific kinematics data real time acquired to run personalized CDT and generate intrinsic metrices to evaluate performance in different phases of exercise or endur
-
----
-
 ============================================================
 DOMAIN: Procesos Avanzados Cervecería
 ============================================================
@@ -5541,6 +5633,18 @@ IPC        : G01R, H01M
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026090098A2
 ABSTRACT   : Methods of assessing an energy storage device include providing material for a metal-chalcogen battery, washing the metal anode in a first organic solvent to form a polychalcogenide free metal anode upon which gas chromatography is performed on the polychalcogenide free metal anode to quantify the amount of M0, soaking the chalcogen cathode and the remainder of the metal- chalcogen battery in the organic solvent used to wash the metal anode to form a first solution comprising methylated polychal
+
+---
+
+TITLE      : METHOD AND INJECTION MOULD FOR PRODUCING A TWO-LAYER OR MULTI-LAYER PREFORM
+PATENT     : WO2026162648A1  [WO]  PENDING
+ASSIGNEE   : ALPLA WERKE ALWIN LEHNER GMBH & CO KG [AT]; ALPLA WERKE ALWIN LEHNER GMBH & CO. KG
+INVENTORS  : HAAS BENJAMIN [AT]; SIEGL ROBERT [AT]; HAAS, Benjamin et al.
+FILED      : 2026-01-29   PUB: 2026-08-06
+IPC        : B29B, B29C
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162648A1
+ABSTRACT   : The invention relates to a method and an injection mould for producing a two-layer or multi-layer preform (20) for producing a container. The preform has a preform base, a preform body and a preform neck. The method comprises the steps of: - providing a semi-finished product (50) in an injection mould, wherein the semi-finished product (50) consists of at least 90%, preferably at least 95%, in particular at least 98%, PEF or PEF copolymers, - overmoulding said semi-finished product (50) in a sec
 
 ---
 
@@ -5616,138 +5720,6 @@ ABSTRACT   : Abstract A method for creating custom shoe inserts using pressure m
 
 ---
 
-TITLE      : EXTRACORPOREAL LIFE SUPPORT SYSTEM WITH AIR PURGE CONTROL
-PATENT     : EP4736906A1  [EP]  PENDING
-ASSIGNEE   : LIVANOVA DEUTSCHLAND GMBH [DE]; LivaNova Deutschland GmbH
-INVENTORS  : SCHUBERT FRIEDEMANN [DE]; KOHNEN LENA [DE]; STOLL SASCHA EWALD [DE] et al.
-FILED      : 2025-10-15   PUB: 2026-05-06
-IPC        : A61M
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4736906A1
-ABSTRACT   : Extracorporeal blood treatment systems including air purge control capabilities are disclosed. An example extracorporeal blood treatment system may include an extracorporeal blood pathway between a venous side of the heart and an arterial side of the heart, an air trap positioned along the blood pathway, a first sensor positioned adjacent the bubble trap and a second sensor positioned adjacent the bubble trap. Further, a first signal sent by the first sensor is configured to activate air removal
-
----
-
-TITLE      : Ad hoc electric vehicle charging assembly and network
-PATENT     : AU2025220877A1  [AU]  PENDING
-ASSIGNEE   : POWERTECH PTY LTD; Powertech Pty Ltd
-INVENTORS  : WEIGHELL KAINE; WEIGHELL, Kaine
-FILED      : 2025-08-25   PUB: 2026-05-07
-IPC        : B60L, H02S
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025220877A1
-ABSTRACT   : Provided is an ad hoc electric vehicle charging assembly 10 comprising a substantially cuboid support frame 12 configured for rapid deployment via lifting equipment and/or a forklift, and a photovoltaic arrangement comprising at least three sets 16 of photovoltaic panels mounted to the support frame 12 and deployable from at least three adjoining faces 18,20 of the cuboid support frame 12. The photovoltaic panels 16 are deployable between a stowed position (in which said panels lie substantially
-
----
-
-TITLE      : SYSTEMS AND METHODS FOR MANAGING ICE ACCRETIONS DURING FLIGHT OF AIRCRAFT
-PATENT     : AU2024349832A1  [AU]  PENDING
-ASSIGNEE   : ARCHER AVIATION INC; ARCHER AVIATION INC.
-INVENTORS  : LEOPOLD DAVID; SPITERI STEPHEN MICHAEL; MARIUS DIEDERIK et al.
-FILED      : 2024-08-30   PUB: 2026-05-07
-IPC        : B64C, B64D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024349832A1
-ABSTRACT   : Embodiments of the present disclosure provide systems and methods for averting, shedding, or otherwise managing ice accretions that may develop during flight of an aircraft. Example systems and methods selectively modulate propeller parameters in a way that does not disrupt a flight trajectory; direct oil from a lubrication and cooling path to targeted sections of ice-prone surfaces to manage ice accretion in a way that does not unduly increase the total volume of oil, require larger pumps, or c
-
----
-
-TITLE      : A vent for roof cavity
-PATENT     : AU2025204907A1  [AU]  PENDING
-ASSIGNEE   : UGARKOVIC JOSEPH; UGARKOVIC, Joseph
-INVENTORS  : UGARKOVIC JOSEPH; UGARKOVIC, Joseph
-FILED      : 2025-06-27   PUB: 2026-05-07
-IPC        : F24F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025204907A1
-ABSTRACT   : A vent for a roof cavity A vent for a roof cavity, the vent including: a duct including an inlet and an outlet; and one or more mounts for mounting the duct to one or more rafters. The duct is configured to be placed between two rafters and adjacent or against the roof skin so that the thermal insulation laid on the ceiling panel in the roof cavity can be placed against the duct walls, and then a gap is maintained for cooling air to flow from outside a dwelling to inside the roof cavity. A vent 
-
----
-
-TITLE      : DISHWARE
-PATENT     : AU2025256072A1  [AU]  PENDING
-ASSIGNEE   : HENDEK RUSEN; HENDEK, RUSEN
-INVENTORS  : HENDEK RUSEN; HENDEK, RUSEN
-FILED      : 2025-10-21   PUB: 2026-05-07
-IPC        : A47G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025256072A1
-ABSTRACT   : The present disclosure is directed to a dishware item comprising a forked lip for matingly receiving: (i) a securing member extending from a platform; or (ii) a rim and lip of another dishware item; to form a securable connection therebetween. 5 The present disclosure is directed to a dishware item comprising a forked lip for matingly receiving: (i) a securing member extending from a platform; or (ii) a rim and lip of another 5 dishware item; to form a securable connection therebetween. ct c t 1
-
----
-
-TITLE      : Modular Survey Peg
-PATENT     : AU2025252544A1  [AU]  PENDING
-ASSIGNEE   : PINKSTERBOER GAVIN; Pinksterboer, Gavin
-INVENTORS  : PINKSTERBOER GAVIN; Pinksterboer, Gavin
-FILED      : 2025-10-15   PUB: 2026-05-07
-IPC        : G01C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025252544A1
-ABSTRACT   : Abstract A modular survey peg comprising a metallic peg shaft and a plastic head attachable to the peg shaft. The peg shaft is solid, and the plastic head defines an open body exposing a tubular socket, with radial bracing between the body and the tubular socket. The tubular socket is configured to receive an end of the peg shaft, providing structural integrity and facilitating secure attachment. Abstract A modular survey peg comprising a metallic peg shaft and a plastic head attachable to the p
-
----
-
-TITLE      : TRAILER OR DOLLY TRAILER FOR USE IN A TRACTOR-TRAILER CONFIGURATION
-PATENT     : AU2025202681A1  [AU]  PENDING
-ASSIGNEE   : VIBE ENERGY MOTION PTY LTD; Vibe Energy Motion Pty Ltd
-INVENTORS  : BUSSENSCHUTT STEPHEN; Bussenschutt, Stephen
-FILED      : 2025-04-16   PUB: 2026-05-07
-IPC        : B60L, B62D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025202681A1
-ABSTRACT   : The present disclosure relates to semi-trailers. In one form the present disclosure relates to improvements in a trailer or a dolly to be hauled by a tractor unit. In a further form, there is provided a propulsion system configured for retro fit to a trailer or dolly trailer for use in a tractor-trailer configuration. In one form, the trailer or dolly trailer comprises: a. one or more eAxles; b. one or more batteries operatively connected to said eAxles; c. a means for effecting CAN bus communic
-
----
-
-TITLE      : AN AWNING ASSEMBLY
-PATENT     : AU2025252662A1  [AU]  PENDING
-ASSIGNEE   : BUSHWAKKA PTY LTD; Bushwakka Pty Ltd
-INVENTORS  : LOOTS JOHANNES HENDRIK; LOOTS ANNELIZE; Loots, Johannes Hendrik et al.
-FILED      : 2025-10-20   PUB: 2026-05-07
-IPC        : E04H
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025252662A1
-ABSTRACT   : An awning assembly comprising: a primary hinge and a subsequent hinge both able to be mounted to a vehicle, the primary hinge spaced from the subsequent hinge by a first distance; at least three primary hinge arms mounted for rotation on the primary hinge at least one subsequent hinge arm mounted for rotation on the subsequent hinge, a fabric cover having a substantially main rectangular portion and a first additional rectangular portion; wherein the main rectangular portion of the fabric cover 
-
----
-
-TITLE      : HYBRID CLIP
-PATENT     : EP4737745A1  [EP]  PENDING
-ASSIGNEE   : TERMAX COMPANY [US]; Termax Company
-INVENTORS  : DICKINSON DANIEL JAMES [US]; DICKINSON, Daniel James
-FILED      : 2025-10-30   PUB: 2026-05-06
-IPC        : F16B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737745A1
-ABSTRACT   : [0001]    A hybrid plastic carrier and metal fastener clip includes a base plate; a pair of legs extending from the base plate; a locking tab formed on the leg; at least one wing extending from the leg comprising: an engagement region on the wing; and snap knuckles. The legs bend away from each other to form a head portion and a lead in section. A locking tab is formed on the second leg. A pair of opposing wing tips at ends of the first and second wings are operable to engage a chassis slot. A p
-
----
-
-TITLE      : METHOD FOR OPTIMIZING A WORKING PROCESS
-PATENT     : EP4737096A1  [EP]  PENDING
-ASSIGNEE   : SOLERA THERMOFORM GROUP SPA [IT]; Solera-Thermoform Group SpA
-INVENTORS  : ALDINIO-COLBACHINI DACIANO [IT]; SCHIAVO FABIO [IT]; ALDINIO-COLBACHINI, Daciano et al.
-FILED      : 2024-10-30   PUB: 2026-05-06
-IPC        : B29C, G05B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4737096A1
-ABSTRACT   : A method for optimizing a working process implemented by a computer, the process comprising at least: a heating step of a semi-finished product; a forming step, wherein the semi-finished product is transformed into an intermediate product; a cooling step, wherein the intermediate product is transformed into a manufactured article, the method comprising an algorithm operating according to the following steps: a definition step, wherein process parameters are defined; process variables having valu
-
----
-
-TITLE      : A Two Tier Appliance Stand
-PATENT     : AU2025248759A1  [AU]  PENDING
-ASSIGNEE   : BRITEC INNOVATIVE PRODUCTS PTY LTD; BRITEC INNOVATIVE PRODUCTS PTY LTD
-INVENTORS  : KAHALE TONY; Kahale, Tony
-FILED      : 2025-10-13   PUB: 2026-05-07
-IPC        : D06F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025248759A1
-ABSTRACT   : 5833A-AU A two tier appliance stand (10, 110, 210) is disclosed which locates a clothes dryer appliance (25) above a clothes washing appliance (26) to thereby conserve floor space. The stand has a U-shaped base (11, 111, 211) with two arms (12, 13, 112, 113, 212, 213) and a crossbar (14, 114, 5 214). The stand has two side frames (16, 17, 116, 117, 216, 217) each of which extends upwardly above a corresponding one of the arms, and a dryer support platform (19, 119, 219) extending between an uppe
-
----
-
 ============================================================
 DOMAIN: Reciclado PET
 ============================================================
@@ -5785,6 +5757,30 @@ IPC        : C08G
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089410A1
 ABSTRACT   : The present invention relates to a crystalline polyester resin and a preparation method for same. The crystalline polyester resin has the degree of crystallization required for a molding process and/or a recycling process whilst experiencing minimal fusion during the preparation process, and thus can exhibit excellent productivity, moldability, and recyclability.
+
+---
+
+TITLE      : PET CARRIER
+PATENT     : WO2026162453A1  [WO]  PENDING
+ASSIGNEE   : INVENTX LTD [IE]; INVENTX LIMITED
+INVENTORS  : BOWE CHRISTOPHER [IE]; BOWE, Christopher
+FILED      : 2026-01-26   PUB: 2026-08-06
+IPC        : A01K
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162453A1
+ABSTRACT   : A pet carrier (30) comprises a substantially cuboid casing having a top (34), a bottom (35), a front side (36), a rear side (37), a left side (38) and a right side (39). The pet carrier has an access point in a side or the top, with a closure operable to releasably close the access point. The bottom is provided with a bottom access point (42) dimensioned to permit a pet to pass therethrough. The pet carrier further comprises a rotatable compartment (41) within the substantially cuboid casing, th
+
+---
+
+TITLE      : SYSTEM AND METHOD FOR AI-DRIVEN PET MANAGEMENT AND ENGAGEMENT
+PATENT     : WO2026163242A1  [WO]  PENDING
+ASSIGNEE   : TOTUS ANIMALIBUS MANAGEMENT TECH PRIVATE LIMITED [IN]; TOTUS ANIMALIBUS MANAGEMENT TECHNOLOGIES PRIVATE LIMITED
+INVENTORS  : HARKAULI DEVAARCHIT [IN]; EGUVANTI SHILPA [IN]; VAISHNAV SHASHWAT [IN] et al.
+FILED      : 2026-01-29   PUB: 2026-08-06
+IPC        : A01K, G06N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163242A1
+ABSTRACT   : The present invention transforms pet management by integrating AI-driven recommendations, geofencing for services, and an automated marketplace. By leveraging data analytics, personalized insights, and gamification, it enhances pet care efficiency and user engagement.
 
 ---
 
