@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-08-24
+Last updated : 2026-08-31
 Total patents: 500
 
 ============================================================
@@ -627,6 +627,30 @@ IPC        : H10K
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089266A1
 ABSTRACT   : This electronic device may include a display panel. The display panel may comprise: a first electrode layer; a light-emitting layer disposed on the first electrode layer and including a first light-emitting portion and a second light-emitting portion; a second electrode layer disposed on the light-emitting layer; an insulating layer disposed beneath the second electrode layer and disposed between the first light-emitting portion and the second light-emitting portion so as to define the first lig
+
+---
+
+TITLE      : COMPOSITIONS COMPRISING DIGESTIVE ENZYMES
+PATENT     : US20260250654A1  [US]  PENDING
+ASSIGNEE   : CLARA FOODS CO [US]; Clara Foods Co.
+INVENTORS  : ZHONG WEIXI [US]; ROTHMAN STEVE [US]; KALE ANIKET [US] et al.
+FILED      : 2026-01-16   PUB: 2026-08-27
+IPC        : C12N, C12P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260250654A1
+ABSTRACT   : [0000]    Provided herein are compositions with enhanced protein content, compositions with functional proteins, protein combinations and methods for the preparation thereof.
+
+---
+
+TITLE      : CELL LINES ADAPTED AND/OR GENETICALLY MODIFIED FOR RECOMBINANT PROTEIN PRODUCTION AND FOOD APPLICATIONS
+PATENT     : WO2026176304A2  [WO]  PENDING
+ASSIGNEE   : BTL HEALTHCARE TECH A S [CZ]; BTL HEALTHCARE TECHNOLOGIES A.S.
+INVENTORS  : JANOUSEK JIRI [CZ]; HERMANOVA KATERINA [CZ]; KOHOUTOVA ANNA [CZ] et al.
+FILED      : 2026-02-17   PUB: 2026-08-27
+IPC        : C12N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026176304A2
+ABSTRACT   : The present invention is related to the field of cell cultures. In particular, the invention relates to genetically modified and/or adapted non-human metazoan cell lines to grow in conditions appropriate for cell cultivation on a large scale suitable for industrial applications, in serum-free and protein-free media. The invention further relates to the use of these non-human metazoan cell lines as expression systems for recombinant protein production and/or as a consumable product for human and/
 
 ---
 
@@ -1506,66 +1530,6 @@ ABSTRACT   : The invention relates to a crystallization method for purified tere
 
 ---
 
-TITLE      : DAMAGED DNA REPAIRING COMPOSITION INCLUDING GABA AS ACTIVE INGREDIENT
-PATENT     : WO2026105840A1  [WO]  PENDING
-ASSIGNEE   : SANWA SHURUI CO LTD [JP]; 三和酒類株式会社
-INVENTORS  : NAKAMURA AKIHIRO [JP]; HOKAZONO HIDEKI [JP]; ITO JUNJI [JP] et al.
-FILED      : 2025-11-14   PUB: 2026-05-21
-IPC        : A23L, A61K, A61P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026105840A1
-ABSTRACT   : [Problem] To provide a composition for a supplement, medicine, food or drink, feed, or similar that is capable of repairing damaged DNA. [Solution] This damaged DNA repairing composition that is characterized by including GABA as an active ingredient can be used as a highly safe supplement, medicine, food or drink, or feed, for anti-aging or health maintenance.
-
----
-
-TITLE      : Method of making transparent graphene using fermentation
-PATENT     : US20260139280A1  [US]  PENDING
-ASSIGNEE   : LI ZHI MIN [TW]; LI ZHI-MIN
-INVENTORS  : LI ZHI-MIN [TW]; LI, ZHI-MIN
-FILED      : 2026-01-18   PUB: 2026-05-21
-IPC        : C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260139280A1
-ABSTRACT   : A method of making transparent graphene using fermentation is applied to obtain nano-grade graphene powder by heating raw materials. The powder is mixed with yeast and warm water to cultivate a graphene starter culture. The culture is mixed with edible starch, sugar powder, and warm water and fermented at 38° C. to 40° C. The fermented product is crushed, dried, and pulverized into gray-black powder. A second fermentation is performed, followed by a second drying and pulverizing into white powde
-
----
-
-TITLE      : ASPERGILLUS TUBINGENSIS, MICROBIAL AGENT, BIOMASS FERMENTATION PRODUCT, AND PREPARATION AND USE THEREOF
-PATENT     : WO2026103717A1  [WO]  PENDING
-ASSIGNEE   : ANGEL YEAST CO LTD [CN]; 安琪酵母股份有限公司
-INVENTORS  : QIN XIANWU [CN]; SUN YAFANG [CN]; XIAO YAFEI [CN] et al.
-FILED      : 2025-11-12   PUB: 2026-05-21
-IPC        : C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026103717A1
-ABSTRACT   : Provided are a strain of Aspergillus tubingensis AMCC 20011, a microbial agent containing the strain and a preparation method therefor, a fermentation culture product of the strain and a preparation method therefor, and use of the strain or the microbial agent. The strain is deposited in the China Center for Type Culture Collection (CCTCC) with a deposit number of CCTCC NO: M 20241203. The strain has the ability to produce cellulase, β-glucosidase, and xylanase, has the characteristic of sacchar
-
----
-
-TITLE      : PROBIOTICS USEFUL IN AQUACULTURE
-PATENT     : WO2026104337A1  [WO]  PENDING
-ASSIGNEE   : UNIV GENT [BE]; UNIVERSITEIT GENT
-INVENTORS  : RWEZAWULA PHILIP [BE]; BOSSIER PETER [BE]; VANROMPAY DAISY [BE] et al.
-FILED      : 2025-11-10   PUB: 2026-05-21
-IPC        : A23K, A61K, C12N, C12Q
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026104337A1
-ABSTRACT   : The present invention relates to bacterial probiotics useful in aquaculture. Specifically, it discloses a selection of non-hemolytic, proteolytic, stress-tolerant bacterial strains with enhanced quorum- quenching capabilities. Moreover, the method allows detection of novel species of bacteria whose probiotic attributes could be massive for aquaculture. From the isolated bacteria, selected species were tested for their probiotic efficacy in Nile tilapia (Oreochromis niloticus), a key fish species
-
----
-
-TITLE      : PROCESS FOR THE PURIFICATION OF HUMAN MILK OLIGOSACCHARIDES USING MUTANT ALTERNATIVE Β-GALACTOSIDASE ENZYMES
-PATENT     : WO2026104582A1  [WO]  PENDING
-ASSIGNEE   : CHR HANSEN AS [DK]; CHR. HANSEN A/S
-INVENTORS  : SCHMIDT SEBASTIAN [DE]; FABRY HENNING [DE]; SCHMIDT, Sebastian et al.
-FILED      : 2025-11-13   PUB: 2026-05-21
-IPC        : C07H, C12N, C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026104582A1
-ABSTRACT   : The present invention provides a process for purifying one or more human milk oligosaccharides by bringing a fermentation broth into contact with microbial cells expressing a β-galactosidase that has hydrolytic activity towards lactobionic acid and/or by adding a β-galactosidase that has hydrolytic activity towards lactobionic acid to the fermentation broth.
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -1899,6 +1863,102 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : BIODEGRADABLE COMPOSITIONS AND ARTICLES OF MANUFACTURE
+PATENT     : WO2026178368A1  [WO]  PENDING
+ASSIGNEE   : NORTHERN ILLINOIS RES FOUNDATION [US]; NORTHERN ILLINOIS RESEARCH FOUNDATION
+INVENTORS  : VAEZI MAHDI [US]; VAEZI, Mahdi
+FILED      : 2026-02-20   PUB: 2026-08-27
+IPC        : B65D, C08J, C08L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026178368A1
+ABSTRACT   : Biodegradable or reusable compositions and articles of manufacture having eco-friendly sustainable properties are described. The biodegradable compositions can be effectively used to produce bioplastic resins or reinforce polymers, without the use of plasticizers or thermoplastic additives, using organic, sustainable, renewable and/or recyclable material sources. The bioplastic resins are amenable to use in durable goods, computer parts, food and beverage containers, food and healthcare/cosmetic
+
+---
+
+TITLE      : EGG PACKAGING CONTAINER
+PATENT     : WO2026177316A1  [WO]  PENDING
+ASSIGNEE   : YOON KWANG KEUN [KR]; 윤광근
+INVENTORS  : YOON KWANG KEUN [KR]; 윤광근
+FILED      : 2025-11-26   PUB: 2026-08-27
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026177316A1
+ABSTRACT   : According to one embodiment of the present invention, breakage can be minimized during the distribution and transportation of eggs, the time required for packaging can be minimized, and effects on the environment can be reduced. To this end, in particular, one embodiment of the present invention includes an egg packaging container comprising: an egg tray body part, which has egg accommodation recesses each corresponding to a portion of an egg shell shape, has egg tray edges extended along the up
+
+---
+
+TITLE      : COMPACT VACUUM-SEALED COOLER FOR FOOD OR BEVERAGE PRODUCTS
+PATENT     : US20260251371A1  [US]  PENDING
+ASSIGNEE   : HUFF RONALD [US]; Huff Ronald
+INVENTORS  : HUFF RONALD [US]; Huff, Ronald
+FILED      : 2025-02-23   PUB: 2026-08-27
+IPC        : F25B, F25D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260251371A1
+ABSTRACT   : [0000]    A compact vacuum-sealed cooler for food products is disclosed, designed for countertop use to maintain freshness and desired consistency. The device utilizes a thermoelectric cooling system, employing semiconductors for efficient and environmentally friendly cooling, and a vacuum system to seal the device and lower humidity within the storage area. The cooler maintains a temperature approximately 10-15 degrees Fahrenheit below ambient, ideal for preserving the spread-ability or mixabil
+
+---
+
+TITLE      : AQUEOUS COATING COMPOSITIONS
+PATENT     : WO2026176089A1  [WO]  PENDING
+ASSIGNEE   : XAMPLA LTD [GB]; XAMPLA LIMITED
+INVENTORS  : TAYLOR JAMES WARD [GB]; SARGUSINGH RAEKWON R R G H [GB]; TAYLOR, James Ward et al.
+FILED      : 2026-02-23   PUB: 2026-08-27
+IPC        : C08H, C08K, C09D, D21H
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026176089A1
+ABSTRACT   : The present invention relates to aqueous coating compositions suitable for coating substrates, such as cardboard and paper used in food packaging. The coating compositions are made from plant-derived materials, are storage stable and can be made at high solids contents. The coating compositions can be made from materials that are commonly available in food-grade specifications. This combination of properties makes the coating compositions particularly relevant for food packaging applications, th
+
+---
+
+TITLE      : Multi-Compartment Food And Beverage Container Assembly
+PATENT     : US20260250041A1  [US]  PENDING
+ASSIGNEE   : MUNDY RYAN [US]; Mundy Ryan
+INVENTORS  : MUNDY RYAN [US]; Mundy, Ryan
+FILED      : 2026-02-12   PUB: 2026-08-27
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260250041A1
+ABSTRACT   : [0000]    A multi-compartment food and beverage container assembly is provided. The container assembly comprises a main body container, inner container, and cover. The different container pieces can be easily fastened to each other. The main body container and inner container can be filled with various food and beverage items. The container pieces store the food and beverage items to keep the items fresh. For example, the main container may contain a beverage such as water, energy drink, juice, 
+
+---
+
+TITLE      : BAKERY FOOD MIX CONTAINING PHYSICALLY-MODIFIED WHEAT FLOUR
+PATENT     : WO2026177045A1  [WO]  PENDING
+ASSIGNEE   : NISSHIN SEIFUN WELNA INC [JP]; NISSHIN SEIFUN PREMIX INC [JP]; 株式会社日清製粉ウェルナ et al.
+INVENTORS  : ITO TAKASHI [JP]; YOSHIOKA YASUYUKI [JP]; 伊東　貴史 et al.
+FILED      : 2026-02-13   PUB: 2026-08-27
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026177045A1
+ABSTRACT   : A bakery food mix containing physically-modified wheat flour, wherein the physically-modified wheat flour has a damaged starch content of at least 8 mass% and a wet gluten content of not more than 15 mass%.
+
+---
+
+TITLE      : BEVERAGE BREWING SYSTEM
+PATENT     : US20260248316A1  [US]  PENDING
+ASSIGNEE   : COULEE COFFEE CO [US]; COULEE COFFEE COMPANY
+INVENTORS  : AYLIFFE HAROLD EDWARD TED [US]; DITTAMI GREGORY MARK [US]; AYLIFFE, HAROLD EDWARD "TED" et al.
+FILED      : 2023-06-30   PUB: 2026-08-27
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260248316A1
+ABSTRACT   : A beverage brewing system includes a case, a reservoir, a pump, a heating element, and a holder. The case defines a cup reception bay for receiving a cup and a nozzle assembly positioned above the cup reception bay. The reservoir is positioned within the case for containing a fluid. The pump is positioned within the case for pumping the fluid from the reservoir to the nozzle assembly. The heating element is positioned within the case for heating the fluid as the fluid is pumped to the nozzle ass
+
+---
+
+TITLE      : BEVERAGE CONTAINER WITH CARBONATING LID
+PATENT     : US20260249256A1  [US]  PENDING
+ASSIGNEE   : BRUMIS IMP INC [US]; Brumis Imports Inc.
+INVENTORS  : FOGARTY SEAN [US]; SAGAR SAHIR [US]; ZHENG NINA [US] et al.
+FILED      : 2026-02-24   PUB: 2026-08-27
+IPC        : A47G, B01F, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260249256A1
+ABSTRACT   : [0000]    A beverage container includes a removable lid that is operable to carbonate a liquid in the container. In particular, the lid may include a cartridge portion that includes a cartridge including a compresses gas that may be selectively activated to provide gas to the liquid in the container.
 
 ---
 
@@ -5524,66 +5584,6 @@ IPC        : C22B, G01N
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=FI20246360A1
 ABSTRACT   : A measuring system (1) for preparing at least one gold sample for analysis by an analyzer (4). The measuring system (1) comprises a sample filter (6) configured to receive sample (12) from a carbon in leach (CIL) system (10) and to filter the sample (12) to form clear liquid (8) and a sample device (2). The sample device (2) comprising a housing (22) and a collector (3) at least partly inside the housing (22). The collector (3) comprises activated carbon configured to concentrate dissolved gold 
-
----
-
-TITLE      : dispositif optoélectronique et son processus de fabrication
-PATENT     : FR3168737A1  [FR]  PENDING
-ASSIGNEE   : ALEDIA [FR]; ALEDIA
-INVENTORS  : REN ZAIYUAN [FR]; TCHOULFIAN PIERRE [FR]; CIPRO ROMAIN [FR] et al.
-FILED      : 2024-11-21   PUB: 2026-05-22
-IPC        : H10H
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3168737A1
-ABSTRACT   : Titre : Dispositif optoélectronique et son processus de fabrication L’objet de l’invention est une diode électroluminescente (1) comprenant, agencées dans une direction d’empilement :  - une première région d’injection à base de GaN,  - une première couche barrière à base d’InGaN, de concentration en indium [In]1 ≤ 10 % at.,  - une région active configurée pour émettre un rayonnement lumineux, à base d’InGaN, ayant une concentration en indium [In]a > [In]1, ladite région active étant directement
-
----
-
-TITLE      : PIGE DE NIVELLEMENT OPTIMISEE POUR CHAPE DE BETON
-PATENT     : FR3168613A1  [FR]  PENDING
-ASSIGNEE   : VERAS ANNE [FR]; VERAS GAUTHIER [FR]; VERAS Anne et al.
-INVENTORS  : VERAS ANNE [FR]; VERAS GAUTHIER [FR]; VERAS, Anne et al.
-FILED      : 2024-11-21   PUB: 2026-05-22
-IPC        : E04G, G01F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3168613A1
-ABSTRACT   : L’invention concerne une pige de nivellement (1) pour la réalisation d'une chape de béton réalisée sur un substrat, ladite pige de nivellement (1) comportant une tige (2), une embase (3), située en partie inférieure de la tige (2) et destinée à venir en contact avec le substrat, la tige (2) étant solidaire de ladite embase (3) et un organe d’indication de niveau (4), mobile le long de la tige (2) et maintenu sur la tige (2) à une hauteur quelconque le long de ladite tige (2) de manière à constit
-
----
-
-TITLE      : Packaged Dry Pet Food System
-PATENT     : US20260138776A1  [US]  PENDING
-ASSIGNEE   : CONSUMERS SUPPLY DISTRIBUTING LLC [US]; Consumers Supply Distributing LLC
-INVENTORS  : REES KEITH [US]; WEITZEL COREY [US]; MEYER ERIC [US] et al.
-FILED      : 2025-11-21   PUB: 2026-05-21
-IPC        : A23K, B65D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260138776A1
-ABSTRACT   : [0000]    A system for a packaged dry pet food is provided. The system includes a container having a plurality of individual packages of dry pet food. The dry pet food contained within each of the individual packages comprises between 80 to 99 percent by weight of the same ingredients and an equal percentage by weight of a protein. At least a first package contains a dry pet food of a first flavor, and at least a second package contains a dry pet food of a second flavor that is different from th
-
----
-
-TITLE      : FOOD PROCESSING METHOD AND FOOD PROCESSING DEVICE
-PATENT     : WO2026105586A1  [WO]  PENDING
-ASSIGNEE   : DEATS FOOD PLANNING CO LTD [JP]; ディーツフードプランニング株式会社
-INVENTORS  : OHKAWA NORIHIRO [JP]; 大川　訓弘
-FILED      : 2025-10-30   PUB: 2026-05-21
-IPC        : A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026105586A1
-ABSTRACT   : [Problem] To focus on effective practical use of a food material that is ordinarily discarded, and achieve suitable processing of the waste food material even when a large quantity thereof is produced. [Solution] Proposed is a food processing method comprising: a stirring step in which edible organic fibers that have been crushed into a powder and an alkaline solution are stirred; and a mixing step in which a refined flour and a stirred substance, which is a substance that was generated via the 
-
----
-
-TITLE      : PYROLYSIS PROCESS
-PATENT     : WO2026104400A1  [WO]  PENDING
-ASSIGNEE   : COROPLAST FRITZ MUELLER GMBH & CO K G [DE]; BERGISCHE UNIV WUPPERTAL KOERPERSCHAFT DES OEFFENTLICHEN RECHTS [DE]; COROPLAST FRITZ MÜLLER GMBH & CO. K. G. et al.
-INVENTORS  : BRAUN MARCO [DE]; KLING HANS-WILLI [DE]; BRAUN, Marco et al.
-FILED      : 2025-11-11   PUB: 2026-05-21
-IPC        : C07C, C08J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026104400A1
-ABSTRACT   : The present application relates to a process for the pyrolytic production of benzoic acid and/or terephthalic acid from PET-containing materials, in which a melt of a PET-containing material (2) is present at a temperature of 350 to 750°C, in particular 380 to 600°C, most particularly preferably from 400 to 500°C, in a zone "A" in the lower region of a pyrolysis reactor (1), and the resulting pyrolysis gas cools in a zone "C", such that a material containing benzoic acid and/or terephthalic acid
 
 ---
 
