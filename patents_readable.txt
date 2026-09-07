@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-08-31
+Last updated : 2026-09-07
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,30 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : CARBONATED BEVERAGE COMPOSITION COMPRISING PARAXANTHINE, A MECHANISTICALLY NON-REDUNDANT DUAL CHOLINERGIC PRECURSOR SYSTEM, TAURINE-PARAXANTHINE SYNERGISTIC COMPLEX, AND A CARBONATION-STABLE SPORE- FORMING PROBIOTIC, AND METHODS OF USE THEREOF
+PATENT     : US20260256851A1  [US]  PENDING
+ASSIGNEE   : ALEXANDER DAVID MICHAEL [US]; TOLMACH MICHAEL [US]; PLOPII LLC [US] et al.
+INVENTORS  : ALEXANDER DAVID MICHAEL [US]; TOLMACH MICHAEL [US]; Alexander, David Michael et al.
+FILED      : 2026-04-08   PUB: 2026-09-03
+IPC        : A61K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260256851A1
+ABSTRACT   : A ready-to-drink carbonated beverage composition for cognitive enhancement comprising paraxanthine (1,7-dimethylxanthine, 100-500 mg) as an adenosine A1/A2A receptor antagonist, substantially free of caffeine; Alpha-GPC (100-600 mg) providing free choline for acetylcholine synthesis; citicoline (100-500 mg) providing cytidine for Kennedy pathway phosphatidylcholine membrane biosynthesis; taurine (500-2,000 mg) providing GABAergic modulation and osmoregulatory support; and a carbonation-stable sp
+
+---
+
+TITLE      : SENESCENT CELL ELIMINATING AGENT
+PATENT     : WO2026182185A1  [WO]  PENDING
+ASSIGNEE   : EZAKI GLICO CO LTD [JP]; 江崎グリコ株式会社
+INVENTORS  : TOMURA TOMOHIKO [JP]; HIGA YUKI [JP]; SAMBE HARUYO [JP] et al.
+FILED      : 2026-02-26   PUB: 2026-09-03
+IPC        : A23L, A61K, A61P
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026182185A1
+ABSTRACT   : The purpose of the present invention is to provide a formulation and a composition that can be ingested as a food or beverage and that are effective in removing senescent cells or suppressing motor function deterioration. The present invention provides a senescent cell eliminating agent comprising an effective amount of a compound represented by formula (I) or (II): (wherein R1 represents any structure; R2, R3, R4 and R6 each independently represent hydrogen, hydroxy, halogen, C1-6 alkyl which m
 
 ---
 
@@ -627,6 +651,30 @@ IPC        : H10K
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089266A1
 ABSTRACT   : This electronic device may include a display panel. The display panel may comprise: a first electrode layer; a light-emitting layer disposed on the first electrode layer and including a first light-emitting portion and a second light-emitting portion; a second electrode layer disposed on the light-emitting layer; an insulating layer disposed beneath the second electrode layer and disposed between the first light-emitting portion and the second light-emitting portion so as to define the first lig
+
+---
+
+TITLE      : SYSTEM FOR MAKING A FROZEN FOOD OR DRINK
+PATENT     : US20260256164A1  [US]  PENDING
+ASSIGNEE   : IB APPLIANCES US HOLDINGS LLC [US]; IB APPLIANCES US HOLDINGS, LLC
+INVENTORS  : PLAZARTE ENRIQUE [US]; REED ANDREW [US]; MATHIEU DAVID [US] et al.
+FILED      : 2026-02-26   PUB: 2026-09-03
+IPC        : A23G
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260256164A1
+ABSTRACT   : [0000]    A system for making a frozen food or drink includes a base unit having a cooling plate and a cooling system disposed in the base unit and configured to cool the cooling plate. The cooling plate has a first horizontal dimension and a second vertical dimension, where the first horizontal dimension is greater than the second vertical dimension.
+
+---
+
+TITLE      : SWEETNESS ADJUSTER
+PATENT     : WO2026182062A1  [WO]  PENDING
+ASSIGNEE   : FUJI OIL CO LTD [JP]; 不二製油株式会社
+INVENTORS  : IDE MISATO [JP]; SAKURAI YUHO [JP]; TOMI KENICHI [JP] et al.
+FILED      : 2026-02-25   PUB: 2026-09-03
+IPC        : A23C, A23D, A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026182062A1
+ABSTRACT   : Provided is a material capable of adjusting the expression of sweetness of food and drink while enhancing the sweetness of the food and drink. It has been found that an oil-in-water emulsion containing an oily material and water can adjust the timing at which sweetness is most enhanced according to the emulsified particle size in a specific range while enhancing the sweetness of food and drink.
 
 ---
 
@@ -1458,78 +1506,6 @@ ABSTRACT   : Disclosed herein are genetically engineered Kluyveromyces marxianus
 
 ---
 
-TITLE      : FIRE RESISTANT CONCRETE BOARDS COMPRISING XONOTLITE AND WOLLASTONITE FILLERS
-PATENT     : EP4748812A1  [EP]  PENDING
-ASSIGNEE   : PRTC NV [BE]; PRTC NV
-INVENTORS  : BERGE BERT [BE]; WU XIAO [BE]; BERGE, Bert et al.
-FILED      : 2025-10-27   PUB: 2026-05-27
-IPC        : C04B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748812A1
-ABSTRACT   : A composition and process for making fire and heat resistant board, which comprises preparing a slurry of a mixture of hydraulic cement, spherical xonotlite particles, non natural wollastonite, functional fillers/additives and reinforcing fibres with balanced water; shaping the slurry into a board by means of the sheet-forming technologies; air curing the board and drying; wherein the non natural wollastonite is recovered from waste of calcium silicate hydrate materials by calcination at <1000°C
-
----
-
-TITLE      : ADHESIVE COMPOSITION USEFUL FOR GLUING PLYWOOD
-PATENT     : EP4748902A1  [EP]  PENDING
-ASSIGNEE   : EVERTREE [FR]; EVERTREE
-INVENTORS  : MANGEON PASTORI CARINE [FR]; BAILLARIN FADOUA [FR]; MANGEON PASTORI, Carine et al.
-FILED      : 2024-11-25   PUB: 2026-05-27
-IPC        : C08L, C09J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748902A1
-ABSTRACT   : The invention relates to an aqueous adhesive composition comprising a legume seed protein, an animal albumin, preferably ovalbumin, a lignin and an amine-based azetidinium-functional crosslinkerThe invention also relates to a class 2 plywood and its preparation process using said adhesive composition.
-
----
-
-TITLE      : VACCINE FORMULATION
-PATENT     : EP4748392A1  [EP]  PENDING
-ASSIGNEE   : MINERVAX APS [DK]; MinervaX ApS
-INVENTORS  : FISCHER PER [DK]; KANTSØ BJØRN [DK]; BOMHOLT JULIE [DK] et al.
-FILED      : 2024-11-20   PUB: 2026-05-27
-IPC        : A61K, C07K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748392A1
-ABSTRACT   : [0001]    The technology proposed herein concerns a vaccine formulation comprising a) an antigen comprising an amino acid sequence having at least 90% sequence identity with the amino acid sequence of the N-terminal region of a first group B Streptococcus surface protein, and b) a buffer having a pH of 6 to 8 and comprising: a. aluminum hydroxide gel particles, and b. a buffer system comprising: i. phosphate, and optionally also a salt, or ii. histidine, and optionally also a sugar. The technolo
-
----
-
-TITLE      : N-TERMINAL REGION OF A GROUP B STREPTOCOCCUS SURFACE PROTEIN AS A CARRIER FOR THE CAPSULAR POLYSACCHARIDE
-PATENT     : EP4748391A1  [EP]  PENDING
-ASSIGNEE   : MINERVAX APS [DK]; MinervaX ApS
-INVENTORS  : FISCHER PER [DK]; JOHANSSON LINDBOM BENGT [SE]; FISCHER, Per et al.
-FILED      : 2024-11-20   PUB: 2026-05-27
-IPC        : A61K, C07K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748391A1
-ABSTRACT   : [0001]    An immunogenic complex comprising i) an amino acid sequence of an N-terminal region of a group B Streptococcus surface protein selected from the group consisting of: a first amino acid sequence according to SEQ ID NO: 16, or an amino acid sequence having at least 98%, such as 99%, identity thereto; a second amino acid sequence according to SEQ ID NO: 18 or an amino acid sequence having at least 98%, such as 99%, identity thereto; and a third amino acid sequence according to SEQ ID NO: 
-
----
-
-TITLE      : A REACTOR, A PLANT AND A PROCESS FOR THERMOCHEMICAL CONVERSION OF SOLID BIOMASS TO BIOCHAR
-PATENT     : EP4748906A1  [EP]  PENDING
-ASSIGNEE   : C44 ZITTAU GMBH [DE]; C44-Zittau GmbH
-INVENTORS  : HOLZWARTH VALENTIN [CH]; HOLZWARTH, Valentin
-FILED      : 2024-11-26   PUB: 2026-05-27
-IPC        : C10B, C10L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748906A1
-ABSTRACT   : The present invention relates to a reactor for thermochemical conversion of solid biomass to biochar, in particular pyrolysis, consisting of a reactor chamber with a reactor chamber wall, a reactor chamber bottom, an inlet opening and an outlet opening, an outer retort arranged within the reactor chamber with an outer retort wall, an outer retort bottom, an outer retort lid and an outer retort opening, and an inner retort removably arranged in the outer retort with an inner retort wall, an inner
-
----
-
-TITLE      : CRYSTALLIZATION METHOD FOR PURIFIED TEREPHTHALIC ACID
-PATENT     : EP4748821A1  [EP]  PENDING
-ASSIGNEE   : DEPOLY SA [CH]; DePoly SA
-INVENTORS  : SUDAN SYLVAIN [CH]; Sudan, Sylvain
-FILED      : 2024-11-26   PUB: 2026-05-27
-IPC        : C07C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748821A1
-ABSTRACT   : The invention relates to a crystallization method for purified terephthalic acid (PTA) to obtain crystalline PTA with an average crystal size of approx. 30-150 microns, the method comprising in the following order the steps of: (a) providing in a reactor a solution of 2-13 wt% of purified metalated salt of terephthalic acid (M-TP) in water at a pH of 7; (b) heating the M-TP solution to a crystallization temperature of 40-90°C and stirring the solution; (c) adding H<sub>2</sub>SO<sub>4</sub> drop
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -1863,6 +1839,114 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : PACKAGING CONTAINER MADE OF BIODEGRADABLE FIBER MATERIAL
+PATENT     : US20260257831A1  [US]  PENDING
+ASSIGNEE   : PAPACKS SALES GMBH [DE]; PAPACKS SALES GMBH
+INVENTORS  : DAG TAHSIN [DE]; LEIBROCK MANUEL [DE]; DAG MEMET [DE] et al.
+FILED      : 2026-02-11   PUB: 2026-09-03
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260257831A1
+ABSTRACT   : A packaging container made of biodegradable fiber material, comprising a shell-shaped base body with a bottom wall, a surrounding side wall and a peripheral rim, and a lid with a lid wall and a lid rim that extends complementary to the peripheral rim, wherein the base body and the lid are produced from a pulp containing a mixture of water and fresh fiber by means of a mold, wherein alkyl ketene dimers are added to the pulp as an additive, wherein the base body and the lid are dried and pressed a
+
+---
+
+TITLE      : ENHANCED SEALING FOR FLEXILE PACKAGING
+PATENT     : WO2026182947A1  [WO]  PENDING
+ASSIGNEE   : GENERAL MILLS INC [US]; GENERAL MILLS, INC.
+INVENTORS  : GRANT BRIAN [US]; TUSZKIEWICZ GEORGE [US]; CARLSON NATE [US] et al.
+FILED      : 2026-02-17   PUB: 2026-09-03
+IPC        : B32B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026182947A1
+ABSTRACT   : A packaging material and packages made therefrom are provided. The packaging material comprises a sealing configuration comprising a combination of sealable materials. In embodiments, the sealable materials may be selected from a heat sealable film, a heat seal coating material, and/or a cold seal coating material. The combination of the sealable materials enables reliable sealing at high packaging line speeds.
+
+---
+
+TITLE      : ENHANCED SEALING FOR FLEXILE PACKAGING
+PATENT     : WO2026182938A1  [WO]  PENDING
+ASSIGNEE   : GENERAL MILLS INC [US]; GENERAL MILLS. INC.
+INVENTORS  : GRANT BRIAN [US]; TUSZKIEWICZ GEORGE [US]; CARLSON NATE [US] et al.
+FILED      : 2026-02-13   PUB: 2026-09-03
+IPC        : B32B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026182938A1
+ABSTRACT   : A packaging material and packages comprising such packaging material are provided. The packaging material comprises a laminate of a cavitated heat sealable film and a layer of recyclable material. The layer of recyclable material is selected from paper or recyclable polymeric materials. Laminates with the cavitated heat sealable film are configured to provide improved sealing compared to laminates employing a non-cavitated heat sealable film.
+
+---
+
+TITLE      : FLOW RESTRICTOR FOR A BEVERAGE DISPENSING LINE
+PATENT     : WO2026180651A1  [WO]  PENDING
+ASSIGNEE   : ANHEUSER BUSCH INBEV S A [BE]; ANHEUSER-BUSCH INBEV S.A.
+INVENTORS  : STEINMETZ HARALD [DE]; STEINMETZ, Harald
+FILED      : 2026-02-26   PUB: 2026-09-03
+IPC        : B67D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026180651A1
+ABSTRACT   : A flow restrictor 10 configured to be inserted and removed from a beer line 20 for controlling foam production, the flow restrictor having a tubular body 14 defining a flow path along a central axis, a restrictor piece 11 integral with the tubular body and arranged across the flow path, bisecting the tubular body and defining an upstream part 17 on one side of the restrictor piece and a downstream part 18 on the other side of the restrictor piece. The restrictor piece comprises a plurality of op
+
+---
+
+TITLE      : METHODS AND SYSTEMS FOR VISUALLY DETERMINING THE STATE OF A MACHINE LINE
+PATENT     : US20260260378A1  [US]  PENDING
+ASSIGNEE   : KRONES AG [DE]; Krones AG
+INVENTORS  : JAVIR SIMRAN [DE]; ALSHEIKH AHMAD [DE]; ALBRECHT THOMAS [DE] et al.
+FILED      : 2026-02-25   PUB: 2026-09-03
+IPC        : G06T
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260260378A1
+ABSTRACT   : [0000]    The present disclosure relates to various methods and systems for generating control parameters of a machine line, in particular a machine line for filling and packaging food and/or beverages. The present disclosure presents a new approach to the precise analysis of occupancy levels in filling systems by using modern, transformer-based AI models. The various models developed for this purpose include, for example, a segmentation model, a similarity model and an object recognition model,
+
+---
+
+TITLE      : BEVERAGE PACKAGE
+PATENT     : US20260256307A1  [US]  PENDING
+ASSIGNEE   : GLOBAL ADVANTAGE HOLDINGS INC [US]; Global Advantage Holdings, Inc.
+INVENTORS  : PERRAUT JOE [US]; PERRAUT, Joe
+FILED      : 2026-02-27   PUB: 2026-09-03
+IPC        : A47G, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260256307A1
+ABSTRACT   : [0000]    A beverage package includes a container, a closure, and a straw. The container is formed to include a liquid-storage space and includes a floor, a sidewall, and a handle. The straw is arranged to extend into the liquid-storage space and is configured to withdraw liquid from the liquid-storage space upon application of a suction force on the straw.
+
+---
+
+TITLE      : DEVICE FOR COVERING A BEVERAGE CONTAINER
+PATENT     : AU2026201117A1  [AU]  PENDING
+ASSIGNEE   : KLEVER CAP PTY LTD; Klever Cap Pty Ltd
+INVENTORS  : TONGES BENJAMIN; GRANT ELIJAH; Tonges, Benjamin et al.
+FILED      : 2026-02-15   PUB: 2026-09-03
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2026201117A1
+ABSTRACT   : Abstract The invention relates to a beverage container covering device comprising a lid assembly movable between a closed position covering an opening of a beverage container and an open position permitting drinking; a user-operable actuator; a mechanical linkage operatively coupling the actuator to the lid assembly such that actuation of the actuator causes movement of the lid assembly to the open position; and a biasing element configured to urge the lid assembly toward the closed position upo
+
+---
+
+TITLE      : BEVERAGE AND METHOD FOR ENHANCING MILKINESS
+PATENT     : WO2026181430A1  [WO]  PENDING
+ASSIGNEE   : ASAHI SOFT DRINKS CO LTD [JP]; アサヒ飲料株式会社
+INVENTORS  : NISHIO HIROSHI [JP]; IMADA KENTA [JP]; 西尾　洋 et al.
+FILED      : 2025-11-26   PUB: 2026-09-03
+IPC        : A23C, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026181430A1
+ABSTRACT   : A beverage according to the present invention contains ethyl isovalerate, a low-calorie sweetener, and milk.
+
+---
+
+TITLE      : BEVERAGE AND METHOD FOR SUPPRESSING MILK SMELL
+PATENT     : WO2026181429A1  [WO]  PENDING
+ASSIGNEE   : ASAHI SOFT DRINKS CO LTD [JP]; アサヒ飲料株式会社
+INVENTORS  : NISHIO HIROSHI [JP]; IMADA KENTA [JP]; 西尾　洋 et al.
+FILED      : 2025-11-26   PUB: 2026-09-03
+IPC        : A23C, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026181429A1
+ABSTRACT   : A beverage according to the present invention contains allulose, stevia, and milk.
 
 ---
 
@@ -4386,6 +4470,30 @@ ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coa
 
 ---
 
+TITLE      : AGENT FOR REDUCING UNPLEASANT ODOR IN PROTEIN-CONTAINING FOOD, METHOD FOR REDUCING UNPLEASANT ODOR IN PROTEIN-CONTAINING FOOD, AND METHOD FOR PRODUCING PROTEIN-CONTAINING FOOD WITH REDUCED UNPLEASANT ODOR
+PATENT     : WO2026182160A1  [WO]  PENDING
+ASSIGNEE   : AJINOMOTO CO INC [JP]; 味の素株式会社
+INVENTORS  : OSAWA HIROTO [JP]; YAMADA MARIN [JP]; ABE TAKAAKI [JP] et al.
+FILED      : 2026-02-26   PUB: 2026-09-03
+IPC        : A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026182160A1
+ABSTRACT   : The present invention relates to: an agent for reducing an unpleasant odor derived from a protein, the agent containing trimethylglycine; a method for reducing the unpleasant odor, the method comprising bringing trimethylglycine into contact with a food containing a protein; or a method for producing a food in which the unpleasant odor has been reduced, the method comprising adding trimethylglycine to a raw material containing a protein.　The present invention is capable of providing: an agent fo
+
+---
+
+TITLE      : PROCESS FOR PREPARING A PLANT-BASED FOOD DOUGH
+PATENT     : WO2026182665A1  [WO]  PENDING
+ASSIGNEE   : AAK AB PUBL [SE]; AAK AB (PUBL)
+INVENTORS  : CUNHA RUI-PAULO [SE]; BERENSCHOT ERIK [SE]; MARSHALL NATHAN [SE] et al.
+FILED      : 2026-02-24   PUB: 2026-09-03
+IPC        : A23J
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026182665A1
+ABSTRACT   : Disclosed herein is a process for preparing a plant-based food dough using an extruder, said extruder comprising an extruder barrel and a cooling die, the process comprising the steps of: A). injecting into the extruder barrel: • less than 56% by weight of non-animal protein relative to the total weight of the plant-based food dough; • less than 46% by weight of a starch relative to the total weight of the plant-based food dough; • from 13 to 40% by weight of a fat composition comprising a liqui
+
+---
+
 TITLE      : FOOD MANAGEMENT DEVICE, FOOD MANAGEMENT SYSTEM, FOOD MANAGEMENT METHOD, FOOD MANAGEMENT PROGRAM, AND STORAGE MEDIUM
 PATENT     : US20260245381A1  [US]  PENDING
 ASSIGNEE   : SHARP DISPLAY TECH CORPORATION [JP]; Sharp Display Technology Corporation
@@ -5475,115 +5583,6 @@ IPC        : B01J, H01F
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748489A1
 ABSTRACT   : [0001]    The present invention relates to an immobilized metal-functionalized magnetic nanoparticle (IM-MNP) comprising a ferrite core and a coating comprising an aminosilane moiety, a chelating moiety and a divalent transition metal cation. The present invention further relates to a composition of IM-MNPs, a method of manufacturing IM-MNPs, use of a composition of IM-MNPs for purifying a target protein, and a method of purifying a target protein from a biological sample.
-
----
-
-TITLE      : PROCESS AND PLANT FOR THE PRODUCTION OF A RAW SYNTHESIS GAS OR HYDROGEN
-PATENT     : EP4748785A1  [EP]  PENDING
-ASSIGNEE   : CASALE SA [CH]; CASALE SA
-INVENTORS  : MOREO PIETRO [CH]; GENOVA GIOVANNI [IT]; MOREO, Pietro et al.
-FILED      : 2024-11-20   PUB: 2026-05-27
-IPC        : C01B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748785A1
-ABSTRACT   : [0001]    The present invention relates to a process or plant (1) for the production of a raw synthesis gas (10) or of a hydrogen-containing product (20).
-[0002]    Said process comprises the following steps: (I) provision of a hydrocarbon feedstock (2) comprising one or more heavy hydrocarbon(s) in an overall amount comprised from 5% to 70% molar; said one or more heavy hydrocarbon(s) being aliphatic and/or aromatic hydrocarbon(s), or mixtures of aliphatic and/or aromatic hydrocarbons, having a
-
----
-
-TITLE      : A herbal medicine, Glycetract, and its manufacturing process
-PATENT     : AU2024259896A1  [AU]  PENDING
-ASSIGNEE   : PHYTOMED MEDICINAL HERBS LTD; Phytomed Medicinal Herbs Limited
-INVENTORS  : CHEN ZHIXIA; CHAMBERLAIN MICHAEL; Chen, Zhixia et al.
-FILED      : 2024-11-11   PUB: 2026-05-28
-IPC        : A61K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=AU2024259896A1
-ABSTRACT   : Abstract This invention belongs to the field of herbal extraction technology and relates to a herbal medicine, Glycetract, and its manufacturing process. The invention provides a preparation method for the Glycetract of the herbal medicine, using polyols as the extraction solvent, combined with ultrasonic treatment, heating, and/or percolation. The method provided by the invention significantly increases the content of active ingredients in the Glycetract product, enhances production efficiency,
-
----
-
-TITLE      : Smart Water Bottle with Air-Path Sip Detection and Real-Time On-Bottle Feedback
-PATENT     : US20260137224A1  [US]  PENDING
-ASSIGNEE   : DIGGLE ANDREW CHRISTOPHER [AU]; DIGGLE ANDREW CHRISTOPHER
-INVENTORS  : DIGGLE ANDREW CHRISTOPHER [AU]; DIGGLE, ANDREW CHRISTOPHER
-FILED      : 2025-09-14   PUB: 2026-05-21
-IPC        : A47G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260137224A1
-ABSTRACT   : A hydration bottle provides immediate, sip-synchronised feedback using an air-path sensing architecture. A one-way air inlet valve in fluid communication with the bottle interior is instrumented by a pressure-responsive sensor that produces an electrical sip-event when a user withdraws liquid. An electronic control unit drives on-bottle actuators—preferably LEDs that illuminate a light-diffusing flask—within a real-time window (exemplary ≤500 ms) of sip detection. Calibrated thresholds, filterin
-
----
-
-TITLE      : INFANT BOTTLE NIPPLE
-PATENT     : US20260137597A1  [US]  PENDING
-ASSIGNEE   : REMASTERED SLEEP LLC [US]; REMastered Sleep LLC
-INVENTORS  : SCHNEIDER WILL [US]; OLMANSON ANDERS LEIF [US]; BUCARO MICHAEL [US] et al.
-FILED      : 2025-11-20   PUB: 2026-05-21
-IPC        : A61J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260137597A1
-ABSTRACT   : A baby bottle nipple including a flexible nipple body, a nipple tip, and a valve. The flexible nipple body has a body wall. The nipple tip has a tip wall that is more rigid than the body wall, a lumen defined through the nipple tip, and an opening disposed at a distal end of the nipple tip, the opening in fluidic communication with the lumen. The valve is disposed within the lumen such that the valve is disposed between an interior of the nipple body and the opening, and the valve has a closed c
-
----
-
-TITLE      : CHROMATOGRAPHY SYSTEM EMPLOYING ONE OR MORE SMART BOTTLES
-PATENT     : WO2026106865A1  [WO]  PENDING
-ASSIGNEE   : DIONEX CORP [US]; DIONEX CORPORATION
-INVENTORS  : AL-ESAWI HUSAM [US]; VADLAPUDI RAVI [IN]; AL-ESAWI, Husam et al.
-FILED      : 2025-11-06   PUB: 2026-05-21
-IPC        : G01N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026106865A1
-ABSTRACT   : In one example, a system comprises a chromatography instrument intaking a first liquid to generate a flow through the flow path thereof and discharging a second liquid from the flow path. The system has a smart bottle including a liquid container portion used to supply the first liquid or collect the second liquid. An electronics portion of the smart bottle is fixedly attached to the liquid container portion and includes a sensor configured to sense an amount of liquid in the liquid container po
-
----
-
-TITLE      : METHOD FOR TREATING WASTE, SUCH AS BIOWASTE, COMPRISING NON-SYNTHETIC BIODEGRADABLE ORGANIC MATTER AND SOLID IMPURITIES
-PATENT     : WO2026104723A1  [WO]  PENDING
-ASSIGNEE   : SUEZ INT [FR]; SUEZ INTERNATIONAL
-INVENTORS  : GUILAYN FELIPE [FR]; MOSCOVIZ ROMAN [FR]; ROUEZ MAXIME [FR] et al.
-FILED      : 2025-11-18   PUB: 2026-05-21
-IPC        : B09B, C02F, C12M, C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026104723A1
-ABSTRACT   : The invention relates to a method for treating waste, said waste comprising non-synthetic biodegradable organic matter and solid impurities, characterized in that said method comprises the following steps: - a) a step of biological treatment of said waste under anaerobic conditions, during which fluidized waste is produced; - b) a step of separating the solid impurities from said fluidized waste, during which purified waste is produced.
-
----
-
-TITLE      : STRUCTURE MULTICOUCHES POUR DISPOSITIF PHOTONIQUE ET PROCÉDÉ POUR SA FABRICATION
-PATENT     : FR3168655A1  [FR]  PENDING
-ASSIGNEE   : CENTRE NATIONAL DE LA RECHERCHE SCIENT [FR]; ECOLE CENTRALE DE LYON [FR]; UNIV CLAUDE BERNARD LYON 1 [FR] et al.
-INVENTORS  : CUEFF SÉBASTIEN [FR]; BERGUIGA LOTFI [FR]; BENTATA FOUAD [FR] et al.
-FILED      : 2024-11-21   PUB: 2026-05-22
-IPC        : G02F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3168655A1
-ABSTRACT   : L’invention concerne une structure multicouches pour dispositif photonique, comprenant, sur un substrat support (10), un empilement de couches (20) comprenant : une couche sous-jacente (21) en un premier matériau choisi parmi les oxydes de magnésium, d’hafnium, de zirconium, de zinc ou de strontium-titane, une couche active (22) d’un sel d’antimoine et de soufre, sélénium ou tellure, disposée sur la couche sous-jacente (21) et en contact direct avec elle, une couche sus-jacente (23) en un deuxiè
-
----
-
-TITLE      : Composition cosmétique ou dermatologique comprenant une mérocyanine, un composé Thiopyridinone et un agent réducteur
-PATENT     : FR3168514A1  [FR]  PENDING
-ASSIGNEE   : LOREAL [FR]; L'OREAL
-INVENTORS  : BIETTE LORENE [FR]; SOUDANI SALAHDDINE [FR]; BIETTE, Lorene et al.
-FILED      : 2024-11-21   PUB: 2026-05-22
-IPC        : A61K, A61Q
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3168514A1
-ABSTRACT   : Titre : Composition cosmétique ou dermatologique comprenant une mérocyanine, un composé Thiopyridinone et un agent réducteur La présente invention concerne une composition cosmétique ou dermatologique comprenant au moins une merocyanine et au moins un composé Thiopyridinone convenablement sélectionnés ; ainsi qu’au moins un agent réducteur.  La présente invention a également pour objet l’utilisation d’au moins un agent réducteur pour faciliter le détachage des tissus, en particulier les vêtement
-
----
-
-TITLE      : MEASURING SYSTEM, CIL SYSTEM, AND METHOD FOR PREPARING GOLD SAMPLE
-PATENT     : FI20246360A1  [FI]  PENDING
-ASSIGNEE   : METSO FINLAND OY [FI]; Metso Finland Oy
-INVENTORS  : MOILANEN JARI [FI]; KAARTINEN JANI [FI]; Moilanen, Jari et al.
-FILED      : 2024-11-21   PUB: 2026-05-22
-IPC        : C22B, G01N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FI20246360A1
-ABSTRACT   : A measuring system (1) for preparing at least one gold sample for analysis by an analyzer (4). The measuring system (1) comprises a sample filter (6) configured to receive sample (12) from a carbon in leach (CIL) system (10) and to filter the sample (12) to form clear liquid (8) and a sample device (2). The sample device (2) comprising a housing (22) and a collector (3) at least partly inside the housing (22). The collector (3) comprises activated carbon configured to concentrate dissolved gold 
 
 ---
 
