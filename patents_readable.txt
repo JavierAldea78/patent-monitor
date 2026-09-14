@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-09-07
+Last updated : 2026-09-14
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,30 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : ASSISTANCE SYSTEM, ASSISTANCE DEVICE, PROGRAM, AND COOKING APPLIANCE
+PATENT     : WO2026186828A1  [WO]  PENDING
+ASSIGNEE   : KOBAYASHI AKIHITO [JP]; 小林　彰人
+INVENTORS  : KOBAYASHI AKIHITO [JP]; 小林　彰人
+FILED      : 2026-03-04   PUB: 2026-09-10
+IPC        : A23L, G01N
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026186828A1
+ABSTRACT   : This assistance system assists in quality control pertaining to the taste of a food/beverage, the assistance system comprising one or more processors. The one or more processors measure an electrical characteristic of the food/beverage, evaluate quality pertaining to the taste of the food/beverage in accordance with the electrical characteristic, and output an instruction relating to quality control of the food/beverage on the basis of the evaluation.
+
+---
+
+TITLE      : PLANT-BASED CONSUMER PRODUCTS WITH HIGH PROTEIN CONTENT AND IMPROVED FLAVOR PROFILE AND METHODS FOR PRODUCING SAME
+PATENT     : WO2026188161A1  [WO]  PENDING
+ASSIGNEE   : ALPINE BIO INC [US]; ALPINE BIO, INC.
+INVENTORS  : SOLOMATIN SERGEY [US]; GUERRA BRAVO RODRIGO E [US]; HOGAN DANIEL J [US] et al.
+FILED      : 2026-03-06   PUB: 2026-09-10
+IPC        : A23J, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026188161A1
+ABSTRACT   : Disclosed are compositions, food products, and methods for producing a soy protein isolate (SPI) characterized by enhanced solubility, reduced off-flavor, and reduced levels of undesired compound(s). The disclosed SPI compositions enable production of beverage, semi-solid, and solid consumer products with protein levels comparable to or exceeding dairy analogues, while being substantially free of off-flavors.
 
 ---
 
@@ -651,6 +675,66 @@ IPC        : H10K
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089266A1
 ABSTRACT   : This electronic device may include a display panel. The display panel may comprise: a first electrode layer; a light-emitting layer disposed on the first electrode layer and including a first light-emitting portion and a second light-emitting portion; a second electrode layer disposed on the light-emitting layer; an insulating layer disposed beneath the second electrode layer and disposed between the first light-emitting portion and the second light-emitting portion so as to define the first lig
+
+---
+
+TITLE      : A PROCESS FOR CONVERTING WHEY INTO A FUNCTIONAL FOOD COMPOSITION
+PATENT     : WO2026185875A1  [WO]  PENDING
+ASSIGNEE   : SUNJYOTI UDHYOG [IN]; SUNJYOTI UDHYOG
+INVENTORS  : SUKHATME SARVESH ABHAY [IN]; THOKE TUSHAR PRAVINSING [IN]; PATIL SHRUTI [IN] et al.
+FILED      : 2026-02-01   PUB: 2026-09-10
+IPC        : A23C, A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026185875A1
+ABSTRACT   : The present invention discloses a process for converting whey into a functional food composition. The process comprises adjusting the pH of acid whey between 6.0 to 9.0 using a food-grade neutralizing agent, optionally concentrating the whey, and subjecting it to sequential enzymatic biocatalysis at a temperature between 40°C to 65°C. The treated whey is further concentrated to obtain a fuctional food composition comprising whey proteins, minerals, and prebiotics including atleast galacto-oligos
+
+---
+
+TITLE      : PLANT PROTEIN-BASED HIGH-ENERGY NUTRITIONAL DRINK
+PATENT     : WO2026185384A1  [WO]  PENDING
+ASSIGNEE   : N V NUTRICIA [NL]; N.V. NUTRICIA
+INVENTORS  : CEROLINI VALERIO [NL]; GOUZY ROLAND MATHIEU [NL]; CEROLINI, Valerio et al.
+FILED      : 2026-03-05   PUB: 2026-09-10
+IPC        : A23L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026185384A1
+ABSTRACT   : The invention pertains to heat-sterilized liquid compositions comprising high levels of non-dairy protein comprising micronutrients chloride and potassium, wherein the chloride content of the composition is between 0.05 – 0.2 g/100ml, and wherein the sum of weight of potassium, chloride and sodium is between 0.20 and 0.60g/100ml.
+
+---
+
+TITLE      : FORMULATION OF HIGH PROTEIN FERMENTED DAIRY PRODUCT WITH INCREASED CONDENSED MILK CONTENT
+PATENT     : US20260262666A1  [US]  PENDING
+ASSIGNEE   : CIE GERVAIS DANONE [FR]; Compagnie Gervais Danone
+INVENTORS  : SURIYA NARAYANAN PRADEEP [CA]; CARROLA SONIA [US]; SURIYA NARAYANAN, Pradeep et al.
+FILED      : 2026-03-06   PUB: 2026-09-10
+IPC        : A23C
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260262666A1
+ABSTRACT   : [0000]    The disclosure provides a process for making a fermented dairy product comprising the steps of (i) combining at least 30% of concentrated skim milk with cream and skim milk to produce a dairy base containing from about 5 to about 8.5 wt % protein, and (ii) inoculating the dairy base with a yogurt culture and fermenting to produce a fermented dairy product. The disclosure also provides for fermented dairy products obtained from the process.
+
+---
+
+TITLE      : METHOD FOR OBTAINING A WHEAT PROTEIN CONCENTRATE AND A WHEAT PROTEIN CONCENTRATE OBTAINED THROUGH THIS METHOD
+PATENT     : WO2026187226A1  [WO]  PENDING
+ASSIGNEE   : I S D SIA [LV]; I.S.D., SIA
+INVENTORS  : KASPARANE LIGA [LV]; KASPARANE, Liga
+FILED      : 2026-02-04   PUB: 2026-09-10
+IPC        : A23J, A23L, C12P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026187226A1
+ABSTRACT   : The invention relates to the methods for obtaining a protein concentrate and a protein concentrate obtained by such methods. The method for obtaining a wheat protein concentrate is characterized by the hydrolysis of wheat flour at a starting temperature of 60–70°C and gradually increasing it up to 90–94°C. It is followed by a two-step cooling of the hydrolysed flour mass to about 30°C and its fermentation, which involves the addition of yeast, resulting in a fermented mass containing 8–12 weight
+
+---
+
+TITLE      : METHOD FOR SIMULTANEOUSLY PRODUCING XYLOOLIGOSACCHARIDES AND YEAST PROTEIN FROM CORN COB
+PATENT     : WO2026187130A1  [WO]  PENDING
+ASSIGNEE   : KYUNGPOOK NATIONAL UNIV INDUSTRY ACADEMIC COOPERATION FOUNDATION [KR]; 경북대학교 산학협력단
+INVENTORS  : KIM SOO RIN [KR]; LEE GAYOUNG [KR]; KIM IN JUNG [KR] et al.
+FILED      : 2026-03-04   PUB: 2026-09-10
+IPC        : A23K, C12N, C12P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026187130A1
+ABSTRACT   : The present invention relates to a method for simultaneously producing xylooligosaccharides and yeast protein by simultaneous saccharification and fermentation (SSF) of corn cob using a transformed yeast strain that expresses Thermoanaerobacterium saccharolyticum-derived endo-xylanase on the surface. More specifically, after pretreatment of corn cob, simultaneous saccharification and fermentation of the corn cob can be carried out using a recombinant yeast strain, having Thermoanaerobacterium sa
 
 ---
 
@@ -1558,18 +1642,6 @@ ABSTRACT   : La présente invention concerne un procédé de fabrication d’une
 
 ---
 
-TITLE      : Dispositif et procédé de détection, de classification et d’effarouchement d’un animal volant
-PATENT     : FR3169063A1  [FR]  PENDING
-ASSIGNEE   : AVIA SYSTEM [FR]; AVIA-SYSTEM
-INVENTORS  : NAIDIN PAUL IULIAN [FR]; DELPRAT BERTRAND JEAN BERNARD [FR]; NAIDIN, Paul Iulian et al.
-FILED      : 2024-12-03   PUB: 2026-06-05
-IPC        : A01M, G06Q
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3169063A1
-ABSTRACT   : La présente invention a pour objets un dispositif et un procédé de détection, de classification et d’effarouchement d’un animal volant, et en particulier d’une espèce aviaire ou d’un chiroptère.   L’invention a pour premier objet un dispositif de détection et d’effarouchement d’un animal volant comprenant au moins des moyens pour l’acquisition de données dans une zone de surveillance, des moyens pour l’analyse des données acquises, des moyens pour la génération d’au moins un signal d’effarouchem
-
----
-
 ============================================================
 DOMAIN: Microencapsulación
 ============================================================
@@ -1682,69 +1754,33 @@ ABSTRACT   : The system of regulated heating of tram line switches with remote s
 
 ---
 
-TITLE      : A METHOD AND AN APPARATUS FOR MANUFACTURING CELLULOSIC SLURRY FOR MAN-MADE CELLULOSIC FIBER PRODUCTION
-PATENT     : FI20246415A1  [FI]  PENDING
-ASSIGNEE   : ANDRITZ OY [FI]; Andritz Oy
-INVENTORS  : LARSSON OLA [SE]; CARLSON MAGNUS [FI]; MALKOV SERGEY et al.
-FILED      : 2024-12-04   PUB: 2026-06-05
-IPC        : C08J, C08L, D01D, D01F, D21C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FI20246415A1
-ABSTRACT   : The invention relates to a method for manufacturing cellulosic slurry for man-made cellulosic fiber production having a main process (100), the main process (100) comprising method steps of -providing pulp slurry (101), -dewatering (102) the pulp slurry at least partly to form pulp mass, -opening (108) the pulp mass for producing pulp with loosened cellulosic fibers, -drying (109) the pulp with loosened cellulosic fibers in a flash dryer (11-17) to form fluffy pulp, -mixing (107) the fluffy pulp
-
----
-
-TITLE      : NUTRIENT PREDICTIONS BASED ON FOOD PURCHASE DATA
-PATENT     : WO2026114846A1  [WO]  PENDING
-ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIETE DES PRODUITS NESTLE S.A.
-INVENTORS  : WEI XIAONA [SG]; SINGH SHWETA SUNIL [SG]; MAK TSZ NING [SG] et al.
-FILED      : 2025-11-25   PUB: 2026-06-04
-IPC        : G16H
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026114846A1
-ABSTRACT   : Nutrient prediction systems and methods can include systems and methods of training and testing machine-learning models and food purchase data collection and analysis. For example, a food purchase data collection and analysis system, under the control of at least one processor, can include a purchase data collection device to collect food purchase data at a point of sale of a food basket including information regarding food items purchased and location of the food purchase, an analysis server in
-
----
-
-TITLE      : METHOD AND SYSTEM FOR QUALITY CONTROL OF PROCESSED FOOD PRODUCTS
-PATENT     : WO2026115501A1  [WO]  PENDING
-ASSIGNEE   : POLYSENSE BV [BE]; POLYSENSE BV
-INVENTORS  : VAN DIJCK LUCAS [BE]; BOGAERT GUST [BE]; LAVENT QUINTEN [BE] et al.
-FILED      : 2025-11-28   PUB: 2026-06-04
-IPC        : G06T
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026115501A1
-ABSTRACT   : In a first aspect, the invention relates to a method for quality control of processed food in a production line with a camera, comprising steps such as obtaining a digital base model of a food product, generating a first dataset with variations on this base model, and a second dataset with digital models of defects. These are combined into a third dataset of food products with defects. Furthermore, the method comprises simulating a production environment in which the food models with defects are
-
----
-
-TITLE      : COMPOSITIONS AND FOOD PRODUCTS COMPRISING A RECOMBINANT DONKEY ΒETA-LACTOGLOBULIN (BLG)
-PATENT     : WO2026114793A1  [WO]  PENDING
-ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIÉTÉ DES PRODUITS NESTLÉ S.A.
-INVENTORS  : TINZL MATTHIAS [CH]; MERZ MICHAEL [CH]; VAFEIADI CHRISTINA [CH] et al.
-FILED      : 2025-11-24   PUB: 2026-06-04
-IPC        : A23K, A23L, A61K, C07K, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026114793A1
-ABSTRACT   : The present invention relates to a hypoallergenic composition comprising a recombinant donkey β-lactoglobulin (BLG). Further provided are food products comprising a recombinant donkey BLG, methods of producing a food product comprising a recombinant donkey BLG, and uses of compositions and food products comprising a recombinant donkey BLG in avoiding milk protein allergies.
-
----
-
-TITLE      : Dispositif d’étanchéité au feu comprenant une bande coupe-feu souple pour un ensemble arrière d’une nacelle d’un turboréacteur
-PATENT     : FR3169144A1  [FR]  PENDING
-ASSIGNEE   : SAFRAN NACELLES [FR]; Safran Nacelles
-INVENTORS  : MIOSSEC TONY [FR]; RABASSE BASTIEN DOMINIQUE [FR]; AMBLARD FRÉDÉRIC [FR] et al.
-FILED      : 2024-12-04   PUB: 2026-06-05
-IPC        : B64D, F02C, F02K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3169144A1
-ABSTRACT   : L’invention concerne un ensemble arrière (1) d’une nacelle d’un turboréacteur qui comprend : un inverseur de poussée comprenant une structure fixe arrière ; une tuyère d’éjection de gaz de combustion (3) qui prolonge la structure fixe arrière ; et un pylône de suspension (4) sur lequel la structure fixe arrière est fixée. L’ensemble arrière comprend à un dispositif d’étanchéité au feu qui comprend une bande coupe-feu (6) réalisée dans un matériau souple et résistant au feu, et qui présente un pr
-
----
-
 ============================================================
 DOMAIN: Packaging & Smart Packaging
 ============================================================
+
+TITLE      : KIT FOR PREPARING A BARBECUE GRILL WITH A FIREWOOD
+PATENT     : HRUM20260022U2  [HR]  GRANTED
+ASSIGNEE   : VOLNER MATIJA [HR]; Volner, Matija
+INVENTORS  : VOLNER MATIJA [HR]; Volner, Matija
+FILED      : 2025-04-22   PUB: 2026-09-11
+IPC        : A47J, C10L
+SCORE      : 100
+LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20260022U2
+ABSTRACT   : The invention presents a compact, disposable ecological kit for quick ignition and preparation of barbecue grills. The kit consists of an outer combustible cardboard box (6) in which, from bottom to top, there are functionally arranged ecological starter for kindling (4) in a dedicated drawer, randomly arranged wooden chips (2) and crosswise and densely stacked logs of firewood (1) of hard varieties. On the lower front part of the box there is a perforation for access to the starter (3) which al
+
+---
+
+TITLE      : AN AUTOMATED HYGIENIC BEVERAGE VENDING SYSTEM UTILIZING SEALED CUPS WITH MULTI PRODUCT CAPABILITY
+PATENT     : AU2025412610B1  [AU]  GRANTED
+ASSIGNEE   : DISSANAYAKAGE AJANTHA ROSHAN DISSANAYAKE; DISSANAYAKAGE, Ajantha Roshan Dissanayake
+INVENTORS  : DISSANAYAKAGE AJANTHA ROSHAN DISSANAYAKE; DISSANAYAKAGE LALITHA SAMUDITH DISSANAYAKE; DISSANAYAKAGE CHENITHA DINADITH DISSANAYAKE et al.
+FILED      : 2025-12-15   PUB: 2026-09-10
+IPC        : A47J, B65D, G06Q, G07F
+SCORE      : 100
+LINK       : https://worldwide.espacenet.com/patent/search?q=AU2025412610B1
+ABSTRACT   : Abstract An automated hygienic vending machine dispenses beverages and non-beverage products using pre-filled sealed cups stored in vertical columns of a rotatable drum. Upon user selection and payment validation (cash, QR, NFC), a vertical elevator lifts a cup, and a horizontal transfer mechanism delivers it to a piercing and filling station. Using the indexing method, the control unit determines whether the selected cup is a beverage or non-beverage type. Beverage cups are pierced and injected
+
+---
 
 TITLE      : MODULAR SELF-SERVICE BEVERAGE MACHINE
 PATENT     : HRUM20260033U2  [HR]  GRANTED
@@ -1839,6 +1875,102 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : BEE-FRIENDLY COMPOSTABLE FOOD AND BEVERAGE CONTAINERS
+PATENT     : WO2026187984A1  [WO]  PENDING
+ASSIGNEE   : FAMILY HOSPITALITY GROUP LLC [US]; FAMILY HOSPITALITY GROUP, LLC
+INVENTORS  : MESALIC A J [US]; MESALIC, A.J.
+FILED      : 2026-03-05   PUB: 2026-09-10
+IPC        : D21H
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026187984A1
+ABSTRACT   : Provided herein is a paper pulp composition comprising: (1) a fibrous component comprising cellulose, and (2) one or more nutrients that are beneficial for bees. Further provided herein is a food or beverage container molded from a paper pulp composition comprising: (1) one or more nutrients that are nutritionally beneficial to bees, (2) one or more plant seeds, or (3) a combination thereof. In another aspect, provided herein is a kit comprising: (1) a biodegradable and compostable food or bever
+
+---
+
+TITLE      : PACKAGING SOLUTIONS
+PATENT     : US20260262813A1  [US]  PENDING
+ASSIGNEE   : BAUSCH LOMB IRELAND LTD [IE]; Bausch + Lomb Ireland Limited
+INVENTORS  : AWASTHI ALOK KUMAR [US]; BISWAS SANKARSAN [US]; RUSSELL JADE [US] et al.
+FILED      : 2026-03-03   PUB: 2026-09-10
+IPC        : A45C, B65B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260262813A1
+ABSTRACT   : A packaging system for the storage of an ophthalmic device is disclosed. The packaging system includes a sealed container containing one or more unused ophthalmic devices immersed in an aqueous packaging solution that includes lifitegrast or salt thereof-containing hydrophilic polymer. The aqueous packaging solution has an osmolality of at least about 150 mOsm/kg, a pH of about 6 to about 9 and is sterilized.
+
+---
+
+TITLE      : MOLDED PULP PRODUCT AND BEVERAGE SYSTEM USING SAID MOLDED PULP PRODUCT FOR BEVERAGE OR FOODSTUFF PREPARATION
+PATENT     : WO2026185099A1  [WO]  PENDING
+ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIETE DES PRODUITS NESTLE S.A.
+INVENTORS  : AEBY XAVIER [CH]; GERBER GILLES [CH]; LEFORT MATHIEU [CH] et al.
+FILED      : 2026-02-27   PUB: 2026-09-10
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026185099A1
+ABSTRACT   : The invention relates to a container for use with a beverage preparation machine for preparing a beverage and/or foodstuff, the container (6) for containing a beverage component and comprising a cup-shaped body portion (62) having a storage portion (64) comprising a sidewall and a bottom base for storage of the beverage component, and an outwardly extending flange portion (66) having a rim (91) ending portion with a rim diameter D0, wherein the body portion is at least partially made of molded p
+
+---
+
+TITLE      : SYSTEMS AND METHODS FOR COMMUNICATING BEVERAGE RECIPES TO A NETWORK OF BEVERAGE ROBOTS
+PATENT     : US20260268421A1  [US]  PENDING
+ASSIGNEE   : BOTRISTA INC [US]; BOTRISTA, INC.
+INVENTORS  : KUO WU-CHOU [US]; CHEN YU-WEI [TW]; KUO, Wu-Chou et al.
+FILED      : 2025-03-10   PUB: 2026-09-10
+IPC        : A47J, B25J, B67D, G06Q
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260268421A1
+ABSTRACT   : Beverage platforms for brands and vendors, and associated systems, devices, and methods are disclosed herein. In some embodiments, a method for operating a network of production robots includes receiving, from a recipe generator, a preparation recipe associated with a beverage from the recipe generator, generating robot operating procedures based on the received preparation recipe, identifying one or more beverage-generating locations available to prepare the beverage based on ingredients availa
+
+---
+
+TITLE      : PACKAGED ALCOHOLIC BEVERAGE
+PATENT     : WO2026186720A1  [WO]  PENDING
+ASSIGNEE   : KIRIN BEER KK [JP]; 麒麟麦酒株式会社
+INVENTORS  : YAMAMOTO HANAKO [JP]; 山本　葉奈子
+FILED      : 2026-03-03   PUB: 2026-09-10
+IPC        : C12G
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026186720A1
+ABSTRACT   : The present invention addresses the problem of providing a technique for imparting and/or improving a feeling of fruity juiciness to/in a packaged alcoholic beverage having a sugar content of less than a certain level. In this packaged alcoholic beverage, the sugar content is less than 0.5 g/100 mL, the pH thereof is 4.0 or less, and the total content of one or more selected from furan compounds and furanone compounds is 0.005-10 ppm.
+
+---
+
+TITLE      : BEVERAGE MAKER AND USES THEREOF
+PATENT     : WO2026185445A1  [WO]  PENDING
+ASSIGNEE   : SCHAERER AG [CH]; SCHAERER AG
+INVENTORS  : OBERHANSL DENIS [DE]; PETRACCARO GIULIO [US]; OBERHANSL, Denis et al.
+FILED      : 2026-03-06   PUB: 2026-09-10
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026185445A1
+ABSTRACT   : The invention relates to a beverage maker, comprising a provision device for providing at least one solid suitable for preparing a beverage, a first extraction unit suitable for extracting a beverage with a first volume, a second extraction unit suitable for extracting a beverage with a second volume, and a third extraction unit suitable for extracting a beverage with a third volume, wherein the second volume is twice as large as the first volume and the third volume is three times as large as t
+
+---
+
+TITLE      : BEVERAGE EXTRACTION DEVICE
+PATENT     : WO2026184998A1  [WO]  PENDING
+ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIÉTÉ DES PRODUITS NESTLÉ S.A.
+INVENTORS  : TALON CHRISTIAN [CH]; NOLFO SEBASTIANO [CH]; TALON, Christian et al.
+FILED      : 2026-02-18   PUB: 2026-09-10
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026184998A1
+ABSTRACT   : The invention concerns a beverage extraction device (100) comprising an ejection device (150) of a pod (10) comprising a seat portion (151) movable between a rest position, at an end of the pod holding part (120) to contact a flange (12') of the pod (10), and an ejecting position, moved away from the pod holding part (120) to tilt the pod (10) with respect to the holding piercing arrangement (121), wherein the seat portion (151) has an opened annular shape provided with a cut out defining a sepa
+
+---
+
+TITLE      : COMPOSITION AND METHOD FOR ADJUSTING FLAVOR OF FOOD AND BEVERAGE
+PATENT     : WO2026186183A1  [WO]  PENDING
+ASSIGNEE   : TAKASAGO INT CORPORATION [JP]; 高砂香料工業株式会社
+INVENTORS  : HO KHIN WAI [SG]; MABUCHI NOBUHISA [JP]; ホー　キン　ワイ et al.
+FILED      : 2025-09-05   PUB: 2026-09-10
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026186183A1
+ABSTRACT   : The present disclosure provides a composition for enhancing at least one selected from the group consisting of umami, richness, and saltiness of a food or beverage that contains an umami component, the composition comprising at least one selected from the group consisting of phloretin and phlorizin.
 
 ---
 
@@ -4470,6 +4602,54 @@ ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coa
 
 ---
 
+TITLE      : Holder for food servers, and serving unit
+PATENT     : FI13997Y1  [FI]  PENDING
+ASSIGNEE   : LIKASSA SOLOMON [FI]; Likassa, Solomon
+INVENTORS  : LIKASSA SOLOMON [FI]; Likassa, Solomon
+FILED      : 2026-09-01   PUB: 2026-09-11
+IPC        : A47G, A47J
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=FI13997Y1
+ABSTRACT   : Pidike (10), joka on muodostettu ottimen (14) ripustamiseksi, joka pidike on muodostettu yhdestä kappaleesta ja käsittää käyttöasennossa alaspäin suuntautuvan hahlon (12) pidikkeen ripustamiseksi hahlon avulla elementtiin (20) hahlon ja elementin välisellä kosketuksella, tunnettu siitä, että pidike käsittää koukkuosan (11) ainakin yhden ottimen (14) ripustamiseksi koukkuosaan, ja että koukkuosan ulkopäässä (13) on käyttöasennossa ylöspäin suuntautuva laippa (15), joka muodostaa poistumisesteen k
+
+---
+
+TITLE      : PET FOOD PRODUCTS
+PATENT     : WO2026185143A2  [WO]  PENDING
+ASSIGNEE   : BTL HEALTHCARE TECH A S [CZ]; BTL HEALTHCARE TECHNOLOGIES A.S.
+INVENTORS  : JANOUSEK JIRI [CZ]; NEUBAUEROVA KATRIN [CZ]; KRATOCHVILOVA LADA [CZ] et al.
+FILED      : 2026-03-02   PUB: 2026-09-10
+IPC        : C12M
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026185143A2
+ABSTRACT   : The invention relates to a pet food product comprising cultivated non-human metazoan cell biomass as a primary ingredient. The product is formulated as a complete or complementary diet for companion animals, as a dry or wet pet food, addressing various health needs such as gastrointestinal support, immune function, and metabolic balance. The product is prepared using optimized processing techniques, ensuring nutritional integrity and desirable texture, offering a sustainable and health-promoting
+
+---
+
+TITLE      : CANINE FOOD OR SUPPLEMENT
+PATENT     : WO2026188031A1  [WO]  PENDING
+ASSIGNEE   : MARS INCORPORATED [US]; MARS, INCORPORATED
+INVENTORS  : FARQUHAR MICHELLE [US]; PERON FRANCK [US]; WHITTLE MICHELLA [US] et al.
+FILED      : 2026-03-05   PUB: 2026-09-10
+IPC        : A23K, A61K
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026188031A1
+ABSTRACT   : Described herein is a canine food or supplement comprising a mixture of milk oligosaccharides: 6-sialyllactose, 3'-siallylactose, and 2'-fucosyllactose. The mixture of milk oligosaccharides are present in the canine food or supplement in an amount greater than 2 wt.%, preferably greater than 5.5 wt.%, and/or the amount of the mixture of milk oligosaccharides administered to the canine is greater than 100 mg/kg/day, where kg refers to body weight of the canine. The canine food or supplement can b
+
+---
+
+TITLE      : CANINE FOOD OR SUPPLEMENT FOR USE
+PATENT     : WO2026188025A1  [WO]  PENDING
+ASSIGNEE   : MARS INCORPORATED [US]; MARS, INCORPORATED
+INVENTORS  : FARQUHAR MICHELLE [US]; PERON FRANCK [US]; GUEDON RÉMI [US] et al.
+FILED      : 2026-03-05   PUB: 2026-09-10
+IPC        : A23K, A61K
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026188025A1
+ABSTRACT   : Described herein is a canine food or supplement comprising a mixture of milk oligosaccharides: 6-sialyllactose, 3'-siallylactose, and 2'-fucosyllactose. The mixture of milk oligosaccharides is present in the canine food or supplement in an amount greater than 2 wt.%, preferably greater than 5.5 wt.%, and/or the amount of the mixture of milk oligosaccharides administered to the canine is greater than 100 mg/kg/day, where kg refers to body weight of the canine. The canine food or supplement is for
+
+---
+
 TITLE      : AGENT FOR REDUCING UNPLEASANT ODOR IN PROTEIN-CONTAINING FOOD, METHOD FOR REDUCING UNPLEASANT ODOR IN PROTEIN-CONTAINING FOOD, AND METHOD FOR PRODUCING PROTEIN-CONTAINING FOOD WITH REDUCED UNPLEASANT ODOR
 PATENT     : WO2026182160A1  [WO]  PENDING
 ASSIGNEE   : AJINOMOTO CO INC [JP]; 味の素株式会社
@@ -5466,126 +5646,6 @@ ABSTRACT   : L’invention concerne un procédé de détection de cavitation dan
 
 ---
 
-TITLE      : WINE PRESERVATION AND DISPENSING DEVICE WITH NEEDLE
-PATENT     : EP4748777A1  [EP]  PENDING
-ASSIGNEE   : DEVITOP INTELLIGENT TECH HK COMPANY LIMITED [HK]; Devitop Intelligent Technology (HK) Company Limited
-INVENTORS  : LU HANYU [HK]; HUANG LUFEI [HK]; QIN YANGFEI [HK] et al.
-FILED      : 2025-02-21   PUB: 2026-05-27
-IPC        : B67B, B67D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748777A1
-ABSTRACT   : The present invention provides a wine butler including a machine frame, a bottle fixing device, an extraction needle, and a liquid outlet device. The extraction needle includes a needle body, an end seat fixed to the root portion of the needle body, and a sealing body movably disposed within a liquid guiding chamber of the end seat. The liquid guiding chamber communicates with the needle body and has a liquid outlet port at its bottom, which can be sealed or opened by the sealing body. This self
-
----
-
-TITLE      : YEAST STRAIN FOR LOW-ALCOHOLIC BEER
-PATENT     : EP4748917A1  [EP]  PENDING
-ASSIGNEE   : AB MAURI UK LTD [GB]; AB Mauri (UK) Ltd
-INVENTORS  : SOUFFRIAU BEN [GB]; CHEUNG CALEB [GB]; SOUFFRIAU, Ben et al.
-FILED      : 2024-11-25   PUB: 2026-05-27
-IPC        : C12C, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748917A1
-ABSTRACT   : [0001]    The invention relates to a yeast cell that is capable of fermenting an aqueous fermentation medium comprising, per 100 mL, at least 0.8 g of a total of maltose and maltotriose, thereby producing alcohol in a concentration of 0.5 vol.% or less, based on the volume of the aqueous fermentation medium, , and that has an ability to decrease the pH of the aqueous fermentation medium by 0.7 pH units or more and/or that is capable of fermenting an aqueous fermentation medium comprising, per 10
-
----
-
-TITLE      : SELECTIVELY HYDROLYSED WHEY PROTEIN COMPOSITIONS
-PATENT     : FI20246395A1  [FI]  PENDING
-ASSIGNEE   : VALIO LTD [FI]; Valio Ltd
-INVENTORS  : IMMONEN MIKKO [FI]; LÄHTEVÄNOJA SAARA [FI]; IMMONEN, Mikko et al.
-FILED      : 2024-11-27   PUB: 2026-05-28
-IPC        : A23C, A23J, A23L, A61K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FI20246395A1
-ABSTRACT   : The present disclosure relates to treatment of whey proteins for improved properties in food use, particularly in infant formulas. More particularly, the present disclosure relates to selective hydrolysis of whey proteins to provide whey protein compositions with altered protein composition. A selectively hydrolysed whey protein composition, a method of producing a selectively hydrolysed whey protein composition and a food product comprising the selectively hydrolysed whey protein composition ar
-
----
-
-TITLE      : FOOD COMPOSITIONS CONTAINING HEAT TREATED MILK FILTRATE PROTEINS
-PATENT     : EP4748240A1  [EP]  PENDING
-ASSIGNEE   : HHNW SINGAPORE PTE LTD [SG]; HHNW Singapore Pte. Limited
-INVENTORS  : LANE JONATHAN [IE]; KONDRASHINA ALINA [IE]; WALSH CLODAGH [IE] et al.
-FILED      : 2024-11-20   PUB: 2026-05-27
-IPC        : A23J, A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748240A1
-ABSTRACT   : The present invention provides food compositions containing whey proteins, the structure of which had been essentially conserved during the preparation process. The invention further provides the use of such food compositions for improving the health status of a subject.
-
----
-
-TITLE      : ARRANGEMENT AND METHOD FOR PROCESSING A FOOD PRODUCT
-PATENT     : EP4748233A1  [EP]  PENDING
-ASSIGNEE   : TETRA LAVAL HOLDINGS & FINANCE [CH]; Tetra Laval Holdings & Finance S.A.
-INVENTORS  : LEUFSTEDT MAX [SE]; ARNFJÄRD KAJ [SE]; Leufstedt, Max et al.
-FILED      : 2025-11-10   PUB: 2026-05-27
-IPC        : A23B, A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748233A1
-ABSTRACT   : An arrangement (100) for processing a food product (P) comprises a heat treatment unit (10), a processing unit (20), a valve system (30) configured to fluidly connect the processing unit (20) to the heat treatment unit (10). The valve system (30) includes a non-aseptic inlet (32), a non-aseptic outlet (34), an aseptic inlet (36), an aseptic outlet (38), a processing outlet (22), and a processing inlet (24). A control unit (40) is configured to control the valve system (30) to operate in a first 
-
----
-
-TITLE      : LACTOCOCCUS LACTIS SUBSP. LACTIS STRAIN AND ITS USES
-PATENT     : EP4748921A1  [EP]  PENDING
-ASSIGNEE   : NEA THEA 7 S L [ES]; Nea Thea 7, S.L.
-INVENTORS  : GARCÍA MARTÍN ELSA [ES]; DE LA CRUZ SÁNCHEZ REBECA [ES]; MARTÍN DIANA ANA BELÉN [ES] et al.
-FILED      : 2024-11-26   PUB: 2026-05-27
-IPC        : A23L, A61K, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748921A1
-ABSTRACT   : The present invention relates to the strain Lactococcus lactis subsp. lactis CECT 31096, to its cellular components, metabolites, and secreted molecules, and to compositions comprising the above products, as well as to their uses as a medicament, preferably for the prevention and/or reduction of hypertension, or as a food composition or nutraceutical.
-
----
-
-TITLE      : FEED CONVEYOR TO FEED CONTAINERS TO A BOTTLING MACHINE AND BOTTLING MACHINE INCLUDING SUCH A CONVEYOR
-PATENT     : EP4748758A1  [EP]  PENDING
-ASSIGNEE   : GAI MACCH S P A [IT]; Gai Macchine S.p.A.
-INVENTORS  : GAI CARLO [IT]; GAI, Carlo
-FILED      : 2025-11-21   PUB: 2026-05-27
-IPC        : B65G, B67C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748758A1
-ABSTRACT   : [0001]    A feed conveyor for feeding liquid food containers to a compartment conveyor (14) of a bottling machine has a belt conveyor (22) extending along a feed path (P) and having a smooth table top to support the containers (2) and with a coefficient of friction less than 0.2 to feed a compartment conveyor (14); side guides (23) to define a single succession of containers (2) aligned along the belt conveyor (22); an actuator (24) to advance the belt conveyor (22) at a steady state so as to fo
-
----
-
-TITLE      : FOOD PROCESSING DEVICE COMPRISING AT LEAST ONE HOLDER DETACHABLY CONNECTED TO THE DEVICE
-PATENT     : EP4748232A1  [EP]  PENDING
-ASSIGNEE   : RONDO BURGDORF AG [CH]; Rondo Burgdorf AG
-INVENTORS  : SCHAFROTH DAVID [CH]; STÜRCHLER JOEL [CH]; BEVILAQUA SASCHA [CH] et al.
-FILED      : 2024-11-22   PUB: 2026-05-27
-IPC        : A21C, A23P, B65G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748232A1
-ABSTRACT   : Die vorliegende Anmeldung betrifft eine Vorrichtung zur Bearbeitung von Lebensmitteln. Die Vorrichtung umfasst ein Förderelement, auf welchem die Lebensmittel in einer Förderrichtung gefördert werden können, sowie eine lösbar am Förderelement befestigte Halterung. An mindestens einer Längsseite des Förderelements ist mindestens ein Blechprofil befestigt, welches sich in einer Längsrichtung des Förderelements im Wesentlichen über die gesamte Länge des Förderelements erstreckt. Die Halterung weist
-
----
-
-TITLE      : BONDING A FOAM, SENSOR OR FUNCTIONAL PART INSIDE A TIRE WITH A PRESSURE SENSITIVE HOTMELT ADHESIVE
-PATENT     : EP4748895A1  [EP]  PENDING
-ASSIGNEE   : HENKEL AG & CO KGAA [DE]; Henkel AG & Co. KGaA
-INVENTORS  : SCHRIEFERS MATHIAS [DE]; PRELL JONATHAN [DE]; SCHOENFELD RAINER [DE] et al.
-FILED      : 2024-11-26   PUB: 2026-05-27
-IPC        : C08J, C09J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748895A1
-ABSTRACT   : The present invention relates to the use of the pressure sensitive hotmelt adhesive comprising at least one polymer and at least one polyester polyol based on betulin for bonding a foam, sensor or functional part to the inside of a tire.Furthermore, the present invention relates to a method for bonding a foam, sensor or functional part inside a tire comprising an innerliner having an innerliner surface facing an interior cavity of the tire, the method comprising or consisting of the steps of:(i)
-
----
-
-TITLE      : FUNCTIONALIZED MAGNETIC NANOPARTICLES
-PATENT     : EP4748489A1  [EP]  PENDING
-ASSIGNEE   : THE CULTIVATED B GMBH [DE]; The Cultivated B. GmbH
-INVENTORS  : WEBER KONRAD [DE]; PONADER MARCO [DE]; Weber, Konrad et al.
-FILED      : 2024-11-26   PUB: 2026-05-27
-IPC        : B01J, H01F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=EP4748489A1
-ABSTRACT   : [0001]    The present invention relates to an immobilized metal-functionalized magnetic nanoparticle (IM-MNP) comprising a ferrite core and a coating comprising an aminosilane moiety, a chelating moiety and a divalent transition metal cation. The present invention further relates to a composition of IM-MNPs, a method of manufacturing IM-MNPs, use of a composition of IM-MNPs for purifying a target protein, and a method of purifying a target protein from a biological sample.
-
----
-
 ============================================================
 DOMAIN: Procesos Avanzados Cervecería
 ============================================================
@@ -5635,54 +5695,6 @@ IPC        : C10B, C10G
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159762A1
 ABSTRACT   : [0000]    A process for converting plastics is disclosed. The process comprises pyrolyzing a plastic feed stream in a first pyrolysis reactor to produce a pyrolysis vapor stream. The pyrolysis vapor stream is pyrolyzed in a second pyrolysis reactor to produce a pyrolysis product stream. The first pyrolysis reactor may be operated at a higher temperature than the second pyrolysis reactor. The plastic feed stream may be separated from a mixed-plastic stream.
-
----
-
-TITLE      : CENTRIFUGAL BREWING UNIT
-PATENT     : WO2026114751A1  [WO]  PENDING
-ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIÉTÉ DES PRODUITS NESTLÉ S.A.
-INVENTORS  : FLICK JEAN-MARC [CH]; FLICK, Jean-Marc
-FILED      : 2025-11-21   PUB: 2026-06-04
-IPC        : A47J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026114751A1
-ABSTRACT   : The invention concerns a centrifugal brewing unit (10) comprising a spinning assembly, which is rotatable around a spinning axis (Y), provided with a plurality of parts able to define a brewing chamber (100) with a variable volume for containing ground coffee, wherein one or more of the parts of the spinning assembly are movable along a direction parallel to the spinning axis (Y) in a plurality of predefined brewing positions, defining different brewing volumes of the brewing chamber (100), and 
-
----
-
-TITLE      : COFFEE MACHINE COMPRISING A CENTRIFUGAL BREWING UNIT
-PATENT     : WO2026114753A1  [WO]  PENDING
-ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIÉTÉ DES PRODUITS NESTLÉ S.A.
-INVENTORS  : FLICK JEAN-MARC [CH]; FLICK, Jean-Marc
-FILED      : 2025-11-21   PUB: 2026-06-04
-IPC        : A47J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026114753A1
-ABSTRACT   : The invention concerns a coffee machine (1) provided with a centrifugal brewing unit (10), wherein a control unit is able to set a desired brewing volume of a brewing chamber (100) of the centrifugal brewing unit (10) among different predefined brewing volumes and is able to operate at least part of a spinning assembly of the centrifugal brewing unit (10) to rotate around a spinning axis (Y) to create a coffee donut with the ground coffee inside the brewing chamber (100) having the desired brewi
-
----
-
-TITLE      : YOGURT AND YOGURT PRODUCTION
-PATENT     : US20260150855A1  [US]  PENDING
-ASSIGNEE   : KHALIFA UNIV OF SCIENCE AND TECHNOLOGY [AE]; Khalifa University of Science and Technology
-INVENTORS  : BANAT FAWZI [AE]; MBYE MUSTAPHA [AE]; AKRAM ADIBA [AE] et al.
-FILED      : 2025-05-29   PUB: 2026-06-04
-IPC        : A23B, A23C, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260150855A1
-ABSTRACT   : [0000]    A method to produce yogurt includes pasteurizing a volume of milk, adding at least one additive to form a milk mixture, wherein the at least one additive comprises camel whey protein hydrolysate, and fermenting the milk mixture. P. acidilactici bacteria may be added to the milk mixture for fermentation. Yogurt produced by the method includes active P. acidilactici bacteria. The P. acidilactici bacteria may be P. acidilactici MNL2 bacteria.
-
----
-
-TITLE      : Détection d’intrusion par génération de chemin d’attaque
-PATENT     : FR3169234A1  [FR]  PENDING
-ASSIGNEE   : COMMISSARIAT A LENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES [FR]; Commissariat à l'Energie Atomique et aux Energies Alternatives
-INVENTORS  : OLIVEREAU ALEXIS [FR]; FRIJI HAMDI [FR]; AZZABI RADHOUENE [FR] et al.
-FILED      : 2024-12-04   PUB: 2026-06-05
-IPC        : G06F, G06N, H04L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3169234A1
-ABSTRACT   : Détection d’intrusion par génération de chemin d’attaque La présente description concerne un procédé de détection d’intrusion sur un réseau (102) comprenant :a) l’identification, par un dispositif de traitement, d’une deuxième machine ayant échangé un premier flux de communication directement avec une première machine ; b) la détermination d’un premier sous graphe comprenant le premier flux et d’autres flux parmi la pluralité de machines et la deuxième machine ;c) la fourniture du premier sous g
 
 ---
 
@@ -6011,17 +6023,5 @@ IPC        : B09B, G01N
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=DE102024136445A1
 ABSTRACT   : Die vorliegende Erfindung betrifft ein recyclingfähiges in vitro Testsystem, mit einer Diagnoseeinheit, welche ein Diagnosereagenz umfasst, das durch Inkontaktbringen mit einer einem Organismus entnommenen Probe oder einem aus einer solchen Probe gewinnbaren Probematerial zu einem Diagnoseprodukt umsetzbar ist, welches selbst optisch wahrnehmbar ist und/oder durch welches eine Reaktion induzierbar ist, deren Reaktionsprodukt optisch wahrnehmbar ist, und ein Gehäuse, welches die Diagnoseeinheit z
-
----
-
-TITLE      : PET BANDANA WITH BREAKAWAY CLASP
-PATENT     : US20260150812A1  [US]  PENDING
-ASSIGNEE   : BOGARI DONNA [US]; Bogari Donna
-INVENTORS  : BOGARI DONNA [US]; Bogari, Donna
-FILED      : 2025-04-17   PUB: 2026-06-04
-IPC        : A01K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260150812A1
-ABSTRACT   : [0000]    A pet bandana comprising a fabric body and a breakaway clasp system configured to secure the bandana around a pet's neck. The clasp system includes male and female components that are configured to release automatically when a predetermined pulling force is applied to the bandana, preventing strangulation or entanglement. The bandana may optionally include reinforced stitching, reflective material, water-resistant coatings, or an integrated identification tag. The invention offers a se
 
 ---
