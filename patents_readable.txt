@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-09-28
+Last updated : 2026-10-05
 Total patents: 500
 
 ============================================================
@@ -1863,6 +1863,30 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : BEER-TASTE BEVERAGE WITH SUPPRESSED WATERY FLAVOR WHILE MAINTAINING FRESHNESS, AND METHOD FOR PRODUCING SAME
+PATENT     : WO2026203779A1  [WO]  PENDING
+ASSIGNEE   : KIRIN HOLDINGS KK [JP]; キリンホールディングス株式会社
+INVENTORS  : TSUKAHARA TAEKO [JP]; SHIMATANI TOMOHIKO [JP]; 塚原　多恵子 et al.
+FILED      : 2026-01-29   PUB: 2026-10-01
+IPC        : C12C, C12G
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026203779A1
+ABSTRACT   : The present invention addresses the problem of providing: a beer-taste beverage in which the linalool concentration is suppressed while maintaining freshness and watery flavor is suppressed; a method for producing the beer-taste beverage; and others.　According to the present invention, a beer-taste beverage is produced so that the ratio of the linalool concentration to an (α acid)/(standard substance) ratio is equal to or less than a predetermined value and the (α acid)/(standard substance) rati
+
+---
+
+TITLE      : EXTERNAL PACKAGING MATERIAL, CAN PRODUCT EQUIPPED WITH EXTERNAL PACKAGING, AND BLANK MATERIAL FOR EXTERNAL PACKAGING MATERIAL
+PATENT     : WO2026203546A1  [WO]  PENDING
+ASSIGNEE   : DAIWA CAN CO [JP]; 大和製罐株式会社
+INVENTORS  : INUMARU AYAKO [JP]; GONDOU RYOU [JP]; UENO MIKU [JP] et al.
+FILED      : 2025-12-05   PUB: 2026-10-01
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026203546A1
+ABSTRACT   : The present invention provides: an external packaging material that makes it possible to assemble a can product and a jig for heating; a can product equipped with external packaging; and a blank material for external packaging material. An external packaging material (30) according to an embodiment of the present invention comprises an accommodation part (30a) which accommodates a jig-equipped can product (1) that is provided with a metal can container (21) and a non-metal jig (10) for heating a
 
 ---
 
@@ -5620,30 +5644,6 @@ IPC        : G01N
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=FR3169216A1
 ABSTRACT   : L’invention concerne un procédé de détermination d’une propriété physique d’un revêtement déposé sur un substrat, ledit procédé comportant les étapes suivantes :  a) mettre le revêtement en contact avec une solution d’imprégnation contenant une espèce redox dite sonde pour définir une zone d’imprégnation du revêtement ;   b) laisser le revêtement au contact de la solution d’imprégnation afin que l’espèce sonde imprègne le revêtement sur un temps d’imprégnation prédéfini ;  c) arrêter de mettre l
-
----
-
-TITLE      : EMBALLAGE POUR LE TRANSPORT ET/OU L’ENTREPOSAGE DE MATIERES RADIOACTIVES, COMPORTANT UN SYSTEME AMELIORE DE FIXATION DE COUVERCLE
-PATENT     : FR3169248A1  [FR]  PENDING
-ASSIGNEE   : ORANO NUCLEAR PACKAGES AND SERVICES [FR]; ORANO NUCLEAR PACKAGES AND SERVICES
-INVENTORS  : NALLET STÉPHANE [FR]; NALLET, Stéphane
-FILED      : 2024-12-04   PUB: 2026-06-05
-IPC        : G21F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3169248A1
-ABSTRACT   : L’invention se rapporte à un emballage (1) pour le transport et/ou l’entreposage de matières radioactives, comprenant un couvercle (6) monté sur un corps latéral d’emballage (2), à l’aide de moyens de fixation comprenant au moins un dispositif de fixation (14), celui-ci comportant un organe d’appui (30) présentant une surface de sollicitation (32) appliquant, par contact sur une surface (42) de réception des moyens de fixation prévue sur le couvercle, un effort de plaquage du couvercle (6) sur l
-
----
-
-TITLE      : Vernis de glissement comprenant du graphène et son utilisation pour la fabrication de turbomachines
-PATENT     : FR3169168A1  [FR]  PENDING
-ASSIGNEE   : SAFRAN [FR]; SAFRAN AIRCRAFT ENGINES [FR]; BLACKLEAF [FR] et al.
-INVENTORS  : EXBRAYAT LOÏC [FR]; NOIVILLE ROMAIN [FR]; GHIBAUDO OLIVIER [FR] et al.
-FILED      : 2024-12-03   PUB: 2026-06-05
-IPC        : C09D, C10M, F01D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3169168A1
-ABSTRACT   : Vernis de glissement comprenant du graphène et son utilisation pour la fabrication de turbomachines La présente invention concerne une formulation de vernis de glissement comprenant une suspension porteuse à base d’eau, un liant inorganique et du graphène. Cette formulation de vernis est utilisée pour protéger les pièces d’une turbomachine de l’usure de contact dans des assemblages, en particulier dans les aubages de la partie chaude d’un réacteur.  Figure pour l’abrégé : Fig.3
 
 ---
 
