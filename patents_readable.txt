@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-10-05
+Last updated : 2026-10-12
 Total patents: 500
 
 ============================================================
@@ -1863,6 +1863,66 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : Granular substance and use of granular substance
+PATENT     : FI20253124A1  [FI]  PENDING
+ASSIGNEE   : MYSODA OY [FI]; Mysoda Oy
+INVENTORS  : SOLOMON DAVID [FI]; Solomon, David
+FILED      : 2025-04-08   PUB: 2026-10-09
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=FI20253124A1
+ABSTRACT   : The invention relates to a granular substance for adding an active ingredient to a water-based carbonated beverage base. The granular substance comprises a dietary fibre component soluble in water. The granular substance comprises an active ingredient soluble in water. The granular substance consists of particles having a particle size distribution in which at least 90% by weight of the particles have a greatest diameter of 0.5 to 1.4 mm. The invention also relates to use of the granular substan
+
+---
+
+TITLE      : MODULAR HYDROPONIC PLANT CULTIVATION SYSTEM
+PATENT     : HRUM20260030U2  [HR]  GRANTED
+ASSIGNEE   : SVEUCILISTE U ZAGREBU AGRONOMSKI FAKULTET [HR]; SVEUČILIŠTE U ZAGREBU, AGRONOMSKI FAKULTET
+INVENTORS  : ONDRAŠEK GABRIJEL [HR]; JERKOV DRAGICA [HR]; Ondrašek, Gabrijel et al.
+FILED      : 2026-05-26   PUB: 2026-10-09
+IPC        : A01G, A01N
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20260030U2
+ABSTRACT   : The invention refers to a modular hydroponic system that includes a plug, a cube and a substrate plate intended for different stages of plant development throughout the entire vegetation cycle. The system is made of processed sheep wool, recycled rock wool and biochar produced by pyrolysis of coffee grounds, with the possibility of adding a biopolymer binder to stabilise the plate. The plug is adapted to seed germination, the cube to seedling development and colonisation by beneficial microorgan
+
+---
+
+TITLE      : PLUG-SHAPED HYDROPONIC SUBSTRATE
+PATENT     : HRUM20260028U2  [HR]  GRANTED
+ASSIGNEE   : SVEUCILISTE U ZAGREBU AGRONOMSKI FAKULTET [HR]; SVEUČILIŠTE U ZAGREBU, AGRONOMSKI FAKULTET
+INVENTORS  : ONDRAŠEK GABRIJEL [HR]; JERKOV DRAGICA [HR]; ATLIJA BENJAMIN [HR] et al.
+FILED      : 2026-05-26   PUB: 2026-10-09
+IPC        : A01G
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20260028U2
+ABSTRACT   : The invention refers to a plug-shaped hydroponic substrate intended for seed germination and early seedling development. The substrate is made of sterilised and repeatedly washed sheep wool and recycled rock wool in defined mass ratios. Sheep wool is pre-treated by combing, sterilisation, chopping and washing to reduce electrical conductivity and pH value, while recycled rock wool is obtained by pyrolysis of used hydroponic rock wool. The combination of fibrous organic and mineral components ena
+
+---
+
+TITLE      : A BEVERAGE FORMULATION
+PATENT     : WO2026212584A1  [WO]  PENDING
+ASSIGNEE   : KOCAKER RECEP [TR]; KOÇAKER, Recep
+INVENTORS  : KOÇAKER RECEP [TR]; KOÇAKER, Recep
+FILED      : 2025-06-13   PUB: 2026-10-08
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026212584A1
+ABSTRACT   : The invention relates to a healthy and natural carbonated beverage formulation, which has aphrodisiac effects, is effective in the treatment of canker sores and cold sores, and does not contain additives such as sodium benzoate The invention aims to provide an alternative to the harmful additives found in traditional carbonated beverages by offering a natural and healthy carbonated beverage formulation. In this formulation, only sodium citrate is used instead of chemical additives such as sodium
+
+---
+
+TITLE      : COLLAGEN AND CERAMIDE BEVERAGE COMPOSITIONS
+PATENT     : WO2026213052A1  [WO]  PENDING
+ASSIGNEE   : MELALEUCA INC [US]; MELALEUCA, INC.
+INVENTORS  : JOY JORDAN [US]; FREDJ NASSER A [US]; JOY, Jordan et al.
+FILED      : 2026-03-30   PUB: 2026-10-08
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026213052A1
+ABSTRACT   : Beverage compositions containing bioactive collagen peptides and ceramides are provided herein, as are methods for using the beverage compositions to improve skin, joint, nail, and/or hair health.
 
 ---
 
@@ -5584,66 +5644,6 @@ IPC        : G01N
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=US20260160682A1
 ABSTRACT   : [0000]    A method is for detecting a chemical messenger within a sample of blood. The method may include flowing the sample of blood over a sensing surface of a plasmonic array biosensor. The sensing surface of the plasmonic array biosensor may have an ssDNA aptamer against the chemical messenger. The method may further include binding the chemical messenger in the sample of blood to the ssDNA aptamer of the plasmonic array biosensor, and detecting the chemical messenger in the sample of blood 
-
----
-
-TITLE      : Le couvre-cercueil floral, une solution esthétique et spirituelle pour un accompagnement complet lors des obsèques
-PATENT     : FR3169076A1  [FR]  PENDING
-ASSIGNEE   : GOURY ROMAIN [FR]; Goury Romain
-INVENTORS  : GOURY ROMAIN [FR]; Goury, Romain
-FILED      : 2024-12-03   PUB: 2026-06-05
-IPC        : A61G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3169076A1
-ABSTRACT   : L'invention concerne un couvre-cercueil floral comportant une planche en bois naturel adaptée à une forme de cercueil parisien et entouré de bordure surélevée également en bois naturel. Ce couvre-cercueil floral est destiné à être fixé sur le dessus du cercueil par un système de fixation simple.  Il se distingue par sa capacité à intégrer une mousse biodégradable destinée à accueillir une composition florale, tout en s’harmonisant naturellement avec la forme du cercueil, offrant ainsi une esthét
-
----
-
-TITLE      : FLIP-TOP RETAINING STRUCTURE FOR BOTTLE CAP, AND BOTTLE
-PATENT     : WO2026114302A1  [WO]  PENDING
-ASSIGNEE   : LI HONGBIAO [CN]; 李红彪
-INVENTORS  : LI HONGBIAO [CN]; 李红彪
-FILED      : 2025-11-27   PUB: 2026-06-04
-IPC        : A47G, B65D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026114302A1
-ABSTRACT   : A flip-top retaining structure for a bottle cap, and a bottle. The flip-top retaining structure comprises an integrally formed cap body; the cap body is provided with a long tear line and a short tear line in the circumferential direction; two ends of the long tear line are provided with inner side notches in the axial direction of the cap body, and two ends of the short tear line are provided with outer side notches in the axial direction of the cap body; and once the long tear line and the sho
-
----
-
-TITLE      : BIODEGRADABLE POLYESTER AND PREPARATION METHOD THEREFOR
-PATENT     : WO2026116682A1  [WO]  PENDING
-ASSIGNEE   : HANWHA TOTALENERGIES PETROCHEMICAL CO LTD [KR]; 한화토탈에너지스 주식회사
-INVENTORS  : KIM IN HO [KR]; JANG JI SOO [KR]; SEO SEOK KYOO [KR] et al.
-FILED      : 2025-08-14   PUB: 2026-06-04
-IPC        : C08G, C08K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026116682A1
-ABSTRACT   : The present invention relates to: a biodegradable aliphatic/aromatic polyester having a high content of aromatic dicarboxylic acid; and a preparation method therefor and, more specifically, to a biodegradable aliphatic/aromatic polyester and a preparation method therefor, the biodegradable aliphatic/aromatic polyester comprising, in specific amounts, an aliphatic dicarboxylic acid, an aromatic dicarboxylic acid, and an aliphatic diol compound having a chain length of less than 4 carbon atoms, th
-
----
-
-TITLE      : METHOD OF TREATING BYPRODUCT STREAMS CONTAINING SODIUM SULFATE
-PATENT     : WO2026117550A1  [WO]  PENDING
-ASSIGNEE   : KEMIRA OYJ [FI]; KEMIRA WATER SOLUTIONS INC [US]; KEMIRA OYJ et al.
-INVENTORS  : PUUPPONEN SALLA [FI]; HONKANEN TAPIO [FI]; HESAMPOUR MEHRDAD [FI] et al.
-FILED      : 2025-11-25   PUB: 2026-06-04
-IPC        : C01C, C01D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026117550A1
-ABSTRACT   : The present disclosure relates to new methods and processes of byproduct conversion, wastewater remediation, byproduct upcycling/recycling, and sustainable cyclic methods thereof.
-
----
-
-TITLE      : Procédé pour déterminer une propriété physique d’un revêtement de substrat par mesure électrochimique
-PATENT     : FR3169216A1  [FR]  PENDING
-ASSIGNEE   : COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES [FR]; CENTRE NATIONAL DE LA RECHERCHE SCIENT [FR]; COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES et al.
-INVENTORS  : CORNUT RENAUD [FR]; GRATPANCHE MATHIS [FR]; CORNUT, Renaud et al.
-FILED      : 2024-12-04   PUB: 2026-06-05
-IPC        : G01N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3169216A1
-ABSTRACT   : L’invention concerne un procédé de détermination d’une propriété physique d’un revêtement déposé sur un substrat, ledit procédé comportant les étapes suivantes :  a) mettre le revêtement en contact avec une solution d’imprégnation contenant une espèce redox dite sonde pour définir une zone d’imprégnation du revêtement ;   b) laisser le revêtement au contact de la solution d’imprégnation afin que l’espèce sonde imprègne le revêtement sur un temps d’imprégnation prédéfini ;  c) arrêter de mettre l
 
 ---
 
