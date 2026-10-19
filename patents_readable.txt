@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-10-12
+Last updated : 2026-10-19
 Total patents: 500
 
 ============================================================
@@ -1566,18 +1566,6 @@ ABSTRACT   : The present invention is concerned with novel deuterium-enriched co
 
 ---
 
-TITLE      : METHOD FOR ENHANCING PLANT TRANSFORMATION EFFICIENCY BY USING AGROBACTERIUM CARRYING virG MUTANT GENE AND NahG GENE
-PATENT     : US20260159848A1  [US]  PENDING
-ASSIGNEE   : NULLA BIO INC [KR]; NULLA BIO INC.
-INVENTORS  : JEON EUN-YOUNG [KR]; JEONG JIN-HEE [KR]; JEONG, JIN-HEE et al.
-FILED      : 2025-08-22   PUB: 2026-06-11
-IPC        : A01H, C07K, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159848A1
-ABSTRACT   : [0000]    A method for enhancing transformation efficiency of a plant includes transforming a plant cell with a bacteria of the genus Agrobacterium carrying virG<N54D >gene and NahG (salicylate hydroxylase) gene. The method is based on the discovery that introducing both a constitutively active virG mutant gene (virG<N54D>) and a salicylic acid-degrading gene (NahG) into an Agrobacterium strain synergistically increases its ability to deliver a target gene into a plant cell. The provided strains
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -1863,6 +1851,42 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : BIODEGRADABLE MULTI-LAYER FILM FOR A FOOD AND/OR BEVERAGE PACKAGING ELEMENT, BIODEGRADABLE PACKAGING ELEMENT AND BIODEGRADABLE PACKAGING UNIT INTEGRATING SAID MULTI-LAYER FILM
+PATENT     : WO2026215127A1  [WO]  PENDING
+ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIETE DES PRODUITS NESTLE S.A.
+INVENTORS  : BOURG VIOLETTE CATHERINE MARGUERITE [FR]; FERNANDEZ IRENE [CH]; BOURG, Violette Catherine Marguerite et al.
+FILED      : 2026-04-02   PUB: 2026-10-15
+IPC        : B32B, C08J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026215127A1
+ABSTRACT   : The invention concerns a biodegradable multi-layer film for a food and/or beverage packaging element comprising: - an inner mechanical supporting layer comprising an amount of a biodegradable aliphatic, aromatic or aliphatic/aromatic polyester; - a first intermediate connecting layer of a biodegradable material for connecting and/or sealing adjacent layers; - a functional layer having a barrier function to gas and/or moisture; - a second intermediate connecting layer of a biodegradable material 
+
+---
+
+TITLE      : COMPOSTABLE POD FOR BEVERAGE PREPARATION COMPRISING A FILTER ELEMENT AND METHOD OF MANUFACTURING SAID POD
+PATENT     : WO2026215129A2  [WO]  PENDING
+ASSIGNEE   : SOC DES PRODUITS NESTLE S A [CH]; SOCIETE DES PRODUITS NESTLE S.A.
+INVENTORS  : MOLLIEX CAPUCINE [CH]; PELLEGRINI STÉPHANE [FR]; VIERS CLÉMENT [CH] et al.
+FILED      : 2026-04-02   PUB: 2026-10-15
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026215129A2
+ABSTRACT   : The invention relates to a biodegradable pod (100) for preparing a beverage in a beverage production machine. The pod comprises two cavities (101, 102) each having a bottom portion (135) with a planar surface the two cavities being connected to each other along their respective circumferential flange (104) so as to delimit a chamber (103) for containing a beverage ingredient (105). At least one of said cavities comprises in a layered manner: • A primary supporting layer (171) made of a formable 
+
+---
+
+TITLE      : PROBIOTICS METABOLITE BLEND FOR FOOD AND BEVERAGE APPLICATIONS
+PATENT     : US20260315558A1  [US]  PENDING
+ASSIGNEE   : CHEMALAMUDI SASIKANTH [CL]; SRINIVAS PRIYANKA [CL]; Chemalamudi Sasikanth et al.
+INVENTORS  : CHEMALAMUDI SASIKANTH [CL]; SRINIVAS PRIYANKA [CL]; Chemalamudi, Sasikanth et al.
+FILED      : 2025-04-15   PUB: 2026-10-15
+IPC        : A23L, A61K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260315558A1
+ABSTRACT   : [0000]    The present disclosure relates to a probiotics-metabolite composition for food and beverage applications. More particularly, the probiotics metabolite composition is a blend comprising whole heat-inactivated yeast in the range of 1-3 billion CFU and whole heat-inactivated lactobacilli in the range of 10-13 billion CFU. The composition can also be a beverage that comprises of fermented plant-only prebiotic fibre, pasteurized co-culture supernatant comprising 2-4 billion CFU of yeast and
 
 ---
 
@@ -5687,18 +5711,6 @@ ABSTRACT   : The invention relates to a method and an injection mould for produc
 
 ---
 
-TITLE      : PROCESS FOR CONVERTING PLASTICS
-PATENT     : US20260159762A1  [US]  PENDING
-ASSIGNEE   : UOP LLC [US]; UOP LLC
-INVENTORS  : SUN PING [US]; ANDERLE CHRISTOPHER JAMES [US]; Anderle, Christopher James et al.
-FILED      : 2025-11-26   PUB: 2026-06-11
-IPC        : C10B, C10G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159762A1
-ABSTRACT   : [0000]    A process for converting plastics is disclosed. The process comprises pyrolyzing a plastic feed stream in a first pyrolysis reactor to produce a pyrolysis vapor stream. The pyrolysis vapor stream is pyrolyzed in a second pyrolysis reactor to produce a pyrolysis product stream. The first pyrolysis reactor may be operated at a higher temperature than the second pyrolysis reactor. The plastic feed stream may be separated from a mixed-plastic stream.
-
----
-
 ============================================================
 DOMAIN: Reciclado PET
 ============================================================
@@ -6012,17 +6024,5 @@ IPC        : G06T
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026137368A1
 ABSTRACT   : The present invention relates to a medical image reconstruction method, comprising the following steps: S1, acquiring CT image data of a patient with a neurodegenerative disease, and preprocessing the image data; and S2, adding a Control-Net branch on the basis of a Stable Diffusion model, and using Stable Diffusion and Control-Net to perform image reconstruction on the preprocessed image data so as to generate a high-quality PET image. The present invention also relates to a medical image recon
-
----
-
-TITLE      : Recyclingfähiges in vitro Testsystem und Verfahren zum Recycling eines in vitro Testsystems
-PATENT     : DE102024136445A1  [DE]  PENDING
-ASSIGNEE   : LAVITA GMBH [DE]; LaVita GmbH
-INVENTORS  : KAKMACI CEM [DE]; Kakmaci, Cem
-FILED      : 2024-12-06   PUB: 2026-06-11
-IPC        : B09B, G01N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=DE102024136445A1
-ABSTRACT   : Die vorliegende Erfindung betrifft ein recyclingfähiges in vitro Testsystem, mit einer Diagnoseeinheit, welche ein Diagnosereagenz umfasst, das durch Inkontaktbringen mit einer einem Organismus entnommenen Probe oder einem aus einer solchen Probe gewinnbaren Probematerial zu einem Diagnoseprodukt umsetzbar ist, welches selbst optisch wahrnehmbar ist und/oder durch welches eine Reaktion induzierbar ist, deren Reaktionsprodukt optisch wahrnehmbar ist, und ein Gehäuse, welches die Diagnoseeinheit z
 
 ---
