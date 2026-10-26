@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-10-19
+Last updated : 2026-10-26
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,55 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : SUGAR-FREE POWDERED HYDRATION DRINK MIX
+PATENT     : US20260324688A1  [US]  PENDING
+ASSIGNEE   : CONOPCO INC D/B/A UNILEVER [US]; Conopco, Inc., d/b/a UNILEVER
+INVENTORS  : BISLA SONIA [US]; MOULTON CHRISTOPHER JOHN [US]; NARANG SUMEET BINDRA [US] et al.
+FILED      : 2026-05-28   PUB: 2026-10-22
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260324688A1
+ABSTRACT   : [0000]    A powdered hydration drink mix composition which is mixable with water to create a hydration drink includes from about 35 to about 55%, by weight based on the total weight of the composition, of amino acids including at least L-glutamine, L-alanine, L-lysine, L-serine and L-threonine,
+[0000]    and from about 25 to about 45% by weight based on the total weight of the composition, of electrolyte sources including a source of sodium, a source of potassium, a source of calcium and a sourc
+
+---
+
+TITLE      : A METHOD OF MANUFACTURING FERMENTED ŞALGAM JUICE
+PATENT     : WO2026219458A1  [WO]  PENDING
+ASSIGNEE   : VALENTIS BIYOTEKNOLOJI VE ARGE ANONIM SIRKETI [TR]; VALENTIS BIYOTEKNOLOJI VE ARGE ANONIM ŞIRKETI
+INVENTORS  : KIZILKAYA ORHAN [TR]; SERİN ÖMER FARUK [TR]; KIZILKAYA, Orhan et al.
+FILED      : 2025-04-15   PUB: 2026-10-22
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026219458A1
+ABSTRACT   : The invention relates to a novel manufacturing method for the production of the Turkish fermented beverage şalgam juice. Specifically, it addresses process optimization to reduce fermentation time, enhance the functional properties of the beverage, eliminate labor-intensive steps, and decrease energy requirements while improving food safety compared to traditional methods. Additionally, the fermented carrot, previously regarded as waste, is now converted into valuable food ingredients or supplem
+
+---
+
+TITLE      : CRYSTALLINE PROTEIN COMPOSITIONS AND METHODS FOR IMPROVING STABILITY, DISPERSIBILITY AND SHELFLIFE OF NUTRITIONAL PRODUCTS
+PATENT     : WO2026221959A2  [WO]  PENDING
+ASSIGNEE   : GLANBIA PERFORMANCE NUTRITION LTD [US]; GLANBIA PERFORMANCE NUTRITION LIMITED
+INVENTORS  : CZAPLEWSKI KENNETH [US]; CZAPLEWSKI, Kenneth
+FILED      : 2026-04-13   PUB: 2026-10-22
+IPC        : A23J, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026221959A2
+ABSTRACT   : The present disclosure relates to methods of crystallizing proteins for use in nutritional compositions, to nutritional compositions using crystallized whey and other proteins for nutritional, nutraceutical, beverage, and supplement compositions having improved shelf life and stability, and to methods to use crystalline whey proteins to increase crystal density, reduce hygroscopicity, and improve dispersibility of crystalline proteins in consumer nutritional, nutraceutical, food, beverage, and s
+
+---
+
+TITLE      : COFFEE BEVERAGES AND RELATED BREWING TECHNIQUES
+PATENT     : US20260324670A1  [US]  PENDING
+ASSIGNEE   : 33 DEGREE FOODS LLC [US]; 33 Degree Foods LLC
+INVENTORS  : HANSEN CHRISTOPHER G [US]; Hansen, Christopher G.
+FILED      : 2026-02-17   PUB: 2026-10-22
+IPC        : A23F
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260324670A1
+ABSTRACT   : The subject application generally relates to coffee beverages and the preparation of the same. In one aspect, whole bean coffee or ground coffee may be contacted with a solvent including alcohol to extract coffee flavor compounds from the whole bean coffee or ground coffee. The whole bean coffee or ground coffee is removed from the solvent after extraction, and if alcohol concentration exceeds a predetermined threshold alcohol is removed from the solvent to provide a coffee beverage which has an
 
 ---
 
@@ -687,6 +736,42 @@ IPC        : H10K
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089266A1
 ABSTRACT   : This electronic device may include a display panel. The display panel may comprise: a first electrode layer; a light-emitting layer disposed on the first electrode layer and including a first light-emitting portion and a second light-emitting portion; a second electrode layer disposed on the light-emitting layer; an insulating layer disposed beneath the second electrode layer and disposed between the first light-emitting portion and the second light-emitting portion so as to define the first lig
+
+---
+
+TITLE      : Composition cosmétique ou pharmaceutique contenant au moins 50 métabolites pour son utilisation dans l’augmentation de la production d’énergie par les mitochondries des cellules saines
+PATENT     : FR3174313A1  [FR]  PENDING
+ASSIGNEE   : ACTINA FZCO [AE]; ACTINA FZCO
+INVENTORS  : IDEAS BEJIT [JP]; SOUDANT ETIENNE [JP]; NASU YUJI [JP] et al.
+FILED      : 2025-04-16   PUB: 2026-10-23
+IPC        : A61K, A61P, A61Q
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=FR3174313A1
+ABSTRACT   : Composition cosmétique ou pharmaceutique contenant au moins 50 métabolites pour son utilisation dans l’augmentation de la production d’énergie par les mitochondries des cellules saines.  La présente invention a pour objet une composition cosmétique ou pharmaceutique caractérisée en ce qu’elle contient 50 métabolites issus de la fermentation naturelle de feuilles de Rosmarinus Officinalis, de fruits d’Olea Europea et des haricots Phaseolus Vulgaris.
+
+---
+
+TITLE      : SYSTEM AND METHOD FOR DETERMINING CONTENT UTILIZING EXTERNALLY MOUNTED CONTAINER MONITORING SYSTEM
+PATENT     : WO2026221791A1  [WO]  PENDING
+ASSIGNEE   : BARREL PROOF TECH LLC [US]; BARREL PROOF TECHNOLOGIES LLC
+INVENTORS  : ANDERSON BRIAN RICHARD [US]; ANDERSON, Brian Richard
+FILED      : 2026-03-20   PUB: 2026-10-22
+IPC        : G01F
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026221791A1
+ABSTRACT   : A system for measuring changes in a fluid stored within a container is disclosed. The system may include a radio-frequency sensing element disposed externally on the container and configured to generate a signal indicative of at least one dielectric property of the fluid, wherein the fluid undergoes composition-based or environment-driven changes due to interactions with the container. In some aspects, a processing component generates an output representative of at least one time-varying fluid c
+
+---
+
+TITLE      : SUBSTRATE FOR SOLID-STATE FERMENTATION FOR THE PRODUCTION OF BLUE PIGMENTS BY STREPTOMYCES SPP
+PATENT     : WO2026218105A1  [WO]  PENDING
+ASSIGNEE   : UNIV DE LA FRONTERA [CL]; UNIVERSIDAD DE LA FRONTERA
+INVENTORS  : SCHALCHLI SÁEZ HEIDI LAURA [CL]; HORMAZÁBAL URIBE EMILIO RICARDO [CL]; DIEZ JEREZ MARÍA CRISTINA [CL] et al.
+FILED      : 2025-12-31   PUB: 2026-10-22
+IPC        : A23L, C09B, C12N, C12P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026218105A1
+ABSTRACT   : The present invention relates to a substrate for producing pigments via the action of pigment-producing microorganisms. In particular, the invention relates to a substrate of potato waste (PD) and BSG for producing blue pigments produced by the actinobacterium Streptomyces cultivated in said substrate by fermentation. The invention further relates to a method for fermenting, extracting and purifying the pigment, use of the substrate, and use of the microorganism.
 
 ---
 
@@ -1494,78 +1579,6 @@ ABSTRACT   : Die Erfindung betrifft ein Verfahren zur Aufbereitung von wässrige
 
 ---
 
-TITLE      : YEAST FERMENTATION BROTH OF SALIDROSIDE FOR ANIMAL HUSBANDRY APPLICATIONS
-PATENT     : US20260157397A1  [US]  PENDING
-ASSIGNEE   : RIANLON CORP [CN]; RIANLON CORPORATION
-INVENTORS  : TIAN JINPING [CN]; LIU LU [CN]; SHI XIABIN [CN] et al.
-FILED      : 2025-11-14   PUB: 2026-06-11
-IPC        : A23K, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157397A1
-ABSTRACT   : [0000]    The present disclosure relates to yeast fermentation broths of salidroside for animal husbandry applications, animal feed formulations incorporating the same, and methods of forming and administering the same.
-
----
-
-TITLE      : CO2-FIXING MICROORGANISM
-PATENT     : US20260159804A1  [US]  PENDING
-ASSIGNEE   : KYUNGPOOK NATIONAL UNIV INDUSTRY ACADEMIC COOPERATION FOUNDATION [KR]; KYUNGPOOK NATIONAL UNIVERSITY INDUSTRY-ACADEMIC COOPERATION FOUNDATION
-INVENTORS  : KIM SOO RIN [KR]; PARK SUJEONG [KR]; Kim, Soo Rin et al.
-FILED      : 2025-11-19   PUB: 2026-06-11
-IPC        : C07K, C12N, C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159804A1
-ABSTRACT   : [0000]    The present disclosure relates to a microorganism that fixes carbon dioxide, presenting a new strategy capable of contributing to achieving carbon neutrality in bioprocesses through development of a CO<2 >fixing yeast using S. cerevisiae, wherein, to address the redox imbalance problem and increase CO<2 >fixation efficiency, a form-I RuBisCO-based CO<2 >fixation pathway was established in a xylose isomerase-based xylose metabolic strain, the fermentation rate and productivity were rema
-
----
-
-TITLE      : FUNGAL-DERIVED ENZYME COMPOSITION AND METHOD FOR TREATING EXOCRINE PANCREATIC INSUFFICIENCY
-PATENT     : US20260158120A1  [US]  PENDING
-ASSIGNEE   : HILLEY HENRY [US]; Hilley Henry
-INVENTORS  : HILLEY HENRY [US]; Hilley, Henry
-FILED      : 2025-12-08   PUB: 2026-06-11
-IPC        : A61K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260158120A1
-ABSTRACT   : A pharmaceutical composition and method for treating exocrine pancreatic insufficiency (EPI) comprising fungal fermentation-derived enzymes functionally analogous to endogenous digestive enzymes, including gastric lipase, amylase, and protease, stabilized with rice-derived silica. The composition delivers approximately 40,000 FIP lipase units per capsule without enteric coating, enabling immediate enzyme release and continuous activity across gastric (pH 1.5-3.5) and intestinal (pH 6-7.5) enviro
-
----
-
-TITLE      : Interleukin-15, PD-1 Antibodies, and Taxanes in Non-Small Cell Lung Cancer
-PATENT     : US20260159571A1  [US]  PENDING
-ASSIGNEE   : IMMUNITYBIO INC [US]; ImmunityBio, Inc.
-INVENTORS  : REDDY SANDIP [US]; SOON-SHIONG PATRICK [US]; Soon-Shiong, Patrick et al.
-FILED      : 2025-12-03   PUB: 2026-06-11
-IPC        : A61K, C07K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159571A1
-ABSTRACT   : [0000]    Disclosed herein are methods, compositions and kits for treating non-small cell lung carcinoma (NSCLC) in a human subject, wherein the subject has been previously treated with an immune checkpoint inhibitor, the method comprising administering either an interleukin-15 (IL-15) protein or fusion protein derivative thereof, or an interleukin-15:interleukin-15 receptor subunit alpha (IL-15:IL-15Rα) protein or fusion protein derivative thereof, and a PD-1 inhibitor antibody and a taxane. Fu
-
----
-
-TITLE      : LOW-SUGAR INFLUENZA VACCINE AND METHODS THEREOF
-PATENT     : US20260158130A1  [US]  PENDING
-ASSIGNEE   : ROCK BIOMEDICAL INC [TW]; Rock BioMedical, Inc.
-INVENTORS  : WONG CHI-HUEY [US]; LEE JENG-SHIN [US]; WU CHUNG-YI [TW] et al.
-FILED      : 2025-12-04   PUB: 2026-06-11
-IPC        : A61K, A61P, C07K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260158130A1
-ABSTRACT   : [0000]    The present disclosure relates to a low glycosylated influenza hemagglutinin (HA) protein and a vaccine designed to express the HA protein in vivo. The present disclosure also teaches a method for generating an immune response by utilizing the low glycosylated HA protein, which provides a broader protection across different influenza strains or lineages.
-
----
-
-TITLE      : Deuterium-Enriched 6-Carboxy-2-(3,5-Dichlorophenyl)Benzoxazoles for Treatment of Transthyretin Amyloidosis Cardiomyopathy (ATTR-CM), Polyneuropathy (ATTR-PN), and Related Diseases
-PATENT     : US20260159489A1  [US]  PENDING
-ASSIGNEE   : DHANOA DALJIT SINGH [US]; Dhanoa Daljit Singh
-INVENTORS  : DHANOA DALJIT SINGH [US]; Dhanoa, Daljit Singh
-FILED      : 2024-12-09   PUB: 2026-06-11
-IPC        : C07B, C07D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159489A1
-ABSTRACT   : The present invention is concerned with novel deuterium-enriched compounds of the general chemical structural formula I, and pharmaceutically acceptable salts, compositions, and methods of use thereof,wherein,R is independently deuterium (D), hydrogen (H) atom. Compounds of general chemical structure I are stabilizers of the Transthyretin (TTR) protein and are useful in the treatment of Transthyretin Amyloidosis (ATTR) and related diseases.
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -1851,6 +1864,126 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : SCOOPER – DOG EXCREMENT COLLECTOR
+PATENT     : HRUM20260039U2  [HR]  GRANTED
+ASSIGNEE   : KRIZMANIC IVAN [HR]; Krizmanić, Ivan
+INVENTORS  : KRIZMANIĆ IVAN [HR]; Krizmanić, Ivan
+FILED      : 2026-07-09   PUB: 2026-10-23
+IPC        : A01K, E01H
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20260039U2
+ABSTRACT   : Scooper – dog excrement collector is a handy, pocket-sized device designed for collecting dog excrement. The scooper (Figures 1–5) comprises two concave-shaped flaps (1 and 2) connected by a flexible joint (3), operating much like a clamshell. An elastic band (4) on flap (1) holds the user's thumb (9) of the hand (7) against that flap (1), while another elastic band (5) holds the remaining fingers (10) of the hand (7) against flap (2). It is used by employing the flap (1) and the flap (2) to sco
+
+---
+
+TITLE      : FILTER DEVICE FOR A BEVERAGE BOTTLE NECK AND BEVERAGE BOTTLE
+PATENT     : WO2026219883A1  [WO]  PENDING
+ASSIGNEE   : SIDDIQUE RASHAD MALIK [FR]; ACTIVBATISSEURS [FR]; SIDDIQUE, Rashad Malik et al.
+INVENTORS  : SIDDIQUE RASHAD MALIK [FR]; SIDDIQUE, Rashad Malik
+FILED      : 2026-04-15   PUB: 2026-10-22
+IPC        : B01D, C02F
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026219883A1
+ABSTRACT   : The invention relates to a filter device (1) for a beverage bottle neck, comprising a peripheral ring (10) forming a seal, an activated-carbon filtering pellet (20), an annulus (30) disposed on one side of the filtering pellet (20) and inside the peripheral ring (10), and a grid (40) disposed on the opposite side of the filtering pellet (20) and inside the peripheral ring (10), the peripheral ring (10) being made of flexible material, the peripheral ring (10) having an inner groove (11) and an o
+
+---
+
+TITLE      : BEER-FLAVORED BEVERAGE AND METHOD FOR PRODUCING SAME
+PATENT     : WO2026220994A1  [WO]  PENDING
+ASSIGNEE   : KIRIN HOLDINGS KK [JP]; キリンホールディングス株式会社
+INVENTORS  : MOCHIZUKI MAYURA [JP]; KATOU MASARU [JP]; MORISHITA AIKO [JP] et al.
+FILED      : 2026-04-13   PUB: 2026-10-22
+IPC        : A23L, C12C
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026220994A1
+ABSTRACT   : The purpose of the present invention is to provide a beer-flavored beverage that realizes both a refreshing sensation and ease of swallowing. The present invention provides a beer-flavored beverage in which: the total concentration of free carboxymethyllysine (CML), free carboxyethyllysine (CEL), and free methylglyoxal-derived hydroimidazolone-1 (MG-H1) is at least 16 ppb but less than 200 ppb; the total concentration of bound CML, bound CEL, and bound MG-H1 is 10-550 ppb; and the bound CML, bou
+
+---
+
+TITLE      : DOSAGE PACKAGING SYSTEM
+PATENT     : US20260326981A1  [US]  PENDING
+ASSIGNEE   : NELSON AVERY HAYES [US]; GERSONY ELI TOBIN [US]; SURYADEVARA VENKATESH [US] et al.
+INVENTORS  : NELSON AVERY HAYES [US]; GERSONY ELI TOBIN [US]; SURYADEVARA VENKATESH [US] et al.
+FILED      : 2026-04-17   PUB: 2026-10-22
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260326981A1
+ABSTRACT   : The present invention relates to the field of packaging systems. More specifically, this disclosure relates to a dosage packaging system that includes a housing and a lid. The housing includes a plurality of cavities for storing products in desired dosages. The lid seals the cavities to maintain product freshness, prevent cross-contamination, and maintain the desired dosage of a product in each cavity. The invention provides an accessible and secure packaging system that provides users with pre-
+
+---
+
+TITLE      : HIGH GREASE AND PUNCTURE RESISTANT RECYCLABLE PACKAGING FILMS
+PATENT     : WO2026222082A1  [WO]  PENDING
+ASSIGNEE   : PROAMPAC HOLDINGS INC [US]; PROAMPAC HOLDINGS INC.
+INVENTORS  : DIL EBRAHIM [US]; SAFFAR AMIR [US]; BUCHANAN JOSEPH [US] et al.
+FILED      : 2026-04-14   PUB: 2026-10-22
+IPC        : B32B, C08L, C10G
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026222082A1
+ABSTRACT   : A laminated film structure comprises a first ply comprising an outer puncture resistant layer having first and second opposing surfaces and a second ply comprising a polar grease resistant layer having first and second opposing surfaces. The first surface of the polar grease resistant layer faces toward the second surface of the outer puncture resistant layer. A barrier coating layer is disposed on the first surface of the polar grease resistant layer. A polyolefin-based film layer has first and
+
+---
+
+TITLE      : YEAST-CONTAINING BEVERAGE
+PATENT     : WO2026220991A1  [WO]  PENDING
+ASSIGNEE   : ASAHI GROUP FOODS LTD [JP]; ASAHI GROUP HOLDINGS LTD [JP]; アサヒグループ食品株式会社 et al.
+INVENTORS  : NOZAWA KIYOFUMI [JP]; ASANUMA MASAHARU [JP]; KANO TAKAHIRO [JP] et al.
+FILED      : 2026-04-13   PUB: 2026-10-22
+IPC        : A23C, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026220991A1
+ABSTRACT   : Provided are: a yeast-containing beverage that includes a yeast extract cell residue or a cell wall lytic enzyme decomposition product of a yeast extract cell residue and a bitter-flavored material, the bitter-flavored material content being 0.001–10 mass%; a milk substitute composition that includes a concentrate or a dried product of the yeast-containing beverage; a food product composition that includes the yeast-containing beverage or the milk substitute composition; and a retronasal aroma i
+
+---
+
+TITLE      : YEAST STRAINS FOR PRODUCING METABOLITE ENRICHED FOOD AND BEVERAGE PRODUCTS
+PATENT     : WO2026220397A1  [WO]  PENDING
+ASSIGNEE   : ROSALIND BIOCULTURE LTD [IL]; ROSALIND BIOCULTURE LTD
+INVENTORS  : HASKIN MENASHE [IL]; GENDELMAN MORAN [IL]; HASKIN, Menashe et al.
+FILED      : 2026-04-19   PUB: 2026-10-22
+IPC        : A21D, A23L, C12G, C12N
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026220397A1
+ABSTRACT   : Provided are non-genetically engineered yeast strains, e.g., saccharomyces cerevisiae, selected for their enhanced ability to produce high levels of a desired metabolite; a process for their production; as well as a process of manufacturing a metabolite-enriched food or beverage product using said yeast strains.
+
+---
+
+TITLE      : METHOD FOR DETECTING A TARGET MICROORGANISM IN A FERMENTED BEVERAGE
+PATENT     : WO2026219958A1  [WO]  PENDING
+ASSIGNEE   : UNIV DE BORDEAUX [FR]; INST POLYTECHNIQUE DE BORDEAUX [FR]; ECOLE NAT SUPERIEURE DES SCIENCES AGRONOMIQUES DE BORDEAUX AQUITAINE BORDEAUX SCIENCES AGRO [FR] et al.
+INVENTORS  : LUCAS PATRICK [FR]; CLAISSE OLIVIER [FR]; RUDOLF JANA [FR] et al.
+FILED      : 2026-04-15   PUB: 2026-10-22
+IPC        : C12Q
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026219958A1
+ABSTRACT   : The invention relates to a method for detecting a target microorganism in a fermented beverage such as a wine. This method comprises the dilution of a sample of said beverage, the contacting of said diluted sample with a loop-mediated isothermal amplification (LAMP) mixture comprising a set of nucleotide primers capable of specifically amplifying a DNA region of the target microorganism, and the isothermal heating of the reaction medium thus formed to carry out said specific amplification. Detec
+
+---
+
+TITLE      : AUTOMATED BEVERAGE PREPARATION SYSTEM AND METHOD USING STAGED BREWING
+PATENT     : WO2026218049A1  [WO]  PENDING
+ASSIGNEE   : MITRA ASHISH SUDHIR [AU]; MITRA, Ashish Sudhir
+INVENTORS  : MITRA ASHISH SUDHIR [AU]; MITRA, Ashish Sudhir
+FILED      : 2026-04-14   PUB: 2026-10-22
+IPC        : A47J
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026218049A1
+ABSTRACT   : An automated beverage preparation system and method are disclosed. The system includes a housing with a dispensing chamber, a reservoir, a pod holder configured to receive a beverage pod, a pump, a heating assembly, and a controller. The controller executes a staged brewing profile including a plurality of brew stages. Each brew stage includes a water delivery interval during which heated water is continuously delivered to the beverage pod and a dwell interval during which delivery is paused. Ea
+
+---
+
+TITLE      : PROCESS FOR PRODUCING A GRAPE-BASED BEVERAGE AND THE RELATIVE BEVERAGE
+PATENT     : WO2026220352A1  [WO]  PENDING
+ASSIGNEE   : ASSETING S R L [IT]; ASSETING S.R.L.
+INVENTORS  : GRAETZ EMANUELE ERICH EMET [IT]; GRAETZ, Emanuele Erich Emet
+FILED      : 2026-04-16   PUB: 2026-10-22
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026220352A1
+ABSTRACT   : Described is a process for producing a grape-based beverage comprising the steps of preparing a plurality of grape berries; extracting respective seeds from each of said grape berries; drying said seedless grape berries; pulverizing said dried grape berries to obtain a preparation at least partially soluble in water; preparing a container containing a determined amount of water inside it; dipping a determined amount of said preparation in said container so as to dissolve said preparation in said
 
 ---
 
@@ -4807,6 +4940,30 @@ ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coa
 
 ---
 
+TITLE      : A MULTI-FUNCTIONAL BIOBASED AND BIODEGRADABLE ANTI-CORROSION COMPOSITION
+PATENT     : WO2026220422A1  [WO]  PENDING
+ASSIGNEE   : PROKLEAN TECH PVT LTD [IN]; PROKLEAN TECHNOLOGIES PVT LTD
+INVENTORS  : MANISH VARDHARAJ PETKAR [IN]; S SIVARAMAKRISHNA PILLAI [IN]; KARTHICKEYAN A [IN] et al.
+FILED      : 2026-04-15   PUB: 2026-10-22
+IPC        : A61K, A61L, A61P, C08L
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026220422A1
+ABSTRACT   : A biobased, biodegradable, multi-functional anti-corrosion composition for water-based industrial systems is disclosed. The composition comprises a first non-ionic surfactant comprising polysorbate 20, a second non-ionic surfactant comprising polysorbate 80, a phosphonate chelating agent comprising etidronic acid, a first organic acid comprising lactic acid, a second organic acid comprising acetic acid, an organic ester comprising ethyl lactate, and an aqueous medium comprising deionized water. 
+
+---
+
+TITLE      : MATÉRIAU COMPOSITE COMPRENANT DES ÉLÉMENTS RECYCLÉS ET UTILISATION DE CE MATÉRIAU POUR LA RÉALISATION DE PIÈCES INJECTÉES POUR VÉHICULES AUTOMOBILES
+PATENT     : FR3174337A1  [FR]  PENDING
+ASSIGNEE   : STELLANTIS AUTO SAS [FR]; STELLANTIS AUTO SAS
+INVENTORS  : STEPANIAN MAILYSS [FR]; CHATAGNIER BERTRAND [FR]; STEPANIAN, MAILYSS et al.
+FILED      : 2025-04-18   PUB: 2026-10-23
+IPC        : B29B, B29C, C08K
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=FR3174337A1
+ABSTRACT   : L'invention concerne un procédé de fabrication de pièces d’aspect moucheté pour véhicules automobiles, comprenant la préparation de particules de poly-aluminium (polyAl) à partir de briques alimentaires recyclées, par broyage, micronisation et extrusion, caractérisé en ce qu’il comprend, le mélange (1) desdites particules avec une matrice polymère (PP), le chauffage (4) du mélange à une température comprise entre 150°C et 220°C, puis l’introduction directe du mélange dans des moyens de mise en f
+
+---
+
 TITLE      : HYDROPHOBIC LIGNIN-BASED IN-BUILT FIRE RETARDANT, ITS PREPARATION AND APPLICATION IN POLYURETHANE FOAM
 PATENT     : US20260275197A1  [US]  PENDING
 ASSIGNEE   : NANO AND ADVANCED MATERIALS INST LIMITED [HK]; Nano and Advanced Materials Institute Limited
@@ -5512,162 +5669,6 @@ IPC        : A61F, A61M, B65D
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157882A1
 ABSTRACT   : [0000]    A device and method for dispensing an eye drop using a housing supporting the eye drop bottle and an electronic or mechanical sensor that senses when the nozzle of the eye drop bottle is aligned with the eye such that a drop of fluid can be dispensed toward a conjunctival target of the eye and generates an audible, visual, or tactile alert when aligned. A bottle compression assembly may be used to more easily dispense the fluid. The method includes positioning a housing supporting the 
-
----
-
-TITLE      : Biodegradable Organic Waste Disposal Bag Device
-PATENT     : US20260159308A1  [US]  PENDING
-ASSIGNEE   : MANOUEL RANDI [US]; Manouel Randi
-INVENTORS  : MANOUEL RANDI [US]; Manouel, Randi
-FILED      : 2025-08-13   PUB: 2026-06-11
-IPC        : B65F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159308A1
-ABSTRACT   : A biodegradable organic waste disposal bag device is provided. The device is comprised of a flexible body manufactured from one or more biodegradable and compostable materials. The body may be further comprised of an interior surface treated with a hydrophobic organic wax layer to provide temporary moisture resistance and odor suppression. A reinforced base may also be included to support heavier organic waste loads and is constructed using biodegradable support structures. An opening is located
-
----
-
-TITLE      : COOKING APPARATUS FOR MOVING FOOD WHILE DEEP FRYING
-PATENT     : US20260157570A1  [US]  PENDING
-ASSIGNEE   : GAW WILSON [US]; Gaw Wilson
-INVENTORS  : GAW WILSON [US]; Gaw, Wilson
-FILED      : 2024-12-05   PUB: 2026-06-11
-IPC        : A47J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157570A1
-ABSTRACT   : A cooking apparatus for rotating and mixing food while frying the food in oil includes a vessel configured to contain cooking oil. A heating assembly is mounted to the vessel and is configured to heat the cooking oil. A food container is provided which is movable with respect to the vessel. The food container comprises a frame, and a fryer basket rotatably mounted to the frame. The fryer basket defines an interior volume in the fryer basket and also defines a plurality of holes which extend thro
-
----
-
-TITLE      : APPARATUS TO INJECT INDIVIDUAL FOOD ITEMS INTO A FLOWING BASE PRODUCT
-PATENT     : US20260157392A1  [US]  PENDING
-ASSIGNEE   : FLAVOR BURST LLC [US]; Flavor Burst, LLC
-INVENTORS  : GERBER THOMAS J [US]; GERBER TIMOTHY [US]; JACKSON DANIEL [US] et al.
-FILED      : 2025-12-08   PUB: 2026-06-11
-IPC        : A23G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157392A1
-ABSTRACT   : An apparatus for injecting food items into a flowable frozen base product is provided. The apparatus includes a housing with a plurality of separate storage and metering assemblies, each is configured to receive a volume of individual food items, the housing includes a receipt volume that is aligned with an output of individual food items from each of the plurality of storage and metering assembly. An auger assembly that receives food product from an outlet of the receipt volume and during opera
-
----
-
-TITLE      : ROBOTIC KITCHEN APPLIANCE FOR PREPARING FOOD
-PATENT     : US20260157574A1  [US]  PENDING
-ASSIGNEE   : KURKAL VAMSI K [US]; Kurkal Vamsi K.
-INVENTORS  : KURKAL VAMSI K [US]; Kurkal, Vamsi K.
-FILED      : 2024-12-10   PUB: 2026-06-11
-IPC        : A47J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157574A1
-ABSTRACT   : [0000]    A robotic appliance includes a body defining a working space. The robotic appliance includes a door movably coupled to the body to allow access to the working space. The robotic appliance includes a first robotic arm coupled to an interior surface of the body and a second robotic arm coupled to the interior surface of the body. The robotic appliance includes one or more cameras coupled to the interior surface of the body. The robotic appliance also includes a computing device electrica
-
----
-
-TITLE      : METHOD FOR POSITIONAL ASSIGNMENT OF A PET ATTENUATION MAP OF A MOVABLE OBJECT
-PATENT     : US20260157709A1  [US]  PENDING
-ASSIGNEE   : SIEMENS HEALTHINEERS AG [DE]; Siemens Healthineers AG
-INVENTORS  : SCHNEIDER MANUEL [DE]; SUKKAU JOHANN [DE]; FENCHEL MATTHIAS [DE] et al.
-FILED      : 2025-12-04   PUB: 2026-06-11
-IPC        : A61B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157709A1
-ABSTRACT   : One or more example embodiments relates to a method for positional assignment of a PET attenuation map of a movable object relative to a movable patient couch of an MR-PET system.
-
----
-
-TITLE      : FOLDING HANDRAIL STRUCTURE FOR PET RAMPS
-PATENT     : US20260157346A1  [US]  PENDING
-ASSIGNEE   : SHENZHEN HUIKAIDA TECH CO LTD [CN]; SHENZHEN HUIKAIDA TECHNOLOGY CO., LTD
-INVENTORS  : ZHANG HE [CN]; Zhang, He
-FILED      : 2024-12-24   PUB: 2026-06-11
-IPC        : A01K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157346A1
-ABSTRACT   : This invention provides a folding handrail structure for pet ramps, comprising: a support component, the support component includes a first support plate, hinges, a second support plate, and a storage groove, the hinges are fixedly installed at one end of the bottom of the first support plate, the second support plate is fixedly installed at one end of the bottom of the hinges, the storage grooves are respectively provided on both sides of the first support plate and the second support plate; a 
-
----
-
-TITLE      : SYSTEM AND METHOD FOR HEATING AND MONITORING A PET HOUSE
-PATENT     : US20260157348A1  [US]  PENDING
-ASSIGNEE   : ADR PRODUCTS LLC [US]; ADR Products, LLC
-INVENTORS  : SCHOLTZ DAVID [US]; ROSEBERRY ANDREW [US]; Scholtz, David et al.
-FILED      : 2025-12-08   PUB: 2026-06-11
-IPC        : A01K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157348A1
-ABSTRACT   : A device and method for heating and monitoring a pet house are disclosed. The method includes heating a pet house with a device connected to the internet wirelessly, setting a temperature via a computer application, transmitting thermostat data and video image data to at least one computing device, receiving the data on a mobile device, and notifying the mobile device based on the data values.
-
----
-
-TITLE      : FOOD PREPARATION APPLIANCE
-PATENT     : US20260157555A1  [US]  PENDING
-ASSIGNEE   : SANTOS [FR]; SANTOS
-INVENTORS  : GELIN CÉDRIC [FR]; FOUQUET NICOLAS [FR]; FOUQUET, Nicolas et al.
-FILED      : 2025-12-11   PUB: 2026-06-11
-IPC        : A47J
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157555A1
-ABSTRACT   : [0000]    A culinary preparation appliance including a base, a tool, a cover, and a locking system of the cover including an actuation device, a lever, driven in rotation relative to the base by the actuation device, and a hook, set in motion by the lever. The hook includes a lower end, attached to the first lever, an upper end, and an elongated central portion extending through an opening in the base. The opening in the base guides the central portion, so that the first hook is able to slide re
-
----
-
-TITLE      : SMART TEMPERATURE LOGGER AND CLOUD PLATFORM FOR AUTOMATING TEMPERATURE LOGGING
-PATENT     : US20260160601A1  [US]  PENDING
-ASSIGNEE   : DOYLE KEVIN [US]; REDDY RAKESH [US]; Reddy Rakesh et al.
-INVENTORS  : DOYLE KEVIN [US]; REDDY RAKESH [US]; Reddy, Rakesh et al.
-FILED      : 2024-12-10   PUB: 2026-06-11
-IPC        : G01K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260160601A1
-ABSTRACT   : Examples herein include systems and methods for temperature logging of food in restaurants, a cloud platform for guiding and analyzing the temperature logging process, and an improved temperature logger for use in the temperature logging process. The temperature logger can include a temperature probe, a user interface, a memory storage, and a hardware-based processor. It can confirm that the temperature of a food item meets applicable requirements, such as requirements provided by the cloud plat
-
----
-
-TITLE      : Charcuterie Board
-PATENT     : US20260157552A1  [US]  PENDING
-ASSIGNEE   : ADEBIAYE VICTOIRE ZINHOUE [US]; Adebiaye Victoire Zinhoue
-INVENTORS  : ADEBIAYE VICTOIRE ZINHOUE [US]; Adebiaye, Victoire Zinhoue
-FILED      : 2024-12-05   PUB: 2026-06-11
-IPC        : A47G, B26B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157552A1
-ABSTRACT   : A charcuterie board comprising a plurality of recessed sections for displaying and serving food items, a plurality of removable bowls interspersed between the recessed sections, also for displaying and serving food items, and a plurality of charcuterie tools which are removably retained within the charcuterie board. The charcuterie board is wheel-shaped with the tools being removably retained about the perimeter of the round board to create the appearance of a ship's wheel, the handles of the ch
-
----
-
-TITLE      : Chilled Charcuterie Board and Method of Use
-PATENT     : US20260157551A1  [US]  PENDING
-ASSIGNEE   : RILEY LEIF [US]; Riley Leif
-INVENTORS  : RILEY LEIF [US]; Riley, Leif
-FILED      : 2025-12-11   PUB: 2026-06-11
-IPC        : A47G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157551A1
-ABSTRACT   : [0000]    A serving system for maintaining freshness of perishable food items includes a bottom pan having a base and rim defining a tub configured to receive cooling material, and a serving board positionable on the bottom pan to create an enclosed chamber. Rails attached to the bottom surface of the serving board engage with the interior of the rim to restrict horizontal movement while permitting vertical movement. The serving board is removable by vertical lifting to access the cooling materi
-
----
-
-TITLE      : METHOD FOR IMPROVING MEMBRANCE COATING PROPERTIES FOR ION EXCHANGE MEMBRANE APPLICATIONS AND WOVEN MESH FABRIC HAVING IMPROVED MEMBRANE COATING PROPERTIES FOR ION EXCHANGE MEMBRANE APPLICATIONS
-PATENT     : US20260158485A1  [US]  PENDING
-ASSIGNEE   : SEFAR AG [CH]; Sefar AG
-INVENTORS  : HOSSAIN MOHAMMAD MOKBUL [CH]; CHAKHARI KARIM [CH]; SCHMIDT PHILIP [CH] et al.
-FILED      : 2025-10-21   PUB: 2026-06-11
-IPC        : B01J, D03D, D06M
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260158485A1
-ABSTRACT   : [0000]    The invention relates to a method for improving membrane coating properties for ion exchange membrane applications of woven mesh fabric as a reinforcement fabric, the woven mesh fabric comprising warp and weft monofilament fibers of at least one of the following polymers: polyphenylene sulfide, a polyether ether ketone and liquid crystal polyester, wherein one monofilament fiber is made of only one of the polymers. The method comprises after weaving the woven mesh fabric a fixation ste
-
----
-
-TITLE      : METHOD FOR DETECTING CHEMICAL MESSENGER USING SSDNA FUNCTIONALIZED SENSOR AND RELATED METHOD FOR MAKING THE SSDNA FUNCTIONALIZED
-PATENT     : US20260160682A1  [US]  PENDING
-ASSIGNEE   : UNIV OF CENTRAL FLORIDA RESEARCH FOUNDATION INC [US]; UNIVERSITY OF CENTRAL FLORIDA RESEARCH FOUNDATION, INC.
-INVENTORS  : CHANDA DEBASHIS [US]; BISWAS ARITRA [US]; CHANDA, DEBASHIS et al.
-FILED      : 2025-11-20   PUB: 2026-06-11
-IPC        : G01N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260160682A1
-ABSTRACT   : [0000]    A method is for detecting a chemical messenger within a sample of blood. The method may include flowing the sample of blood over a sensing surface of a plasmonic array biosensor. The sensing surface of the plasmonic array biosensor may have an ssDNA aptamer against the chemical messenger. The method may further include binding the chemical messenger in the sample of blood to the ssDNA aptamer of the plasmonic array biosensor, and detecting the chemical messenger in the sample of blood 
 
 ---
 
