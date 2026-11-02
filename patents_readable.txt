@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-10-26
+Last updated : 2026-11-02
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,78 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : BEVERAGE CONTAINER WITH MIXING SPACE
+PATENT     : US20260336918A1  [US]  PENDING
+ASSIGNEE   : GREUBEL WILLIAM PATRICK [US]; Greubel William Patrick
+INVENTORS  : GREUBEL WILLIAM PATRICK [US]; Greubel, William Patrick
+FILED      : 2026-04-02   PUB: 2026-10-29
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260336918A1
+ABSTRACT   : The present disclosure provides a beverage container designed to store a pre-filled base liquid while allowing for the controlled addition of an additional liquid to create a customized mixed drink. The container comprises a body defining an internal cavity, where the total volume is greater than the pre-filled base liquid volume, ensuring a dedicated mixing space. A resealable screw-top closure is provided to allow user access for adding additional liquid while maintaining carbonation stability
+
+---
+
+TITLE      : COLONOSCOPY BOWEL PREPARATION COMPOSITION AND METHODS OF USING THE SAME
+PATENT     : WO2026227056A1  [WO]  PENDING
+ASSIGNEE   : NEW YORK UNIV [US]; NEW YORK UNIVERSITY
+INVENTORS  : POCHAPIN MARK BENNETT [US]; POCHAPIN, Mark Bennett
+FILED      : 2026-04-27   PUB: 2026-10-29
+IPC        : A23L, A61K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026227056A1
+ABSTRACT   : The present invention provides compositions and methods for cleansing the bowel, e.g., in preparation for a medical procedure, such as an endoscopic or surgical procedure and/or for treating constipation. The compositions, which contain laxatives and controlled amounts of calories and/or nutrients, are highly palatable and may be provided in ready-to-drink form or in a concentrate form. Also provided are kits comprising the compositions and methods for making a beverage or food product using the
+
+---
+
+TITLE      : RICH FLAVOR IMPARTING AGENT, FOODS AND BEVERAGES CONTAINING RICH FLAVOR IMPARTING AGENT, AND FOOD AND BEVERAGE FLAVOR ENHANCEMENT METHOD
+PATENT     : WO2026225155A1  [WO]  PENDING
+ASSIGNEE   : THE NISSHIN OILLIO GROUP LTD [JP]; 日清オイリオグループ株式会社
+INVENTORS  : ISAKA DAISUKE [JP]; AOYAGI KANJI [JP]; 井阪　大輔 et al.
+FILED      : 2026-03-13   PUB: 2026-10-29
+IPC        : A23D, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026225155A1
+ABSTRACT   : The purpose of the present invention is to provide a rich flavor imparting agent which imparts an animal fat-like rich flavor to a food or beverage or enhances an animal fat rich flavor of a food or beverage. The purpose of the present invention is also to provide a food or beverage to which an animal fat-like rich flavor has been imparted or a food or beverage in which a rich flavor of an animal fat is enhanced. The purpose of the present invention is also to provide a food and beverage flavor 
+
+---
+
+TITLE      : UNSATURATED ALDEHYDE COMPOUNDS FOR ENHANCING ALCOHOL PERCEPTION
+PATENT     : WO2026226899A1  [WO]  PENDING
+ASSIGNEE   : FIRMENICH INCORPORATED [US]; PRIEST CHAD [US]; FIRMENICH INCORPORATED et al.
+INVENTORS  : PRIEST CHAD [US]; CHEN QING [US]; FOTSING JOSEPH RODOLPH [US] et al.
+FILED      : 2026-04-24   PUB: 2026-10-29
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026226899A1
+ABSTRACT   : The present disclosure generally relates to unsaturated aldehyde flavor compounds, such as phenyl butenal, and their use for enhancing the perception of alcohol (ethanol) in food, beverages, and other comestible compositions. In certain aspects, the disclosure provides the use of such aldehyde compounds to enhance an alcoholic (ethanolic) flavor of a beverage, for example, a low-alcohol or zero-alcohol beverage. In certain other aspects, the disclosure provides low-alcohol or zero-alcohol bevera
+
+---
+
+TITLE      : USE OF UNSATURATED CARBOXYLIC ACIDS FOR FLAVOR MODIFICATION
+PATENT     : WO2026226898A1  [WO]  PENDING
+ASSIGNEE   : FIRMENICH INCORPORATED [US]; FOTSING JOSEPH RODOLPH; FIRMENICH INCORPORATED et al.
+INVENTORS  : FOTSING JOSEPH RODOLPH [US]; BILLAT-ROSSI MARYLINE [CH]; FOTSING, Joseph Rodolph et al.
+FILED      : 2026-04-24   PUB: 2026-10-29
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026226898A1
+ABSTRACT   : The present disclosure generally relates to unsaturated carboxylic compounds such as α,β-unsaturated carboxylic acids and keto-acids and their use to improve the flavor of ingestible compositions that contain bitter or astringent agents, such as non-animal proteins. These flavor improvements include reducing a bitter taste, reducing an astringent taste, reducing a green vegetal taste, reducing a cereal taste, enhancing a sweet taste, enhancing mouthcoating, enhancing perceived thickness, enhanci
+
+---
+
+TITLE      : COMPOSITION FOR IMPARTING CHEESE FLAVOR AND METHOD FOR PRODUCING SAME
+PATENT     : WO2026225609A1  [WO]  PENDING
+ASSIGNEE   : AJINOMOTO CO INC [JP]; 味の素株式会社
+INVENTORS  : AKAMOTO NARIMI [JP]; IWAMI KOTARO [JP]; MIZUNO MASAKI [JP] et al.
+FILED      : 2026-04-23   PUB: 2026-10-29
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026225609A1
+ABSTRACT   : The present invention addresses the problem of providing a composition for imparting cheese flavor and a method for producing the same. The present invention provides a method for producing a composition for imparting cheese flavor, the method including: (a) a step for fermenting a composition containing plant protein with lactic acid bacteria; and (b) a step for treating the composition with one or more enzymes selected from protease, peptidase, and glutaminase, the method also including making
 
 ---
 
@@ -736,6 +808,42 @@ IPC        : H10K
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026089266A1
 ABSTRACT   : This electronic device may include a display panel. The display panel may comprise: a first electrode layer; a light-emitting layer disposed on the first electrode layer and including a first light-emitting portion and a second light-emitting portion; a second electrode layer disposed on the light-emitting layer; an insulating layer disposed beneath the second electrode layer and disposed between the first light-emitting portion and the second light-emitting portion so as to define the first lig
+
+---
+
+TITLE      : REFRIGERATED FOOD AND DRINK MERCHANDISER TANK RECONDITIONING
+PATENT     : US20260334705A1  [US]  PENDING
+ASSIGNEE   : MORRIS GEORGE [US]; Morris George
+INVENTORS  : MORRIS GEORGE [US]; Morris, George
+FILED      : 2026-04-24   PUB: 2026-10-29
+IPC        : A47F, G06F
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260334705A1
+ABSTRACT   : A method for reconditioning a Refrigerated Food and Drink Merchandiser Tank by digitally measuring multiple points on the tank surface to generate a three dimensional electronic template. The template is used to create a digital image and corresponding data file which serves as the basis for constructing a flexible coated vinyl cover sheet. The method includes applying an expandable closed cell foam adhesive for securing the cover to the tank and drain fitting.
+
+---
+
+TITLE      : RELAXATION ENHANCER AND FOOD AND DRINK FOR ENHANCING RELAXATION
+PATENT     : WO2026225141A1  [WO]  PENDING
+ASSIGNEE   : ASAHI GROUP HOLDINGS LTD [JP]; アサヒグループホールディングス株式会社
+INVENTORS  : SUGAHARA HIROSUKE [JP]; NAGAOSA SAYAKA [JP]; KAWAGUCHI KYOSUKE [JP] et al.
+FILED      : 2026-03-09   PUB: 2026-10-29
+IPC        : A23L, A61K, A61P, C12N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026225141A1
+ABSTRACT   : Provided is a relaxation enhancer containing a malt extract fermentation liquid. The relaxation enhancer contains a malt extract fermentation liquid obtained by using yeast Kluyveromyces marxianus and has an ethanol concentration of less than 1 vol%. In one embodiment, the malt extract fermentation liquid has an acetic acid concentration of 0.01-10 g/L inclusive.
+
+---
+
+TITLE      : ANIMAL FEED MIXTURE BASED ON INVASIVE FISH SPECIES
+PATENT     : RS20250403A1  [RS]  PENDING
+ASSIGNEE   : UNIVERZITET U BEOGRADU – INST ZA MULTIDISCIPLINARNA ISTRAZIVANJA [RS]; UNIVERZITET U BEOGRADU – INSTITUT ZA MULTIDISCIPLINARNA ISTRAŽIVANJA
+INVENTORS  : ĐORĐEVIĆ ALEKSIĆ JELENA [RS]; JAĆIMOVIĆ MILICA [RS]; NIKOLIĆ DUŠAN [RS] et al.
+FILED      : 2025-04-29   PUB: 2026-10-30
+IPC        : A23K
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=RS20250403A1
+ABSTRACT   : Animal feed mixture based on invasive fish species introduces the novelty of using the invasive fish species black bullhead catfish (Ameiurus melas) as the main ingredient in the mixture, sourced from natural aquatic habitats. In addition to the catfish, the mixture also contains thermally processed rice, rapeseed oil, and vitamin-mineral components. In place of the black bullhead catfish, the following invasive fish species may also be used in the mixture: Prussian carp (Carassius gibelio), big
 
 ---
 
@@ -1507,78 +1615,6 @@ ABSTRACT   : The invention relates to bioscellulose hydrogel-based three-dimensi
 
 ---
 
-TITLE      : WASTEWATER TREATMENT METHOD
-PATENT     : WO2026140616A1  [WO]  PENDING
-ASSIGNEE   : DIC CORP [JP]; ＤＩＣ株式会社
-INVENTORS  : ISHIGAKI YUJI [JP]; SHIGEHIRO TATSUYA [JP]; SUGIMOTO MAKOTO [JP] et al.
-FILED      : 2025-11-20   PUB: 2026-07-02
-IPC        : C02F, C12P, D06P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026140616A1
-ABSTRACT   : The present invention relates to a wastewater treatment method comprising: a step (1) for discharging wastewater containing at least one selected from the group consisting of dye compounds obtained by microbial fermentation and derivatives thereof; and a step (2) for biodegrading at least one selected from the group consisting of the dye compounds and derivatives thereof in the wastewater.
-
----
-
-TITLE      : METHOD FOR PRODUCING ALCOHOL
-PATENT     : WO2026140255A1  [WO]  PENDING
-ASSIGNEE   : KYOTO UNIV [JP]; GREEN EARTH INST CO LTD [JP]; NATIONAL UNIVERSITY CORPORATION KYOTO INST OF TECHNOLOGY [JP] et al.
-INVENTORS  : UEDA MITSUYOSHI [JP]; YAMAMOTO KEISUKE [JP]; KOBAYASHI JUNICHI [JP] et al.
-FILED      : 2025-02-20   PUB: 2026-07-02
-IPC        : C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026140255A1
-ABSTRACT   : The purpose of the present disclosure is to provide a method for efficiently producing an alcohol from a dry large alga as a raw material. A method according to the present disclosure includes (a) performing alcohol fermentation in a culture medium containing a saccharified product of a dry large alga by using an alcohol-fermenting microorganism, wherein the water content of the dry large alga is 20 wt% or less. In one embodiment, the method may further include, as a step performed before step (
-
----
-
-TITLE      : STABLE LIQUID FORMULATION OF FUSION PROTEIN HAVING IGG FC DOMAIN
-PATENT     : WO2026142345A1  [WO]  PENDING
-ASSIGNEE   : ALTEOGEN INC [KR]; 주식회사 알테오젠
-INVENTORS  : PARK SOON JAE [KR]; KIM BUM JOON [KR]; 박순재 et al.
-FILED      : 2025-12-24   PUB: 2026-07-02
-IPC        : A61K, A61P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026142345A1
-ABSTRACT   : The present invention relates to a stable liquid formulation of a fusion protein having an Fc domain of human immunoglobulin G (IgG) (in particular, a protein in which a soluble extracellular domain of a vascular endothelial growth factor (VEGF) receptor and an Fc domain of human immunoglobulin G (IgG) are fused (e.g. Aflibercept)). The present invention also relates to a composition for stabilizing a protein in which a soluble extracellular domain of a VEGF receptor and an Fc domain of IgG are 
-
----
-
-TITLE      : HETEROBIFUNCTIONAL COMPOUNDS FOR THE DEGRADATION OF KRAS PROTEIN
-PATENT     : WO2026139448A1  [WO]  PENDING
-ASSIGNEE   : MERCK PATENT GMBH [DE]; MERCK PATENT GMBH
-INVENTORS  : ANDERSON COREY DON [US]; CHENG XINPENG [US]; ANDERSON, Corey Don et al.
-FILED      : 2025-12-22   PUB: 2026-07-02
-IPC        : A61K, A61P, C07D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026139448A1
-ABSTRACT   : The invention provides compounds that degrade the Kirsten rat sarcoma viral oncogene homolog (KRAS) protein including mutant forms via the ubiquitination of the KRAS protein and subsequent proteasomal degradation. The compounds are useful for the treatment of various cancers.
-
----
-
-TITLE      : ORAL COMPOSITION CONTAINING PROTEIN OR SALT THEREOF AND METHOD FOR IMPROVING OR ENHANCING FLAVOR OF ORAL COMPOSITION CONTAINING PROTEIN OR SALT THEREOF
-PATENT     : WO2026141246A1  [WO]  PENDING
-ASSIGNEE   : SUNTORY HOLDINGS LTD [JP]; サントリーホールディングス株式会社
-INVENTORS  : ECHIZEN KEIGO [JP]; YASUI TAKAYUKI [JP]; SHI XIAORUI [JP] et al.
-FILED      : 2025-12-22   PUB: 2026-07-02
-IPC        : A23C, A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026141246A1
-ABSTRACT   : The purpose of the present invention is to provide: an oral composition containing a protein or a salt thereof in which an unpleasant flavor derived from the protein or the salt thereof is reduced or alleviated; and a method for improving or enhancing the flavor of an oral composition containing a protein or a salt thereof. The present invention relates to an oral composition containing components (A) dihydroferulic acid or a salt thereof and (B) a protein or a salt thereof, wherein the weight r
-
----
-
-TITLE      : Verfahren zur Aufbereitung von wässrigen Gärresten
-PATENT     : DE102024139757A1  [DE]  PENDING
-ASSIGNEE   : SCHANZE SVEN [DE]; HAEUSSER SAMUEL [DE]; KRIPPENSTAPEL CHRISTIAN [DE] et al.
-INVENTORS  : SCHANZE SVEN [DE]; HÄUSSER SAMUEL [DE]; KRIPPENSTAPEL CHRISTIAN [DE] et al.
-FILED      : 2024-12-26   PUB: 2026-07-02
-IPC        : C02F, C05F
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=DE102024139757A1
-ABSTRACT   : Die Erfindung betrifft ein Verfahren zur Aufbereitung von wässrigen Gärresten, die bei der anaeroben Fermentation von Biomasse anfallen.
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -1719,30 +1755,6 @@ ABSTRACT   : Proposed is a method for producing a liquid food product having an 
 
 ---
 
-TITLE      : SYSTEM FOR REGULATED TRAM LINE SWITCH POINT HEATING WITH REMOTE SURVEILLANCE AND CONTROL POWERED BY HIGH DC VOLTAGE 900 VDC AND/OR 1500 VDC
-PATENT     : HRP20241791A1  [HR]  PENDING
-ASSIGNEE   : MARETON D O O [HR]; MARETON d.o.o.
-INVENTORS  : ŠTETIĆ MARKO [HR]; Štetić, Marko
-FILED      : 2024-12-30   PUB: 2026-07-03
-IPC        : E01B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=HRP20241791A1
-ABSTRACT   : The system of regulated heating of tram switches with remote surveillance and control, powered by high DC voltage, i.e., 900 VDC and/or 1,500 VDC, provided here comprises at least one heating controller (200) having one input and at least one output, with this input being connected to the traction voltage, and at least one output to the switch heater (140). The heating controller (200) typically comprises an input filter, overvoltage protection, overcurrent protection, a converter, IGBTs for swi
-
----
-
-TITLE      : SYSTEM FOR REGULATED TRAM LINE SWITCH POINT HEATING WITH REMOTE SURVEILLANCE AND CONTROL POWERED BY LOW DC VOLTAGE 600 VDC AND/OR 750 VDC
-PATENT     : HRP20241790A1  [HR]  PENDING
-ASSIGNEE   : MARETON D O O [HR]; MARETON d.o.o.
-INVENTORS  : ŠTETIĆ MARKO [HR]; Štetić, Marko
-FILED      : 2024-12-30   PUB: 2026-07-03
-IPC        : E01B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=HRP20241790A1
-ABSTRACT   : The system of regulated heating of tram line switches with remote surveillance and control provided here, powered by low DC voltage, i.e., 600 VDC and/or 750 VDC, comprises at least one heating controller (200) having one input and at least one output, with this input being connected to the traction voltage, and at least one output to the switch heater (140). The heating controller (200) typically comprises an input filter, overvoltage protection, overcurrent protection, a converter, IGBTs for s
-
----
-
 ============================================================
 DOMAIN: Packaging & Smart Packaging
 ============================================================
@@ -1864,6 +1876,66 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : Adaptive Container Packaging Assembly
+PATENT     : US20260336850A1  [US]  PENDING
+ASSIGNEE   : JLS AUTOMATION [US]; JLS Automation
+INVENTORS  : PICKETT GARY [US]; Pickett, Gary
+FILED      : 2025-04-29   PUB: 2026-10-29
+IPC        : B31B, B65B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260336850A1
+ABSTRACT   : The adaptive container packaging assembly includes a container forming assembly, the container forming assembly includes a main frame, the main frame houses a magazine. The magazine includes a plurality of blanks. The adaptive container packaging assembly further includes a transferring mechanism coupled to the main frame. The container packaging assembly further includes a blank transport assembly positioned along a width of the main frame, wherein the transferring mechanism transports a blank 
+
+---
+
+TITLE      : BEVERAGE PRODUCT AND METHOD FOR PRODUCING BEVERAGE PRODUCT
+PATENT     : WO2026225401A1  [WO]  PENDING
+ASSIGNEE   : KIRIN HOLDINGS KK [JP]; キリンホールディングス株式会社
+INVENTORS  : ENDO WAKANA [JP]; OYAIZU YUTARO [JP]; NAKAGOME SHO [JP] et al.
+FILED      : 2026-04-16   PUB: 2026-10-29
+IPC        : A23L, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026225401A1
+ABSTRACT   : This beverage product comprises: a beverage product that is composed of a beverage container filled with a beverage or includes a plurality of such beverage containers; and a package attached to the beverage product. The package includes an accommodation part that accommodates an additive to be added to the beverage.
+
+---
+
+TITLE      : BRIXING SCREWS FOR POST-MIX BEVERAGE DISPENSING TAP VALVE
+PATENT     : US20260337004A1  [US]  PENDING
+ASSIGNEE   : CURCI MICHAEL [US]; Curci Michael
+INVENTORS  : CURCI MICHAEL [US]; Curci, Michael
+FILED      : 2026-07-08   PUB: 2026-10-29
+IPC        : B67D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260337004A1
+ABSTRACT   : A post-mix beverage dispensing tap valve to dispense a beverage into a vessel. A connection and mounting assembly mounts the post-mix beverage dispensing valve a wall and connecting with a source of a beverage product and a source of water. A drafting head is formed as an elongate cylindrical body with an internal bore. A piston shaft is operable by a tap actuator to selectively block and permit a flow of the beverage syrup and the water through the internal bores. The piston shaft carries a sea
+
+---
+
+TITLE      : BEVERAGE HOLDER WITH INTERIOR SURFACE GEOMETRY FOR ENHANCED INSULATION
+PATENT     : US20260336911A1  [US]  PENDING
+ASSIGNEE   : COOLER HOLDINGS LLC [US]; Cooler Holdings, LLC
+INVENTORS  : SILER CHRISTIAN [US]; BURCHFIELD BRENT [US]; GREEN ROBERT [US] et al.
+FILED      : 2026-04-23   PUB: 2026-10-29
+IPC        : B29C, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260336911A1
+ABSTRACT   : A beverage holder and a method of manufacturing the same. The beverage holder comprises a resilient foam body defining an interior bore configured to receive a beverage container. An interior surface of the body bounding the interior bore includes a plurality of surface features defining discrete contact zones and intervening void spaces, wherein the contact zones engage the exterior surface of the beverage container, and the void spaces retain an air layer providing thermal insulation. In prefe
+
+---
+
+TITLE      : Apparatus for Maintaining an Ideal Consumption Temperature of a Consumable Liquid Beverage
+PATENT     : US20260334708A1  [US]  PENDING
+ASSIGNEE   : NVENT STRATEGIES [US]; Nvent Strategies
+INVENTORS  : MACKEY JARED [US]; Mackey, Jared
+FILED      : 2026-04-22   PUB: 2026-10-29
+IPC        : A47G
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260334708A1
+ABSTRACT   : Systems and methods are disclosed that include providing an apparatus for maintaining an ideal temperature of a consumable or drinkable liquid beverage disposed in a beverage container includes an outer shell having a phase change material contained within the outer shell. The apparatus may be placed into the consumable liquid beverage when the temperature of the consumable liquid beverage exceeds the maximum consumable temperature that increases the chances to burn the mouth or tongue of the co
 
 ---
 
@@ -4940,6 +5012,42 @@ ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coa
 
 ---
 
+TITLE      : A container for storing food and/or drinks designed to minimize heat loss
+PATENT     : SI26748A  [SI]  PENDING
+ASSIGNEE   : BERVAR ALES [SI]; BERVAR Aleš
+INVENTORS  : BERVAR ALEŠ [SI]; BERVAR RUBIN [SI]; BERVAR AMBER [SI] et al.
+FILED      : 2026-06-12   PUB: 2026-10-30
+IPC        : 
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=SI26748A
+ABSTRACT   : Posoda za shranjevanje hrane in/ali pijače načrtovana za minimiziranje toplotnih izgub, označena s tem, daje njen sestavni del vir energije z napeljavo, ki omogoča gretje notranjosti posode. Vir energije za posodo je lahko vgrajena baterija z možnostjo ponovnega polnjenja. Posoda lahko vsebuje tudi merilec temperature v notranjosti posode, nadzorni modul z uporabniškim vmesnikom, kjer je mogoče odčitavanje trenutne temperature in izbira algoritme za upravijanje vira energije in napeljave za ogre
+
+---
+
+TITLE      : PHYTOPREPARATIONS WITH HIGH CANNABIDIOL CONTENT FOR IMPROVED LOCAL INFLAMMATION, PAIN RELIEF AND ARTHRITIS AND THEIR OBTAINING PROCEDURE
+PATENT     : RS20260745A2  [RS]  PENDING
+ASSIGNEE   : INST ZA PROUCAVANJE LEKOVITOG BILJA DR JOSIF PANCIC [RS]; INSTITUT ZA PROUČAVANJE LEKOVITOG BILJA "DR JOSIF PANČIĆ"
+INVENTORS  : TADIĆ VANJA [RS]; ŽUGIĆ ANA [RS]; NEŠIĆ IVANA [RS] et al.
+FILED      : 2024-05-13   PUB: 2026-10-30
+IPC        : A61K, A61P
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=RS20260745A2
+ABSTRACT   : The invention protects the obtaining of stable and original phytopreparations based on the non-psychoactive supercritical extract of hemp (Cannabis sativa L., Cannabaceae) rich in cannabidiol embedded in the appropriate carriers (nanoliposomes and nanoparticles of mesoporous silicon dioxide). They are intended for application on the skin and allow improved delivery and penetration of said hemp extract into the deep layers of the skin. The invention offers a safe, natural alternative in the treat
+
+---
+
+TITLE      : Souche bactérienne du genre Lactobacillus, procédé de sélection adaptative, utilisation de cette souche pour la production d’acide lactique et procédé de production d’acide lactique associé
+PATENT     : FR3174568A1  [FR]  PENDING
+ASSIGNEE   : INSTITUT NAT DES SCIENCES ET INDUSTRIES DU VIVANT ET DE LENVIRONNEMENT [FR]; INSTITUT NATIONAL DE RECH POUR LAGRICULTURE LALIMENTATION ET LENVIRONNEMENT [FR]; LABORATOIRES ROCHEX [FR] et al.
+INVENTORS  : BEAL CATHERINE [FR]; COLLET LAURANNE [FR]; PENICAUD CAROLINE [FR] et al.
+FILED      : 2025-04-25   PUB: 2026-10-30
+IPC        : C12N, C12P, C12Q
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=FR3174568A1
+ABSTRACT   : Procédé de sélection adaptative d’une souche bactérienne parentale choisie parmi les espèces suivantes : Lactobacillus helveticus, Lactobacillus acidophilus, Lactobacillus delbrueckii, Lactobacillus gasseri, Lactobacillus johnsonii, Lactobacillus kefiranofaciens, Lactobacillus salivarius, Lacticaseibacillus casei, Lacticaseibacillus paracasei, Levilactobacillus brevis ou encore des souches homofermentaires des espèces Lactobacillus salivarius et Lactiplantibacillus plantarum, pour la production 
+
+---
+
 TITLE      : A MULTI-FUNCTIONAL BIOBASED AND BIODEGRADABLE ANTI-CORROSION COMPOSITION
 PATENT     : WO2026220422A1  [WO]  PENDING
 ASSIGNEE   : PROKLEAN TECH PVT LTD [IN]; PROKLEAN TECHNOLOGIES PVT LTD
@@ -5612,66 +5720,6 @@ ABSTRACT   : [0000]    A pet food storage device for storing and serving pre-mea
 
 ---
 
-TITLE      : METAL MATERIAL FOR 3D PRINTING, PREPARATION PROCESS AND USE
-PATENT     : HRP20241796A1  [HR]  PENDING
-ASSIGNEE   : GRIT SYSTEMS D O O [HR]; GRIT SYSTEMS d.o.o.
-INVENTORS  : GRGUREVIĆ TRIPO [HR]; Grgurević, Tripo
-FILED      : 2024-12-31   PUB: 2026-07-03
-IPC        : B29C, B33Y
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=HRP20241796A1
-ABSTRACT   : The proposed invention represents a material for 3D printing using the FDM process, where the material can be a metal, a metal alloy or a metal matrix composite. The invention also includes a method of preparing the material to obtain rheological properties suitable for reliable extrusion of the material in a printer, as well as a method for reducing the amount of oxide in the material. Methods that facilitate the use of the material in a 3D printer are also described.
-
----
-
-TITLE      : PROCESS FOR AUTOMATIC DETECTION AND RECOGNITION OF VESSELS IN A MARINA
-PATENT     : HRP20241754A1  [HR]  PENDING
-ASSIGNEE   : MARITIME CENTER OF EXCELLENCE D O O [HR]; Maritime Center of Excellence d.o.o.
-INVENTORS  : OPSENICA DAMIR [SI]; IVUŠIĆ DAVID [HR]; KOSTELAC DINKO [HR] et al.
-FILED      : 2024-12-23   PUB: 2026-07-03
-IPC        : G06N, G06V, G08B, G08C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=HRP20241754A1
-ABSTRACT   : A process for automatic detection and recognition of vessels in a marina has been developed. The process for automatic detection and recognition of vessels in a marina uses a modular system based on deep learning to collect, analyse and optimise data in real time. The process comprises four parts, the first part is responsible for data collection, the second part is responsible for performing vessel detection and recognition functions, the third part is responsible for collecting data about the 
-
----
-
-TITLE      : SYSTEM AND METHOD FOR DIGITALIZATION AND IMPROVEMENT OF NUTRITION CARE FOR CHRONIC DISEASE PATIENTS
-PATENT     : HRP20241724A1  [HR]  PENDING
-ASSIGNEE   : KLINICKI BOLNICKI CENTAR SPLIT [HR]; Klinički bolnički centar Split
-INVENTORS  : RADIĆ JOSIPA [HR]; BUČAN NENADIĆ DORA [HR]; RADIĆ MISLAV [HR] et al.
-FILED      : 2024-12-18   PUB: 2026-06-19
-IPC        : G16H
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=HRP20241724A1
-ABSTRACT   : This invention represents a clinical procedure intended for physicians, nutritionists and patients suffering from chronic non-contagious diseases in the management of nutritional therapy with a multidisciplinary approach simultaneously. Experts can enter and update patient data, including medical history, goals and dietary restrictions, and manually create customised nutritional plans. There are also specific questionnaires that physicians and nutritionists assign to patients according to chroni
-
----
-
-TITLE      : CLOSURE AND BOTTLE
-PATENT     : US20260159281A1  [US]  PENDING
-ASSIGNEE   : LERMAN CONTAINER CORP [US]; Lerman Container Corporation
-INVENTORS  : MATTOS NILTON [US]; Mattos, Nilton
-FILED      : 2025-12-10   PUB: 2026-06-11
-IPC        : B65D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260159281A1
-ABSTRACT   : A closure and container with the closure configured to seal a conically shaped bottle that includes an internal tube to store contents in an upright orientation therein. The closure includes a first housing member, a second housing member configured to interact with and be fixed to the first housing member and an inner closure secured between the first housing member and the second housing member. The container includes housing that has a conical shape and a tube that is delimited at one end, fi
-
----
-
-TITLE      : TILT-RETRACTION EYE DROP DISPENSER, SYSTEM AND METHOD
-PATENT     : US20260157882A1  [US]  PENDING
-ASSIGNEE   : DAVIS ANDREW PETER [US]; Davis Andrew Peter
-INVENTORS  : DAVIS ANDREW PETER [US]; Davis, Andrew Peter
-FILED      : 2025-12-08   PUB: 2026-06-11
-IPC        : A61F, A61M, B65D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260157882A1
-ABSTRACT   : [0000]    A device and method for dispensing an eye drop using a housing supporting the eye drop bottle and an electronic or mechanical sensor that senses when the nozzle of the eye drop bottle is aligned with the eye such that a drop of fluid can be dispensed toward a conjunctival target of the eye and generates an audible, visual, or tactile alert when aligned. A bottle compression assembly may be used to more easily dispense the fluid. The method includes positioning a housing supporting the 
-
----
-
 ============================================================
 DOMAIN: Procesos Avanzados Cervecería
 ============================================================
@@ -5977,53 +6025,5 @@ IPC        : C10B, C10G
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=US20260201253A1
 ABSTRACT   : [0000]    Provided is a continuous pyrolysis method of waste plastic, including the following steps: crushing and drying the waste plastic, and then carrying out pyrolysis reaction under an oxygen-free condition to obtain pyrolysis products, where the obtained pyrolysis products include pyrolysis oil and gas, and a pyrolysis solid. A temperature of the pyrolysis reaction remains stable in the range of 450-500° C. for more than 7 days, pyrolysis reaction time is controlled at 30-40 min, and a pro
-
----
-
-TITLE      : PET DIAPER
-PATENT     : WO2026141470A1  [WO]  PENDING
-ASSIGNEE   : SHIZKA CO LTD [JP]; 株式会社静
-INVENTORS  : DETAKE AYAKO [JP]; NAKANO MARIKA [JP]; 中野　真理香 et al.
-FILED      : 2025-12-24   PUB: 2026-07-02
-IPC        : A01K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026141470A1
-ABSTRACT   : [Problem] To provide a pet diaper capable of forming an excretion bag in a three-dimensional shape at the time of defecation and easily storing excrement in the excretion bag at the time of defecation. [Solution] A pet diaper 10 comprises a diaper body 11 and an excretion bag 13 that is connected to the outside of the diaper body 11 and that has an internal space 13a thereof communicated with the inside of the diaper body 11 via a window part 12, the pet diaper 10 fitted to a posterior portion 1
-
----
-
-TITLE      : PET TOY WITH FEATURES FOR DISPENSING A CONSUMABLE
-PATENT     : US20260182542A1  [US]  PENDING
-ASSIGNEE   : 3TBRANDS INC [US]; 3TBrands, Inc.
-INVENTORS  : WHITE RICHARD [US]; KAPLAN JOEL [US]; DAUGHERTY JONATHAN [US] et al.
-FILED      : 2026-01-01   PUB: 2026-07-02
-IPC        : A01K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260182542A1
-ABSTRACT   : [0000]    A pet toy that is configured to optimize engagement and movement through accessibility of a consumable with the objective of providing comfort and soothing primarily through licking. The pet toy includes a base having a first chamber with an insert being positionable within the first chamber in either a first position or a second position. The insert defines a second chamber for holding the consumable. The pet toy also includes a cover that is coupled to the base and retains the insert
-
----
-
-TITLE      : 3D MESH FABRIC PET BED WITH ENHANCED AIR PERMEABILITY
-PATENT     : US20260182535A1  [US]  PENDING
-ASSIGNEE   : SUZHOU RENRUI NETWORK TECH CO LTD [CN]; Suzhou Renrui Network Technology Co., Ltd
-INVENTORS  : WEN MINGHUA [CN]; Wen, Minghua
-FILED      : 2026-02-27   PUB: 2026-07-02
-IPC        : A01K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260182535A1
-ABSTRACT   : [0000]    Provided is a 3D (Three-dimensional) mesh fabric pet bed with enhanced air permeability, belonging to the technical field of pet beds. The pet bed includes a first 3D mesh fabric mattress assembly, a second 3D mesh fabric mattress assembly, and a bracket assembly. A first 3D mesh fabric mattress assembly and a second 3D mesh fabric mattress assembly are provided. The first 3D mesh fabric mattress assembly and the second 3D mesh fabric mattress assembly are disposed in an up-down overla
-
----
-
-TITLE      : MEDICAL IMAGE RECONSTRUCTION METHOD AND SYSTEM
-PATENT     : WO2026137368A1  [WO]  PENDING
-ASSIGNEE   : SHENZHEN INST OF ADVANCED TECHNOLOGY [CN]; 深圳先进技术研究院
-INVENTORS  : HU ZHANLI [CN]; LI YE [CN]; ZHANG NA [CN] et al.
-FILED      : 2024-12-27   PUB: 2026-07-02
-IPC        : G06T
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026137368A1
-ABSTRACT   : The present invention relates to a medical image reconstruction method, comprising the following steps: S1, acquiring CT image data of a patient with a neurodegenerative disease, and preprocessing the image data; and S2, adding a Control-Net branch on the basis of a Stable Diffusion model, and using Stable Diffusion and Control-Net to perform image reconstruction on the preprocessed image data so as to generate a high-quality PET image. The present invention also relates to a medical image recon
 
 ---
