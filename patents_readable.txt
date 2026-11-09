@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-11-02
+Last updated : 2026-11-09
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,30 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : METHOD FOR PRODUCING HEAT-TREATED PRODUCT, AND HEAT-TREATED PRODUCT
+PATENT     : WO2026230416A1  [WO]  PENDING
+ASSIGNEE   : MIZKAN HOLDINGS CO LTD [JP]; MIZKAN CO LTD [JP]; 株式会社Ｍｉｚｋａｎ　Ｈｏｌｄｉｎｇｓ et al.
+INVENTORS  : YAMANAKA NAOHITO [JP]; MATSUOKA AYUMI [JP]; 山中　直人 et al.
+FILED      : 2026-04-22   PUB: 2026-11-05
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026230416A1
+ABSTRACT   : Provided is a method for producing a heat-treated product comprising: (1) a step for preparing a mixture containing (A), an edible plant and vinegar and/or salt, and (B), an edible oil/fat; and (2) a step for heating the mixture at a temperature in the range from 25°C exclusive to 90°C inclusive for 0.1-10 hours. The content of the edible plant is at least 50% (w/w) by mass relative to the total mass of the mixture. Also provided are: a heat-treated product obtained by said production method; a 
+
+---
+
+TITLE      : INSULATION ENCAPSULATION TO PREVENT OUTGASSING AND CONTAMINATION
+PATENT     : US20260354090A1  [US]  PENDING
+ASSIGNEE   : KLA CORP [US]; KLA Corporation
+INVENTORS  : QULI FARHAT A [US]; MAHZOON RAZIEH [US]; Quli, Farhat A. et al.
+FILED      : 2025-04-30   PUB: 2026-11-05
+IPC        : G01K, H05K, H10P
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260354090A1
+ABSTRACT   : A film-based encapsulation may encapsulate insulation to enable the use of porous insulation in applications where the insulation is subject to contamination and/or vacuum. Porous insulations have extremely low thermal conductivity at atmospheric pressure and at low pressure. The porous insulations are excellent candidates for insulating delicate electronic components and power sources from high process temperatures that sensor wafers are used to monitor. However, the porous nature makes working
 
 ---
 
@@ -811,6 +835,42 @@ ABSTRACT   : This electronic device may include a display panel. The display pan
 
 ---
 
+TITLE      : MATERIAL FOR PREPARING FERMENTED COMPOSITION, FERMENTED COMPOSITION, METHOD FOR PRODUCING FERMENTED COMPOSITION, AND FOOD AND DRINK
+PATENT     : WO2026230162A1  [WO]  PENDING
+ASSIGNEE   : NITTA GELATIN INC [JP]; 新田ゼラチン株式会社
+INVENTORS  : TOGO KANAME [JP]; 藤五　要
+FILED      : 2025-12-17   PUB: 2026-11-05
+IPC        : A23L, C12N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026230162A1
+ABSTRACT   : This fermented composition contains: at least one viable microorganism selected from the group consisting of a first group, a second group, and a third group; a collagen degradation product; a carbohydrate; and a fermentation-derived substance. The collagen degradation product is gelatin and/or collagen peptide. The fermentation-derived substance is at least one substance selected from the group consisting of lactic acid, acetic acid, propionic acid, diacetyl, acetaldehyde, and butyric acid. The
+
+---
+
+TITLE      : PROCESS FOR OBTAINING A PLANT PROTEIN-CONTAINING COMPOSITION
+PATENT     : WO2026229292A1  [WO]  PENDING
+ASSIGNEE   : BENEO REMY [BE]; BENEO REMY
+INVENTORS  : CELUS INGE [BE]; LEVECKE BART [BE]; BRUGGEMAN GEERT [BE] et al.
+FILED      : 2026-04-27   PUB: 2026-11-05
+IPC        : A23B, A23J, A23K, A23L, F26B
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026229292A1
+ABSTRACT   : The present invention relates to process for obtaining a plant protein-containing composition, the process comprising the steps of providing a plant protein-containing material, and simultaneously drying and grinding the plant protein-containing material by means of a vortex mill. A dried plant protein-containing composition is obtained having a fine particle size and a low content of acrylamide. The present invention also relates to a process for preparing the plant protein-containing compositi
+
+---
+
+TITLE      : NOVEL TETRAZINE DERIVATIVE, COMPOSITION FOR LABELING INTRACELLULAR TARGET PROTEIN OR ORGANELLE BY USING SAME, AND METHOD FOR LABELING INTRACELLULAR TARGET PROTEIN OR ORGANELLE
+PATENT     : WO2026230798A1  [WO]  PENDING
+ASSIGNEE   : KNU IND COOPERATION FOUNDATION [KR]; AJOU UNIV INDUSTRY ACADEMIC COOPERATION FOUNDATION [KR]; KOREA INST OF SCIENCE AND TECHNOLOGY [KR] et al.
+INVENTORS  : PARK JONG-MIN [KR]; HAHM JU-HEE [KR]; PARK JUN-YOUNG [KR] et al.
+FILED      : 2026-04-27   PUB: 2026-11-05
+IPC        : C07F, C09B, C09K, G01N
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026230798A1
+ABSTRACT   : The present invention relates to: a novel tetrazine derivative compound represented by one or more selected from chemical formulas 1-1 to 1-5; a composition using same to label an intracellular target protein or organelle on the basis of a highly selective click reaction in living cells; and a method for labeling an intracellular target protein or organelle.
+
+---
+
 TITLE      : REFRIGERATED FOOD AND DRINK MERCHANDISER TANK RECONDITIONING
 PATENT     : US20260334705A1  [US]  PENDING
 ASSIGNEE   : MORRIS GEORGE [US]; Morris George
@@ -1531,90 +1591,6 @@ ABSTRACT   : The present disclosure provides for a method of making β-carotene,
 
 ---
 
-TITLE      : METHOD AND SYSTEM FOR PRODUCING FERMENTED COMESTIBLES WITH TARGETED METABOLITE PROFILES
-PATENT     : WO2026146443A1  [WO]  PENDING
-ASSIGNEE   : KULTURE REBELLION CORP [CA]; KULTURE REBELLION CORP.
-INVENTORS  : ALSAYED SUBHI ALAN [CA]; MAK CHUNG PING [CA]; PATEL YUKTA ALKESH [CA] et al.
-FILED      : 2025-12-31   PUB: 2026-07-09
-IPC        : A23L, A61K, A61P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146443A1
-ABSTRACT   : A computer-implemented method for producing a fermented comestible having a target physiological or functional effect is provided. The method involves receiving a target input corresponding to a desired physiological or functional effect, including mood modulation, cognitive focus, or sleep support. A trained machine-learning model identifies a candidate combination including at least one precursor substrate, at least one food-safe microbial strain or microbial consortium, and associated ferment
-
----
-
-TITLE      : EXTRACELLULAR VESICLES DERIVED FROM FERMENTED NATURAL PRODUCTS AS WELL AS PREPARATION METHOD AND APPLICATION THEREOF
-PATENT     : WO2026147483A1  [WO]  PENDING
-ASSIGNEE   : SUMATRIX BIYOTEKNOLOJI LTD STI [TR]; SUMATRIX BİYOTEKNOLOJİ LTD ŞTİ
-INVENTORS  : YILDIRIM SEMRA ÜNAL [TR]; YILDIRIM, Semra Ünal
-FILED      : 2025-12-31   PUB: 2026-07-09
-IPC        : A23L, A61K, C12N, C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026147483A1
-ABSTRACT   : The present invention generally relates to microvesicles, i.e. extracellular vesicles from the product of the fermentation of natural raw materials by microorganisms. In particular, the present invention relates to extracellular vesicles derived from a fermentation product of natural raw materials which are suitable as food for humans, for example directly as fruit and/or in fermented form. In particular, the present invention relates to extracellular vesicles derived from the fermentation produ
-
----
-
-TITLE      : FERMENTATION OF NEUROSPORA INTERMEDIA
-PATENT     : WO2026146160A1  [WO]  PENDING
-ASSIGNEE   : SPORA APS [DK]; SPORA APS
-INVENTORS  : MUÑOZ VILDÓSOLA JUAN AGUSTÍN [DK]; BJØRNVAD MADS ESKELUND [DK]; EROTOKRITOU GEORGIOS ROMANOS [DK] et al.
-FILED      : 2025-12-30   PUB: 2026-07-09
-IPC        : A23J, A23L, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146160A1
-ABSTRACT   : The present invention relates to methods of fermentation with Neurospora intermedia using simple carbon substrates as carbon/energy source, for converting simple carbon waste products into edible protein sources. In particular, the present disclosure relates to a process for producing a mycoprotein product comprising a) cultivating a Neurospora intermedia microorganism in a liquid medium comprising one or more simple organic compound(s) as the primary/sole carbon source under conditions suitable
-
----
-
-TITLE      : SYSTEMS AND METHODS FOR TRANSLATING ABSTRACT AND CREATIVE INPUTS INTO QUANTITATIVE ORGANOLEPTIC PROFILES
-PATENT     : WO2026146444A1  [WO]  PENDING
-ASSIGNEE   : KULTURE REBELLION CORP [CA]; KULTURE REBELLION CORP.
-INVENTORS  : ALSAYED SUBHI ALAN [CA]; MAK CHUNG PING [CA]; PATEL YUKTA ALKESH [CA] et al.
-FILED      : 2025-12-31   PUB: 2026-07-09
-IPC        : G16C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026146444A1
-ABSTRACT   : A computer-implemented method for generating a quantitative target organoleptic profile for a fermented comestible receives at least one creative input and processes the creative input to generate a geometric representation defined by at least one geometric parameter derived according to a mapping scheme. Using at least one processor, a correspondence is determined between the geometric representation and at least one molecular structure representation corresponding to flavor-associated compound
-
----
-
-TITLE      : EFFICIENT PRODUCTION OF FERMENTABLE SUGARS FROM LIGNOCELLULOSIC BIOMASS
-PATENT     : WO2026143287A1  [WO]  PENDING
-ASSIGNEE   : RESOLVE ENERGIE INC [CA]; RÉSOLVE ÉNERGIE INC.
-INVENTORS  : DURET XAVIER DOMINIQUE [CA]; DURET, Xavier Dominique
-FILED      : 2025-12-30   PUB: 2026-07-09
-IPC        : C08H, C08J, C12P, C13K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026143287A1
-ABSTRACT   : A process that enables the efficient conversion of lignocellulosic biomass into fermentable sugars through a multi-step method that integrates acid liquefaction, hydrolysis, and advanced transformation of by-products. Biomass is first treated with concentrated sulfuric acid under controlled conditions to break down complex structures, followed by saccharification through dilution and heating to convert polysaccharides into simple sugars is disclosed. Advanced filtration techniques separate the r
-
----
-
-TITLE      : SYSTEM AND METHOD FOR ULTRASONIC MONITORING OF CELL CULTURES
-PATENT     : LT2024545A  [LT]  PENDING
-ASSIGNEE   : KAUNO TECHNOLOGIJOS UNIV [LT]; LIETUVOS SVEIKATOS MOKSLŲ UNIV [LT]; Kauno technologijos universitetas et al.
-INVENTORS  : OSTAŠEVIČIUS VYTAUTAS [LT]; BUBULIS ALGIMANTAS [LT]; JŪRĖNAS VYTAUTAS [LT] et al.
-FILED      : 2024-12-12   PUB: 2026-07-10
-IPC        : G01N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=LT2024545A
-ABSTRACT   : PAGE \* MERGEFORMAT 4ReferatasThe ultrasonic cell culture observation system according to the invention includes an electron microscope (1), standard medical dishes (2), a bath (3) with liquid (4), an acoustic ultrasonic transducer (5) resting on the bottom of the bath (3), a precision drive (6) controlling the movement of the ultrasonic transducer (5) in two directions, a closed housing (7) of the entire system, a controller (8) for coordinating the movement of the precision drive (6) in the pl
-
----
-
-TITLE      : BIOSCELLULOSE-BASED THREE-DIMENSIONAL TISSUE MODELS, METHODS FOR THEIR PRODUCTION, AND USES THEREOF
-PATENT     : WO2026147484A1  [WO]  PENDING
-ASSIGNEE   : SUMATRIX BIYOTEKNOLOJI LTD SIRKETI [TR]; SUMATRIX BİYOTEKNOLOJİ LİMİTED ŞİRKETİ
-INVENTORS  : YILDIRIM SEMRA ÜNAL [TR]; YILDIRIM, Semra Ünal
-FILED      : 2025-12-31   PUB: 2026-07-09
-IPC        : C08B, C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026147484A1
-ABSTRACT   : The invention relates to bioscellulose hydrogel-based three-dimensional matrices that are optimized and standardized in terms of the porosity ratios of their layer surfaces (measured as a percentage) and their flexibility (measured by Young's modulus), and that are further developed through in vitro modifications. The invention further discloses production methods in which the fermentation medium and process are critical, the three-dimensional bioscellulose matrices obtained by such methods, and
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -1876,6 +1852,78 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : PACKAGING FILM AND PACKAGE
+PATENT     : WO2026229041A1  [WO]  PENDING
+ASSIGNEE   : HUHTAMAKI FLEXIBLE PACKAGING GERMANY GMBH & CO KG [DE]; HUHTAMAKI FLEXIBLE PACKAGING GERMANY GMBH & CO. KG
+INVENTORS  : KNACKERT KAROLINE [DE]; OBERMAYER JOHANNES [DE]; KNACKERT, Karoline et al.
+FILED      : 2026-04-08   PUB: 2026-11-05
+IPC        : B32B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026229041A1
+ABSTRACT   : Packaging film (1), in particular a packaging film for food, preferably for a retort process, comprising a first packaging-film layer (2) and a sealing layer (3), wherein the sealing layer (3) comprises a first layer (3a), a second layer (3b) and a third layer (3c), wherein the second layer (3b) is arranged in sandwich-like fashion between the first layer (3a) and the third layer (3c), and wherein the second layer (3b) comprises cycloolefin copolymer (COC).
+
+---
+
+TITLE      : PACKAGING FOR THE TRANSPORT AND PRESERVATION OF FOODS WITH ADVANCED THERMAL BARRIER
+PATENT     : WO2026229815A1  [WO]  PENDING
+ASSIGNEE   : FAINA MASSIMO [IT]; FAINA MASSIMO
+INVENTORS  : BRAMI CHRISTIAN [IT]; FAINA CLAUDIO [IT]; MIOLLA DANILO DOMENICO [IT] et al.
+FILED      : 2026-04-21   PUB: 2026-11-05
+IPC        : D21H
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026229815A1
+ABSTRACT   : Packaging for the transport and preservation of foods with heat maintenance capacities, with control of the humidity and with advanced thermal barrier, comprising a main body made of a paper or cardboard matrix mixture with a suspension of silica particles capable of absorbing the humidity generated by hot foods and preventing the formation of condensation, a liposoluble polymer film made of food-grade polymer material, placed within said main body suitable for resisting the permeability of oily
+
+---
+
+TITLE      : THERMAL RESISTANT PAPER PACKAGING FILM FOR OVENABLE USE AND METHOD FOR PRODUCING THE SAME
+PATENT     : WO2026231110A1  [WO]  PENDING
+ASSIGNEE   : AMCOR FLEXIBLES NORTH AMERICA INC [US]; AMCOR FLEXIBLES NORTH AMERICA, INC.
+INVENTORS  : ELIAS MARCELO B [US]; GRUETZMACHER ROSS K [US]; SHOTWELL DEMITRI J [US] et al.
+FILED      : 2025-04-29   PUB: 2026-11-05
+IPC        : B32B, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026231110A1
+ABSTRACT   : A thermal resistant paper packaging film useful as a flexible packaging material for forming into a package that is capable of both having barrier properties and use within an oven. The ovenable paper packaging film includes a paper, a sealing layer comprised of a high temperature resistant polymer, and an optional vacuum deposited barrier layer positioned between the paper and the sealing layer. The film is capable of being recycled and/or repulped into a paper-based recycling stream. To form t
+
+---
+
+TITLE      : FOOD/BEVERAGE CONVEYANCE SYSTEM
+PATENT     : WO2026230143A1  [WO]  PENDING
+ASSIGNEE   : KURA SUSHI INC [JP]; くら寿司株式会社
+INVENTORS  : TANAKA KUNIHIKO [JP]; 田中　邦彦
+FILED      : 2025-08-28   PUB: 2026-11-05
+IPC        : A47G, B65G
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026230143A1
+ABSTRACT   : An end part on the rear side in the conveyance direction in a second conveyance path 41 is arranged on a side part of a first conveyance path 30 in a state of being perpendicular to the first conveyance path. A first guide 10B in a state in which the arrangement position is maintained at an operation position comes into contact with tableware being conveyed on the first conveyance path 30 to change the conveyance direction of the tableware, thereby separating the tableware laterally from the fir
+
+---
+
+TITLE      : CLOSURE ARRANGEMENT FOR A BEVERAGE CONTAINER
+PATENT     : WO2026229271A1  [WO]  PENDING
+ASSIGNEE   : ARDAGH METAL PACKAGING EUROPE GMBH [CH]; ARDAGH METAL PACKAGING EUROPE GMBH
+INVENTORS  : JÖBGES UDO [DE]; RIECK HAJO [DE]; JÖBGES, Udo et al.
+FILED      : 2026-04-24   PUB: 2026-11-05
+IPC        : B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026229271A1
+ABSTRACT   : The invention relates to a closure arrangement (1) for a beverage container (2), at least comprising a lid element (3) and a closure element (4) arranged on the lid element (3), the lid element (3) having at least one lid panel (5) with an opening (6) that can be repeatedly closed by the closure element (4), and having a seam edge (8) that runs around the lid panel (5) in a circumferential direction (7) and is intended for connecting the lid element (5) to a container body part (9) of the bevera
+
+---
+
+TITLE      : METHOD FOR PRODUCING BEVERAGE AND LIQUID COMPOSITION OF SUCROSE FATTY ACID ESTER USED FOR SAME
+PATENT     : WO2026230577A1  [WO]  PENDING
+ASSIGNEE   : MITSUBISHI CHEMICAL CORP [JP]; 三菱ケミカル株式会社
+INVENTORS  : KITAYAMA SACHIKO [JP]; HARA HIDEYUKI [JP]; HABU MASAYA [JP] et al.
+FILED      : 2026-04-30   PUB: 2026-11-05
+IPC        : A23C, A23F, A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026230577A1
+ABSTRACT   : Provided is a method for producing a beverage as a technique for blending a sucrose fatty acid ester into a beverage without requiring strong stirring or temperature increase to a high temperature, the method including a step for preparing a liquid mixture of the sucrose fatty acid ester and another raw material, wherein the sucrose fatty acid ester is charged into the mixing step as a liquid composition, the charging is implemented while the temperature of the liquid composition is less than 50
 
 ---
 
@@ -5012,6 +5060,18 @@ ABSTRACT   : Method for obtaining a wear-resistant coating involves applying coa
 
 ---
 
+TITLE      : AI-ENABLED FOOD MANAGEMENT SYSTEM
+PATENT     : US20260350536A1  [US]  PENDING
+ASSIGNEE   : GAYLE GARY [US]; Gayle Gary
+INVENTORS  : GAYLE GARY [US]; Gayle, Gary
+FILED      : 2025-04-30   PUB: 2026-11-05
+IPC        : G06K, G06Q
+SCORE      : 76
+LINK       : https://worldwide.espacenet.com/patent/search?q=US20260350536A1
+ABSTRACT   : [0000]    An AI-powered, sensor-equipped household refrigerator management system designed to track food inventory, monitor expiration dates, and optimize food consumption through predictive analytics is disclosed. The system integrates weight sensors, RFID/barcode scanning, and AI algorithms to generate personalized grocery lists, alert users to food spoilage risks, and suggest meal plans. The system is capable of connecting with smart home assistants and online grocery platforms to enhance hou
+
+---
+
 TITLE      : A container for storing food and/or drinks designed to minimize heat loss
 PATENT     : SI26748A  [SI]  PENDING
 ASSIGNEE   : BERVAR ALES [SI]; BERVAR Aleš
@@ -5657,66 +5717,6 @@ IPC        : A23L
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=US20260191236A1
 ABSTRACT   : [0000]    A heating unit includes a cylindrical body, a first planar electrode, a second planar electrode, and a conductive thin film, in which the cylindrical body is configured to be fillable with a food having conductivity, the first planar electrode and the second planar electrode are configured to be arrangeable so as to seal the food on two sides of the food filled in the cylindrical body, the conductive thin film is provided in a band shape along a circumferential direction at a position 
-
----
-
-TITLE      : CULTURE MEDIUM FOR BEER-SPOILING YEAST, AND METHOD FOR DETECTING BEER-SPOILING YEAST
-PATENT     : WO2026140987A1  [WO]  PENDING
-ASSIGNEE   : ASAHI GROUP HOLDINGS LTD [JP]; アサヒグループホールディングス株式会社
-INVENTORS  : SUZUKI KOJI [JP]; TERAO TAKUMA [JP]; KURNIAWAN YOHANES NOVI [JP] et al.
-FILED      : 2025-12-15   PUB: 2026-07-02
-IPC        : C12N, C12Q
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026140987A1
-ABSTRACT   : The present invention provides: a culture medium for beer-spoiling yeast that contains only erythritol as a sugar source; the culture medium described above that also contains a liquid oil and an emulsifier; and a method for selectively detecting beer-spoiling yeast, the method comprising a culture step for culturing a test sample using a culture medium for beer-spoiling yeast and an evaluation step for evaluating the presence or absence of beer-spoiling yeast in the test sample after the cultur
-
----
-
-TITLE      : Machine électrique avec circuit de refroidissement
-PATENT     : FR3170977A1  [FR]  PENDING
-ASSIGNEE   : VALEO EMBRAYAGES [FR]; VALEO EMBRAYAGES
-INVENTORS  : FAVEROLLE PIERRE [FR]; VERHOOG ROEL [FR]; VERHOOG, Roel et al.
-FILED      : 2024-12-31   PUB: 2026-07-03
-IPC        : H02K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3170977A1
-ABSTRACT   : La présente invention concerne un Système de refroidissement pour machine électrique comportant au moins un stator (32) disposé dans un carter (33) de stator, l’ensemble étant disposé dans un deuxième carter (34), et formé entre les deux carters (33, 34), au moins une surface de contact entre le stator (32) et le carter (33) du stator étant configurée pour maitriser la répartition de la pression de contact entre le stator (32) et le carter (33) sur toute la longueur (L) du carter (33) du stator.
-
----
-
-TITLE      : Réservoir pour gaz sous pression
-PATENT     : FR3170920A1  [FR]  PENDING
-ASSIGNEE   : FAURECIA HYDROGEN SOLUTIONS FRANCE [FR]; Faurecia Hydrogen Solutions France
-INVENTORS  : ROBERT PIERRE-ALEXANDRE [FR]; BESESTY ROMAIN [FR]; BESESTY, Romain et al.
-FILED      : 2024-12-30   PUB: 2026-07-03
-IPC        : F16J, F17C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3170920A1
-ABSTRACT   : Réservoir pour gaz sous pression L’invention concerne un réservoir pour gaz sous pression, tel de l’hydrogène, comprenant une structure creuse comprenant un corps cylindrique selon un axe, terminé à chaque extrémité par une calotte hémi-ellipsoïdique selon l’axe, une calotte étant percée d’un orifice, une enveloppe (3) d’étanchéité apte à épouser la forme interne de la structure, une embase (4), disposée dans l’orifice, présentant une forme sensiblement de révolution autour de l’axe, comprenant 
-
----
-
-TITLE      : Procédé de fabrication d’un réservoir multicouche de stockage de fluide
-PATENT     : FR3170880A1  [FR]  PENDING
-ASSIGNEE   : ARKEMA FRANCE [FR]; COVESS [BE]; ARKEMA FRANCE et al.
-INVENTORS  : HOCHSTETTER GILLES [FR]; BABEAU ARTHUR [FR]; SALINIER AXEL [FR] et al.
-FILED      : 2024-12-30   PUB: 2026-07-03
-IPC        : B29C, B29D, B32B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=FR3170880A1
-ABSTRACT   : L’invention concerne un procédé de préparation d’un réservoir de stockage multicouche pour fluide comprenant les étapes de :  Chauffage d’au moins un matériau fibreux imprégné comprenant des fibres continues imprégnées d’au moins une composition thermoplastique comprenant au moins un polymère thermoplastique, par un premier système de chauffage infra-rouge ou par contact avec des rouleaux chauffants (appelés également embarrages chauffants), à une température supérieure ou égale à la température
-
----
-
-TITLE      : Pet Food Storage Device
-PATENT     : US20260182537A1  [US]  PENDING
-ASSIGNEE   : ANDRADE KELLY [US]; Andrade Kelly
-INVENTORS  : ANDRADE KELLY [US]; Andrade, Kelly
-FILED      : 2025-01-02   PUB: 2026-07-02
-IPC        : A01K, B65D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260182537A1
-ABSTRACT   : [0000]    A pet food storage device for storing and serving pre-measured servings of pet food includes a tray having a platform and a pair of legs. The platform is coupled to and extends between the pair of legs. The pair of legs supports the platform over a surface. A plurality of slots extend through the platform. A plurality of cups are positionable within the plurality of slots. Each cup of the plurality of cups is removably positionable within an associated slot of the plurality of slots. E
 
 ---
 
