@@ -1,5 +1,5 @@
 PATENT MONITOR — TECH VIGILANCE R&D
-Last updated : 2026-11-16
+Last updated : 2026-11-23
 Total patents: 500
 
 ============================================================
@@ -15,6 +15,42 @@ IPC        :
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=UA162983U
 ABSTRACT   : Method for producing non-alcoholic carbonated drink with lavender and berries. To prepare the drink, a combination of natural plant-based ingredients is used: dried lavender, fresh mint, lemon juice, berry puree, and a natural sweetener, where all ingredients are mixed with filtered water and carbonated with carbon dioxide (CO2), in the following ratio, per 1 liter of drink:  dried lavender 1 g fresh mint 6-10 g lemon juice 80-100 ml topinambour syrup as a natural sweetener 30-40 ml berry puree 
+
+---
+
+TITLE      : TRANSPARENT PROTEINACEOUS EFFERVESCENT COMPOSITION SOLUBLE IN COLD WATER, IN TABLET OR SACHET FORM
+PATENT     : WO2026236855A1  [WO]  PENDING
+ASSIGNEE   : MURRU MARCO [CH]; MURRU, Marco
+INVENTORS  : MURRU MARCO [CH]; MURRU, Marco
+FILED      : 2026-05-10   PUB: 2026-11-19
+IPC        : A23L
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026236855A1
+ABSTRACT   : A proteinaceous effervescent composition is provided for preparing a protein beverage by activation in cold water or another edible liquid. The composition comprises a high-solubility protein component, such as clear whey, hydrolysed collagen, alpha-lactalbumin, hydrolysed pea protein, partially hydrolysed barley and rice protein or another plant protein, and an acid-base effervescent couple, preferably including citric acid and bicarbonate. Optional components include sweeteners, flavours, solu
+
+---
+
+TITLE      : A KETOGENIC SUPPLEMENT COMPOSITION AND ITS PREPARATION METHOD THEREOF
+PATENT     : WO2026239420A1  [WO]  PENDING
+ASSIGNEE   : RAJEEV KUMAR RAMACHANDRAN [IN]; RAJEEV AADHIRA [IN]; RAJEEV KUMAR, Ramachandran et al.
+INVENTORS  : RAJEEV KUMAR RAMACHANDRAN [IN]; RAJEEV AADHIRA [IN]; CHINNASAMY SENTHIL [BH] et al.
+FILED      : 2026-05-15   PUB: 2026-11-19
+IPC        : A23L, A61K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026239420A1
+ABSTRACT   : The present invention provides a microalgae-based ketogenic supplement composition and a method of preparation thereof. The composition combines a microalgae complex derived from selected microalgae species with medium-chain triglycerides (MCTs) and beta- hydroxybutyrate (BHB) salts to support ketosis through both endogenous and exogenous pathways. A microencapsulation process involving phospholipid coating, spray chilling, and particle size control is employed to improve stability, palatability
+
+---
+
+TITLE      : POLYOLEFIN POLYMER AND ENCAPSULATION COMPOSITION COMPRISING SAME
+PATENT     : WO2026240220A1  [WO]  PENDING
+ASSIGNEE   : DL CHEMICAL CO LTD [KR]; 디엘케미칼 주식회사
+INVENTORS  : LEE HEE JUN [KR]; SOHN BYUNG KEEL [KR]; YU SEUNG TACK [KR] et al.
+FILED      : 2025-05-13   PUB: 2026-11-19
+IPC        : C08F, C08L, H10F
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026240220A1
+ABSTRACT   : The present invention relates to: a polyolefin polymer having excellent light transmittance and capable of continuously preventing PID when applied to solar cells; and an encapsulation composition for solar cells, the encapsulation composition comprising the polyolefin polymer.
 
 ---
 
@@ -1483,90 +1519,6 @@ ABSTRACT   : A method for fermenting cocoa pulp, said method comprising the step
 
 ---
 
-TITLE      : COCOA POWDER SUBSTITUTE COMPRISING FERMENTED SOY OKARA AND METHOD FOR PRODUCING THE SAME
-PATENT     : WO2026163143A1  [WO]  PENDING
-ASSIGNEE   : MYCOSORTIA PTE LTD [SG]; MYCOSORTIA PTE. LTD.
-INVENTORS  : SUN FENG [SG]; SUN, Feng
-FILED      : 2026-01-30   PUB: 2026-08-06
-IPC        : A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163143A1
-ABSTRACT   : The present invention relates to a novel cocoa powder substitute comprising soy okara, optionally further comprising one or more beans and grains, and a method for producing the same. The method involves the controlled fermentation of sterilized soy okara, beans, and grains using GRAS microbial strains. The chocolate-like sensory profile is enhanced through a specific post-fermentation alkalization step (pH 9.0–11.0) and the supplementation of flavor precursors, including amino acids and reducin
-
----
-
-TITLE      : METHOD FOR PRODUCING A MICROBIAL OIL
-PATENT     : WO2026162828A1  [WO]  PENDING
-ASSIGNEE   : OMV DOWNSTREAM GMBH [AT]; OMV DOWNSTREAM GMBH
-INVENTORS  : FEJER ANDRAS MIKLOS [AT]; MALY MARKUS [AT]; VOLLNHOFER WOLFGANG [AT] et al.
-FILED      : 2026-02-03   PUB: 2026-08-06
-IPC        : C12N, C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162828A1
-ABSTRACT   : The invention relates to a method for producing a microbial oil (12) from biomass (1), the method comprising the following steps: – Step A: Providing the biomass (1); – Step B: Pretreating the biomass (1) to obtain a fermentation substrate (3), wherein the pretreating comprises a solid- liquid separation step for removing insoluble components; – Step C: Culturing an oleaginous microorganism in a fermentation broth (5) comprising the fermentation substrate (3), wherein lipids are produced within 
-
----
-
-TITLE      : FIBER BLEND COMPOSITIONS AND METHODS OF USE THEREOF
-PATENT     : US20260223891A1  [US]  PENDING
-ASSIGNEE   : ANIMAL MICROBIOME ANALYTICS INC [US]; Animal Microbiome Analytics, Inc.
-INVENTORS  : DAHLHAUSEN KATIE [US]; GANZ HOLLY H [US]; ROJAS CONNIE A [US] et al.
-FILED      : 2026-02-05   PUB: 2026-08-06
-IPC        : A23K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260223891A1
-ABSTRACT   : [0000]    Disclosed herein are compositions and methods of using a fiber-blend composition for improving gastrointestinal (gut) health in companion mammals. The fiber blend compositions comprise multiple types of fiber that differ in their fermentation rates and/or the location of their fermentation along the gastrointestinal tract of the companion mammal. The fiber blend compositions comprise two or more of a slow-fermenting fiber (e.g., arabinogalactan), a moderate fermenting fiber (e.g., beet
-
----
-
-TITLE      : Production of Organic Pea Protein Isolate
-PATENT     : US20260223886A1  [US]  PENDING
-ASSIGNEE   : LOUIS DREYFUS CO PLANT PROTEINS LLC [US]; Louis Dreyfus Company Plant Proteins LLC
-INVENTORS  : KUMAR MANOJ [US]; BILKIC NIKOLINA [US]; Kumar, Manoj et al.
-FILED      : 2025-02-06   PUB: 2026-08-06
-IPC        : A23J, A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260223886A1
-ABSTRACT   : [0000]    The present disclosure provides a process for producing pea protein products, in particular pea protein isolates (PPIs), PPI produced by the process and use of PPI, wherein the process utilizes lactic acid or L-Malic acid to precipitate PPI (lactic acid PPI and malic acid PPI, respectively) from a protein-rich solution derived from a pea source. The process comprises steps of a) providing a pea source, b) extracting protein from the pea source in a basic solution to produce a protein—r
-
----
-
-TITLE      : METHOD FOR PRODUCING RECOMBINANT PROTEIN
-PATENT     : WO2026164234A1  [WO]  PENDING
-ASSIGNEE   : SPIBER INC [JP]; Ｓｐｉｂｅｒ株式会社
-INVENTORS  : NAKAHIGASHI KENJI [JP]; 中東　憲治
-FILED      : 2026-01-29   PUB: 2026-08-06
-IPC        : C12N, C12P
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164234A1
-ABSTRACT   : A method for producing a recombinant protein, the method comprising: culturing, in a culture medium, a recombinant cell that expresses the recombinant protein; inducing the expression of a gene encoding the recombinant protein; and collecting the recombinant protein, wherein the recombinant protein has a glycine residue content of 25% or more, and the recombinant cell contains at least one modification selected from the group consisting of (A) and (B) below. (A) A modification that increases thr
-
----
-
-TITLE      : MODIFIED PLANT UBX DOMAIN PROTEINS FOR ENHANCED PROTEIN PRODUCTION
-PATENT     : WO2026165289A1  [WO]  PENDING
-ASSIGNEE   : MOZZA FOODS INC [US]; MOZZA FOODS, INC.
-INVENTORS  : TOBIN CORY [US]; TOBIN, Cory
-FILED      : 2026-01-29   PUB: 2026-08-06
-IPC        : C07K, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026165289A1
-ABSTRACT   : The present invention herein is enhancing recombinant protein production in plant-based expression systems through modulation of Plant UBX (PUX) protein activity. Engineered PUX proteins with modified functional domains, including systematic deletions of UBX, UBA, UAS, UIM, SEP, SHP, zinc finger, and PUB domains, compete with native PUX proteins to modulate CDC48-mediated protein degradation pathways. Additionally, RNA interference and CRISPR-based methods for reducing native PUX protein express
-
----
-
-TITLE      : PROTEIN COMPOSITIONS AND METHODS OF USE THEREOF IN MODULATING PER1 FUNCTION
-PATENT     : US20260226117A1  [US]  PENDING
-ASSIGNEE   : WASHINGTON UNIV [US]; Washington University
-INVENTORS  : DEBOSCH BRIAN J [US]; HIGGINS CASSANDRA [US]; SUN JIAMENG [US] et al.
-FILED      : 2026-01-16   PUB: 2026-08-06
-IPC        : A61K, A61P, C07K, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260226117A1
-ABSTRACT   : Protein compositions, such as fusion protein compositions, and methods of use thereof for modulating PER1 function are provided. Exemplary embodiments include methods for inducing PER1 expression, protecting against glucose intolerance, and improving glucose homeostasis. Exemplary compositions include at least one of: a deltaCBD fusion protein, a CBD fragment fusion protein, a TAT-CBD fusion protein, an Fc-CBD fusion protein, and an AAV8-native CBD fusion protein.
-
----
-
 ============================================================
 DOMAIN: Materias Primas Alternativas
 ============================================================
@@ -1680,30 +1632,6 @@ IPC        : A61K, A61Q
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=FR3171999A3
 ABSTRACT   : COMPOSITION COMPRENANT UN ESTER D'ACIDE N-ACYL AMINÉ, UN DIOL ET UN ESTER DE POLYGLYCÉRYLE D’ACIDE GRAS La présente invention concerne une composition comprenant : (a) au moins un ester d’acide N-acyl aminé ; (b) au moins un diol ayant au moins une chaîne carbonée comprenant 3 atomes de carbone ou plus ; et (c) au moins un ester de polyglycéryle d’acide gras ayant une valeur HLB supérieure à 5,0 et inférieure à 14,0, dans laquelle la quantité du (b) diol ayant au moins une chaîne carbonée compre
-
----
-
-TITLE      : FLAVOR-ENHANCING COMPOSITION, METHOD FOR PRODUCING SAME, AND METHOD FOR ENHANCING FLAVOR OF FOOD PRODUCT
-PATENT     : WO2026163745A1  [WO]  PENDING
-ASSIGNEE   : HOUSE FOODS CORP [JP]; HOUSE FOODS GROUP INC [JP]; ハウス食品株式会社 et al.
-INVENTORS  : KOBAYASHI RUNO [JP]; SAKANE KUMI [JP]; MIYAZAKI KINUKO [JP] et al.
-FILED      : 2025-12-26   PUB: 2026-08-06
-IPC        : A23C, A23G, A23L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163745A1
-ABSTRACT   : The present specification discloses: a flavor-enhancing composition with which it is possible to enhance the flavor of a food product by being blended in the food product; and a method for producing the flavor-enhancing composition. The present disclosure relates to: a flavor-enhancing composition containing one or more heat-treated spices selected from the group consisting of heat-treated turmeric and heat-treated black cumin; and a method for producing the flavor-enhancing composition.
-
----
-
-TITLE      : LIQUID FOOD PRODUCT WITH ENHANCED FLAVOUR AND AROMA
-PATENT     : WO2026164533A1  [WO]  PENDING
-ASSIGNEE   : BALTIKA BREWERIES LIMITED LIABILITY CO [RU]; GUSHCHIN GENNADII MIHAILOVICH [CH]; ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "ПИВОВАРЕННАЯ КОМПАНИЯ "БАЛТИКА" et al.
-INVENTORS  : GUSHCHIN GENNADII MIHAILOVICH [CH]; AFONIN DMITRII VLADIMIROVICH [RU]; EFIMOV ILYA VICTOROVICH [RU] et al.
-FILED      : 2026-01-30   PUB: 2026-08-06
-IPC        : A23L, C12C, C12G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026164533A1
-ABSTRACT   : Proposed is a method for producing a liquid food product having an enhanced flavour and aroma, in which a flow of a multiphase system containing a base liquid and at least one flavouring ingredient, which is saturated with at least one gas selected from among СО2, О2 and N2, is treated using a dispersing effect that causes the multiphase system to undergo, under the influence of hydrodynamic forces, a change in turbidity, at scatter angles of 90 and/or 25 and/or 12 degrees, of no less than 45% i
 
 ---
 
@@ -1828,6 +1756,174 @@ IPC        : B01J, C10L
 SCORE      : 100
 LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20250075U2
 ABSTRACT   : The present application relates to a chamber for the production of methane hydrates under laboratory conditions, which relates to the field of heat-pressure treatment of methane into a solid called methane hydrate. The chamber (17) consists of several components, namely control flasks (1), a cylindrical high-pressure connector with side elbows (2), a T-adapter (3) with a pressure gauge (18), a long connecting pipe (4), a short connecting pipe (5) with a pressure gauge (18), a check valve (6) and
+
+---
+
+TITLE      : BEER-FLAVORED BEVERAGE AND METHOD FOR PRODUCING SAME
+PATENT     : WO2026240084A1  [WO]  PENDING
+ASSIGNEE   : KIRIN HOLDINGS KK [JP]; キリンホールディングス株式会社
+INVENTORS  : OTA REIKO [JP]; KATOU MASARU [JP]; MOCHIZUKI MAYURA [JP] et al.
+FILED      : 2026-05-12   PUB: 2026-11-19
+IPC        : A23L, C12C
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026240084A1
+ABSTRACT   : The purpose of the present invention is to provide a beer-flavored beverage that has a mild sourness and richness like beer. The present invention provides a beer-flavored beverage wherein: the total concentration of bonded carboxymethyl lysine (bonded CML), bonded carboxyethyl lysine (bonded CEL), and bonded methylglyoxal-derived hydroimidazolone-1 (bonded MG-H1) in a peptide fraction (gel filtration technique for HPLC analysis) having a molecular weight of 3.1-25 kDa in the beverage is not les
+
+---
+
+TITLE      : BEER-LIKE BEVERAGE AND METHOD FOR PRODUCING SAME
+PATENT     : WO2026240085A1  [WO]  PENDING
+ASSIGNEE   : KIRIN HOLDINGS KK [JP]; キリンホールディングス株式会社
+INVENTORS  : OTA REIKO [JP]; KATOU MASARU [JP]; MOCHIZUKI MAYURA [JP] et al.
+FILED      : 2026-05-12   PUB: 2026-11-19
+IPC        : A23L, C12C
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026240085A1
+ABSTRACT   : The purpose of present invention is to provide a beer-like beverage having a mild sourness and richness like beer. The present invention provides a beer-like beverage, wherein: a fraction obtained from the beverage (by using analytical gel-filtration HPLC) and containing peptides having a molecular weight of more than 25 kDa comprises bound carboxymethyllysine (bound CML), bound carboxyethyllysine (bound CEL), and bound methylglyoxal-derived hydroimidazolone-1 (bound MG-H1) at a total concentrat
+
+---
+
+TITLE      : PACKAGING MATERIAL WEB FOR PRODUCING A WRAPPER PACKAGING FROM BLANKS CUT TO LENGTH THEREFROM, WRAPPER PACKAGING PRODUCED IN THIS WAY, AND METHOD FOR PACKAGING PACKAGING ITEMS TO FORM SUCH A WRAPPER PACKAGING
+PATENT     : WO2026238701A1  [WO]  PENDING
+ASSIGNEE   : BENHIL GMBH [DE]; BENHIL GMBH
+INVENTORS  : FRANZ MAIK [DE]; HAUPT JOACHIM [DE]; FRANZ, Maik et al.
+FILED      : 2026-05-12   PUB: 2026-11-19
+IPC        : B65B, B65D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026238701A1
+ABSTRACT   : The invention relates to a packaging material web which is designed for cutting a plurality of blanks to length, wherein the blanks are designed to form one wrapper packaging each by folding the blank around a packaging item. According to the invention, a plurality of pairs of cold sealing surface regions in the extension direction of the packaging material web are arranged one behind the other on only one side of the packaging material web in such a way that each blank to be cut to length from 
+
+---
+
+TITLE      : PROCESS FOR PACKAGING A MATTRESS
+PATENT     : WO2026239248A1  [WO]  PENDING
+ASSIGNEE   : BUONINFANTE VINCENZO [IT]; BUONINFANTE, Vincenzo
+INVENTORS  : BUONINFANTE VINCENZO [IT]; BUONINFANTE, Vincenzo
+FILED      : 2026-05-11   PUB: 2026-11-19
+IPC        : A47C, B65B
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026239248A1
+ABSTRACT   : The present invention relates, in general, to a process for packaging a mattress. More particularly, it relates to a process which allows the mattress to be treated by means of one or more steps of pressing and/or folding and/or wrapping, in order to reduce its volume and facilitate its packaging and transport.
+
+---
+
+TITLE      : POLYMER STABILIZED ANIONIC BIOWAX DISPERSIONS FOR OGR MOLDED FIBER PRODUCTS
+PATENT     : WO2026241507A1  [WO]  PENDING
+ASSIGNEE   : KEMIRA OYJ [FI]; KEMIRA WATER SOLUTIONS INC [US]; KEMIRA OYJ et al.
+INVENTORS  : LUO YUPING [US]; ZOU YONG [US]; MILLAN JAIME [US] et al.
+FILED      : 2026-05-14   PUB: 2026-11-19
+IPC        : D21H
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026241507A1
+ABSTRACT   : The invention provides polymer stabilized anionic biowax dispersions for imparting oil and grease resistance (OGR) and water resistance to molded fiber products. The invention also provides methods of preparation of polymer stabilized anionic biowax dispersions and methods of use thereof for manufacturing molded fiber products with oil and water resistant properties for use in food and beverage packaging.
+
+---
+
+TITLE      : TWO-COMPONENT FUNCTIONAL FOOD PRODUCT WITH SEPARATE SHAPED FRUIT COMPONENT AND LIQUID PLANT COMPONENT
+PATENT     : HRUM20260048U2  [HR]  GRANTED
+ASSIGNEE   : MF HERBA D O O [HR]; MF Herba d.o.o.
+INVENTORS  : POLIĆ ANDRIJA [HR]; Polić, Andrija
+FILED      : 2026-08-28   PUB: 2026-11-20
+IPC        : A23L, A23P, A61K
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=HRUM20260048U2
+ABSTRACT   : A two-component functional food product (10) comprises a separate, shaped solid fruit component (12) and a separate liquid plant-based component (14), which are physically separated but quantitatively balanced for combined use. The solid fruit component (12) contains dried fig (12.1), dried plum (12.2), inulin (12.3), and dry peppermint leaf extract (12.4), and is shaped into an individual, spherical unit with a diameter of 16 to 25 mm. The liquid plant-based component (14) contains liquid artic
+
+---
+
+TITLE      : FOAMABLE LIQUID FOOD COMPOSITION
+PATENT     : WO2026238228A1  [WO]  PENDING
+ASSIGNEE   : OATLY AB [SE]; OATLY AB
+INVENTORS  : OSSVALL NELLIE [SE]; ARBAB OLIVIA [SE]; ANDERSSON HANNA [SE] et al.
+FILED      : 2025-05-12   PUB: 2026-11-19
+IPC        : A23C, A23L, A23P
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026238228A1
+ABSTRACT   : The invention relates to a non-dairy foamable liquid food composition comprising vegetable fat in an amount of from 5 to 12% by weight of the composition, wherein said the vegetable fat comprises coconut oil; a stabiliser and/or emulsifier mixture; an oat- derived material comprising dry matter in an amount of from 0.2% to 2% by weight of the composition, and water. The invention further relates to the non-dairy foamable liquid food composition for use in a cold drink; a method of producing a co
+
+---
+
+TITLE      : FOAMABLE LIQUID FOOD COMPOSITION
+PATENT     : WO2026238743A1  [WO]  PENDING
+ASSIGNEE   : OATLY AB [SE]; OATLY AB
+INVENTORS  : OSSVALL NELLIE [SE]; ARBAB OLIVIA [SE]; ANDERSSON HANNA [SE] et al.
+FILED      : 2026-05-12   PUB: 2026-11-19
+IPC        : A23C, A23L, A23P
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026238743A1
+ABSTRACT   : The invention relates to a non-dairy foamable liquid food composition comprising vegetable fat in an amount of from 2 to 12% by weight of the composition, wherein said the vegetable fat comprises coconut oil; a stabiliser and/or emulsifier mixture; an oat-derived material comprising dry matter in an amount of from 0.2% to 2% by weight of the composition, and water. The invention further relates to the non-dairy foamable liquid food composition for use in a cold drink; a method of producing a col
+
+---
+
+TITLE      : READY-TO-DRINK DATE-BASED BEVERAGE OPTIMIZED FOR HEALTH BENEFITS
+PATENT     : WO2026239256A1  [WO]  PENDING
+ASSIGNEE   : KUTTY MOHAMMED [IN]; MOHAMMED KUTTY ZUBAIDA [IN]; KUTTY, Mohammed et al.
+INVENTORS  : MOHAMED AMIR [IN]; MOHAMED, Amir
+FILED      : 2026-05-11   PUB: 2026-11-19
+IPC        : A23C
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026239256A1
+ABSTRACT   : A shelf-stable ready-to-drink milk-based beverage composition comprises a milk base, a date-derived syrup or date concentrate, one or more milk solids, at least one stabilizer, one or more flavouring agents, at least one acidity regulator, and water, and is characterized by defined physicochemical properties including total solids, fat content, and pH In one embodiment, the beverage exhibits a brown-golden colour, a smooth and creamy appearance, and a pleasant date flavour with creamy and thick 
+
+---
+
+TITLE      : ALCOHOLIC BEVERAGE
+PATENT     : WO2026239873A1  [WO]  PENDING
+ASSIGNEE   : KIRIN BEER KK [JP]; 麒麟麦酒株式会社
+INVENTORS  : MIYAZAKI MASAHIRO [JP]; 宮崎　雅大
+FILED      : 2026-04-21   PUB: 2026-11-19
+IPC        : C12G
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026239873A1
+ABSTRACT   : The present invention addresses the problem of providing a technique for imparting a robust flavor and a rich taste to an alcoholic beverage having a mid-range alcohol level or lower. More specifically, provided is an alcoholic beverage containing a sweetening agent, alcohol, and β-caryophyllene, wherein the alcohol content is 1-7% (v/v), and the β-caryophyllene content is 0.05 ppm (w/v).
+
+---
+
+TITLE      : ALCOHOLIC BEVERAGE WITH IMPROVED FLAVOR
+PATENT     : WO2026239754A1  [WO]  PENDING
+ASSIGNEE   : KIRIN BEER KK [JP]; 麒麟麦酒株式会社
+INVENTORS  : MIYAZAKI MASAHIRO [JP]; 宮崎　雅大
+FILED      : 2026-03-24   PUB: 2026-11-19
+IPC        : C12G
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026239754A1
+ABSTRACT   : The present invention addresses the problem of providing an alcoholic beverage in which off-flavor derived from a natural pigment is reduced.　More specifically, an alcoholic beverage according to the present invention contains a natural pigment and citric acid, wherein the acid concentration in terms of citric acid is more than 0.21% (w/v) and 1.0% (w/v) or less. The beverage may have an alcohol content of 1-9% (v/v). The natural pigment may be derived from a plant.
+
+---
+
+TITLE      : THERMALLY COUPLED BEVERAGE COOLING DEVICE AND SYSTEM
+PATENT     : WO2026241016A1  [WO]  PENDING
+ASSIGNEE   : LINFORD BRAD [US]; ANDERSEN RYAN [US]; LINFORD, Brad et al.
+INVENTORS  : LINFORD BRAD [US]; ANDERSEN RYAN [US]; LINFORD, Brad et al.
+FILED      : 2026-05-01   PUB: 2026-11-19
+IPC        : F25D, F28F
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026241016A1
+ABSTRACT   : A device is disclosed herein. The device includes a compression plate configured to engage at least a portion of an exterior wall of a sealed beverage container, a thermal reservoir in thermal communication with the compression plate, and a compression mechanism configured to urge the compression plate toward the sealed beverage container. The compression plate and the thermal reservoir are configured to define a conductive heat-transfer path from the sealed beverage container to the thermal res
+
+---
+
+TITLE      : BEVERAGE CONTAINER RECYCLING DEVICE AND CONTAINER INLET PROTECTION APPARATUS THEREFOR
+PATENT     : WO2026237466A1  [WO]  PENDING
+ASSIGNEE   : TOMRA RECYCLING TECH XIAMEN CO LTD [CN]; 陶朗环保技术（厦门）有限公司
+INVENTORS  : ZHU SHANSHAN [CN]; LAN CHENLONG [CN]; ZHU YONGYANG [CN] et al.
+FILED      : 2026-02-13   PUB: 2026-11-19
+IPC        : B65F
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026237466A1
+ABSTRACT   : A beverage container recycling device and a container inlet protection apparatus therefor. The beverage container recycling device comprises: a container inlet (110) formed on a recycling device body (100); a protective door (230) which is arranged on the inner side or outer side of the recycling device body (100), corresponds to the position of the container inlet (110), and is used for opening or closing the container inlet (110); a driving mechanism (210) which is arranged on a first side of 
+
+---
+
+TITLE      : SYSTEMS AND METHODS FOR AN AUTOMATED BEVERAGE DISPENSER
+PATENT     : WO2026241579A1  [WO]  PENDING
+ASSIGNEE   : YUM CONNECT LLC [US]; YUM CONNECT, LLC
+INVENTORS  : SZATROWSKI KARL [US]; HANCE JAMES TIMOTHY [US]; MALLIGERE GIRISH [US] et al.
+FILED      : 2026-05-14   PUB: 2026-11-19
+IPC        : B67D
+SCORE      : 88
+LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026241579A1
+ABSTRACT   : Systems, methods, and apparatuses related to load cell assembly for an automated beverage dispensing system are described herein. The load cell assembly includes a load cell coupled with a wall of a turntable at a fixed end. The load cell has a live end opposite the fixed end. The live end of the load cell is configured to receive a force. The load cell assembly includes an arm coupled with and the live end of the load cell. The load cell assembly includes a bump plate positioned to receive a we
 
 ---
 
@@ -5780,66 +5876,6 @@ ABSTRACT   : Si nous ne souvenons pas de la date du déballage de notre brosse �
 
 ---
 
-TITLE      : WATER BOTTLE
-PATENT     : WO2026148930A1  [WO]  PENDING
-ASSIGNEE   : SGUAI SHENZHEN INTELLIGENT TECH CO LTD [CN]; 小水怪（深圳）智能科技有限公司
-INVENTORS  : ZHENG LIUKE [CN]; ZHANG JIE [CN]; 郑柳科 et al.
-FILED      : 2025-09-29   PUB: 2026-07-16
-IPC        : A47G
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026148930A1
-ABSTRACT   : Disclosed in the present invention is a water bottle. The water bottle comprises: a bottle body, which comprises a bottle opening and defines an accommodating cavity therein; a bottle lid, which covers the bottle opening; a suction mouthpiece, which is disposed at the bottle lid, and is in communication with the accommodating cavity; a flow measurement apparatus, which is used for measuring flow data of liquid flowing out of the accommodating cavity and/or liquid level data of liquid inside the 
-
----
-
-TITLE      : ADAPTER RING AND BOTTLE CAP DRIP TRAY SYSTEM
-PATENT     : WO2026152121A1  [WO]  PENDING
-ASSIGNEE   : PURDY SARAH J [US]; PURDY, Sarah, J.
-INVENTORS  : PURDY SARAH [US]; SAUER STEVEN [US]; PURDY, Sarah et al.
-FILED      : 2026-01-13   PUB: 2026-07-16
-IPC        : B65D
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026152121A1
-ABSTRACT   : An adapter ring and bottle cap drip tray system is disclosed herein. The adapter ring may include a cylindrical body portion; a first plurality of threads being disposed on an exterior surface of the cylindrical body portion; and a second plurality of threads being disposed on an interior surface of the cylindrical body portion. The adapter ring is configured to enable a bottle cap drip tray device or a bottle cap to be coupled to one or more bottles of different sizes and/or to one or more bott
-
----
-
-TITLE      : Biodegradable Algae-Plastic Flower Pot
-PATENT     : US20260198429A1  [US]  PENDING
-ASSIGNEE   : LUO QINGYANG [US]; Luo Qingyang
-INVENTORS  : LUO QINGYANG [US]; Luo, Qingyang
-FILED      : 2025-01-14   PUB: 2026-07-16
-IPC        : A01G, C08L
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=US20260198429A1
-ABSTRACT   : [0000]    The algae-plastic flower pot is an innovative, eco-friendly product designed to decompose into fertilizer when buried in soil. Made from biodegradable polymers derived from microalgae, specifically Polyhydroxyalkanoates (PHA) and Poly (3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV), this pot utilizes sustainable process where microalgae convert sugar into polymers with the aid of microbial enzymes. PHBV, a variant of PHA, exhibits properties akin to conventional plastics, ensuring dura
-
----
-
-TITLE      : MODIFIED LEAF-BRANCH COMPOST CUTINASE POLYPEPTIDES
-PATENT     : WO2026151378A1  [WO]  PENDING
-ASSIGNEE   : AGENCY FOR SCIENCE TECH AND RESEARCH [SG]; AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
-INVENTORS  : KOH LIAN CHYE WINSTON [SG]; KOO YING SIN [SG]; WONG MUN FEI EDDY [SG] et al.
-FILED      : 2026-01-07   PUB: 2026-07-16
-IPC        : B09B, C08J, C12N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026151378A1
-ABSTRACT   : The present invention provides a modified leaf-branch compost cutinase (LCC) polypeptide comprising an amino acid sequence having at least 90% sequence identity with SEQ ID NO: 1, wherein the polypeptide comprises at least ten amino acid substitutions A17E, F21W, S22A, T50N, A68S, S101Q, R108I, S193G, N211M, and F208I corresponding to positions relative to SEQ ID NO: 1 The present invention also provides use of said modified LCC polypeptide in the degradation of source materials comprising polye
-
----
-
-TITLE      : SUSTAINABLE BIOREMEDIATION OF FOOD WASTE
-PATENT     : WO2026150250A1  [WO]  PENDING
-ASSIGNEE   : G3 RENEWABLES PVT LTD [IN]; G3 RENEWABLES PVT LTD
-INVENTORS  : SADASIVAN NALINI AJEEVE [IN]; SADASIVAN NALINI, Ajeeve
-FILED      : 2025-07-10   PUB: 2026-07-16
-IPC        : B09B
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026150250A1
-ABSTRACT   : A method 200 for bioremediation of bio-food waste 102 include steps for segregating and collecting bio-food waste 102 from sources into at least one utility vehicle 104; spraying a bio-chemical solution over collected bio-food waste 102 for eliminating microbial, fungal growth and removing foul smell; offloading bio-food waste 102 into a closed receiver at a processing facility; transferring bio-food waste 102 on to a vibrating conveyor 106 to remove unwanted metallic, non-bio, and inorganic com
-
----
-
 ============================================================
 DOMAIN: Procesos Avanzados Cervecería
 ============================================================
@@ -5865,18 +5901,6 @@ IPC        : G01R, H01M
 SCORE      : 88
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026090098A2
 ABSTRACT   : Methods of assessing an energy storage device include providing material for a metal-chalcogen battery, washing the metal anode in a first organic solvent to form a polychalcogenide free metal anode upon which gas chromatography is performed on the polychalcogenide free metal anode to quantify the amount of M0, soaking the chalcogen cathode and the remainder of the metal- chalcogen battery in the organic solvent used to wash the metal anode to form a first solution comprising methylated polychal
-
----
-
-TITLE      : METHOD AND INJECTION MOULD FOR PRODUCING A TWO-LAYER OR MULTI-LAYER PREFORM
-PATENT     : WO2026162648A1  [WO]  PENDING
-ASSIGNEE   : ALPLA WERKE ALWIN LEHNER GMBH & CO KG [AT]; ALPLA WERKE ALWIN LEHNER GMBH & CO. KG
-INVENTORS  : HAAS BENJAMIN [AT]; SIEGL ROBERT [AT]; HAAS, Benjamin et al.
-FILED      : 2026-01-29   PUB: 2026-08-06
-IPC        : B29B, B29C
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162648A1
-ABSTRACT   : The invention relates to a method and an injection mould for producing a two-layer or multi-layer preform (20) for producing a container. The preform has a preform base, a preform body and a preform neck. The method comprises the steps of: - providing a semi-finished product (50) in an injection mould, wherein the semi-finished product (50) consists of at least 90%, preferably at least 95%, in particular at least 98%, PEF or PEF copolymers, - overmoulding said semi-finished product (50) in a sec
 
 ---
 
@@ -6001,29 +6025,5 @@ IPC        : B29B, B29C, C04B
 SCORE      : 76
 LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026169641A1
 ABSTRACT   : Systems and methods for upcycling plastic materials are disclosed. The methods comprise combining a plastic feedstock with one or more solid constituents and heating the mixture to soften, partially melt, or fully melt at least a portion of the plastic feedstock such that the plastic feedstock acts as a binder for the solid constituents. The resulting material is formed into structural or non-structural components by molding, pressing, injection, extrusion, in-situ placement, or combinations the
-
----
-
-TITLE      : PET CARRIER
-PATENT     : WO2026162453A1  [WO]  PENDING
-ASSIGNEE   : INVENTX LTD [IE]; INVENTX LIMITED
-INVENTORS  : BOWE CHRISTOPHER [IE]; BOWE, Christopher
-FILED      : 2026-01-26   PUB: 2026-08-06
-IPC        : A01K
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026162453A1
-ABSTRACT   : A pet carrier (30) comprises a substantially cuboid casing having a top (34), a bottom (35), a front side (36), a rear side (37), a left side (38) and a right side (39). The pet carrier has an access point in a side or the top, with a closure operable to releasably close the access point. The bottom is provided with a bottom access point (42) dimensioned to permit a pet to pass therethrough. The pet carrier further comprises a rotatable compartment (41) within the substantially cuboid casing, th
-
----
-
-TITLE      : SYSTEM AND METHOD FOR AI-DRIVEN PET MANAGEMENT AND ENGAGEMENT
-PATENT     : WO2026163242A1  [WO]  PENDING
-ASSIGNEE   : TOTUS ANIMALIBUS MANAGEMENT TECH PRIVATE LIMITED [IN]; TOTUS ANIMALIBUS MANAGEMENT TECHNOLOGIES PRIVATE LIMITED
-INVENTORS  : HARKAULI DEVAARCHIT [IN]; EGUVANTI SHILPA [IN]; VAISHNAV SHASHWAT [IN] et al.
-FILED      : 2026-01-29   PUB: 2026-08-06
-IPC        : A01K, G06N
-SCORE      : 76
-LINK       : https://worldwide.espacenet.com/patent/search?q=WO2026163242A1
-ABSTRACT   : The present invention transforms pet management by integrating AI-driven recommendations, geofencing for services, and an automated marketplace. By leveraging data analytics, personalized insights, and gamification, it enhances pet care efficiency and user engagement.
 
 ---
